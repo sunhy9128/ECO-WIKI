@@ -24,6 +24,15 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-05] ingest | raw/ 素材蒸馏与注册
+
+- Summary: 处理源知识库 `raw/` 全部 **58 个文件**。核对结论：raw/ 文本素材几乎已全部被源 wiki 蒸馏至现有 source 页（文件名 1:1 匹配 12 篇；军工航空拆解已蒸馏至 `concepts/军工航空产业`；44 张图片为其冗余截图）。唯一真实缺口为《香港金融保卫战：罗斯狙击英国泰国，决战香港》（B站巫师财经字幕，2019-11-25）。
+- Distilled: **1 个新 source 页** `sources/2019-11-25-香港金融保卫战-巫师财经`（地址 c-001100）— 索罗斯 1992/1997/1998 三场战役机制，补充利率期货多头埋伏、"任一招"被利用、8月28日每5分钟均价结算机制、索罗斯战损核实（<20亿美元）、朱镕基承诺核实、港府为何只拉到7851点。
+- Registered: raw/ 全部 58 文件写入 `.manifest.json`（sha256 + pages_produced 映射），manifest 总计 1109 个源。新页已入 `index.md` Sources；`concepts/1998香港金融保卫战` 相关条目补反向链接。
+- Address counter: 1100 → 1101
+
+---
+
 ## [2026-08-05] setup | 全库迁移至 金融WIKI 新 vault
 
 - Summary: 将源知识库 `obsidian-sync` repo 的 `wiki/` 全部 **1051 个页面**迁移至新 vault `/Users/mac/Documents/金融WIKI`，保留完整子目录结构与全部 wikilink。迁移构成：concepts 560 / entities 398 / sources 41 / meta 16 / domains 9 / questions 8 / comparisons 7 / analysis 3 / references 2 / strategies 1 / folds 1。同步复制 `assets/`（384K）与 `.vault-meta/`（地址计数器=1100，新页地址从 c-001100 起延续）。`.manifest.json` 已记录全部 1051 个源文件 sha256（cache-check 确认 unchanged，后续 append 摄入自动跳过）。index/log/hot 采用源版本。待办：raw/ 素材蒸馏。

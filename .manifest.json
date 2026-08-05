@@ -9459,10 +9459,533 @@
       ],
       "source_type": "document",
       "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/articles/香港金融保卫战：罗斯狙击英国泰国，决战香港.md": {
+      "content_hash": "sha256:0606b8ccfd559dfb024f604cb89b27cc18e7893250b9e8a458947502316ac6df",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/2019-11-25-香港金融保卫战-巫师财经.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/2026-06-25-逼疯.md": {
+      "content_hash": "sha256:a8c8b0ad33e54b233dbdfe29b06483307a8b252f3ea1b06488aec48da9f36fb5",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/2026-06-25-逼疯.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/2026-05-22-没人关心普京访华.md": {
+      "content_hash": "sha256:cd9383ab7489d87f724245aab0aeff41f8e739d4eef9e1e6426ded219c49f710",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/2026-05-22-没人关心普京访华.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/2026-04-15-2026年1-3月中国外贸数据.md": {
+      "content_hash": "sha256:3f65fcb144965fea0ad4ea12ba92e52bbda41b456309e28062d3908376e33c04",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/2026-04-15-2026年1-3月中国外贸数据.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/崩溃的信徒.md": {
+      "content_hash": "sha256:94eb6afd32966d2728faaa85557ce7e6aaa5692cd04558e2a641b8fba0173c0a",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/崩溃的信徒.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/2026-06-24-4000亿回购竟然是真的.md": {
+      "content_hash": "sha256:1c4f92ccfc122c2950f5b63f8944bb5add20948fa97a0f44dfa6a24d6504cb3d",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/2026-06-24-4000亿回购竟然是真的.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/跌太惨，朋友都没了.md": {
+      "content_hash": "sha256:db81352b1b1e3db64575a66b690ffcb175e667e42a40158b7d2d80aaf91ee42d",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/跌太惨，朋友都没了.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/触目惊心，都是血包.md": {
+      "content_hash": "sha256:9b0530fd5e791dd6d993f00664651d851b2c8c98299245f2f9d0b5d9f7fcecf5",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/触目惊心，都是血包.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/2026-03-24-中东局势对全球金融市场的影响.md": {
+      "content_hash": "sha256:f90c9083fd7432f1753845baecb56cfab92088b90888a196355339b02c78a0fa",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/2026-03-24-中东局势对全球金融市场的影响.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/2026-06-15-美伊MoU签署与全球狂欢.md": {
+      "content_hash": "sha256:7707ff466676f10c1fdab240af12cefc15c58d64e331e9d0c577d2fb4f72d520",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/2026-06-15-美伊MoU签署与全球狂欢.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/2026-06-24-韩国需要冷静冷静.md": {
+      "content_hash": "sha256:64b6a6d81cd4030f683e1b7f509c497f4f6d67c2cf21819313ec8ccb192d5cf2",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/2026-06-24-韩国需要冷静冷静.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/【巫师】军工航空产业拆解，81192，如你所愿.md": {
+      "content_hash": "sha256:3cd865738a38dafd46bbbd1b79472c2ff8f830f6f1420c6d253668e5cc421b98",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_026.jpeg": {
+      "content_hash": "sha256:ae9cfdfec3f75957c726b2ca92d5b3e87505337de9752e24b8151416048f227d",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_030.jpeg": {
+      "content_hash": "sha256:9fc67f585c52bf33d536872e262c877c41f7a1c8bc484910581eab0679aba2a1",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_010.jpeg": {
+      "content_hash": "sha256:93ac64d77d8f90fc18aabd6571a45d509e21f8929071f5b17ac6468602e1291a",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_006.jpeg": {
+      "content_hash": "sha256:93ac64d77d8f90fc18aabd6571a45d509e21f8929071f5b17ac6468602e1291a",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_007.jpeg": {
+      "content_hash": "sha256:65ef73fc2538b5d3fd205b996a6dfa334bad47d0f7e8c97f471b24235f371481",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_011.jpeg": {
+      "content_hash": "sha256:bc6460001e4fe1c975c087b8b412148c4db186e82f4c136a66ab109ddd8f3f82",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_031.jpeg": {
+      "content_hash": "sha256:063de39ca4c6e16a964eeb884b2fb9794e6dd5c8353f5e161e58cea731fe5f6c",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_027.jpeg": {
+      "content_hash": "sha256:68483f678761ad7598766a8d75a3daf019325ee4483694c26f6584dbf46fa795",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_041.jpeg": {
+      "content_hash": "sha256:ac80c0e1aa6d9bcebbebf9d9837eae36f2a5bd585f2fce0d2086c5761f32d802",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_016.jpeg": {
+      "content_hash": "sha256:61acfe219c387cf0240828637b7a5c1667a63fb94e9de1b5a516cb9289e53bc6",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_020.jpeg": {
+      "content_hash": "sha256:618eba7a16a174f81a284d6b1cdf443e796a466329311e96f0cdf31b438c62c4",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_036.jpeg": {
+      "content_hash": "sha256:9c0654364670ef265d1cc2662c32204f5e222de1ef94d4638bf82b221d7bff9f",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_044.gif": {
+      "content_hash": "sha256:b08137bea16ff25dd1e36ed11f529769e97f5e17450bcb3c3dda8f62c17568cc",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_037.jpeg": {
+      "content_hash": "sha256:e621bcd2c16c4fce17fe45e227a4f18bb5dd9dd88a426779ac318d4991f1a5fe",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_021.jpeg": {
+      "content_hash": "sha256:2bd0a6d8632b07d6460a89c1e0a06bc3ea8cbfe6d84fbf6e9ffa979b198babf1",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_001.jpeg": {
+      "content_hash": "sha256:9b0bae4bddb5dbbeefeba3a383eb3f71178fb98462c518dd2d19b91a28a5cd5f",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_017.jpeg": {
+      "content_hash": "sha256:128d0472727451b3470b08fa5cc14a38315d2377c2b462df230e0ddf8ff4dd25",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_040.jpeg": {
+      "content_hash": "sha256:f826bf14dc19c3f5392818fa26c2540e5319c965b39c4f8d0f566d86edc6b22d",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_002.jpeg": {
+      "content_hash": "sha256:93ac64d77d8f90fc18aabd6571a45d509e21f8929071f5b17ac6468602e1291a",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_014.jpeg": {
+      "content_hash": "sha256:b7ba8e5e97f528af259f6da8f2d27aae9a4e70baf081b6d99abe533a13cd85a8",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_043.jpeg": {
+      "content_hash": "sha256:012a2f9786415269f135eadbeb24cbe5cda26b39165dd20edbea3d3b86ac6878",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_038.jpeg": {
+      "content_hash": "sha256:1d1eb25296213b5643c23f4d319d40068cb5bfb147c7ada5bacc9df9fd3b7c8a",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_018.jpeg": {
+      "content_hash": "sha256:720091aa14ebaef68950684ad91f2f00d5454e7795be1a7a96edb4765f6095da",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_034.jpeg": {
+      "content_hash": "sha256:48593656aa5b0fa81a40ca2ca873370dfc12c833fe974f9887319a8e61e92b6b",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_022.jpeg": {
+      "content_hash": "sha256:b54bd1c18b3b41acf664e1b5cd2275ccfe383416261089d9d73b528fb20997bc",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_023.jpeg": {
+      "content_hash": "sha256:e912340a5d5ce6e855e6ec1b56733866257c99f55108171ccb1104da995f6033",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_033.png": {
+      "content_hash": "sha256:bbf2ad20c3baa8326cdc47a155dbbbf7e0952f66b7296c999f03067ee186efda",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_035.jpeg": {
+      "content_hash": "sha256:94131c7dabac96c813000ea044ae99631c20cf6103df9016e308fc380a6b791c",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_019.jpeg": {
+      "content_hash": "sha256:862f135fdb2efc14119b9c3c4d8deee09811a0f9ea91ae72b2f7ed965ec7c963",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_039.jpeg": {
+      "content_hash": "sha256:4e6df344cf44b3b281a10dc9e9b535b22a78815f14f817af503c787bdc98fdd2",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_042.jpeg": {
+      "content_hash": "sha256:1fb60323467bed595e6f9b73d83790f8fd869afbb0679d28e4f32c65a85a1a8f",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_015.jpeg": {
+      "content_hash": "sha256:7c96d1fe2d9c110bd459d55e87832d76717d8c53fb3e00d00b5192525a121938",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_003.jpeg": {
+      "content_hash": "sha256:93ac64d77d8f90fc18aabd6571a45d509e21f8929071f5b17ac6468602e1291a",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_008.jpeg": {
+      "content_hash": "sha256:93ac64d77d8f90fc18aabd6571a45d509e21f8929071f5b17ac6468602e1291a",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_032.jpeg": {
+      "content_hash": "sha256:bbc03e8718b5d1b44708c1c50eceedb24343a7e606851ae65bb9330f76865b10",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_024.jpeg": {
+      "content_hash": "sha256:34113f761f94ca5302236346f73cb3f011741d92af1d35c8777af318e3d6e377",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_004.jpeg": {
+      "content_hash": "sha256:1d8df83f5de52c8742b26ac74df1061dd3ee10a20430b005997f7ec1cc01f9dd",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_012.jpeg": {
+      "content_hash": "sha256:70972bc2415a6921a61c9184e4c33f695ada96059242e1bc661c19bc77e5258f",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_028.jpeg": {
+      "content_hash": "sha256:4be300bf51dccb87b85eae33b0824d90a632416bd8c6036cf2e175cb74814410",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_029.jpeg": {
+      "content_hash": "sha256:33dcfefb187896d4cdcebaed11a45d305d497cc78ae97278732f666d5aa43ebd",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_013.jpeg": {
+      "content_hash": "sha256:72905be7480b154fb0cd1193a6fbe6aec32514eee61bff15e7cf0ddf18fb95b4",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_005.jpeg": {
+      "content_hash": "sha256:ab378a239526e7af30641afd2582aeac5ca29c9e6dd11cb5798a2d374735e6e6",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_025.jpeg": {
+      "content_hash": "sha256:b4338dd2c4b4b46fa2be4364ce39d034187a5871a2582337c5a2e20859d81030",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_009.jpeg": {
+      "content_hash": "sha256:93ac64d77d8f90fc18aabd6571a45d509e21f8929071f5b17ac6468602e1291a",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "image",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/sources/2025-04-01-巫师-军工航空产业拆解/【巫师】军工航空产业拆解，81192，如你所愿.md": {
+      "content_hash": "sha256:989ac83d7dbfe96278e4a08f098daba621f2130a5f6150650531b9e77e8cf5f7",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "concepts/军工航空产业.md"
+      ],
+      "source_type": "document",
+      "project": null
+    },
+    "/Users/mac/Documents/金融知识库/raw/zhihu/日元保卫战：日本央行11万亿干预，为何挡不住160？.md": {
+      "content_hash": "sha256:db74226e2a152eb784c60e1071eb218f7683917c9e5d82b23dddcf3576938bfc",
+      "last_ingested": "2026-08-05T04:04:55Z",
+      "pages_produced": [
+        "sources/2026-05-13-日元保卫战-日本央行11万亿干预.md"
+      ],
+      "source_type": "document",
+      "project": null
     }
   },
   "stats": {
-    "total_sources_ingested": 1051,
-    "total_pages": 1051
+    "total_sources_ingested": 1109,
+    "total_pages": 1052,
+    "last_update": "2026-08-05T04:04:55Z"
   }
 }
