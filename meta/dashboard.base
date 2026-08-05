@@ -1,78 +1,63 @@
 filters:
-  and:
-    - file.inFolder("wiki")
-    - file.ext == "md"
+  or:
+    - file.inFolder("concepts")
+    - file.inFolder("entities")
+    - file.inFolder("sources")
+    - file.inFolder("questions")
+    - file.inFolder("comparisons")
+    - file.inFolder("domains")
+    - file.inFolder("analysis")
+    - file.inFolder("synthesis")
+    - file.inFolder("projects")
+    - file.inFolder("skills")
+    - file.inFolder("strategies")
+    - file.inFolder("references")
+    - file.inFolder("journal")
 formulas:
-  age_days: (now() - file.mtime).days
+  days_since_edit: (now() - file.mtime).days
 properties:
-  type:
+  file.name:
+    displayName: Page
+  note.type:
     displayName: Type
-  status:
+  note.status:
     displayName: Status
-  updated:
+  note.tags:
+    displayName: Tags
+  note.updated:
     displayName: Updated
-  formula.age_days:
+  formula.days_since_edit:
     displayName: Days Since Edit
 views:
   - type: table
-    name: Recent Activity
+    name: 全部内容 · 按类型
     groupBy:
       property: type
       direction: ASC
     order:
       - file.name
+      - status
+      - updated
+      - formula.days_since_edit
+    sort:
+      - property: formula.days_since_edit
+        direction: ASC
+  - type: table
+    name: 全部内容 · 按状态
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - updated
+      - formula.days_since_edit
+  - type: table
+    name: 近期更新 Top 50
+    order:
+      - file.name
       - type
       - status
       - updated
-      - formula.age_days
-    limit: 15
-  - type: list
-    name: Seed Pages (Need Development)
-    filters:
-      and:
-        - status == "seed"
-    order:
-      - file.name
-      - updated
-  - type: list
-    name: Entities Missing Sources
-    filters:
-      and:
-        - file.inFolder("wiki/entities")
-        - or:
-            - "!sources"
-            - sources.length == 0
-    order:
-      - file.name
-  - type: list
-    name: Open Questions
-    filters:
-      and:
-        - file.inFolder("wiki/questions")
-        - or:
-            - status == "developing"
-            - status == "seed"
-    order:
-      - file.name
-      - updated
-  - type: table
-    name: Comparisons
-    filters:
-      and:
-        - file.inFolder("wiki/comparisons")
-    order:
-      - file.name
-      - verdict
-      - updated
-  - type: table
-    name: Sources
-    filters:
-      and:
-        - file.inFolder("wiki/sources")
-        - type == "source"
-    order:
-      - file.name
-      - author
-      - date_published
-      - updated
-    limit: 10
+      - formula.days_since_edit
+    limit: 50

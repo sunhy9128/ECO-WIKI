@@ -11,6 +11,7 @@ related:
   - "[[overview]]"
   - "[[log]]"
   - "[[_index]]"
+  - "[[dashboard.base]]"
   - "[[Compounding Knowledge]]"
 ---
 
@@ -18,78 +19,85 @@ related:
 
 Navigation: [[index]] | [[overview]] | [[log]] | [[hot]]
 
-The dashboard uses **Obsidian Bases**. A core Obsidian feature shipped in v1.9.10 (August 2025). No plugin install required.
-
-> [!tip] Embedded Bases view
-> The interactive dashboard lives in [[dashboard.base]]. Open that file directly, or use the embed below.
-
-![[dashboard.base]]
+Dashboard 基于 **Dataview**（2026-08-05 安装启用）。如需 GUI 可编辑的原生 Bases 视图，可打开 [[dashboard.base]]。
 
 ---
 
-## Legacy Dataview Dashboard (Optional)
-
-If you are on Obsidian < 1.9.10 or prefer Dataview, the queries below still work. Just install the Dataview community plugin.
-
-### Recent Activity
+## 全部内容 · 按类型
 
 ```dataview
-TABLE type, status, updated FROM "wiki" SORT updated DESC LIMIT 15
+TABLE WITHOUT ID
+  rows.file.link AS "Page",
+  rows.status AS "Status",
+  rows.updated AS "Updated"
+FROM "concepts" OR "entities" OR "sources" OR "questions" OR "comparisons" OR "domains" OR "analysis" OR "synthesis"
+WHERE type != "meta"
+GROUP BY type AS "Type"
+SORT type ASC
 ```
 
-### Seed Pages (Need Development)
+## 全部内容 · 按状态
 
 ```dataview
-LIST FROM "wiki" WHERE status = "seed" SORT updated ASC
+TABLE WITHOUT ID
+  rows.file.link AS "Page",
+  rows.type AS "Type",
+  rows.updated AS "Updated"
+FROM "concepts" OR "entities" OR "sources" OR "questions" OR "comparisons" OR "domains" OR "analysis" OR "synthesis"
+WHERE type != "meta"
+GROUP BY status AS "Status"
+SORT status ASC
 ```
 
-### Entities Missing Sources
+## 近期更新 Top 30
 
 ```dataview
-LIST FROM "wiki/entities" WHERE !sources OR length(sources) = 0
+TABLE WITHOUT ID
+  file.link AS "Page",
+  type AS "Type",
+  status AS "Status",
+  file.mtime AS "Modified"
+FROM "concepts" OR "entities" OR "sources" OR "questions" OR "comparisons" OR "domains" OR "analysis" OR "synthesis"
+WHERE type != "meta"
+SORT file.mtime DESC
+LIMIT 30
 ```
 
-### Open Questions
+## 陈旧页面（30+ 天未更新）
 
 ```dataview
-LIST FROM "wiki/questions" WHERE status = "developing" OR status = "seed" SORT updated DESC
+TABLE WITHOUT ID
+  file.link AS "Page",
+  type AS "Type",
+  file.mtime AS "Last Modified",
+  (date(today) - file.mtime).days + " 天" AS "Age"
+FROM "concepts" OR "entities" OR "sources" OR "questions"
+WHERE type != "meta" AND (date(today) - file.mtime).days > 30
+SORT (date(today) - file.mtime).days DESC
+LIMIT 30
 ```
 
-### Comparisons
+## Stub 待完善
 
 ```dataview
-TABLE verdict FROM "wiki/comparisons" SORT updated DESC
+TABLE WITHOUT ID
+  file.link AS "Page",
+  updated AS "Updated"
+FROM "concepts" OR "entities"
+WHERE status = "stub"
+SORT updated ASC
+LIMIT 30
 ```
 
-### Sources
+## 实体缺来源
 
 ```dataview
-TABLE author, date_published, updated FROM "wiki/sources" WHERE type = "source" SORT updated DESC LIMIT 10
+TABLE WITHOUT ID
+  file.link AS "Entity",
+  status AS "Status",
+  updated AS "Updated"
+FROM "entities"
+WHERE !sources OR length(sources) = 0
+SORT updated ASC
+LIMIT 30
 ```
-
-### Pages Missing Status（2026-08-05 Lint: 0 pages ✅）
-
-```dataview
-LIST FROM "wiki" WHERE !status AND type != "meta" LIMIT 50
-```
-
-### Orphan Pages（2026-08-05 Lint: 24 内容页，详见 [[lint-report-2026-08-05]]）
-
-```dataview
-LIST FROM "wiki" WHERE length(filter(file.inlinks, (l) => true)) = 0 AND type != "meta" SORT updated DESC
-```
-
-### Pages Missing Tags（2026-08-05 Lint: 605 核心内容页 🟡 MEDIUM）
-
-```dataview
-LIST FROM "wiki" WHERE (!tags OR length(tags) = 0) AND type != "meta" AND type != "fold" SORT updated DESC LIMIT 50
-```
-
-### YAML-Error Pages（2026-07-30 Lint: 0 ✅）
-
-```dataview
-LIST FROM "wiki" WHERE string(file.ctime) = "" OR file.mtime = null
-```
-
-> [!note] Lint 状态（2026-08-05）
-> 地址体系干净（1013 地址零冲突，peek 1093）｜ 孤儿 24 内容页（含 10 测试残留/演示页）｜ 真断链 14 目标/21 处（另 8 处 raw/ 镜像误报）｜ 605 核心页缺 tags + 13 新页缺 created/updated 待补。详见 [[lint-report-2026-08-05]]。

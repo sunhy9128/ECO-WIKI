@@ -1,4 +1,8 @@
 {
-  "baseFontSize": 16,
-  "cssTheme": "Velocity"
+  "baseFontSize": 15,
+  "cssTheme": "Velocity",
+  "interfaceFontFamily": "苹方-简,LXGW WenKai Mono,HarmonyOS Sans SC",
+  "textFontFamily": "苹方-简",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "translucency": true
 }

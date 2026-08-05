@@ -145,7 +145,7 @@ recency_weight(p) = exp(-days_since_updated / 30) # no floor; old pages approach
 boundary_score(p) = (out_degree - in_degree) * recency_weight
 ```
 
-**Link resolution**: filename-stem only. `[[Foo]]` resolves to `Foo.md` anywhere in the vault. Aliases declared via frontmatter `aliases:` are NOT parsed. Folder-qualified links (e.g. ` `) are resolved by stem alone. This matches Obsidian's default behavior for unique filenames but does not implement full alias resolution.
+**Link resolution**: filename-stem only. `Foo` resolves to `Foo.md` anywhere in the vault. Aliases declared via frontmatter `aliases:` are NOT parsed. Folder-qualified links (e.g. ` `) are resolved by stem alone. This matches Obsidian's default behavior for unique filenames but does not implement full alias resolution.
 
 **Scoreable** = any page NOT excluded by any of:
 - frontmatter `type: meta` or `type: fold`

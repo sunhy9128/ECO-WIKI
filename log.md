@@ -24,6 +24,18 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-05] stub-completion | 分批补全全部真实知识 stub
+
+- Summary: 全库 stub 清理与补全。删除断链修复占位页（含 `.canvas` 占位 3 处），合并同名/重复变体并修复引用；随后分 4 批并行补全 **190 个真实知识 stub**（国际宏观 14、衍生品 14、政策产业 14、机构人物 14、欧洲转型 14、地缘贸易 14、技术投资 14、金融机构 13、宏观制度 13、微观产业 13、source 页若干），统一升级至 `status: current`，行数达标（100–185 行）。
+- 验证结果：知识页断链 0（余下 `meta/` 历史报告与 `log.md` 历史条目 24 处按规则不改）；剩余 stub 仅 3 个 canvas 占位（非知识页）；孤儿页 5 个中 3 个 MOC `_index` + 1 个历史 fold 均为系统结构页；`concepts/E-commerce SEO.md`（主题不符的无关页，c-000053）已删除。
+- Address 覆盖：c-0003xx ~ c-0009xx 段补全；`entities/央行.md`（c-000626）、`entities/托普利亚.md`（c-000657）等实体页重建至 100+ 行。
+
+
+
+- Summary: 清除全库 3 个空目录：`sessions/`、`synthesis/sessions/`、`topics/`。均未被 git 跟踪、无配置/脚本/文档引用（grep 命中仅为 prose），为迁移遗留空壳。复查后全库无空目录残留。
+
+---
+
 ## [2026-08-05] LINT_FIX | 全库 lint 修复落地（断链/重复页/孤儿）
 
 - Summary: 对上次审计的三大类真实问题完成修复。**断链**（49→1）：修复知识页真实断链 5 处（沃尔克规则 [[2023年SVB危机]]、德国马克 [[LudwigErhard]]、凯恩斯主义 有效需求 转纯文本、共建"一带一路"→[[共建一带一路]] ×4）；删除 entities 金融稳定/银行监管/风险加权资产 中引用已删历史 lint 报告（2026-05-21/06-24）的维护注释 6 行；_index 三导航页 Entities/Sources/Concepts 占位改显式路径链接；sources 9 页 frontmatter/正文 raw/wechat 断链 18 处转纯路径文本；meta/backlink-empire related 删 Claude Canvas。排除假阳性 2（反引号内的 Wiki链接/raw/zhihu 引用，非真实链接）。唯一保留：log.md 的 `[[美元收割全球的机制什么]]` 历史 stub 删除记录（append-only 不改）。
@@ -471,3 +483,21 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Plugin: claude-obsidian v1.1.0
 - Structure: seed files + first ingest complete
 - Skills: wiki, wiki-ingest, wiki-query, wiki-lint, save, autoresearch
+
+## [2026-08-05] WIKI_DASHBOARD | Content overview dashboard rewritten
+
+- [2026-08-05T06:52:26Z] WIKI_DASHBOARD name="dashboard" tool=bases view=table+groupBy filter="all content pages (concepts/entities/sources/questions/comparisons/domains/analysis) by type and status, with days-since-edit formula"
+- Fixed: previous dashboard.base referenced nonexistent "wiki/" folders (empty view); rewrote with flat vault structure
+
+## [2026-08-05] WIKI_DASHBOARD | Dataview dashboard
+
+- [2026-08-05T07:07:22Z] WIKI_DASHBOARD name="dashboard" tool=dataview view=table+groupBy filter="content overview: by type / by status / recent 30 / stale 30d+ / stubs / entities missing sources"
+
+## [2026-08-05] LINT | Full health audit
+
+- [2026-08-05T15:14:45+0800] LINT scanned=1000 orphans=0 broken_links=6 stale=25 fm_gaps=615 missing_summary=963 fragmented_clusters=6 lifecycle_issues=987 synthesis_gaps=79 relationship_issues=0 visibility_issues=0
+- Orphans cleared (yesterday's 12 content orphans + 10 test/demo pages now resolved via git commit bc808dc)
+- Dead-link targets: 6 real (excl. lint-report self-refs) — `How does the LLM Wiki pattern work?`, `Claude Obsidian`, `Rankenstein`, `Karpathy LLM Wiki Pattern`, `dashboard.base`, `raw/zhihu/日元保卫战`
+- FM gaps: 599 missing tags (570 empty `tags: []`), 13 missing created/updated (real-estate cluster), 1 missing type
+- lifecycle/base_confidence: 0/1000 pages adopt the schema — vault-wide structural decision pending
+- synthesis/ dir empty despite 79 high-co-occurrence concept pairs (top: 扩表与缩表×化债 = 42 pages)

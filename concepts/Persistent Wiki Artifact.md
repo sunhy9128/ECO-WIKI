@@ -22,7 +22,7 @@ The selected question explains that an LLM Wiki compounds knowledge, but it does
 - The LLM Wiki pattern defines raw sources, the generated wiki, and a schema document as separate layers: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 - In that pattern, the raw source collection is treated as immutable, while the wiki layer is owned and maintained by the LLM: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 - The pattern frames the wiki as a compounding artifact whose cross-references, contradiction flags, and synthesis persist across later questions: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-- Obsidian supports Wikilinks such as `[[Three laws of motion]]`, which lets Markdown files form an internal network of notes: https://obsidian.md/help/links
+- Obsidian supports Wikilinks such as `Three laws of motion`, which lets Markdown files form an internal network of notes: https://obsidian.md/help/links
 - Obsidian can automatically update internal links when a file is renamed, depending on the vault setting: https://obsidian.md/help/links
 
 ## Implications for This Vault
