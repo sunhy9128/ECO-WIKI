@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-07-29T08:52:31Z",
+  "host": "iMac-Pro.lan",
+  "vault_root": "/Users/mac/Documents/金融知识库",
+  "manual_override": false,
+  "preferred": "cli",
+  "fallback_chain": ["cli", "filesystem"],
+  "available": {
+    "cli": {
+      "present": true,
+      "binary": "obsidian-cli",
+      "version_string": "obsidian-cli version v0.2.3",
+      "obsidian_app_running": true
+    },
+    "filesystem": {
+      "present": true,
+      "vault_root": "/Users/mac/Documents/金融知识库",
+      "note": "ultimate fallback; uses Claude's Read/Write/Edit tools directly"
+    },
+    "mcp_obsidian": {
+      "present": null,
+      "detection": "deferred",
+      "note": "v1.7 does not auto-detect MCP servers. Configure manually per wiki/references/mcp-setup.md and edit this file by hand if needed."
+    },
+    "mcpvault": {
+      "present": null,
+      "detection": "deferred",
+      "note": "v1.7 does not auto-detect MCP servers. Configure manually per wiki/references/mcp-setup.md and edit this file by hand if needed."
+    }
+  }
+}
