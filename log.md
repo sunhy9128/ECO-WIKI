@@ -24,6 +24,42 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-05] LINT_FIX | 全库 lint 修复落地（断链/重复页/孤儿）
+
+- Summary: 对上次审计的三大类真实问题完成修复。**断链**（49→1）：修复知识页真实断链 5 处（沃尔克规则 [[2023年SVB危机]]、德国马克 [[LudwigErhard]]、凯恩斯主义 有效需求 转纯文本、共建"一带一路"→[[共建一带一路]] ×4）；删除 entities 金融稳定/银行监管/风险加权资产 中引用已删历史 lint 报告（2026-05-21/06-24）的维护注释 6 行；_index 三导航页 Entities/Sources/Concepts 占位改显式路径链接；sources 9 页 frontmatter/正文 raw/wechat 断链 18 处转纯路径文本；meta/backlink-empire related 删 Claude Canvas。排除假阳性 2（反引号内的 Wiki链接/raw/zhihu 引用，非真实链接）。唯一保留：log.md 的 `[[美元收割全球的机制什么]]` 历史 stub 删除记录（append-only 不改）。
+- Duplicates (8→0): 删除 8 个 entities stub（量化宽松/财政货币化/巴塞尔协议/最后贷款人/美元霸权/利率市场化/中储粮/美元周期），concepts 完整版保留。巴塞尔协议 concepts 完整版文件名为 [[巴塞尔协议III]]，先在其 aliases 补 "巴塞尔协议" 确保 29 处 [[巴塞尔协议]] 引用不断链。
+- Orphans (33→8): 3 个真实知识岛已加反向链接——[[entities/石油美元体系|石油美元体系]]（←美元霸权/去美元化，显式路径消除与 sources 版同名歧义）、[[sources/冲销式干预|冲销式干预]]（←concepts/冲销式干预 Basic Information 来源字段）、[[questions/财政货币化|财政货币化（问答）]]（←concepts/财政货币化 相关条目）。剩余 8 个孤儿为 meta 历史快照（4）/folds 存档（1）/_index 导航占位（3），非知识内容，保持原样。
+- Re-check: broken_links=1（仅 log 历史遗留） orphans=8（仅 meta/folds/_index） duplicates=0
+
+---
+
+## [2026-08-05] GRAPH_COLORIZE | 图谱着色重跑（Obsidian 清空后恢复）
+
+- Summary: 首次着色被 Obsidian 打开时清空 colorGroups 后重跑。同 by-tag 模式，Top 10 标签（stub/concept/entity/finance/term/meta/房地产/中国/china/日本）映射 10 色板，仅替换 colorGroups 字段。
+- Backup: `.obsidian/graph.json.backup-20260805-1324`
+- 提醒：若 Obsidian 正打开，关闭后重开或立即 Cmd/Ctrl+R 刷新，避免关闭时再次覆盖。
+
+---
+
+## [2026-08-05] GRAPH_COLORIZE | 图谱按标签着色
+
+- Summary: 按 by-tag 模式为图谱着色，取 Top 10 标签（stub/concept/entity/finance/term/meta/房地产/中国/china/日本）分别映射 10 色板（蓝橙红青绿黄紫粉棕灰）。只替换 graph.json 的 colorGroups 字段，保留缩放/力导向/过滤器等偏好设置。无 visibility/* 保留标签，槽位 9 已被真实标签占用，故不加 untagged 兜底。
+- Backup: `.obsidian/graph.json.backup-20260805-1321`
+
+---
+
+## [2026-08-05] LINT | 全库健康审计
+
+- Summary: 对 1052 页全库运行 wiki-lint。legacy 格式确认：本库用 `status:`（stub/current/developing/evergreen 等）而非 llm-wiki 的 `lifecycle:`/`base_confidence:`/`summary:`，故 12a/12b/3a 不适用（0 硬错误）。真实发现：孤儿 33、断链 49（知识页 5）、stub 237、重复页 8 对、碎片化标签簇 14、synthesis gaps（化债×扩表与缩表 42 页共现）。
+- Orphans: 33（25 个 entities 知识岛 + 5 个 meta/folds + 3 个 _index 导航页）
+- Broken links: 49（真正知识页 5 处；其余为 meta/lint-report 历史报告与 _index 的常规占位）
+- Stub pages: 237（concepts 161 / entities 73 / sources 3）
+- Duplicates: 8 对（concepts 完整版 vs entities stub：量化宽松/财政货币化/巴塞尔协议/最后贷款人/美元霸权/利率市场化/中储粮/美元周期）
+- Stale >90d: 41（多为 2026-04 legacy 框架文档）
+- lifecycle_issues=0 relationship_issues=0 visibility_issues=0
+
+---
+
 ## [2026-08-05] ingest | raw/ 素材蒸馏与注册
 
 - Summary: 处理源知识库 `raw/` 全部 **58 个文件**。核对结论：raw/ 文本素材几乎已全部被源 wiki 蒸馏至现有 source 页（文件名 1:1 匹配 12 篇；军工航空拆解已蒸馏至 `concepts/军工航空产业`；44 张图片为其冗余截图）。唯一真实缺口为《香港金融保卫战：罗斯狙击英国泰国，决战香港》（B站巫师财经字幕，2019-11-25）。

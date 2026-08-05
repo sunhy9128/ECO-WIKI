@@ -18,6 +18,7 @@ aliases:
   - "BCBS"
   - "Basel Committee on Banking Supervision"
   - "wiki/concepts/巴塞尔协议III"
+  - "巴塞尔协议"
 ---
 
 # 巴塞尔协议 III（Basel III）
