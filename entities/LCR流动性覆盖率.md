@@ -28,5 +28,5 @@ LCR（流动性覆盖率，Liquidity Coverage Ratio）是巴塞尔III引入的�
 
 - [[期限错配]] - LCR监管的核心对象
 - [[流动性风险]] - 银行无法获得足够资金的风险
-- [[巴塞尔协议]] - Basel III流动性框架
+- [[巴塞尔协议III]] - Basel III流动性框架
 - [[HTM会计处理]] - HQLA分类的会计处理

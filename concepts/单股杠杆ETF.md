@@ -4,7 +4,7 @@ title: "单股杠杆ETF"
 address: c-000181
 created: 2026-06-24
 updated: 2026-06-24
-tags: [concept, etf, leverage, risk, regulation]
+tags: [etf, leverage, risk, 监管]
 status: developing
 aliases:
   - "Single-Stock Leveraged ETF"

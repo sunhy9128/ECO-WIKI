@@ -24,6 +24,14 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-06] digest | 周报：近 7 天知识活动摘要
+
+- [2026-08-06T18:00:00+0800] DIGEST period="7d" new_pages=65 updated_pages=146 themes=货币政策,中国,日本,资本管制/对外开放,地缘政治 connections=12 saved=true path=journal/digest-2026-08-06.md
+- 核心产出：synthesis/ 从 0 到 10 页（两轮 wiki-synthesize）；日本制度演进主线补全（日本95年体制→桥本行政改革→厚生劳动省→安倍经济学）；Rentenmark 兑换比率纠错（1 Rentenmark=10¹² 旧马克）。
+- 迁移说明：期间（08-05）vault 经历 git 迁移 + 190 stub 批量补全，部分页 created/updated 日期反映重建后状态。
+
+---
+
 ## [2026-08-05] stub-completion | 分批补全全部真实知识 stub
 
 - Summary: 全库 stub 清理与补全。删除断链修复占位页（含 `.canvas` 占位 3 处），合并同名/重复变体并修复引用；随后分 4 批并行补全 **190 个真实知识 stub**（国际宏观 14、衍生品 14、政策产业 14、机构人物 14、欧洲转型 14、地缘贸易 14、技术投资 14、金融机构 13、宏观制度 13、微观产业 13、source 页若干），统一升级至 `status: current`，行数达标（100–185 行）。
@@ -38,9 +46,9 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ## [2026-08-05] LINT_FIX | 全库 lint 修复落地（断链/重复页/孤儿）
 
-- Summary: 对上次审计的三大类真实问题完成修复。**断链**（49→1）：修复知识页真实断链 5 处（沃尔克规则 [[2023年SVB危机]]、德国马克 [[LudwigErhard]]、凯恩斯主义 有效需求 转纯文本、共建"一带一路"→[[共建一带一路]] ×4）；删除 entities 金融稳定/银行监管/风险加权资产 中引用已删历史 lint 报告（2026-05-21/06-24）的维护注释 6 行；_index 三导航页 Entities/Sources/Concepts 占位改显式路径链接；sources 9 页 frontmatter/正文 raw/wechat 断链 18 处转纯路径文本；meta/backlink-empire related 删 Claude Canvas。排除假阳性 2（反引号内的 Wiki链接/raw/zhihu 引用，非真实链接）。唯一保留：log.md 的 `[[美元收割全球的机制什么]]` 历史 stub 删除记录（append-only 不改）。
-- Duplicates (8→0): 删除 8 个 entities stub（量化宽松/财政货币化/巴塞尔协议/最后贷款人/美元霸权/利率市场化/中储粮/美元周期），concepts 完整版保留。巴塞尔协议 concepts 完整版文件名为 [[巴塞尔协议III]]，先在其 aliases 补 "巴塞尔协议" 确保 29 处 [[巴塞尔协议]] 引用不断链。
-- Orphans (33→8): 3 个真实知识岛已加反向链接——[[entities/石油美元体系|石油美元体系]]（←美元霸权/去美元化，显式路径消除与 sources 版同名歧义）、[[sources/冲销式干预|冲销式干预]]（←concepts/冲销式干预 Basic Information 来源字段）、[[questions/财政货币化|财政货币化（问答）]]（←concepts/财政货币化 相关条目）。剩余 8 个孤儿为 meta 历史快照（4）/folds 存档（1）/_index 导航占位（3），非知识内容，保持原样。
+- Summary: 对上次审计的三大类真实问题完成修复。**断链**（49→1）：修复知识页真实断链 5 处（沃尔克规则 [[2023年SVB危机]]、德国马克 [[LudwigErhard]]、凯恩斯主义 有效需求 转纯文本、共建"一带一路"→[[共建一带一路]] ×4）；删除 entities 金融稳定/银行监管/风险加权资产 中引用已删历史 lint 报告（2026-05-21/06-24）的维护注释 6 行；_index 三导航页 Entities/Sources/Concepts 占位改显式路径链接；sources 9 页 frontmatter/正文 raw/wechat 断链 18 处转纯路径文本；meta/backlink-empire related 删 Claude Canvas。排除假阳性 2（反引号内的 Wiki链接/raw/zhihu 引用，非真实链接）。唯一保留：log.md 的 `[[美元收割全球的机制]]` 历史 stub 删除记录（append-only 不改）。
+- Duplicates (8→0): 删除 8 个 entities stub（量化宽松/财政货币化/巴塞尔协议/最后贷款人/美元霸权/利率市场化/中储粮/美元周期），concepts 完整版保留。巴塞尔协议 concepts 完整版文件名为 [[巴塞尔协议III]]，先在其 aliases 补 "巴塞尔协议" 确保 29 处 [[巴塞尔协议III]] 引用不断链。
+- Orphans (33→8): 3 个真实知识岛已加反向链接——[[entities/石油美元体系|石油美元体系]]（←美元霸权/去美元化，显式路径消除与 sources 版同名歧义）、[[sources/2026-06-02-冲销式干预|冲销式干预]]（←concepts/冲销式干预 Basic Information 来源字段）、[[questions/什么是财政货币化|财政货币化（问答）]]（←concepts/财政货币化 相关条目）。剩余 8 个孤儿为 meta 历史快照（4）/folds 存档（1）/_index 导航占位（3），非知识内容，保持原样。
 - Re-check: broken_links=1（仅 log 历史遗留） orphans=8（仅 meta/folds/_index） duplicates=0
 
 ---
@@ -150,7 +158,7 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ## [2026-08-03] wiki-lint | 全库健康检查
 
-- Summary: 触发 /wiki-lint,扫描 1019 个文件。产出 [[lint-report-2026-08-03]]（148 行）。**断链 37 目标（过滤后真问题 ~35 处引用）**：HIGH=韩国系重命名断链 13 处（[[韩国股灾简史]]/[[韩国需要冷静冷静]] 实际文件带日期前缀）；MEDIUM=空格/命名不匹配 15 处（1997亚洲金融危机/1992欧洲货币危机/1998香港金融保卫战/2001阿根廷违约/2023年SVB危机/研究：美元如何收割新兴市场（增强版））；LOW=导航/历史/大小写 10 处。**孤儿页 22**（14 内容+8 meta，含疑似测试残留 X.md/Foo.md）。**frontmatter 缺口 6**（内容页仅 [[安倍经济学]] 缺 status）。**地址验证 0 错误**（counter peek 1083，最高 c-001082）。**空段落 0**。**语义 tiling 跳过**（ollama 不可达 exit 10）。**index.md 滞后**：死链 1 + 未收录近期新增页（安倍经济学/桥本行政改革/厚生劳动省/日本95年体制/韩国系 5 页等）。清理 find_dead_links.py 误生成的 lint-report-2026-07-14.md（硬编码日期）。**待用户确认自动修复**：补安倍经济学 status、修韩国系 13 处引用、修空格类 15 处引用、index 修复+补录、建 3 个 stub（有效需求/一带一路/美联储点阵图）。
+- Summary: 触发 /wiki-lint,扫描 1019 个文件。产出 [[lint-report-2026-08-03]]（148 行）。**断链 37 目标（过滤后真问题 ~35 处引用）**：HIGH=韩国系重命名断链 13 处（[[2026-07-21-韩国股灾简史]]/[[2026-06-24-韩国需要冷静冷静]] 实际文件带日期前缀）；MEDIUM=空格/命名不匹配 15 处（1997亚洲金融危机/1992欧洲货币危机/1998香港金融保卫战/2001阿根廷违约/2023年SVB危机/研究：美元如何收割新兴市场（增强版））；LOW=导航/历史/大小写 10 处。**孤儿页 22**（14 内容+8 meta，含疑似测试残留 X.md/Foo.md）。**frontmatter 缺口 6**（内容页仅 [[安倍经济学]] 缺 status）。**地址验证 0 错误**（counter peek 1083，最高 c-001082）。**空段落 0**。**语义 tiling 跳过**（ollama 不可达 exit 10）。**index.md 滞后**：死链 1 + 未收录近期新增页（安倍经济学/桥本行政改革/厚生劳动省/日本95年体制/韩国系 5 页等）。清理 find_dead_links.py 误生成的 lint-report-2026-07-14.md（硬编码日期）。**待用户确认自动修复**：补安倍经济学 status、修韩国系 13 处引用、修空格类 15 处引用、index 修复+补录、建 3 个 stub（有效需求/一带一路/美联储点阵图）。
 - Pages created: [[lint-report-2026-08-03]] (meta)
 - Pages deleted: meta/lint-report-2026-07-14.md (脚本误生成)
 
@@ -201,10 +209,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Key insight: 广场协议本身不是问题，真正致命的是"财政扩张+货币宽松+金融开放+央行不独立"四重叠加；大藏省作为超级部委集财政、货币、监管于一身是日本失去二十年的制度根源
 
 ## [2026-07-22] ingest | 韩国股灾简史（任庄主 2026-07-21）
-- Summary: 消化梧桐树智库《韩国股灾简史》。核心命题：2025.4 以来韩股（KOSPI）暴涨 291.48% 冲上 9114 点、市值峰值 4.95 万亿美元，本质是外资主导的投机性「虚火」；2026.7 已进入股灾（较高点回撤 28.51%），任庄主预测后续再跌 ~20%、向 4000-5000 点回归。新建 source 页 [[韩国股灾简史]]、concept 页 [[韩国历史股灾谱系]]（1989/1997/2000/2008/2020/2022 六次股灾 + 2026 进行中，贯穿「外资定价权+半导体放大器+流动性收紧扳机+散户接盘」四大结构）、stub [[韩国折价（Korea Discount）]]。从 stub 升级 [[韩国综合指数(KOSPI)]] 为完整实体页（含历史点位表）。三星电子/SK海力士补 2026 股灾跌幅（-34.85%/-40.94%）。与前作 [[韩国需要冷静冷静]]（2026-06-24 泡沫顶点前预警）互为「预警→兑现」闭环。
+- Summary: 消化梧桐树智库《韩国股灾简史》。核心命题：2025.4 以来韩股（KOSPI）暴涨 291.48% 冲上 9114 点、市值峰值 4.95 万亿美元，本质是外资主导的投机性「虚火」；2026.7 已进入股灾（较高点回撤 28.51%），任庄主预测后续再跌 ~20%、向 4000-5000 点回归。新建 source 页 [[2026-07-21-韩国股灾简史]]、concept 页 [[韩国历史股灾谱系]]（1989/1997/2000/2008/2020/2022 六次股灾 + 2026 进行中，贯穿「外资定价权+半导体放大器+流动性收紧扳机+散户接盘」四大结构）、stub [[韩国折价（Korea Discount）]]。从 stub 升级 [[韩国综合指数(KOSPI)]] 为完整实体页（含历史点位表）。三星电子/SK海力士补 2026 股灾跌幅（-34.85%/-40.94%）。与前作 [[2026-06-24-韩国需要冷静冷静]]（2026-06-24 泡沫顶点前预警）互为「预警→兑现」闭环。
 
 ## [2026-07-17] research | 美元潮汐与新兴市场收割机制（深度研究）
-- Summary: 深度研究美元如何收割新兴市场，建立完整理论框架。新建 5 个 wiki 页面：4 个核心概念（美元潮汐/美元周期/美元收割全球的机制/脆弱五国）+ 1 个历史案例汇编（美元潮汐历史案例覆盖 1982 拉美到 2022 斯里兰卡 11 个案例）+ 1 个主合成页（研究：美元如何收割新兴市场）。从 stub 升级 [[美元收割全球的机制]] 为完整页（8 阶段收割循环 + 三大机制 + 案例 + 应对）。删除冗余 stub 文件 [[美元收割全球的机制什么]]。
+- Summary: 深度研究美元如何收割新兴市场，建立完整理论框架。新建 5 个 wiki 页面：4 个核心概念（美元潮汐/美元周期/美元收割全球的机制/脆弱五国）+ 1 个历史案例汇编（美元潮汐历史案例覆盖 1982 拉美到 2022 斯里兰卡 11 个案例）+ 1 个主合成页（研究：美元如何收割新兴市场）。从 stub 升级 [[美元收割全球的机制]] 为完整页（8 阶段收割循环 + 三大机制 + 案例 + 应对）。删除冗余 stub 文件 [[美元收割全球的机制]]。
 - Pages created: [[美元周期]]、[[美元潮汐]]、[[美元收割全球的机制]]、[[脆弱五国（Fragile Five）]]、[[美元潮汐历史案例]]、[[研究：美元如何收割新兴市场]]
 - Related: [[美元霸权]]、[[全球金融周期]]、[[美元流动性]]、[[汇率传导机制]]、[[1997 亚洲金融危机]]、[[1992 欧洲货币危机]]、[[新兴市场为避免被美国薅羊毛采取了哪些措施]]、[[美元收割全球的机制是什么]]
 - Sources: [[2026-03-23-巫师财经-崩了]]、[[我们已经处于新一轮加息周期中或前夜]]、[[2026-06-24-韩国需要冷静冷静]]、[[2026-06-04-日本史上最大规模汇率保卫战]]
@@ -317,7 +325,7 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Scope: six-test menu the user approved. Codex gpt-5.4 for T1/T4/T6 (sub-agent delegation); chair for T0/T2/T3 (one-shot shell) and all integration (index, log, hot, commit).
 - Style: all new content uses colons or parens instead of em-dashes. Pre-existing em-dashes in index entries and wiki/concepts/_index.md left as-is (clean-room boundary; deferred to F-slice style pass).
 - Tests still green: `make test` passes (74+ assertions).
-- Integration: chair added the 3 new concepts to `wiki/index.md` and `wiki/concepts/_index.md` with colon-style descriptions so the fresh pages are discoverable. The cluster extends `[[How does the LLM Wiki pattern work?]]` and cross-references `[[LLM Wiki Pattern]]`.
+- Integration: chair added the 3 new concepts to `wiki/index.md` and `wiki/concepts/_index.md` with colon-style descriptions so the fresh pages are discoverable. The cluster extends `[[How does the LLM Wiki pattern work]]` and cross-references `[[LLM Wiki Pattern]]`.
 - Next recommended slice: either (G) commit this test batch and declare v1.6.0 validated, or (H) run a second fold k=3 now that 8 newer entries exist above this one and close the hierarchical-fold-not-yet-supported loop in a future phase.
 
 ## [2026-04-24] save | v1.6.0 closeout (Teams, chair-led)
@@ -501,3 +509,83 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - FM gaps: 599 missing tags (570 empty `tags: []`), 13 missing created/updated (real-estate cluster), 1 missing type
 - lifecycle/base_confidence: 0/1000 pages adopt the schema — vault-wide structural decision pending
 - synthesis/ dir empty despite 79 high-co-occurrence concept pairs (top: 扩表与缩表×化债 = 42 pages)
+- [2026-08-06] QUERY query="魏玛共和国用地租马克替代金马克靠国家信用背书，金马克难道没有国家信用背书吗？" result_pages=3 mode=normal escalated=false
+- [2026-08-06] FIX Rentenmark兑换比率矛盾：修正 6 处 "1 Rentenmark = 1 旧马克" 错误表述为 "1 Rentenmark = 1 万亿旧马克（10¹²），锚定战前金马克平价（1 美元 = 4.2）"，涉及 Rentenmark改革/魏玛恶性通胀/ECB/Hans Luther + ECB canvas
+
+## [2026-08-06] LINT | Full health audit
+
+- [2026-08-06T14:45:00+0800] LINT scanned=999 orphans=2 broken_links=78 stale=41 contradictions=0 prov_issues=0 missing_summary=999 fragmented_clusters=6 visibility_issues=0 promotion_candidates=0 synthesis_gaps=85 relationship_issues=0 lifecycle_issues=999 fm_gaps=324 artifact_links=85 nonmd_links=2
+- Content orphans: concepts/冲销式干预, concepts/财政货币化 (operational: 8 meta/folds pages)
+- Broken links (content): 63 hard (13 unique targets; top: 巴塞尔协议×33→巴塞尔协议III, 韩国股灾简史×9→sources dated file, 韩国需要冷静冷静×7) + 15 near-miss (《》/空格/标点差异，可机械修复)
+- 85 artifact links in meta/lint-report-* and log.md (previous report example code) — noise, exclude from content counts
+- FM gaps: sources=284, created=23 (12 real-estate cluster), updated=14, tags=2, type=1
+- lifecycle/base_confidence: 0/999 pages adopt llm-wiki trust schema (vault uses status:) — trust-check fails: _meta/trust-ledger.json missing (known structural decision, pending)
+- Stale >90d: 41 pages; oldest cluster = 2026-04-07 claude-obsidian legacy seed pages (121 days)
+- Status enum drift: complete/completed, seed/seedling/extracted/mature (vocabulary not in documented set)
+
+## [2026-08-06] LINT_CONSOLIDATE | Link repair + orphan rescue + collision resolution
+
+- [2026-08-06T15:39:00+0800] LINT_CONSOLIDATE links_fixed=84 orphans_rescued=2 lifecycle_updates=0 tier_demotions=0 tag_fixes=0 contradiction_callouts=0 renames=3 stubs=4
+- Broken links rewritten (content): 巴塞尔协议→巴塞尔协议III ×33, 韩国股灾简史→sources/2026-07-21-… ×9, 韩国需要冷静冷静→sources/2026-06-24-… ×7, 研究：…（增强版）→… ×2, 2001 阿根廷债务违约→2001 阿根廷违约, 中华人民共和国国务院/中央人民政府→国务院 ×2, 美元收割全球的机制什么→美元收割全球的机制 (log), raw/zhihu/日元保卫战…→sources/2026-05-13-… ; near-miss 15 (《》/空格/标点规范化); 6 处带显示文本的旧路径链接更新
+- Lint-report/log noise: 85 处示例死链转纯文本（meta/lint-report-2026-08-03/04/05.md、log.md、meta/dashboard.md）
+- Root cause: basename 同名冲突遮蔽概念页（sources/冲销式干预、questions/财政货币化、sources/石油美元体系），导致约 150 条链接歧义 + 2 个虚假孤儿
+- Renames (un-shadow): sources/冲销式干预.md → sources/2026-06-02-冲销式干预.md; sources/石油美元体系.md → sources/2026-06-02-石油美元体系.md; questions/财政货币化.md → questions/什么是财政货币化.md (title 同步)
+- Stub pages created (addresses c-001101~c-001104, counter →1105): concepts/美联储点阵图, concepts/DDX DDY DDZ 指标 (2 条链接同步改写), entities/BRICS Pay, concepts/微盘股指数; 一带一路 改链 →[[共建一带一路]]
+- Orphan rescue: concepts/冲销式干预 (now 51 incoming), concepts/财政货币化 (58), entities/石油美元体系 (39)
+- Final state: broken_links=0, content_orphans=0, index_broken=0, collisions=0; scanned=1003
+- Side note: 检查中发现 concepts/共建_一带一路_.md 与 concepts/共建一带一路.md 疑似重复页（c-000152/c-000153），待 wiki-dedup 处理
+
+## [2026-08-06] WIKI_SYNTHESIZE | 5 cross-cutting synthesis pages
+
+- [2026-08-06T15:49:00+0800] WIKI_SYNTHESIZE pages_scanned=1003 synthesis_created=5 candidates_skipped=10
+- Pairs (co-occurrence): 扩表与缩表×化债=42, 量化宽松×扩表与缩表=40, 扩表与缩表×2008全球金融危机=39, 化债×ECB=30, 欧盟×贸易战=27
+- Pages: synthesis/扩表与缩表 × 化债.md (c-001105), synthesis/量化宽松 × 扩表与缩表.md (c-001106), synthesis/扩表与缩表 × 2008全球金融危机.md (c-001107), synthesis/化债 × ECB.md (c-001108), synthesis/欧盟 × 贸易战.md (c-001109); address counter →1110
+- Backlinks added to 7 anchors: 扩表与缩表(3), 化债(2), 量化宽松(1), 2008全球金融危机(1), ECB(1), 欧盟(1), 贸易战(1)
+- Excluded (already covered): 美联储×中国央行 (comparisons/美联储vs中国央行), 量化宽松×化债 (concepts/QE与化债对比)
+- Skipped candidates (next 10): 美联储×量化宽松(39), 扩表与缩表×ECB(35), 扩表与缩表×IMF(30), 扩表与缩表×中国央行(29), 美联储×2008全球金融危机(28), IMF×2008全球金融危机(27), 量化宽松×2008全球金融危机(26), 化债×2008全球金融危机(26), 美联储×IMF(25), 化债×财政货币化(24)
+
+## [2026-08-06] LINT | Full health audit
+
+- [2026-08-06T15:56:59+0800] LINT scanned=1009 orphans=1 broken_links=3 stale=30 contradictions=0 prov_issues=0 missing_summary=986 fragmented_clusters=6 visibility_issues=0 promotion_candidates=0 synthesis_gaps=6 relationship_issues=0 lifecycle_issues=0 fm_gaps=296
+- Content orphan: sources/2026-06-02-石油美元体系 (源素材页, 概念页为 entities/石油美元体系)
+- Broken links (near-miss 空格差异, 可机械修): 1997 亚洲金融危机×9→1997亚洲金融危机, 1992 欧洲货币危机×3→1992欧洲货币危机, 1998 香港金融保卫战×1→1998香港金融保卫战 (共 13 处)
+- FM gaps: created=13 (12 房地产 cluster + 1 source), updated=13, address=13, sources=270, summary=986; 缺 address/created/updated 的 13 页为迁移遗留
+- Stale 91-180d: 30 页, 几乎全为 2026-04 claude-obsidian 模板种子页 (内容稳定, 预期陈旧) + sources/2026-04-07-日本金融市场震荡深层逻辑
+- lifecycle/base_confidence: 0/1009 采用 llm-wiki trust schema (vault 用 status:, 结构性决策 pending, 与上次一致)
+- Fragmented tag clusters (主题): 货币政策(21,0.04) china(21,0.06) semiconductor(6,0.13) 宏观经济(5,0.00) 通胀(5,0.00) 人物(5,0.10); type 标签 concept/entity/source/index 不算
+- Synthesis gaps (top): 美联储×扩表与缩表(39) 美联储×2008全球金融危机(30) 量化宽松×2008全球金融危机(27) 美联储×ECB(25) 美联储×IMF(25) 美联储×化债(24)
+- Status enum 非主流值: seed(4) seedling(3) proposed(1) digested(1)
+
+## [2026-08-06] LINT_FIX | near-miss 空格断链修复
+
+- [2026-08-06T15:58:00+0800] LINT_FIX links_fixed=16 orphans=0 other=0
+- Rewritten: [[1997 亚洲金融危机]]→[[1997亚洲金融危机]] (美元潮汐量化实证/Original Sin/美元周期/美元潮汐/脆弱五国/美元收割全球的机制/美元潮汐历史案例×6/研究：美元如何收割新兴市场×4), [[1992 欧洲货币危机]]→[[1992欧洲货币危机]] (美元潮汐历史案例×2/研究：美元如何收割新兴市场), [[1998 香港金融保卫战]]→[[1998香港金融保卫战]] (美元潮汐历史案例)
+- Final: content broken_links=0 (meta/lint-report-* 与 log.md 历史条目按规则保留)
+
+## [2026-08-06] LINT_FIX | 双 subagent 并行:元数据补全 + 标签碎片化修复
+
+- [2026-08-06T16:10:00+0800] FIX metadata_pages=13 address=1110→1123 links_added=40 files_touched=30 clusters_fixed=4 clusters_improved=2
+- Agent A (元数据补全): 13 个迁移遗留页补 address/created/updated。分配 c-001110~c-001122 (概念页无引号/source 页带引号),created/updated=2026-08-05 (git 迁移提交 1e2985a 核实);计数器 .vault-meta/address-counter.txt 1110→1123。自检:新地址无重复,frontmatter 之外零改动
+- Agent B (标签碎片化): 30 文件新增 40 条语义强关联 wikilink。达标 (cohesion≥0.15): #semiconductor、#宏观经济、#通胀、#人物;改善未达标: #货币政策 0.04→0.09、#china 0.06→0.08 (21 页大簇,避免机械全连)。受保护 13 页未触碰 (diff 复核)
+- 遗留: concepts/AI虹吸效应.md 与 concepts/DragonScale Memory.md 共用 c-000042 (历史冲突,待择一重新分配)
+- Final: content broken_links=0
+
+## [2026-08-06] VERIFY | c-000042 疑似冲突澄清(误报)
+
+- [2026-08-06T16:15:00+0800] VERIFY addr_conflict=none
+- 澄清: concepts/DragonScale Memory.md 与 concepts/AI虹吸效应.md 的 address 冲突系误报。严格 frontmatter-only 解析(仅识别文件头 ^--- 块内 address:)确认:DragonScale Memory.md 的 frontmatter address 为 c-000001,其正文第 78-80 行 ```yaml address: c-000042 ``` 是格式说明示例,非真实字段
+- 全库 frontmatter 988 个 address 经严格扫描无重复。结论:无需任何修改
+- 教训:地址重复检查必须限定在 frontmatter 块内解析,不能用行首 grep(会误收正文示例)
+
+## [2026-08-06] WIKI_SYNTHESIZE | 第二轮:5 个交叉合成页(美联储/ECB/IMF × 工具与危机)
+
+- [2026-08-06T17:01:00+0800] WIKI_SYNTHESIZE pages_scanned=1003 synthesis_created=5 candidates_skipped=10
+- Pairs (co-occurrence): 美联储×量化宽松=39, 扩表与缩表×ECB=35, ECB×欧元区主权债务危机=35, 美联储×2008全球金融危机=28, IMF×2008全球金融危机=27
+- Pages: synthesis/美联储 × 量化宽松.md (c-001124), synthesis/美联储 × 2008全球金融危机.md (c-001125), synthesis/扩表与缩表 × ECB.md (c-001126), synthesis/ECB × 欧元区主权债务危机.md (c-001127), synthesis/IMF × 2008全球金融危机.md (c-001128); address counter →1129
+- Backlinks added to 7 anchors: 美联储(2), 量化宽松(1), 扩表与缩表(1), ECB(2), 2008全球金融危机(2), IMF(1), 欧元区主权债务危机(1)
+- Excluded (already covered): 美联储×中国央行 (comparisons/美联储vs中国央行), 量化宽松×化债 (concepts/QE与化债对比)
+- Skipped candidates (next 10): 扩表与缩表×IMF(30), 扩表与缩表×中国央行(29), 量化宽松×2008全球金融危机(26), 化债×2008全球金融危机(26), 美联储×IMF(25), 美联储×ECB(25), 化债×财政货币化(25), 化债×中国央行(25), ECB×2008全球金融危机(25), 美联储×化债(24)
+- [2026-08-06T17:04:01+0800] QUERY query="IMF道德危机" result_pages=4 mode=normal escalated=false
+- [2026-08-06T17:15:54+0800] TAG_AUDIT taxonomy_missing=1 total_tags=856 single_use_tags=590 untagged=599 over_tagged=82 type_tags_redundant=~180 normalized=0 (只读审计,未修改任何页面)
+- [2026-08-06T17:18:23+0800] TAG_NORMALIZE taxonomy_created=1 canonical_tags=~90 aliases_mapped=~50 pages_modified=0 (路径1:仅建立 _meta/taxonomy.md,未改页面)
+- [2026-08-06T17:29:42+0800] WIKI_RESEARCH topic="美联储在国际经济中的作用" rounds=3 sources_fetched=4 pages_created=5 (synthesis/美联储在国际经济中的作用 + concepts/美元互换网络 + concepts/FIMA回购便利 + sources/美联储中央央行流动性互换-Fed官网 + sources/FIMA回购便利-Fed官网)

@@ -8,7 +8,7 @@ updated: 2026-07-06
 status: current
 sources:
   - "[[2024-化债政策包]]"
-tags: [term]
+tags: []
 aliases:
   - "抵押补充贷款"
   - "Pledged Supplementary Lending"

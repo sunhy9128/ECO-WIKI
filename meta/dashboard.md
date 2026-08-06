@@ -3,7 +3,6 @@ type: meta
 title: "Dashboard"
 updated: 2026-08-05
 tags:
-  - meta
   - dashboard
 status: evergreen
 related:
@@ -11,7 +10,7 @@ related:
   - "[[overview]]"
   - "[[log]]"
   - "[[_index]]"
-  - "[[dashboard.base]]"
+  - "dashboard.base"
   - "[[Compounding Knowledge]]"
 ---
 
@@ -19,7 +18,7 @@ related:
 
 Navigation: [[index]] | [[overview]] | [[log]] | [[hot]]
 
-Dashboard 基于 **Dataview**（2026-08-05 安装启用）。如需 GUI 可编辑的原生 Bases 视图，可打开 [[dashboard.base]]。
+Dashboard 基于 **Dataview**（2026-08-05 安装启用）。如需 GUI 可编辑的原生 Bases 视图，可打开 dashboard.base。
 
 ---
 

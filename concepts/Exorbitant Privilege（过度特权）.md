@@ -5,7 +5,7 @@ created: 2026-07-17
 updated: 2026-07-17
 type: concept
 status: current
-tags: [concept, dollar, monetary-system, exorbitant-privilege]
+tags: [美元, 货币体系, exorbitant-privilege]
 aliases:
   - "过度特权"
   - "Exorbitant Privilege"

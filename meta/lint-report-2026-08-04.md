@@ -3,7 +3,7 @@ type: meta
 title: "Lint Report 2026-08-04"
 created: 2026-08-04
 updated: 2026-08-04
-tags: [meta, lint]
+tags: [lint]
 status: developing
 ---
 
@@ -38,8 +38,8 @@ status: developing
 
 ### HIGH：韩国系重命名断链（13 处引用）
 
-- `[[韩国股灾简史]]`（8 处）← 韩国历史股灾谱系/韩国折价/SK海力士/三星电子/韩国综合指数 等。实际文件：`sources/2026-07-21-韩国股灾简史.md`
-- `[[韩国需要冷静冷静]]`（5 处）← 韩国历史股灾谱系/韩国综合指数/hot/log 等。实际文件：`sources/2026-06-24-韩国需要冷静冷静.md`
+- `[[2026-07-21-韩国股灾简史]]`（8 处）← 韩国历史股灾谱系/韩国折价/SK海力士/三星电子/韩国综合指数 等。实际文件：`sources/2026-07-21-韩国股灾简史.md`
+- `[[2026-06-24-韩国需要冷静冷静]]`（5 处）← 韩国历史股灾谱系/韩国综合指数/hot/log 等。实际文件：`sources/2026-06-24-韩国需要冷静冷静.md`
 
 ### MEDIUM：空格/命名不匹配（15 处引用）
 
@@ -47,29 +47,29 @@ status: developing
 |------|--------|---------|
 | `[[1997 亚洲金融危机]]` | 9 处 | `1997亚洲金融危机.md` |
 | `[[1992 欧洲货币危机]]` | 3 处 | `1992欧洲货币危机.md` |
-| `[[meta/lint-report-2026-05-21]]` | 3 处 | 已删除的历史报告 |
-| `[[meta/lint-report-2026-06-24]]` | 3 处 | 已删除的历史报告 |
-| `[[研究：美元如何收割新兴市场（增强版）]]` | 2 处（**index.md、hot.md**） | `questions/研究：美元如何收割新兴市场.md` |
-| `[[1998 香港金融保卫战]]` / `[[2001 阿根廷债务违约]]` / `[[2023 SVB危机]]` | 各 1-2 处 | 空格/命名差异 |
+| `meta/lint-report-2026-05-21` | 3 处 | 已删除的历史报告 |
+| `meta/lint-report-2026-06-24` | 3 处 | 已删除的历史报告 |
+| `[[研究：美元如何收割新兴市场]]` | 2 处（**index.md、hot.md**） | `questions/研究：美元如何收割新兴市场.md` |
+| `[[1998 香港金融保卫战]]` / `[[2001 阿根廷违约]]` / `2023 SVB危机` | 各 1-2 处 | 空格/命名差异 |
 
 ### LOW：导航/历史/大小写 + 疑似新发现（21 处引用）
 
-- `[[Concepts]]`/`[[Entities]]`/`[[Sources]]`（各 2 处）← `_index.md` 系列导航
-- `[[How does the LLM Wiki pattern work?]]`（2 处）→ 实际 `How does the LLM Wiki pattern work_.md`
-- `[[lint-report-2026-07-30]]`（1 处，dashboard）
-- `[[Ludwig Erhard]]`（1 处）→ `LudwigErhard.md`
-- `[[DDX/DDY/DDZ 指标]]`（1 处）→ `DDXDDYDDZ-指标.md`
-- `[[Wiki链接]]`（1 处，wikilinks.md 自引用）
+- `Concepts`/`Entities`/`Sources`（各 2 处）← `_index.md` 系列导航
+- `[[How does the LLM Wiki pattern work]]`（2 处）→ 实际 `How does the LLM Wiki pattern work_.md`
+- `lint-report-2026-07-30`（1 处，dashboard）
+- `[[LudwigErhard]]`（1 处）→ `LudwigErhard.md`
+- `DDX/DDY/DDZ 指标`（1 处）→ `DDXDDYDDZ-指标.md`
+- `Wiki链接`（1 处，wikilinks.md 自引用）
 - **疑似本次新增扫描发现**（昨日报告未单列，多为"实体/概念被提及但未建页"类，建议建 stub 或改引现有页）：
-  - `[[美联储点阵图]]`（2 处：货币政策与中央银行域、触目惊心血包源）
-  - `[[共建"一带一路"]]`（2 处：欧盟实体、中国外贸数据源）
-  - `[[《环球时报》]]`（2 处：官方媒体、中欧经贸关系）
-  - `[[美元收割全球的机制什么]]`（1 处，log.md——疑似笔误，应为"美元收割全球的机制是什么"）
-  - `[[BRICS Pay]]` / `[[有效需求]]` / `[[微盘股指数]]` / `[[一带一路]]` / `[[中华人民共和国国务院]]` / `[[中华人民共和国中央人民政府]]` 等（各 1 处）
+  - `美联储点阵图`（2 处：货币政策与中央银行域、触目惊心血包源）
+  - `共建"一带一路"`（2 处：欧盟实体、中国外贸数据源）
+  - `[[环球时报]]`（2 处：官方媒体、中欧经贸关系）
+  - `[[美元收割全球的机制]]`（1 处，log.md——疑似笔误，应为"美元收割全球的机制是什么"）
+  - `BRICS Pay` / `有效需求` / `微盘股指数` / `一带一路` / `[[国务院]]` / `[[国务院]]` 等（各 1 处）
 
 ## 三、Orphan Pages（22，与昨日一致）
 
-已知内容页孤儿：[[X]] / [[existing]] / [[target]] / [[fold-template]]（测试残留）、[[Karpathy LLM Wiki Pattern]] / [[How does the LLM Wiki pattern work_]] / [[Rankenstein]] / [[Claude Obsidian]] / [[E-commerce SEO]]（插件演示页）、[[1970年代滞胀]] / [[2008金融危机]] / [[亚洲金融危机]] / [[金融危机]] / [[汇率制度]] / [[货币政策策略]] / [[银行风险]] / [[LudwigErhard]] / [[中国银行间市场]] / [[德国经济史]] / [[易纲]] / [[港股]]。
+已知内容页孤儿：X / existing / target / fold-template（测试残留）、Karpathy LLM Wiki Pattern / How does the LLM Wiki pattern work_ / Rankenstein / Claude Obsidian / E-commerce SEO（插件演示页）、[[1970年代滞胀]] / [[2008金融危机]] / [[亚洲金融危机]] / [[金融危机]] / [[汇率制度]] / [[货币政策策略]] / [[银行风险]] / [[LudwigErhard]] / [[中国银行间市场]] / [[德国经济史]] / [[易纲]] / [[港股]]。
 
 > 注：本次新增的 [[新NISA]] 有入链（[[日本95年体制]] 三处 + [[安倍经济学]] frontmatter），**非孤儿** ✓
 
@@ -93,6 +93,6 @@ status: developing
 4. **[LOW] 导航/历史/大小写 10 处**
 5. **[LOW] 疑似新发现**：美联储点阵图/BRICS Pay/有效需求/一带一路 等建 stub 或改引
 6. **[FM] [[安倍经济学]] 补 `status: current`**
-7. **[FM] log.md 笔误**：`[[美元收割全球的机制什么]]` → `[[美元收割全球的机制是什么]]`
+7. **[FM] log.md 笔误**：`[[美元收割全球的机制]]` → `[[美元收割全球的机制是什么]]`
 
 > 以上均为昨日报告遗留 + 本次无新增实质断链；修复需用户确认后批量执行。

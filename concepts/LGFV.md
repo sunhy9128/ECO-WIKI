@@ -6,7 +6,7 @@ title: "LGFV"
 created: 2026-06-26
 updated: 2026-06-26
 status: evergreen
-tags: [term]
+tags: []
 aliases:
   - "地方政府融资平台"
   - "Local Government Financing Vehicle"

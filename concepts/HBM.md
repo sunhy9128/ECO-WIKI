@@ -4,7 +4,7 @@ title: "HBM"
 address: c-000059
 created: 2026-06-26
 updated: 2026-06-26
-tags: [concept, semiconductor, memory, ai]
+tags: [semiconductor, memory, ai]
 status: developing
 aliases:
   - "高带宽内存"
@@ -114,7 +114,8 @@ HBM 景气度 =
 |---|---|
 | 存储芯片 ETF | 直接受益 |
 | 兆易创新 | 国产存储芯片 |
-| 长江存储(长存) | 国产 NAND 龙头 |
+| [[长江存储]](长存) | 国产 NAND 龙头 |
+| [[长鑫存储]] | 国产 DRAM（含 HBM 布局）龙头 |
 
 ### 间接受益(AI 算力)
 
@@ -159,6 +160,7 @@ HBM 景气度 =
 - [[AI虹吸效应]] — HBM 涨价是 AI 算力行情的核心驱动
 - [[苹果涨价]] — 2026-06 苹果涨价 15-18% 受 HBM/DRAM 涨价驱动
 - [[加息预期]] — 存储超高景气 → 美国通胀粘性 → 加息预期
+- [[韩国历史股灾谱系]] — SK海力士、三星作为韩国股灾的半导体放大器
 
 ## 来源
 

@@ -5,7 +5,7 @@ address: c-001074
 created: 2026-08-03
 updated: 2026-08-03
 status: developing
-tags: [中国, 金融, 对外开放, 资本管制, QF制度, 人民币国际化]
+tags: [中国, 金融, 对外开放, 资本管制, QF制度]
 aliases:
   - "人民币合格境外机构投资者"
   - "RMB Qualified Foreign Institutional Investor"

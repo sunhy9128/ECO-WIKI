@@ -5,7 +5,7 @@ address: c-001032
 status: current
 created: 2026-07-24
 updated: 2026-07-24
-tags: [concept, swf, 主权财富基金, 国际金融, 治理]
+tags: [主权基金, 主权财富基金, 国际金融, 治理]
 aliases:
   - "圣地亚哥原则"
   - "Santiago Principles"

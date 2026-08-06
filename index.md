@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-08-05
+updated: 2026-08-06
 tags:
   - meta
   - index
@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-08-05 | Total pages: 58 | Sources ingested: 6
+Last updated: 2026-08-06 | Total pages: 58 | Sources ingested: 6
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas]] | [[getting-started]]
 
@@ -95,6 +95,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[Query-Time Retrieval]]: wiki query path synthesizes with citations; complementary to Obsidian's in-vault search (status: developing)
 - [[外汇干预有效性]] — 外汇干预是强心针不是根治药；2026年7月美日韩联合干预+卖美债升利率的反身性陷阱（status: developing）
 - [[韩元]] — 韩元非国际货币，与韩股强关联；2026年7月升值8.81%从走弱转强，联合干预中"不是问题"（status: developing）
+- [[美元互换网络]] — 美联储 C6 常设+临时扩展+FIMA 的三层全球美元流动性后盾，事实上的全球最后贷款人载体（status: developing）
+- [[FIMA回购便利]] — 面向所有 FIMA 账户持有者的普惠化美债抵押美元便利，2021.7.28 常设化（status: developing）
 
 ---
 
@@ -138,6 +140,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[2025-08-25-恒大暴雷始末-万亿恒大落幕]] — 2025-08-25 | 中华网转载（原载网易）：中国恒大港交所摘牌+暴雷全脉络复盘，特邀第一财经/澎湃记者 | 网易/中华网（status: current）
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
 - [[2026-08-03-美日韩同时出手-任博宏观论道]] — 2026-08-03 | 美日韩7月30-31日联手干预汇率：日本抛售560亿美元、美元指数跌破100、美国首次实质性参与 | 任博宏观论道（status: extracted）
+- [[美联储中央央行流动性互换-Fed官网]] — 2026-08-06 | 美联储官方一手源：C6 常设美元互换线全套（2007-2023 时间线/两笔交易机制/法律依据）+ 2023.3 协调行动 | Federal Reserve（status: evergreen）
+- [[FIMA回购便利-Fed官网]] — 2026-08-06 | 美联储官方一手源：FIMA 回购便利定义/机制/常设化时间线 | Federal Reserve（status: evergreen）
 
 ---
 
@@ -158,6 +162,22 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 ---
 
+## Synthesis
+
+- [[扩表与缩表 × 化债]] — 化债让银行扩表而非央行扩表，「扩表但不宽货币」的中国式资产负债表操作（status: developing）
+- [[量化宽松 × 扩表与缩表]] — QE 是扩表的一种而非全部：工具与机制分层，解释 QE 结束与缩表启动的空窗（status: developing）
+- [[扩表与缩表 × 2008全球金融危机]] — 2008 把央行从利率管理者推向资产负债表管理者，缩表退出困境成新风险源（status: developing）
+- [[化债 × ECB]] — 中欧两条化债路径镜像相反：行政强制度 vs 法律强约束下的央行红线形态（status: developing）
+- [[欧盟 × 贸易战]] — 欧盟同时是贸易战对象与规则制定者，「规则贸易」的内生悖论（status: developing）
+- [[美联储 × 量化宽松]] — 美联储把 QE 从日本实验变为成熟制度：两次走完全流程，法律约束塑造 QE 形态，退出困境成机构性陷阱（status: developing）
+- [[美联储 × 2008全球金融危机]] — 2008 让美联储从利率管理者跃迁为影子银行体系最后贷款人：降息归零后发明 QE，紧急工具成 BTFP 前身（status: developing）
+- [[扩表与缩表 × ECB]] — ECB 扩表是美联储路径的迟到欧版：晚六年、负利率之后才启动，按 Capital Key 再分配而非总量扩张（status: developing）
+- [[ECB × 欧元区主权债务危机]] — 欧债危机把 ECB 从规则守护者重铸为有条件最后贷款人：SMP 灭火、LTRO 注资、OMT 以存在而非使用逆转利差（status: developing）
+- [[IMF × 2008全球金融危机]] — 2008 把危机救助裂成双轨：央行救富国、IMF 救外围，双轨结构放大 IMF 改革紧迫性（status: developing）
+- [[美联储在国际经济中的作用]] — 美联储五重国际角色：全球美元流动性提供者（C6 常设互换+FIMA repo）、事实上的全球最后贷款人、货币政策溢出源、美元体系制度支柱、国际政策协调者；核心张力=国内授权 vs 国际责任（status: developing）
+
+---
+
 ## Decisions
 
 - [[meta/2026-04-14-community-cta-rollout]] - Skool community CTA footer added to 6 skill repos with per-tool frequency rules (status: active)
@@ -173,7 +193,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[美元收割全球的机制是什么]] — 美联储加息/降息如何收割新兴市场？三步收割拆解（status: developing）
 - [[新兴市场为避免被美国薅羊毛采取了哪些措施]] — 去美元化、资本管制、区域联盟、汇率弹性四大类措施（status: developing）
 - [[研究：美元如何收割新兴市场]] — 8阶段收割循环+三大传导机制+11个历史案例+2026新一轮周期观察的完整研究报告（status: current）
-- [[研究：美元如何收割新兴市场（增强版）]] — 加入四大理论框架+量化实证+mermaid可视化+操作手册+2024-2026最新动态（status: current）
+- [[研究：美元如何收割新兴市场]] — 加入四大理论框架+量化实证+mermaid可视化+操作手册+2024-2026最新动态（status: current）
 - [[什么是QQE与YCC的比较]] — QQE定义/日银买ETF真相/YCC激进点/0%钉死的挤出效应/实际资金流向四出口（status: completed）
 - [[日本金融刺激是否导致金融化与盘剥无资产居民]] — 金融化+产业空心化+CPI/PPI剪刀差+四重转嫁盘剥无资产居民（status: completed）
 
@@ -189,3 +209,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[银行体系与金融监管]] — 银行监管、巴塞尔协议
 - [[风险管理]] — 市场、信用、流动性、操作风险
 - [[中国金融与改革]] — 财政改革、货币制度
+
+---
+
+## Journal
+
+- [[journal/digest-2026-08-06]] — 周报：近 7 天（07-30→08-06）65 新页 + 146 更新，synthesis 层从 0 到 10 页，日本制度演进主线闭环

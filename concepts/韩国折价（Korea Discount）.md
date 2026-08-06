@@ -5,7 +5,7 @@ address: c-001007
 created: 2026-07-22
 updated: 2026-07-22
 status: current
-tags: [finance, korea, valuation, corporate-governance, chaebol, kospi]
+tags: [金融, 韩国, KOSPI]
 sources: []
 aliases:
   - "韩国折价"

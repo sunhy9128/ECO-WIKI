@@ -4,7 +4,7 @@ title: "韩国KOSPI"
 address: c-000822
 created: 2026-06-24
 updated: 2026-06-24
-tags: [entity, index, korea, asia]
+tags: [韩国, 亚洲]
 status: developing
 aliases:
   - "KOSPI"

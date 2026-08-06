@@ -5,7 +5,7 @@ address: c-001084
 created: 2026-08-04
 updated: 2026-08-04
 status: current
-tags: [日本, NISA, 免税账户, 零售投资, 家庭金融资产, 资产所得倍增计划, 税制, 储蓄]
+tags: [日本, NISA]
 aliases:
   - "NISA"
   - "New NISA"

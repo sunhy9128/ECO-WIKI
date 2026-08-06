@@ -5,7 +5,7 @@ address: c-000040
 status: current
 created: 2026-07-14
 updated: 2026-07-14
-tags: [concept, 农业, 粮食安全, 大宗商品, 跨国公司]
+tags: [农业, 粮食安全, 大宗商品, 跨国公司]
 aliases:
   - "Archer-Daniels-Midland"
   - "阿丹米"

@@ -3,7 +3,6 @@ type: meta
 title: "Claude SEO v1.9.0 Slides and GitHub Release Session"
 updated: 2026-04-15
 tags:
-  - meta
   - session
   - claude-seo
   - github

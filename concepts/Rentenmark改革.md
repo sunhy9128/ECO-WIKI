@@ -43,8 +43,8 @@ sources: ""
 
 【上层：货币单位】
   - Rentenmark（地租马克）
-  - 1 Rentenmark = 1 旧马克
-  - ⭐ "心理锚定"：与旧货币等值
+  - 1 Rentenmark = 1 万亿旧马克（10¹²）
+  - ⭐ "心理锚定"：价值回到战前金马克平价（1 美元 = 4.2 Rentenmark）
 
 【下层：资产基础】
   - Rentenmark 不是 Reichsbank 发行
@@ -162,7 +162,7 @@ sources: ""
 【晚间：市场反应】
   - 货币市场立即反应
   - 美元对 Rentenmark 价格稳定
-  - 1 Rentenmark = 1 旧马克
+  - 1 Rentenmark = 1 万亿旧马克（锚定战前金马克平价）
   - ⭐ "市场信心"
 
 【第二日：蔓延效应】

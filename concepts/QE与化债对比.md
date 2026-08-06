@@ -8,7 +8,7 @@ updated: 2026-07-06
 status: current
 sources:
   - "[[2024-化债政策包]]"
-tags: [term]
+tags: []
 aliases:
   - "QE vs 化债"
   - "化债与QE比较"

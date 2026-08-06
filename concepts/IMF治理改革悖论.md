@@ -5,7 +5,7 @@ created: 2026-07-30
 updated: 2026-07-30
 type: "concept"
 status: "current"
-tags: [concept, imf, governance, reform, veto, political-economy, supranational-currency]
+tags: [imf, governance, supranational-currency]
 aliases:
   - "IMF 治理困境"
   - "IMF 改革悖论"

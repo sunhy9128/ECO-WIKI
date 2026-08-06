@@ -4,7 +4,7 @@ title: "做空CDS"
 address: c-000144
 created: 2026-07-14
 updated: 2026-07-14
-tags: [finance, derivatives, cds, 信用衍生品, 做空]
+tags: [金融, 衍生品, cds, 信用衍生品, 做空]
 status: current
 sources: []
 aliases:

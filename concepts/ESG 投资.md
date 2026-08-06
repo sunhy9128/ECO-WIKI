@@ -4,7 +4,7 @@ title: "ESG 投资"
 address: c-001035
 created: 2026-07-24
 updated: 2026-07-24
-tags: [finance, ESG, 负责任投资, 投资策略, 可持续金融]
+tags: [金融, ESG, 负责任投资, 投资策略, 可持续金融]
 status: current
 sources: []
 aliases:

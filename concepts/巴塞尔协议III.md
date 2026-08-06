@@ -5,7 +5,7 @@ created: 2026-07-07
 updated: 2026-07-07
 status: current
 type: concept
-tags: [finance, regulation, banking, basel-iii, capital-requirement, liquidity, leverage-ratio, NSFR, LCR, post-crisis]
+tags: [金融, 监管, 银行, 巴塞尔协议, 资本充足]
 aliases:
   - "巴塞尔协议III"
   - "巴塞尔III"

@@ -5,7 +5,7 @@ address: c-000909
 status: current
 created: 2026-07-17
 updated: 2026-07-17
-tags: [concept, emerging-markets, fragility, fragile-five]
+tags: [新兴市场, fragility, 脆弱五国（Fragile Five）]
 aliases:
   - "Fragile Five"
   - "脆弱五国"
@@ -199,7 +199,7 @@ sources:
 
 ### 历史案例
 - [[美元潮汐历史案例]] — 完整案例汇编
-- [[1997 亚洲金融危机]] — 索罗斯做空泰铢
+- [[1997亚洲金融危机]] — 索罗斯做空泰铢
 - [[1982 拉美债务危机]] — 沃尔克紧缩引爆
 
 ### 应对策略

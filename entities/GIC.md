@@ -5,7 +5,7 @@ address: c-000912
 created: 2026-07-17
 updated: 2026-07-17
 status: current
-tags: [finance, swf, singapore, entity, sovereign-wealth]
+tags: [金融, 主权基金, 新加坡]
 aliases: ["GIC", "Government of Singapore Investment Corporation", "新加坡政府投资公司"]
 sources: []
 related:

@@ -4,9 +4,6 @@ title: "Entities Index"
 address: c-000897
 updated: 2026-04-07
 tags:
-  - meta
-  - index
-  - entity
 status: evergreen
 related:
   - "[[index]]"

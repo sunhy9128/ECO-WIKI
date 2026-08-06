@@ -4,7 +4,7 @@ title: "Kweb (CSI China Internet)"
 address: c-000511
 created: 2026-06-24
 updated: 2026-06-24
-tags: [entity, index, china, us-market]
+tags: [中国, us-market]
 status: developing
 aliases:
   - "KWEB"

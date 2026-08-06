@@ -5,7 +5,7 @@ title: "PCE"
 address: c-000070
 created: 2026-06-26
 updated: 2026-06-26
-tags: [concept, usa, inflation, fed, monetary-policy]
+tags: [美国, 通胀, 美联储, 货币政策]
 status: developing
 related: "[[宏观经济]]"
 aliases:

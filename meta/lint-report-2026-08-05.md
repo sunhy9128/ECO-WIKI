@@ -3,7 +3,7 @@ type: meta
 title: "Lint Report 2026-08-05"
 created: 2026-08-05
 updated: 2026-08-05
-tags: [meta, lint]
+tags: [lint]
 status: developing
 ---
 
@@ -34,7 +34,7 @@ status: developing
 
 | 项 | 状态 |
 |----|------|
-| `dashboard.md` 引用已删除的 `[[lint-report-2026-07-30]]` | ✅ 本次已顺带更新为 `[[lint-report-2026-08-05]]`（dashboard 属 lint 产物） |
+| `dashboard.md` 引用已删除的 `lint-report-2026-07-30` | ✅ 本次已顺带更新为 `[[lint-report-2026-08-05]]`（dashboard 属 lint 产物） |
 | 其余所有断链/孤儿/FM 缺口 | ⏸ 未动，待用户确认后批量执行（见「八」） |
 
 ## 二、Dead Links
@@ -43,7 +43,7 @@ status: developing
 
 | 昨日项 | 处理结果 |
 |--------|---------|
-| `[[韩国股灾简史]]` 8 处 / `[[韩国需要冷静冷静]]` 5 处 | 已改引 `raw/wechat/...` 镜像路径；韩国需要冷静冷静可解析 ✓；韩国股灾简史镜像缺失 → 见 LOW |
+| `[[2026-07-21-韩国股灾简史]]` 8 处 / `[[2026-06-24-韩国需要冷静冷静]]` 5 处 | 已改引 `raw/wechat/...` 镜像路径；韩国需要冷静冷静可解析 ✓；韩国股灾简史镜像缺失 → 见 LOW |
 | 空格类 8 目标（`1997 亚洲金融危机` 等 15 处） | 已修复 ✓ |
 | `index.md`/`hot.md`「研究：美元如何收割新兴市场（增强版）」2 处 | 已修复 ✓ |
 | `美联储点阵图` / `共建"一带一路"` / `《环球时报》` / `BRICS Pay` / `微盘股指数` / `一带一路` / 国务院 / 中央人民政府 等 | 已不在断链列表 ✓ |
@@ -55,23 +55,23 @@ status: developing
 | 断链 | 引用处 | 建议 |
 |------|--------|------|
 | `[[meta/dashboard]]` | 货币本质 / 金融稳定 / 银行监管（3 处） | 改引 `[[dashboard]]`（文件在 `wiki/meta/dashboard.md`） |
-| `[[meta/lint-report-2026-05-21]]` | 金融稳定 / 银行监管 / 风险加权资产（3 处） | 已删除的历史报告；改引 `[[lint-report-2026-08-05]]` |
-| `[[meta/lint-report-2026-06-24]]` | 金融稳定 / 银行监管 / 风险加权资产（3 处） | 同上 |
+| `meta/lint-report-2026-05-21` | 金融稳定 / 银行监管 / 风险加权资产（3 处） | 已删除的历史报告；改引 `[[lint-report-2026-08-05]]` |
+| `meta/lint-report-2026-06-24` | 金融稳定 / 银行监管 / 风险加权资产（3 处） | 同上 |
 
 **MEDIUM（路径前缀 / 导航，10 处）**
 
 | 断链 | 引用处 | 建议 |
 |------|--------|------|
 | `[[meta/2026-04-14-community-cta-rollout]]` / `[[meta/2026-04-15-slides-and-release-session]]` / `[[meta/2026-04-15-release-report-session]]` / `[[meta/2026-04-14-claude-seo-v190-session]]` | `index.md`（4 处） | 文件均存在，去掉 `meta/` 前缀 |
-| `[[Concepts]]` / `[[Entities]]` / `[[Sources]]` | `concepts/_index.md`、`entities/_index.md`、`sources/_index.md` 导航（6 处） | 目录索引裸名页不存在；改引 `concepts/_index` 等或删除 |
+| `Concepts` / `Entities` / `Sources` | `concepts/_index.md`、`entities/_index.md`、`sources/_index.md` 导航（6 处） | 目录索引裸名页不存在；改引 `concepts/_index` 等或删除 |
 
 **LOW（单点 / 历史 / 镜像缺失，5 处）**
 
-- `[[有效需求]]`：凯恩斯主义（1 处）→ 建议建 stub 概念页
-- `[[raw/wechat/2026-07-21-韩国股灾简史]]`：sources/2026-07-21-韩国股灾简史（1 处）→ `raw/` 镜像缺失（`.raw/wechat/` 有原件）；补镜像或改引 `sources/2026-07-21-韩国股灾简史`
-- `[[raw/wechat/不结婚，也不消费，谁有办法]]`：sources/不结婚，也不消费，谁有办法（1 处）→ `raw/` 与 `.raw/` 均无原件；改引 source 页或补镜像
-- `[[Claude Canvas]]`：meta/2026-04-10-backlink-empire-session（1 处，会话记录页，低优先）
-- `[[美元收割全球的机制什么]]`：log.md（1 处，历史条目记录已删除 stub，**保留不改**）
+- `有效需求`：凯恩斯主义（1 处）→ 建议建 stub 概念页
+- `raw/wechat/2026-07-21-韩国股灾简史`：sources/2026-07-21-韩国股灾简史（1 处）→ `raw/` 镜像缺失（`.raw/wechat/` 有原件）；补镜像或改引 `sources/2026-07-21-韩国股灾简史`
+- `raw/wechat/不结婚，也不消费，谁有办法`：sources/不结婚，也不消费，谁有办法（1 处）→ `raw/` 与 `.raw/` 均无原件；改引 source 页或补镜像
+- `Claude Canvas`：meta/2026-04-10-backlink-empire-session（1 处，会话记录页，低优先）
+- `[[美元收割全球的机制]]`：log.md（1 处，历史条目记录已删除 stub，**保留不改**）
 
 ### 误报说明（analyzer 盲区，不处理）
 
@@ -79,12 +79,12 @@ status: developing
 
 ## 三、Orphan Pages（24，与昨日 22 相比 +2）
 
-**测试残留 / 插件演示页（10）**：[[X]] / [[existing]] / [[target]] / [[fold-template]] / [[wiki-fold]]（测试残留）、[[Karpathy LLM Wiki Pattern]] / [[How does the LLM Wiki pattern work_]] / [[Rankenstein]] / [[Claude Obsidian]] / [[E-commerce SEO]]（插件演示页）
+**测试残留 / 插件演示页（10）**：X / existing / target / fold-template / wiki-fold（测试残留）、Karpathy LLM Wiki Pattern / How does the LLM Wiki pattern work_ / Rankenstein / Claude Obsidian / E-commerce SEO（插件演示页）
 
 **内容孤儿（12，昨日已知）**：[[1970年代滞胀]] / [[2008金融危机]] / [[亚洲金融危机]] / [[金融危机]] / [[汇率制度]] / [[货币政策策略]] / [[银行风险]] / [[LudwigErhard]] / [[中国银行间市场]] / [[德国经济史]] / [[易纲]] / [[港股]]
 
 **本次新增（2）**：
-- [[dashboard.base]]（`wiki/concepts/dashboard.base.md`——概念目录下的重复文档页，`dashboard.md` 的 `[[dashboard.base]]` 引用解析到它；真实 dashboard.base 是 `wiki/meta/dashboard.base`）
+- dashboard.base（`wiki/concepts/dashboard.base.md`——概念目录下的重复文档页，`dashboard.md` 的 `dashboard.base` 引用解析到它；真实 dashboard.base 是 `wiki/meta/dashboard.base`）
 - [[2026-07-21-韩国股灾简史]]（`wiki/sources/` 下 source 页，无内容页引用它）
 
 ## 四、Frontmatter Gaps
@@ -125,8 +125,8 @@ status: developing
 1. **[HIGH] 13 页补 `created`/`updated`**（房地产集群，`fix-fm-gaps.py` 可批量）
 2. **[HIGH] `[[meta/dashboard]]` 3 处 + 历史报告引用 6 处**（金融稳定/银行监管/风险加权资产/货币本质 → 改引 `[[dashboard]]` 与 `[[lint-report-2026-08-05]]`）
 3. **[MEDIUM] `index.md` 4 处去 `meta/` 前缀**
-4. **[MEDIUM] `_index.md` 导航 6 处**（`[[Concepts]]`/`[[Entities]]`/`[[Sources]]`）
-5. **[LOW] `[[有效需求]]` 建 stub**（凯恩斯主义入链）
+4. **[MEDIUM] `_index.md` 导航 6 处**（`Concepts`/`Entities`/`Sources`）
+5. **[LOW] `有效需求` 建 stub**（凯恩斯主义入链）
 6. **[LOW] raw/ 镜像补缺 2 处**（韩国股灾简史、不结婚也不消费谁有办法）或改引 source 页
 7. **[LOW] 孤儿处置**：10 个测试残留/演示页建议删除；12 个内容孤儿建议从相关页补入链；dashboard.base.md 建议删除或移入 meta
 8. **[LOW] 空段落**：仅补 1998香港金融保卫战 / QE与化债对比 / 化债核心命题 等真实空洞

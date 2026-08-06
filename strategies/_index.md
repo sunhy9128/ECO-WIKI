@@ -5,7 +5,6 @@ address: c-000947
 created: 2026-05-21
 updated: 2026-05-21
 tags:
-  - meta
 status: seed
 ---
 

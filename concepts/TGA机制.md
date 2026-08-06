@@ -4,7 +4,7 @@ title: "TGA机制"
 address: c-000081
 created: 2026-06-24
 updated: 2026-06-24
-tags: [concept, fed, treasury, monetary-mechanics, usa]
+tags: [美联储, 债券市场, 货币政策, 美国]
 status: developing
 aliases:
   - "TGA"

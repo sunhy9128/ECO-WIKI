@@ -5,7 +5,7 @@ created: 2026-07-30
 updated: 2026-07-30
 type: "concept"
 status: "current"
-tags: [concept, monetary-system, bancor, keynes, supranational-currency, international-reform]
+tags: [货币体系, bancor, keynes, supranational-currency, international-reform]
 aliases:
   - "班柯"
   - "凯恩斯计划"

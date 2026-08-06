@@ -5,7 +5,7 @@ created: 2026-07-17
 updated: 2026-07-17
 type: concept
 status: current
-tags: [concept, dollar, emerging-markets, currency-mismatch, original-sin]
+tags: [美元, 新兴市场, 货币错配, original-sin]
 aliases:
   - "原罪"
   - "Original Sin Doctrine"
@@ -212,7 +212,7 @@ Original Sin（需求侧：EM 只能借美元，无法借本币长期）
 - [[蒙代尔-弗莱明模型]] — 经典开放宏观框架
 
 ### 实证案例
-- [[1997 亚洲金融危机]] — 泰国原罪典型
+- [[1997亚洲金融危机]] — 泰国原罪典型
 - [[2001 阿根廷违约]] — 钉住美元代价
 - [[2022 斯里兰卡违约]] — 当代原罪引爆
 - [[脆弱五国（Fragile Five）]] — 高 OSIN 国家组合

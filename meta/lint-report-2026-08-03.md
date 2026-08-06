@@ -3,7 +3,7 @@ type: meta
 title: "Lint Report 2026-08-03"
 created: 2026-08-03
 updated: 2026-08-03
-tags: [meta, lint]
+tags: [lint]
 status: developing
 ---
 
@@ -32,8 +32,8 @@ status: developing
 
 页面实际文件名带日期前缀，但 8 处链接用裸名：
 
-- `[[韩国股灾简史]]`（8 处）← [[韩国历史股灾谱系]]、[[韩国折价（Korea Discount）]]、[[SK海力士]]、[[三星电子]]、[[韩国综合指数(KOSPI)]]、hot、log、[[2026-06-24-韩国需要冷静冷静]]。实际文件：`sources/2026-07-21-韩国股灾简史.md`
-- `[[韩国需要冷静冷静]]`（5 处）← [[韩国历史股灾谱系]]、[[韩国综合指数(KOSPI)]]、hot、log、[[2026-07-21-韩国股灾简史]]。实际文件：`sources/2026-06-24-韩国需要冷静冷静.md`
+- `[[2026-07-21-韩国股灾简史]]`（8 处）← [[韩国历史股灾谱系]]、[[韩国折价（Korea Discount）]]、[[SK海力士]]、[[三星电子]]、[[韩国综合指数(KOSPI)]]、hot、log、[[2026-06-24-韩国需要冷静冷静]]。实际文件：`sources/2026-07-21-韩国股灾简史.md`
+- `[[2026-06-24-韩国需要冷静冷静]]`（5 处）← [[韩国历史股灾谱系]]、[[韩国综合指数(KOSPI)]]、hot、log、[[2026-07-21-韩国股灾简史]]。实际文件：`sources/2026-06-24-韩国需要冷静冷静.md`
 
 **建议**：两方案二选一——(a) 给两个 source 页加 `aliases: 韩国股灾简史 / 韩国需要冷静冷静`；(b) 把引用改指带日期全名。
 
@@ -43,22 +43,22 @@ status: developing
 |------|--------|---------|
 | `[[1997 亚洲金融危机]]` | 9 处（美元潮汐系列等） | `1997亚洲金融危机.md`（无空格） |
 | `[[1992 欧洲货币危机]]` | 3 处 | `1992欧洲货币危机.md` |
-| `[[meta/lint-report-2026-05-21]]` | 3 处（金融稳定/银行监管/风险加权资产） | 已删除的历史报告 |
-| `[[meta/lint-report-2026-06-24]]` | 3 处（同上） | 已删除的历史报告 |
+| `meta/lint-report-2026-05-21` | 3 处（金融稳定/银行监管/风险加权资产） | 已删除的历史报告 |
+| `meta/lint-report-2026-06-24` | 3 处（同上） | 已删除的历史报告 |
 | `[[1998 香港金融保卫战]]` | 1 处（美元潮汐历史案例） | `1998香港金融保卫战.md` |
-| `[[2001 阿根廷债务违约]]` | 1 处（美元收割全球的机制） | `2001 阿根廷违约.md` |
-| `[[2023 SVB危机]]` | 1 处（沃尔克规则） | `2023年SVB危机.md` |
-| `[[研究：美元如何收割新兴市场（增强版）]]` | 2 处（**index.md、hot.md**） | `questions/研究：美元如何收割新兴市场.md` |
+| `[[2001 阿根廷违约]]` | 1 处（美元收割全球的机制） | `2001 阿根廷违约.md` |
+| `2023 SVB危机` | 1 处（沃尔克规则） | `2023年SVB危机.md` |
+| `[[研究：美元如何收割新兴市场]]` | 2 处（**index.md、hot.md**） | `questions/研究：美元如何收割新兴市场.md` |
 
 ### LOW：导航/历史/大小写（10 处引用）
 
-- `[[Concepts]]`/`[[Entities]]`/`[[Sources]]`（各 2 处）← `_index.md` 系列导航链接，指向不存在的裸名页
-- `[[How does the LLM Wiki pattern work?]]`（2 处，hot/log）→ 实际 `How does the LLM Wiki pattern work_.md`（问号转下划线）
-- `[[lint-report-2026-07-30]]`（1 处，meta/dashboard）→ 引用不存在的未来报告
-- `[[Ludwig Erhard]]`（1 处，德国马克）→ 实际 `entities/LudwigErhard.md`
-- `[[DDX/DDY/DDZ 指标]]`（1 处，道氏理论）→ 实际 `DDXDDYDDZ-指标.md`
-- `[[Wiki链接]]`/`[[wiki链接]]`（1 处，concepts/wikilinks.md 自引用）→ 实际 `wikilinks.md`
-- `[[美元收割全球的机制什么]]`（1 处，log 历史条目笔误）
+- `Concepts`/`Entities`/`Sources`（各 2 处）← `_index.md` 系列导航链接，指向不存在的裸名页
+- `[[How does the LLM Wiki pattern work]]`（2 处，hot/log）→ 实际 `How does the LLM Wiki pattern work_.md`（问号转下划线）
+- `lint-report-2026-07-30`（1 处，meta/dashboard）→ 引用不存在的未来报告
+- `[[LudwigErhard]]`（1 处，德国马克）→ 实际 `entities/LudwigErhard.md`
+- `DDX/DDY/DDZ 指标`（1 处，道氏理论）→ 实际 `DDXDDYDDZ-指标.md`
+- `Wiki链接`/`wiki链接`（1 处，concepts/wikilinks.md 自引用）→ 实际 `wikilinks.md`
+- `[[美元收割全球的机制]]`（1 处，log 历史条目笔误）
 
 ---
 
@@ -127,7 +127,7 @@ status: developing
 
 ## 八、Stale Index（index.md）
 
-- `[[研究：美元如何收割新兴市场（增强版）]]` 指向不存在页面（真实文件为 questions/研究：美元如何收割新兴市场.md）
+- `[[研究：美元如何收割新兴市场]]` 指向不存在页面（真实文件为 questions/研究：美元如何收割新兴市场.md）
 - **主目录未收录近期新增页**：[[安倍经济学]]、[[桥本行政改革]]、[[厚生劳动省]]、[[日本95年体制]]、韩国系 5 页（韩国股灾简史/历史股灾谱系/韩国折价/KOSPI/韩国需要冷静冷静）、东欧转型系列等——index 收录 57 页 vs 全库 1019 文件，明显滞后
 
 ---

@@ -7,7 +7,7 @@ created: 2026-06-02
 updated: 2026-07-06
 status: current
 sources:
-tags: [method]
+tags: []
 aliases:
   - "中期借贷便利"
   - "Medium-term Lending Facility"

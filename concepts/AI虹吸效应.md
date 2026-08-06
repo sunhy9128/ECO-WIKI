@@ -4,7 +4,7 @@ title: "AI虹吸效应"
 address: c-000042
 created: 2026-06-24
 updated: 2026-06-24
-tags: [concept, a股, ai, market-structure]
+tags: [A股, ai, 市场机制]
 status: developing
 aliases:
   - "AI Liquidity Siphoning"

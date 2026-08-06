@@ -4,7 +4,7 @@ title: "CDS信用违约互换"
 address: c-000046
 created: 2026-07-14
 updated: 2026-07-14
-tags: [finance, derivatives, credit, 信用衍生品, 风险管理]
+tags: [金融, 衍生品, credit, 信用衍生品, 风险管理]
 status: current
 sources: []
 aliases:

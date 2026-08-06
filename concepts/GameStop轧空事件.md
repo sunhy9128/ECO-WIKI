@@ -5,7 +5,7 @@ address: c-000058
 created: 2026-07-06
 updated: 2026-07-06
 status: current
-tags: [event, finance, market-mechanics, short-squeeze, gamestop, 2021, retail-trading, wallstreetbets]
+tags: [金融, 市场机制, 轧空, gamestop]
 aliases:
   - "GME 轧空"
   - "GME 轧空事件"

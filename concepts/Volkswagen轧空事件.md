@@ -5,7 +5,7 @@ address: c-000085
 created: 2026-07-06
 updated: 2026-07-06
 status: current
-tags: [event, finance, market-mechanics, short-squeeze, volkswagen, 2008, porsche, options]
+tags: [金融, 市场机制, 轧空, 期权]
 aliases:
   - "VW 轧空"
   - "大众汽车轧空"

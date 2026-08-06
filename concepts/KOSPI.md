@@ -5,7 +5,7 @@ address: c-000951
 status: developing
 created: 2026-07-17
 updated: 2026-07-17
-tags: [concept, stock-market, korea, index]
+tags: [股票市场, 韩国]
 aliases: ["韩国综合指数"]
 sources: []
 related: []

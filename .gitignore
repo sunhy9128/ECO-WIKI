@@ -7,5 +7,8 @@
 .obsidian/core-plugins.json
 .obsidian/plugins/
 .obsidian/themes/
+.obsidian/hotkeys.json
+.claudian/
+.playwright-mcp/
 .trash/
 .env

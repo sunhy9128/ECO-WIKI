@@ -5,7 +5,7 @@ address: c-000084
 status: current
 created: 2026-07-14
 updated: 2026-08-05
-tags: [concept, 新兴市场, 汇率危机, 地缘政治]
+tags: [新兴市场, 汇率危机, 地缘政治]
 aliases:
   - "土耳其"
   - "土耳其危机"
