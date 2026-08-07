@@ -77,6 +77,7 @@ status: current
 - 系统性风险 (alias: systemic-risk)
 - 金融危机 (alias: financial-crisis, crisis, banking-crisis)
 - 金融稳定 (alias: financial-stability)
+- 保险 (alias: insurance)
 
 ### 宏观与地缘
 - 宏观经济 (alias: macroeconomics, macro, economy)
@@ -144,6 +145,7 @@ status: current
 - 宏观经济史
 - 央行史
 - 数据 (alias: statistics, empirical, data)
+- 金融 (alias: finance)
 
 ### 来源与人物(低优先,仅在跨页复用时使用)
 - 巫师财经
@@ -208,19 +210,23 @@ status: current
 | `capital-return` | 资本回报 |
 | `statistics` / `empirical` | 数据 |
 | `soros` / `george-soros` | 索罗斯 |
+| `insurance` | 保险 |
+| `finance` | 金融 |
 
 ## Migration Guide 迁移指南
 
-**首批(低风险,机械):**
+> **执行状态**:首批(第 1-3 项)+ 第 4 项超限裁剪已于 2026-08-06 完成——278 页,移除 type 222 页次、中英归并 377 页次、年份 19 页次、超限页 82→0。剩余:第 5 项单次专属标签(非超限页上的 ~590 个,本次未逐页处理)、第三批 type 全聚焦 Domain。
+
+**首批(低风险,机械)✅ 已完成:**
 
 1. **移除 tags 中的 type 类标签**(由 `type:` 字段承担):`concept`、`entity`、`term`、`event`、`person`、`source`、`index`、`question`、`meta`、`synthesis`、`stub`、`method`、`statistics`、`data`。
-2. **中英同义归并**:按上表 Aliases 替换为 canonical(如 `finance`→`金融`、`fed`→`美联储`、`monetary-policy`→`货币政策`)。**例外**:`finance` 出现 49 次为库内最高频英文标签——迁移时可先并入 `金融`,或保留为 canonical 别名层,二选一后全库一致。
+2. **中英同义归并**:按上表 Aliases 替换为 canonical(如 `finance`→`金融`、`fed`→`美联储`、`monetary-policy`→`货币政策`)。**finance 决策(2026-08-06)**:已并入 `金融`,全库一致;`finance` 与 `金融` 均为 canonical(互为别名)。
 3. **纯年份标签并入语义标签或移除**:`2008`→`金融危机`(具体页面并入 `2008全球金融危机` 语义)、`1992`→`1992欧洲货币危机`、`1997`→`亚洲金融危机`、`1998`→`1998香港金融保卫战`、`2020`→`2020年3月流动性危机`、`2021`/`2023`/`2010`/`2012`/`1979`/`1995`/`1999`/`1960`/`1944` 等并入对应事件标签或移除。
 
 **第二批(中风险,需逐页判断):**
 
-4. **超 5 标签裁剪**:82 页超过上限,裁剪规则——保留 2-3 个 Domain + 至多 1 个来源/人物标签 + 至多 1 个横切标签,移除 type 与年份。
-5. **单次专属标签(590 个)**:多数是事件/机构/人名的页面专属词。规则——跨页复用 ≥2 次才保留为标签;否则并入最接近的 canonical,或移除(该信息由页面标题与 wikilink 承担)。**不逐条上表**。
+4. **超 5 标签裁剪**:82 页超过上限,裁剪规则——保留 2-3 个 Domain + 至多 1 个来源/人物标签 + 至多 1 个横切标签,移除 type 与年份。✅ **已执行(2026-08-06)**:超限页 82→0。
+5. **单次专属标签(590 个)**:多数是事件/机构/人名的页面专属词。规则——跨页复用 ≥2 次才保留为标签;否则并入最接近的 canonical,或移除(该信息由页面标题与 wikilink 承担)。**不逐条上表**。⏳ **待执行**:本次仅处理了超限页内的单次词;非超限页上的单次标签仍在,下次审计可批量移除复用<2 者。
 
 **第三批(结构化,待决策):**
 

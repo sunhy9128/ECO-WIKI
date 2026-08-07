@@ -589,3 +589,27 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - [2026-08-06T17:15:54+0800] TAG_AUDIT taxonomy_missing=1 total_tags=856 single_use_tags=590 untagged=599 over_tagged=82 type_tags_redundant=~180 normalized=0 (只读审计,未修改任何页面)
 - [2026-08-06T17:18:23+0800] TAG_NORMALIZE taxonomy_created=1 canonical_tags=~90 aliases_mapped=~50 pages_modified=0 (路径1:仅建立 _meta/taxonomy.md,未改页面)
 - [2026-08-06T17:29:42+0800] WIKI_RESEARCH topic="美联储在国际经济中的作用" rounds=3 sources_fetched=4 pages_created=5 (synthesis/美联储在国际经济中的作用 + concepts/美元互换网络 + concepts/FIMA回购便利 + sources/美联储中央央行流动性互换-Fed官网 + sources/FIMA回购便利-Fed官网)
+- [2026-08-06T17:36:13+0800] TAG_NORMALIZE pages_modified=278 type_removed=222 alias_merged=377 year_handled=19 over_limit_trimmed=73 string_tags_fixed=2 (路径2:按 _meta/taxonomy.md 迁移指南首批执行)
+- 规则: 移除 14 种 type 类标签(concept/entity/term/event/...); 中英同义归并 86 种英文→canonical(含 finance→金融 49页, fed→美联储, monetary-policy→货币政策); 年份 9 处并入事件标签(2008→2008全球金融危机 等)+10 处未映射年份移除(标题已承载语义); 去重; 超限页裁剪到 ≤5(保留 canonical 与复用≥2 词,移除单次专属词 subprime/lehman/cdo 等)
+- 修复 2 页字符串 tags(双引号包裹的整串): entities/AIG.md [finance,insurance,entity,stub]→[金融,insurance], questions/为什么索罗斯做空英镑而非法郎.md→[索罗斯,ERM]
+- 验证: YAML/frontmatter 错误=0, 残留 type/别名/年份=0, 超5标签=0, tags 内无 wikilink, git diff 仅改 tags 行
+- 遗留: "金融" 补入 taxonomy canonical(归并目标); "保险" 补入 canonical(insurance 别名目标); ~120 个复用≥2 非 canonical 中文标签(国际金融/财政/欧盟/港股/估值 等)列为后续 taxonomy 扩充候选,本次未动(方案 B 不含扩充)
+
+## [2026-08-07] WIKI_SYNTHESIZE | 第三轮:5 个交叉合成页(扩表/化债/QE × IMF/中国央行/2008)
+
+- [2026-08-07T10:58:09+0800] WIKI_SYNTHESIZE pages_scanned=1019 synthesis_created=5 candidates_skipped=5
+- 候选来源: 2026-08-06 第二轮跳过的 next-10 候选对,按共现度排序取前 5 (均未被既有合成页覆盖)
+- Pages (共现页数):
+  - synthesis/扩表与缩表 × IMF.md (c-001135, 31 页共现): 央行资产负债表(印钞,弹性无限)与 IMF 配额/SDR(谈判,封顶)是全球流动性的两个尺度; "有能力者无义务、有义务者无能力"决定央行救富国、IMF 救外围
+  - synthesis/扩表与缩表 × 中国央行.md (c-001136, 29 页共现): 中国没有美联储式 QE/QT 二元,量工具靠准备金率(改乘数非资产负债表)、结构性靠 MLF/PSL; 真正的扩表在银行体系而非央行,化债是双层结构标本; 历史"缩表"是外生的(外储下降)而非主动 QT
+  - synthesis/化债 × 2008全球金融危机.md (c-001137, 27 页共现): 两次银行杠杆处置方向相反——2008 市场爆破+央行扩表救助(银行是问题),化债国家置换+银行购债吸收(银行是方案),成本同为"三重损失"; 化债是"2008 的反方案"(简单替代复杂、绕道不救市)
+  - synthesis/美联储 × IMF.md (c-001138, 27 页共现): 全球危机两个制度极点——美联储无国际授权但有印钞能力,IMF 有授权但资源封顶; "央行救富国、IMF 救外围"是制度倒置的产物; 中国兼具第三大配额国与互换体系外大国双重身份
+  - synthesis/量化宽松 × 2008全球金融危机.md (c-001139, 27 页共现): 2008 完成 QE 的合法性转移(日本失败实验→全球标准动作); 危机规模+美联储信誉+零利率遗产三要素制度化 QE; 与既有合成页划清分工(非发明者史、非央行角色史,而是工具合法性史)
+- Backlinks added to 7 anchors: 扩表与缩表(2: ×IMF, ×中国央行), IMF(2: ×扩表与缩表, ×美联储), 化债(1: ×2008), 2008全球金融危机(2: ×化债, ×量化宽松), 量化宽松(1: ×2008), 美联储(1: ×IMF), 中国央行(1: ×扩表与缩表)
+- 地址计数器: 1134→1139
+- Skipped (consider next time, 共现页数): 美联储×ECB(26), ECB×2008全球金融危机(26), 化债×财政货币化(25), 化债×中国央行(25), 美联储×化债(25)
+- 待解问题浮出: IMF SDR 转借机制无系统落点、互换线(EM 被排除)与去美元化矛盾、中国化债下半场是否被迫打破央行"不直接买债"的线、QE 合法性在信息透明时代是否已通胀
+- [2026-08-07T13:28:29+0800] QUERY query="IMF" result_pages=4 mode=normal escalated=false
+- [2026-08-07T14:05:00+0800] QUERY query="IMF 对危机国救助是否白手套/是否应早干预/是否延迟行动另有政治营利目的" result_pages=6 mode=normal escalated=false
+- [2026-08-07T14:20:00+0800] QUERY query="马来西亚如何应对1997年金融危机" result_pages=3 mode=normal escalated=false
+- [2026-08-07T14:40:00+0800] INGEST topic="马来西亚模式" pages_created=1 pages_updated=3 mode=manual

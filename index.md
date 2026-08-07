@@ -45,6 +45,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[美元周期]] — 美联储扩表/缩表+加息/降息的周期规律，是EM命运的总开关（status: current）
 - [[美元收割全球的机制]] — 美元通过放水→抽水→抄底三步收割新兴市场的结构性机制（status: current）
 - [[美元潮汐历史案例]] — 1980s以来11个EM危机案例：拉美/龙舌兰/亚洲/俄罗斯/阿根廷/Taper Tantrum/土耳其/斯里兰卡（status: current）
+- [[马来西亚模式]] — 1997-1998 马来西亚拒绝 IMF、以资本管制+固定汇率+财政刺激独立应对的"反 IMF"路径，资本管制复兴的经典案例（status: developing）
 - [[脆弱五国（Fragile Five）]] — 摩根士丹利2013年提出的高风险EM组合：巴西/印度/印尼/土耳其/南非（status: current）
 - [[Original Sin（原罪）]] — Eichengreen-Hausmann 1999：EM 无法以本币借长期债务，是美元收割 EM 的微观金融基础（status: current）
 - [[Exorbitant Privilege（过度特权）]] — Giscard 1965 + Gourinchas-Rey 2007：美国因美元储备地位获得约 2% GDP/年的超额收益（status: current）
@@ -175,6 +176,11 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[ECB × 欧元区主权债务危机]] — 欧债危机把 ECB 从规则守护者重铸为有条件最后贷款人：SMP 灭火、LTRO 注资、OMT 以存在而非使用逆转利差（status: developing）
 - [[IMF × 2008全球金融危机]] — 2008 把危机救助裂成双轨：央行救富国、IMF 救外围，双轨结构放大 IMF 改革紧迫性（status: developing）
 - [[美联储在国际经济中的作用]] — 美联储五重国际角色：全球美元流动性提供者（C6 常设互换+FIMA repo）、事实上的全球最后贷款人、货币政策溢出源、美元体系制度支柱、国际政策协调者；核心张力=国内授权 vs 国际责任（status: developing）
+- [[扩表与缩表 × IMF]] — 央行资产负债表（印钞、无限）与 IMF 配额/SDR（谈判、封顶）是全球流动性的两个尺度：「有能力者无义务、有义务者无能力」决定央行救富国、IMF 救外围（status: developing）
+- [[扩表与缩表 × 中国央行]] — 中国没有美联储式 QE/QT 二元：量工具靠准备金率、结构性靠 MLF/PSL，真正的扩表在银行体系而非央行，化债是双层结构标本（status: developing）
+- [[化债 × 2008全球金融危机]] — 两次银行杠杆处置方向相反：2008 是市场爆破+央行扩表救助（银行是问题），化债是国家置换+银行购债吸收（银行是方案），成本却同为「三重损失」（status: developing）
+- [[美联储 × IMF]] — 全球危机两个制度极点：美联储是无授权但有印钞能力的最后贷款人，IMF 有授权但资源封顶——「央行救富国、IMF 救外围」是制度倒置的产物（status: developing）
+- [[量化宽松 × 2008全球金融危机]] — 2008 完成 QE 的合法性转移：从日本失败实验变为全球标准动作，危机规模+美联储信誉+零利率遗产三要素制度化 QE，退出困境是其遗产（status: developing）
 
 ---
 

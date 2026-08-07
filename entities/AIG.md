@@ -4,7 +4,7 @@ title: "AIG（美国国际集团）"
 address: "c-000488"
 created: "2026-07-14"
 updated: "2026-07-14"
-tags: "[finance, insurance, entity, stub]"
+tags: [金融, insurance]
 sources: "[]"
 status: "developing"
 ---
