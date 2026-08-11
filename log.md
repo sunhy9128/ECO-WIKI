@@ -28,7 +28,7 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 - [2026-08-11T09:31:19+0800] LINT scanned=1046 orphans=1 broken_links=10 stale=23 contradictions=0 prov_issues=0 missing_summary=937 fragmented_clusters=20 visibility_issues=0 promotion_candidates=0 synthesis_gaps=64 relationship_issues=1 lifecycle_issues=1046 trust_ledger=missing fm_gaps=3 addr_dups=4 index_missing=5
 - 断链 5 目标/10 处：真内容断链 1 处 `concepts/2026-07 美日联合干预日元.md:38` → [[高市早苗]]（entities/ 无此页）；余 9 处为 log.md(5) 与 meta/ 历史会话报告(4)（Claude Obsidian/Rankenstein/Karpathy LLM Wiki Pattern/E-commerce SEO），按既有约定不改历史条目
-- 孤儿 1（全路径/别名感知判定）：`concepts/2026-07 美日联合干预日元.md` 零入链；sources/×5 与 questions/什么是财政货币化 为扫描器 stem-only 误报（经 [[sources/...]]/[[questions/...]] 全路径已被引用，非真孤儿）
+- 孤儿 1（全路径/别名感知判定）：`concepts/2026-07 美日联合干预日元.md` 零入链；sources/×5 与 questions/什么是财政货币化 为扫描器 stem-only 误报（经 sources/ 全路径形式已被引用，非真孤儿）
 - 地址重复 4 对（8 文件）：c-001145/147/148/149 被 08-10 新增页（sources/环球时报、sources/北京商报、entities/片山皋月、concepts/2026-07 美日联合干预日元）与 08-07 synthesis 页共用；address-counter=1157，08-10 ingest 取号落后于计数器
 - FM gaps 3：entities/Manu、entities/五神、entities/庄炳昌 均为 `tags: []` 空标签（Manu/五神 前有孤立 `---` 空行但解析正常，非双 frontmatter）
 - stale 23（>90d）：全为 2026-04 claude-obsidian 模板种子页（status mature/evergreen，内容稳定，无 verified 高险）

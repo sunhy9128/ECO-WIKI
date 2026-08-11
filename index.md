@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-08-07
+updated: 2026-08-11
 tags:
   - meta
   - index
@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-08-07 | Total pages: 58 | Sources ingested: 6
+Last updated: 2026-08-11 | Total pages: 161 | Sources ingested: 6
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas]] | [[getting-started]]
 
@@ -98,6 +98,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[韩元]] — 韩元非国际货币，与韩股强关联；2026年7月升值8.81%从走弱转强，联合干预中"不是问题"（status: developing）
 - [[美元互换网络]] — 美联储 C6 常设+临时扩展+FIMA 的三层全球美元流动性后盾，事实上的全球最后贷款人载体（status: developing）
 - [[FIMA回购便利]] — 面向所有 FIMA 账户持有者的普惠化美债抵押美元便利，2021.7.28 常设化（status: developing）
+- [[2026-07 美日联合干预日元]] — 2026-07-31 美日时隔15年再度联合干预（买入日元、抛售美元）：贝森特-片山敲定、高市早苗解散众议院搁浅后重启（status: current）
 
 ---
 
@@ -127,6 +128,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[日本财务省]] — 日本外汇事务最高行政机关，2026年干预系列的实际操作主体（status: current）
 - [[三村淳]] — 日本最高外汇事务官员，坐实美国实质性参与干预（status: current）
 - [[贝森特]] — 美国财政部长，称"日元被显著低估"，美国主动压制美元的信号（status: current）
+- [[片山皋月]] — 日本财务大臣（2026年），8月3日确认美日联合干预，不排除追加干预（status: current）
+- [[高市早苗]] — 日本首相（2026年），1月解散众议院致美日联合干预搁浅，干预后重启（status: current）
 
 ---
 
@@ -143,6 +146,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[2026-08-03-美日韩同时出手-任博宏观论道]] — 2026-08-03 | 美日韩7月30-31日联手干预汇率：日本抛售560亿美元、美元指数跌破100、美国首次实质性参与 | 任博宏观论道（status: extracted）
 - [[美联储中央央行流动性互换-Fed官网]] — 2026-08-06 | 美联储官方一手源：C6 常设美元互换线全套（2007-2023 时间线/两笔交易机制/法律依据）+ 2023.3 协调行动 | Federal Reserve（status: evergreen）
 - [[FIMA回购便利-Fed官网]] — 2026-08-06 | 美联储官方一手源：FIMA 回购便利定义/机制/常设化时间线 | Federal Reserve（status: evergreen）
+- [[2026-08-03-美日联手干预日元-环球时报]] — 2026-08-03 | 极为罕见！美日联手干预 | 环球时报（status: extracted）
+- [[2026-08-03-经济热点问答-美国缘何出手救日元-新华社]] — 2026-08-03 | 新华社：美国缘何出手"救"日元 | 新华社（status: extracted）
+- [[2026-08-04-干预汇市美日联手救日元-北京商报]] — 2026-08-04 | 干预汇市 美日联手"救日元" | 北京商报（status: extracted）
 
 ---
 

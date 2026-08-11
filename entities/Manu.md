@@ -6,7 +6,7 @@ title: "Manu"
 created: "2026-06-02"
 updated: "2026-06-02"
 sources: ""
-tags: []
+tags: [中国, 监管, 贸易]
 aliases: ""
 status: "current"
 ---

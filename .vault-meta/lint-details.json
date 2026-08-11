@@ -1,20 +1,8 @@
 {
   "today": "2026-08-11",
-  "total": 1046,
-  "orphans": [
-    "concepts/2026-07 美日联合干预日元.md",
-    "questions/什么是财政货币化.md",
-    "sources/2026-06-02-冲销式干预.md",
-    "sources/2026-06-02-石油美元体系.md",
-    "sources/2026-08-03-经济热点问答-美国缘何出手救日元-新华社.md",
-    "sources/2026-08-03-美日联手干预日元-环球时报.md",
-    "sources/2026-08-04-干预汇市美日联手救日元-北京商报.md"
-  ],
+  "total": 1047,
+  "orphans": [],
   "dead_links": {
-    "高市早苗": [
-      "concepts/2026-07 美日联合干预日元.md",
-      "log.md"
-    ],
     "Claude Obsidian": [
       "log.md",
       "meta/2026-04-10-backlink-empire-session.md"
@@ -32,51 +20,15 @@
       "meta/2026-04-14-claude-seo-v190-session.md"
     ]
   },
-  "dead_link_count": 10,
-  "fm_gaps": [
-    [
-      "entities/Manu.md",
-      [
-        "tags"
-      ]
-    ],
-    [
-      "entities/五神.md",
-      [
-        "tags"
-      ]
-    ],
-    [
-      "entities/庄炳昌.md",
-      [
-        "tags"
-      ]
-    ]
-  ],
-  "addr_errors": [
-    [
-      "concepts/2026-07 美日联合干预日元.md, synthesis/2020年3月流动性危机 × 扩表与缩表.md",
-      "duplicate address: c-001149"
-    ],
-    [
-      "entities/片山皋月.md, synthesis/2008全球金融危机 × 2020年3月流动性危机.md",
-      "duplicate address: c-001148"
-    ],
-    [
-      "sources/2026-08-03-美日联手干预日元-环球时报.md, synthesis/美联储 × ECB.md",
-      "duplicate address: c-001145"
-    ],
-    [
-      "sources/2026-08-04-干预汇市美日联手救日元-北京商报.md, synthesis/ECB × 欧元.md",
-      "duplicate address: c-001147"
-    ]
-  ],
+  "dead_link_count": 8,
+  "fm_gaps": [],
+  "addr_errors": [],
   "page_types": {
     "meta": 22,
     "analysis": 2,
     "comparison": 6,
     "concept": 528,
-    "entity": 383,
+    "entity": 384,
     "data": 1,
     "domain": 8,
     "fold": 1,
@@ -89,7 +41,7 @@
     "source": 46
   },
   "page_statuses": {
-    "current": 464,
+    "current": 465,
     "seed": 4,
     "developing": 448,
     "mature": 6,
@@ -104,5 +56,5 @@
     "extracted": 13,
     "digested": 1
   },
-  "issues_total": 19
+  "issues_total": 4
 }

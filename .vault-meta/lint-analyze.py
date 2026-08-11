@@ -30,12 +30,15 @@ def is_excluded(rec):
     return False
 
 orphans = []
+# 解析感知：链接经 stem/alias/全路径/大小写命中该页（name_to_paths 已含全部形式）即非孤儿
+linked_pages = set()
+for src, tgt in all_links:
+    for p in name_to_paths.get(tgt, []):
+        linked_pages.add(p)
 for rec in records:
     if is_excluded(rec):
         continue
-    if not inbound.get(rec["stem"], []):
-        # Exclude domain pages that are linked by _index pages
-        # Actually orphan means no wikilinks anywhere
+    if rec["path"] not in linked_pages:
         orphans.append(rec["path"])
 
 # 2. Dead links: wikilinks that don't resolve
