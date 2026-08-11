@@ -1,6 +1,6 @@
 {
   "today": "2026-08-11",
-  "total": 1047,
+  "total": 1052,
   "orphans": [],
   "dead_links": {
     "Claude Obsidian": [
@@ -36,14 +36,14 @@
     "decision": 1,
     "overview": 1,
     "question": 5,
-    "synthesis": 34,
+    "synthesis": 39,
     "reference": 2,
     "source": 46
   },
   "page_statuses": {
     "current": 465,
     "seed": 4,
-    "developing": 448,
+    "developing": 453,
     "mature": 6,
     "seedling": 3,
     "stub": 29,
