@@ -4,14 +4,17 @@ title: "SDR（特别提款权）"
 address: "c-000524"
 created: "2026-05-21"
 updated: "2026-05-21"
-tags: []
+tags:
+  - "货币体系"
+  - "汇率"
+  - "欧元区"
+  - "SDR"
 status: "developing"
 entity_type: "instrument"
 aliases: ""
 related: ""
 sources: "[]"
 ---
-
 # SDR（特别提款权）
 
 ## 核心定义

@@ -5,10 +5,12 @@ created: "2026-05-21"
 updated: "2026-05-21"
 type: "concept"
 status: "developing"
-tags: []
+tags:
+  - "债券市场"
+  - "风险管理"
+  - "巴塞尔协议"
 aliases: ""
 ---
-
 # 市场风险与VaR模型
 
 > 市场风险计量、VaR体系与巴塞尔市场风险框架（FRTB）

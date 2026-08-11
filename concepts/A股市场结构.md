@@ -5,10 +5,12 @@ created: "2026-05-21"
 updated: "2026-05-21"
 type: "concept"
 status: "developing"
-tags: []
+tags:
+  - "股票市场"
+  - "A股"
+  - "市场机制"
 aliases: ""
 ---
-
 # A 股市场结构
 
 > 中国股票市场的制度框架、参与主体与运行机制

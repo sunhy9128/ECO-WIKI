@@ -1,5 +1,4 @@
 ---
-
 title: "OMT"
 address: "c-000069"
 created: "2026-07-08"
@@ -7,11 +6,13 @@ updated: "2026-07-08"
 status: "current"
 related: "[[货币政策与中央银行]]"
 type: "concept"
-tags: []
+tags:
+  - "欧债危机"
+  - "欧元区"
+  - "财政政策"
 aliases: ""
 sources: ""
 ---
-
 # OMT（Outright Monetary Transactions / 直接货币交易）
 
 > ECB 的"威慑性核武器"——2012 年欧债危机的"转折工具"，**从未启用但改变历史**

@@ -1,16 +1,16 @@
 ---
-
 address: "c-000044"
 type: "concept"
 title: "A股风格轮动"
 created: "2026-06-03"
 updated: "2026-06-05"
 sources: "null"
-tags: []
+tags:
+  - "A股"
+  - "投资策略"
 aliases: ""
 status: "developing"
 ---
-
 
 # A股风格轮动
 

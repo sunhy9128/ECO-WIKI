@@ -4,12 +4,12 @@ title: "SVG Diagram Style Guide"
 address: "c-000883"
 created: "2026-04-14"
 updated: "2026-04-14"
-tags: []
+tags:
+  - "知识管理"
 status: "evergreen"
 related: ""
 sources: ""
 ---
-
 # SVG Diagram Style Guide
 
 The canonical visual style for all diagrams across agricidaniel's Claude Code skill repos. Extracted from the 17 production SVGs in claude-ads. Use this as the reference when creating or updating diagrams for any skill repo.

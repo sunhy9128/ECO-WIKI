@@ -1,15 +1,15 @@
 ---
-
 address: "c-000045"
 type: "concept"
 title: "CAPM资本资产定价模型"
 created: "2026-06-03"
 updated: "2026-06-03"
-tags: []
+tags:
+  - "资产定价"
+  - "金融学"
 aliases: ""
 status: "developing"
 ---
-
 > 由 AI 系统化整理（2026-06-03），待补充原始来源素材
 
 > CAPM（Capital Asset Pricing Model）由 William Sharpe（1964）、John Lintner（1965）、Jan Mossin（1966）独立提出，描述在均衡市场中，单一证券的预期收益与其系统性风险（β）之间的线性关系。

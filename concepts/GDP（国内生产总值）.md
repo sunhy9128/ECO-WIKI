@@ -1,15 +1,15 @@
 ---
-
 address: "c-000057"
 type: "concept"
 title: "GDP（国内生产总值）"
 created: "2026-06-03"
 updated: "2026-06-03"
-tags: []
+tags:
+  - "宏观经济"
+  - "中国"
 aliases: ""
 status: "developing"
 ---
-
 # GDP（国内生产总值）
 
 > 在一定时期内，一个国家或地区境内生产的所有最终产品和服务的市场价值总和。

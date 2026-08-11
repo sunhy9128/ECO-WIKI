@@ -1,16 +1,15 @@
 ---
-
 address: "c-000462"
 type: "concept"
 title: "韩国ICT产业集中度"
 created: "2026-06-04"
 updated: "2026-06-04"
 sources: ""
-tags: []
+tags:
+  - "韩国"
 aliases: ""
 status: "developing"
 ---
-
 
 # 韩国ICT产业集中度
 

@@ -5,11 +5,14 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "concept"
-tags: []
+tags:
+  - "欧元区"
+  - "金融史"
+  - "德国"
+  - "布雷顿森林"
 aliases: ""
 sources: ""
 ---
-
 # Rentenmark 改革（1923.11.15）
 
 > 人类历史上**最戏剧性的恶性通胀终结者**——Hans Luther 用一张"地租票据"在 24 小时内终结了 1 美元 = 4.2 万亿马克的噩梦，揭示了**"信用是货币的锚"**的深刻真理

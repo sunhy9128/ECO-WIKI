@@ -1,16 +1,16 @@
 ---
-
 address: "c-000519"
 type: "entity"
 title: "Meta收购Manu审查"
 created: "2026-06-02"
 updated: "2026-06-02"
 sources: ""
-tags: []
+tags:
+  - "私募股权"
+  - "科技"
 aliases: ""
 status: "current"
 ---
-
 
 # Meta收购Manu审查
 

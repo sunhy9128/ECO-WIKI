@@ -4,5 +4,11 @@
   "interfaceFontFamily": "苹方-简,LXGW WenKai Mono,HarmonyOS Sans SC",
   "textFontFamily": "苹方-简",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": [
+    "wk-design-tokens",
+    "wk-app-frame",
+    "wk-note-surface",
+    "wk-sidebar"
+  ]
 }

@@ -1,16 +1,16 @@
 ---
-
 address: "c-000061"
 type: "concept"
 title: "ICT出口"
 created: "2026-06-04"
 updated: "2026-06-04"
 sources: ""
-tags: []
+tags:
+  - "韩国"
+  - "贸易"
 aliases: ""
 status: "developing"
 ---
-
 
 # ICT出口
 

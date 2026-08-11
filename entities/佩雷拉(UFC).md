@@ -1,16 +1,15 @@
 ---
-
 address: "c-000577"
 type: "entity"
 title: "佩雷拉(UFC)"
 created: "2026-06-24"
 updated: "2026-06-24"
 sources: ""
-tags: []
+tags:
+  - "体育"
 aliases: ""
 status: "current"
 ---
-
 # 佩雷拉 (UFC)
 
 ## 基本信息

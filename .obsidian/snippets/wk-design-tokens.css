@@ -1,0 +1,35 @@
+/* ============================================================
+   wk-design-tokens — 设计 token 层（克制知识工作台 · light）
+   全部引用 Velocity 主题变量，不硬编码颜色。
+   调参只需改本文件，其余 wk-*.css 引用这些变量。
+   ============================================================ */
+
+:root {
+  /* accent */
+  --wk-accent: var(--color-accent);
+  --wk-accent-soft: color-mix(in srgb, var(--color-accent) 12%, transparent);
+  --wk-accent-faint: color-mix(in srgb, var(--color-accent) 6%, transparent);
+
+  /* text */
+  --wk-text: var(--text-normal);
+  --wk-text-muted: var(--text-muted);
+  --wk-text-faint: var(--text-faint);
+
+  /* surfaces */
+  --wk-bg: var(--color-base-00);
+  --wk-bg-soft: var(--color-base-05);
+  --wk-bg-raised: var(--color-base-10);
+  --wk-bg-hover: var(--color-base-20);
+
+  /* borders */
+  --wk-border: var(--background-modifier-border);
+  --wk-border-strong: var(--background-modifier-border-hover);
+
+  /* shape */
+  --wk-radius: 6px;
+  --wk-radius-sm: 4px;
+
+  /* type */
+  --wk-font-num: var(--font-monospace);
+  --wk-line-height: 1.7;
+}

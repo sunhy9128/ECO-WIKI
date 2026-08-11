@@ -4,12 +4,12 @@ title: "Nexus (ProfSynapse/claudesidian-mcp)"
 address: "c-000896"
 created: "2026-04-08"
 updated: "2026-04-08"
-tags: []
+tags:
+  - "知识管理"
 status: "current"
 related: ""
 sources: ""
 ---
-
 # Nexus (formerly Claudesidian MCP)
 
 **Type**: Native Obsidian plugin + MCP bridge

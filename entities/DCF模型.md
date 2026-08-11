@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "资产定价"
 ---
-
 # DCF模型
 
 > 折现现金流估值方法

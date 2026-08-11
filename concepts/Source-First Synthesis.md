@@ -4,11 +4,11 @@ title: "Source-First Synthesis"
 address: "c-000080"
 created: "2026-04-24"
 updated: "2026-04-24"
-tags: []
+tags:
+  - "知识管理"
 status: "developing"
 related: ""
 ---
-
 # Source-First Synthesis
 
 Source-first synthesis is the LLM Wiki practice of keeping raw sources separate from the generated wiki while requiring the wiki to cite and integrate those sources. Karpathy's pattern describes raw sources as the source of truth and the generated wiki as the maintained synthesis layer: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f

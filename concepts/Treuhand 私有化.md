@@ -5,12 +5,16 @@ address: "c-000083"
 created: "2026-07-07"
 updated: "2026-07-07"
 sources: ""
-tags: []
+tags:
+  - "东欧转型"
+  - "德国"
+  - "欧元区"
+  - "宏观经济"
+  - "制造业"
 status: "developing"
 related: ""
 aliases: ""
 ---
-
 # Treuhand 私有化
 
 > Treuhandanstalt — 1990-1994 年东德国有资产的"快速私有化"实验

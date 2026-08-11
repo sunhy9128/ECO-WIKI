@@ -4,11 +4,11 @@ title: "Claude SEO"
 address: "c-000894"
 created: "2026-04-14"
 updated: "2026-04-15"
-tags: []
+tags:
+  - "知识管理"
 status: "evergreen"
 related: ""
 ---
-
 # Claude SEO
 
 A Tier 4 Claude Code skill for comprehensive SEO analysis across all industries. Repository: [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)

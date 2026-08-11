@@ -1,16 +1,16 @@
 ---
-
 address: "c-000494"
 type: "entity"
 title: "Ceconomy"
 created: "2026-06-05"
 updated: "2026-06-05"
 sources: ""
-tags: []
+tags:
+  - "欧元区"
+  - "宏观经济"
 aliases: ""
 status: "current"
 ---
-
 
 # Ceconomy
 

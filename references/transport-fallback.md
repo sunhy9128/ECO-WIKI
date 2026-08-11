@@ -6,9 +6,9 @@ status: "evergreen"
 related: ""
 updated: "2026-05-17"
 created: "2026-05-17"
-tags: []
+tags:
+  - "知识管理"
 ---
-
 # Transport Fallback Decision Tree
 
 claude-obsidian v1.7+ supports four ways to read and mutate vault notes. This document is the canonical decision tree skills consult when picking one.

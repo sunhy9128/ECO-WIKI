@@ -1,16 +1,16 @@
 ---
-
 address: "c-000521"
 type: "entity"
 title: "OPEC"
 created: "2026-06-02"
 sources: ""
 updated: "2026-06-02"
-tags: []
+tags:
+  - "能源"
+  - "私募股权"
 aliases: ""
 status: "current"
 ---
-
 
 # OPEC
 

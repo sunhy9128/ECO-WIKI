@@ -1,10 +1,11 @@
 ---
-type: meta
+type: "meta"
 title: "v1.7 Retrieval Benchmark Corpus"
-status: evergreen
-updated: 2026-05-17
+status: "evergreen"
+updated: "2026-05-17"
+tags:
+  - "知识管理"
 ---
-
 # v1.7 Retrieval Benchmark — 50 Queries
 
 Used by the v1.7.0 audit (`docs/audits/v1.7.0-audit-2026-05-17.md`) to score

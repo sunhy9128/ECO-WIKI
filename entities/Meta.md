@@ -1,16 +1,15 @@
 ---
-
 address: "c-000518"
 type: "entity"
 title: "Meta"
 created: "2026-06-02"
 updated: "2026-06-02"
 sources: ""
-tags: []
+tags:
+  - "科技"
 aliases: ""
 status: "current"
 ---
-
 
 # Meta
 

@@ -1,0 +1,50 @@
+/* ============================================================
+   wk-app-frame — 应用框架层
+   1. workspace tab headers（标签条）
+   2. status bar（状态栏）
+   ============================================================ */
+
+/* ---- 1. 标签条 ---- */
+
+.workspace-tab-header-container {
+  background-color: var(--wk-bg-soft);
+  border-bottom: 1px solid var(--wk-border);
+}
+
+.workspace-tab-header {
+  color: var(--wk-text-muted);
+}
+
+/* active tab: accent 文字 + 极淡 accent 底 + 底部 accent 下划线 */
+.workspace-tab-header.is-active {
+  background-color: var(--wk-accent-faint);
+  box-shadow: inset 0 -2px 0 var(--wk-accent);
+}
+.workspace-tab-header.is-active .workspace-tab-header-inner {
+  color: var(--wk-accent);
+}
+
+/* inactive tab hover */
+.workspace-tab-header:not(.is-active):hover .workspace-tab-header-inner {
+  color: var(--wk-text);
+  background-color: var(--wk-bg-hover);
+}
+
+/* close button 与 新标签按钮的 hover 背景 */
+.workspace-tab-header .workspace-tab-header-inner-close-button:hover,
+.workspace-tab-header-new-tab:hover {
+  background-color: var(--wk-border);
+  color: var(--wk-text);
+}
+
+/* ---- 2. 状态栏 ---- */
+
+.status-bar {
+  background-color: var(--wk-bg-soft);
+  color: var(--wk-text-muted);
+  border-top: 1px solid var(--wk-border);
+  font-size: 12px;
+}
+.status-bar-item:hover {
+  background-color: var(--wk-bg-hover);
+}

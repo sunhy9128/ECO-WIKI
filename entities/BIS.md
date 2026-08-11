@@ -5,11 +5,15 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "entity"
-tags: []
+tags:
+  - "欧元区"
+  - "资本充足"
+  - "巴塞尔协议"
+  - "央行"
+  - "银行"
 aliases: ""
 sources: ""
 ---
-
 # BIS（Bank for International Settlements / 国际清算银行）
 
 > **全球央行的"央行"——国际金融治理的"最古老机构"和"最隐秘机构"**

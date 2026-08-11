@@ -1,14 +1,14 @@
 ---
-
-address: c-000071
-type: concept
+address: "c-000071"
+type: "concept"
 title: "PSL"
-created: 2026-06-26
-updated: 2026-07-06
-status: current
+created: "2026-06-26"
+updated: "2026-07-06"
+status: "current"
 sources:
   - "[[2024-化债政策包]]"
-tags: []
+tags:
+  - "货币政策"
 aliases:
   - "抵押补充贷款"
   - "Pledged Supplementary Lending"
@@ -16,7 +16,6 @@ aliases:
   - "央行PSL"
   - "wiki/concepts/PSL"
 ---
-
 # PSL（抵押补充贷款）
 
 > 中国央行向政策性银行提供长期低息资金的工具 —— 化债的重要"绕道支持"通道

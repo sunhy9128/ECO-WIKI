@@ -4,11 +4,11 @@ title: "Search Experience Optimization (SXO)"
 address: "c-000884"
 created: "2026-04-14"
 updated: "2026-04-14"
-tags: []
+tags:
+  - "私募股权"
 status: "evergreen"
 related: ""
 ---
-
 # Search Experience Optimization (SXO)
 
 A methodology that reads SERPs backwards to detect page-type mismatches, derives user stories from search features, and scores pages from persona perspectives. Contributed to [[Claude SEO]] v1.9.0 by Florian Schmitz.

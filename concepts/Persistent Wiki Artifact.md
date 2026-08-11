@@ -4,11 +4,13 @@ title: "Persistent Wiki Artifact"
 address: "c-000072"
 created: "2026-04-24"
 updated: "2026-04-24"
-tags: []
+tags:
+  - "知识管理"
+  - "私募股权"
+  - "技术指标"
 status: "developing"
 related: ""
 ---
-
 # Persistent Wiki Artifact
 
 A persistent wiki artifact is the maintained Markdown layer between raw sources and future questions. In Karpathy's LLM Wiki description, the agent reads source material, extracts key information, and integrates it into an interlinked wiki instead of only retrieving chunks at answer time: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f

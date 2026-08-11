@@ -9,8 +9,8 @@ import json, os, re, sys
 from collections import defaultdict, Counter
 from pathlib import Path
 
-ROOT = Path("/Users/mac/Documents/金融知识库")
-WIKI = ROOT / "wiki"
+ROOT = Path("/Users/mac/Documents/金融WIKI")
+WIKI = ROOT
 ADDRESS_RE = re.compile(r"^(c|l)-([0-9]{6})$")
 WIKILINK_RE = re.compile(r"\[\[([^\]\|#^]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)

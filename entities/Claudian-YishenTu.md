@@ -4,12 +4,12 @@ title: "Claudian (YishenTu/claudian)"
 address: "c-000895"
 created: "2026-04-08"
 updated: "2026-04-08"
-tags: []
+tags:
+  - "知识管理"
 status: "current"
 related: ""
 sources: ""
 ---
-
 # Claudian (YishenTu/claudian)
 
 **Type**: Native Obsidian plugin (TypeScript, embedded Claude Code/Codex)

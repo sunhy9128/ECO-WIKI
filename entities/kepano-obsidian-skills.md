@@ -4,12 +4,12 @@ title: "kepano/obsidian-skills"
 address: "c-000899"
 created: "2026-04-08"
 updated: "2026-04-08"
-tags: []
+tags:
+  - "知识管理"
 status: "current"
 related: ""
 sources: ""
 ---
-
 # kepano/obsidian-skills
 
 **Type**: Agent Skills (Agent Skills standard)

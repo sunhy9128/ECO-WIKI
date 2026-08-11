@@ -7,12 +7,12 @@ domain: "knowledge-management"
 aliases: ""
 created: "2026-04-07"
 updated: "2026-04-07"
-tags: []
+tags:
+  - "知识管理"
 status: "mature"
 related: ""
 sources: ""
 ---
-
 # LLM Wiki Pattern
 
 A pattern for building persistent, compounding knowledge bases using LLMs. Originated by [[Andrej Karpathy]]. The key insight: instead of re-deriving knowledge from raw documents on every query (RAG), the LLM incrementally builds and maintains a structured wiki that gets richer with every source added.

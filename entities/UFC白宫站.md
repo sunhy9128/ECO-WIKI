@@ -1,16 +1,16 @@
 ---
-
 address: "c-000530"
 type: "entity"
 title: "UFC白宫站"
 created: "2026-06-24"
 updated: "2026-06-24"
 sources: ""
-tags: []
+tags:
+  - "体育"
+  - "美国"
 aliases: ""
 status: "current"
 ---
-
 # UFC白宫站
 
 ## 基本信息

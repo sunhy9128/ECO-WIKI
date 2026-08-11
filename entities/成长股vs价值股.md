@@ -7,9 +7,10 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "投资策略"
+  - "股票市场"
 ---
-
 # 成长股vs价值股
 
 ## 核心定义

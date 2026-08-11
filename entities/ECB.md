@@ -5,11 +5,15 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "entity"
-tags: []
+tags:
+  - "欧元区"
+  - "欧债危机"
+  - "金融史"
+  - "美联储"
+  - "ECB"
 aliases: ""
 sources: ""
 ---
-
 # ECB（欧洲中央银行 / European Central Bank）
 
 > 全球第二大储备货币的发行者——人类历史上**第一个跨主权货币联盟**的央行，"Whatever it takes"的承诺者
@@ -1221,3 +1225,8 @@ ECB 关键时间线：
 - [[化债 × ECB]] — synthesis
 - [[扩表与缩表 × ECB]] — synthesis
 - [[ECB × 欧元区主权债务危机]] — synthesis
+- [[美联储 × ECB]] — synthesis
+- [[ECB × 2008全球金融危机]] — synthesis
+- [[ECB × 欧元]] — synthesis
+- [[量化宽松 × ECB]] — synthesis
+- [[ECB × IMF]] — synthesis

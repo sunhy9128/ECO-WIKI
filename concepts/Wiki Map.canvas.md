@@ -1,16 +1,16 @@
 ---
-type: concept
+type: "concept"
 title: "Wiki Map.canvas"
-address: c-000086
-status: stub
-created: 2026-07-14
-updated: 2026-07-14
-tags: []
+address: "c-000086"
+status: "stub"
+created: "2026-07-14"
+updated: "2026-07-14"
+tags:
+  - "知识管理"
 aliases: []
 sources: []
 related: []
 ---
-
 # Wiki Map.canvas
 
 > [!stub] 待完善

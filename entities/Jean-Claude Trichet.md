@@ -5,11 +5,12 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "entity"
-tags: []
+tags:
+  - "欧债危机"
+  - "欧元区"
 aliases: ""
 sources: ""
 ---
-
 # Jean-Claude Trichet（让-克洛德·特里谢）
 
 > **欧债危机的"开端行长"**——从法国到 ECB，在金融危机与主权债务危机之间

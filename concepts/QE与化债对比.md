@@ -1,14 +1,18 @@
 ---
-
-address: c-000073
-type: concept
+address: "c-000073"
+type: "concept"
 title: "QE与化债对比"
-created: 2026-06-26
-updated: 2026-07-06
-status: current
+created: "2026-06-26"
+updated: "2026-07-06"
+status: "current"
 sources:
   - "[[2024-化债政策包]]"
-tags: []
+tags:
+  - "货币政策"
+  - "化债"
+  - "量化宽松"
+  - "汇率"
+  - "公开市场操作"
 aliases:
   - "QE vs 化债"
   - "化债与QE比较"
@@ -18,7 +22,6 @@ aliases:
   - "Quantitative Easing vs Debt Resolution"
   - "wiki/concepts/QE与化债对比"
 ---
-
 # QE 与化债对比
 
 > 一个是"印钱买债"，一个是"借新还旧" — 看似都是扩表，本质截然不同

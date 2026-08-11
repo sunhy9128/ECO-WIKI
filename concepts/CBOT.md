@@ -3,13 +3,13 @@ type: "concept"
 title: "CBOT"
 address: "c-000877"
 aliases: ""
-tags: []
+tags:
+  - "期货"
 status: "stub"
 related: ""
 created: "2026-07-16"
 updated: "2026-07-16"
 ---
-
 # CBOT
 
 Chicago Board of Trade，芝加哥期货交易所，全球大宗商品定价中心。

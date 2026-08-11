@@ -1,16 +1,15 @@
 ---
-
 address: "c-000656"
 type: "entity"
 title: "托普利亚(UFC)"
 created: "2026-06-24"
 updated: "2026-06-24"
 sources: ""
-tags: []
+tags:
+  - "体育"
 aliases: ""
 status: "current"
 ---
-
 # 托普利亚 (UFC)
 
 ## 基本信息

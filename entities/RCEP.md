@@ -1,5 +1,4 @@
 ---
-
 address: "c-000522"
 type: "entity"
 title: "RCEP"
@@ -7,10 +6,11 @@ created: "2026-04-29"
 updated: "2026-06-02"
 sources: ""
 aliases: ""
-tags: []
+tags:
+  - "宏观经济"
+  - "贸易"
 status: "current"
 ---
-
 ## Basic Information
 - **Type**: entity
 - **Tag**: project

@@ -1,16 +1,19 @@
 ---
-
 address: "c-000047"
 type: "concept"
 title: "CPI与通胀"
 created: "2026-06-03"
 updated: "2026-06-08"
 sources: ""
-tags: []
+tags:
+  - "通胀"
+  - "宏观经济"
+  - "贸易"
+  - "加息"
+  - "金融学"
 aliases: ""
 status: "developing"
 ---
-
 ## Basic Information
 - **Type**: concept（经济学/宏观经济学 — 价格与货币理论）
 - **Sources**: [[我们已经处于新一轮加息周期中或前夜]]（新增）

@@ -4,11 +4,11 @@ title: "Query-Time Retrieval"
 address: "c-000074"
 created: "2026-04-24"
 updated: "2026-04-24"
-tags: []
+tags:
+  - "知识管理"
 status: "developing"
 related: ""
 ---
-
 # Query-Time Retrieval
 
 Query-time retrieval is the baseline memory pattern that LLM Wiki is contrasted against: relevant material is retrieved when the user asks a question, and the answer is generated from the retrieved context.

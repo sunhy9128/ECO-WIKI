@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "货币体系"
 ---
-
 # SWIFT
 
 > 全球金融清算系统

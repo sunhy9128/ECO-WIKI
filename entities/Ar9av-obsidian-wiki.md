@@ -4,12 +4,12 @@ title: "Ar9av/obsidian-wiki"
 address: "c-000893"
 created: "2026-04-08"
 updated: "2026-04-08"
-tags: []
+tags:
+  - "知识管理"
 status: "current"
 related: ""
 sources: ""
 ---
-
 # Ar9av/obsidian-wiki
 
 **Type**: Claude Code plugin (skill-based)

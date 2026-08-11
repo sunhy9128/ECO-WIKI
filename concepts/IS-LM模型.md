@@ -1,15 +1,16 @@
 ---
-
 address: "c-000062"
 type: "concept"
 title: "IS-LM模型"
 created: "2026-06-03"
 updated: "2026-06-03"
-tags: []
+tags:
+  - "货币政策"
+  - "宏观经济"
+  - "金融学"
 aliases: ""
 status: "developing"
 ---
-
 # IS-LM模型
 
 > 由 Hicks 和 Hansen 提出的凯恩斯主义总需求分析框架，描述产品市场（IS）与货币市场（LM）同时均衡时利率与收入的决定。

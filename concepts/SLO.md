@@ -5,11 +5,11 @@ created: "2026-07-14"
 updated: "2026-07-14"
 status: "stub"
 type: "concept"
-tags: []
+tags:
+  - "公开市场操作"
 aliases: ""
 sources: ""
 ---
-
 # SLO
 
 > 短期流动性调节工具——央行2013年1月创设的非公开市场操作工具，2013年6月钱荒期间投放约3000亿救市

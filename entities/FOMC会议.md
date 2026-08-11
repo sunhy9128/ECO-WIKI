@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "美联储"
 ---
-
 # FOMC会议
 
 ## 核心定义

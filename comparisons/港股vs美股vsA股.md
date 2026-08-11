@@ -5,9 +5,13 @@ created: "2026-05-21"
 updated: "2026-05-21"
 type: "comparison"
 status: "developing"
-tags: []
+tags:
+  - "A股"
+  - "股票市场"
+  - "市场机制"
+  - "港股"
+  - "科技"
 ---
-
 # 港股 vs 美股 vs A 股：市场结构对比
 
 > A 股、港股、美股三大市场的制度、参与者与定价逻辑的全面比较

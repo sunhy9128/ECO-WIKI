@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "流动性"
 ---
-
 # LCR流动性覆盖率
 
 ## 核心定义

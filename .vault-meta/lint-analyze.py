@@ -4,7 +4,7 @@ import json, re
 from collections import defaultdict, Counter
 from pathlib import Path
 
-ROOT = Path("/Users/mac/Documents/金融知识库")
+ROOT = Path("/Users/mac/Documents/金融WIKI")
 stats = json.loads((ROOT / ".vault-meta" / "lint-stats.json").read_text(encoding="utf-8"))
 records = stats["records"]
 all_links = stats["all_links"]
@@ -23,7 +23,9 @@ def is_excluded(rec):
         return True
     if Path(rec["path"]).name in ORPHAN_EXCLUDE_FILES:
         return True
-    if rec["path"].startswith("wiki/meta/"):
+    if rec["path"].startswith("meta/"):
+        return True
+    if rec["path"].startswith(("_meta/", "journal/", "folds/", "_raw/", "_archives/", "_staging/")):
         return True
     return False
 
@@ -87,7 +89,8 @@ for rec in records:
     addr = rec["address"]
     if not addr:
         # Skip if excluded
-        if rec["in_folds"] or Path(path).name in ORPHAN_EXCLUDE_FILES or path.startswith("wiki/meta/"):
+        if rec["in_folds"] or Path(path).name in ORPHAN_EXCLUDE_FILES or path.startswith(
+            ("meta/", "_meta/", "journal/", "folds/", "_raw/", "_archives/", "_staging/")):
             continue
         # Determine if post-rollout page
         is_legacy_listed = path in legacy_paths

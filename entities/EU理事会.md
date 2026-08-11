@@ -5,11 +5,14 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "entity"
-tags: []
+tags:
+  - "欧元区"
+  - "欧债危机"
+  - "宏观经济"
+  - "财政政策"
 aliases: ""
 sources: ""
 ---
-
 # EU 理事会（Council of the European Union）
 
 > **欧盟的核心决策机构**——成员国政府的代表，欧盟立法的"主战场"

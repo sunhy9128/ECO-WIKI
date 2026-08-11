@@ -5,13 +5,14 @@ address: "c-000508"
 created: "2026-07-07"
 updated: "2026-07-07"
 sources: ""
-tags: []
+tags:
+  - "地缘政治"
+  - "欧元区"
 status: "developing"
 entity_type: "infrastructure"
 related: ""
 aliases: ""
 ---
-
 # INSTEX（贸易互换支持工具）
 
 > Instrument in Support of Trade Exchanges — 欧盟绕开美元制裁伊朗的"非美元清算"实验

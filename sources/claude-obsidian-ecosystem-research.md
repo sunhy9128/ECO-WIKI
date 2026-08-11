@@ -4,12 +4,12 @@ title: "Claude + Obsidian Ecosystem Research"
 address: "c-000946"
 created: "2026-04-08"
 updated: "2026-04-08"
-tags: []
+tags:
+  - "知识管理"
 status: "current"
 related: ""
 raw_file: ".raw/claude-obsidian-ecosystem-research.md"
 ---
-
 # Source: Claude + Obsidian Ecosystem Research
 
 **Type**: Web research (GitHub + web search)

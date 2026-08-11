@@ -1,16 +1,15 @@
 ---
-
 address: "c-000218"
 type: "concept"
 title: "外国补贴条例FSR"
 created: "2026-06-05"
 updated: "2026-06-15"
 sources: "null"
-tags: []
+tags:
+  - "贸易"
 aliases: ""
 status: "developing"
 ---
-
 
 # 《外国补贴条例》(FSR)
 

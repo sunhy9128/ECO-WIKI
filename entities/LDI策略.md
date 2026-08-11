@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "债券市场"
 ---
-
 # LDI策略
 
 ## 核心定义

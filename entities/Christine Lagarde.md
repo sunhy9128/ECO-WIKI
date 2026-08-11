@@ -5,11 +5,12 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "entity"
-tags: []
+tags:
+  - "欧元区"
+  - "欧债危机"
 aliases: ""
 sources: ""
 ---
-
 # Christine Lagarde（克里斯蒂娜·拉加德）
 
 > ECB 首位非经济学家出身的行长——从国际律师到 IMF 总裁再到 ECB 行长的"跨界传奇"

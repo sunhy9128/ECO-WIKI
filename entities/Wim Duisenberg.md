@@ -5,11 +5,12 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "entity"
-tags: []
+tags:
+  - "欧元区"
+  - "欧债危机"
 aliases: ""
 sources: ""
 ---
-
 # Wim Duisenberg（维姆·杜伊森贝赫）
 
 > **ECB 的奠基者**——"Mr. Euro"，从荷兰走向欧洲金融史的核心

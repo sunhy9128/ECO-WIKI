@@ -4,12 +4,12 @@ title: "rvk7895/llm-knowledge-bases"
 address: "c-000900"
 created: "2026-04-08"
 updated: "2026-04-08"
-tags: []
+tags:
+  - "知识管理"
 status: "current"
 related: ""
 sources: ""
 ---
-
 # rvk7895/llm-knowledge-bases
 
 **Type**: Claude Code plugin (Marketplace)

@@ -1,16 +1,17 @@
 ---
-
 address: "c-000529"
 type: "entity"
 title: "Temu"
 created: "2026-06-05"
 updated: "2026-06-05"
 sources: ""
-tags: []
+tags:
+  - "科技"
+  - "欧元区"
+  - "贸易"
 aliases: ""
 status: "current"
 ---
-
 
 # Temu
 

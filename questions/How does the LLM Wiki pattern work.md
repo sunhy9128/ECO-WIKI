@@ -6,13 +6,13 @@ question: "How does the LLM Wiki pattern work and why is it better than RAG?"
 answer_quality: "definitive"
 created: "2026-04-07"
 updated: "2026-07-14"
-tags: []
+tags:
+  - "知识管理"
 aliases: ""
 status: "developing"
 related: ""
 sources: "[]"
 ---
-
 # How does the LLM Wiki pattern work?
 
 **Question:** How does the LLM Wiki pattern work and why is it better than RAG?

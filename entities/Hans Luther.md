@@ -5,11 +5,13 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "entity"
-tags: []
+tags:
+  - "欧元区"
+  - "金融史"
+  - "德国"
 aliases: ""
 sources: ""
 ---
-
 # Hans Luther（汉斯·路德 / 1879-1962）
 
 > 1923 年用"地租票据"在 24 小时内终结魏玛恶性通胀的"天才央行行长"——从 Reichsbank 行长到德国总理，再到中国国民政府顾问

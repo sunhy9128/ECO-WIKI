@@ -5,11 +5,11 @@ created: "2026-07-14"
 updated: "2026-07-14"
 status: "stub"
 type: "concept"
-tags: []
+tags:
+  - "公开市场操作"
 aliases: ""
 sources: ""
 ---
-
 # SLF
 
 > 常备借贷便利——央行利率走廊上限，2013年1月创设，主要为3-6个月期限

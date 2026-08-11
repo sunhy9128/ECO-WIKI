@@ -5,12 +5,15 @@ address: "c-000097"
 created: "2026-07-07"
 updated: "2026-07-07"
 sources: ""
-tags: []
+tags:
+  - "货币体系"
+  - "人民币国际化"
+  - "地缘政治"
+  - "香港"
 status: "developing"
 related: ""
 aliases: ""
 ---
-
 # mBridge（多边央行数字货币桥）
 
 > Multi-CBDC Bridge — 重构全球跨境支付格局的"数字货币联盟"

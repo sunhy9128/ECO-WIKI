@@ -1,13 +1,12 @@
 ---
-
-address: c-000067
-type: concept
+address: "c-000067"
+type: "concept"
 title: "MLF"
-created: 2026-06-02
-updated: 2026-07-06
-status: current
-sources:
-tags: []
+created: "2026-06-02"
+updated: "2026-07-06"
+status: "current"
+tags:
+  - "公开市场操作"
 aliases:
   - "中期借贷便利"
   - "Medium-term Lending Facility"
@@ -16,7 +15,6 @@ aliases:
   - "MLF续作"
   - "wiki/concepts/MLF"
 ---
-
 
 # MLF
 

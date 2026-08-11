@@ -5,13 +5,16 @@ address: "c-000493"
 created: "2026-07-07"
 updated: "2026-07-07"
 sources: ""
-tags: []
+tags:
+  - "人民币国际化"
+  - "货币体系"
+  - "地缘政治"
+  - "能源"
 status: "developing"
 entity_type: "infrastructure"
 related: ""
 aliases: ""
 ---
-
 # CIPS（人民币跨境支付系统）
 
 > Cross-border Interbank Payment System — 人民币国际化的"高速公路"

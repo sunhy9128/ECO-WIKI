@@ -5,11 +5,15 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "concept"
-tags: []
+tags:
+  - "宏观经济"
+  - "财政政策"
+  - "欧元区"
+  - "货币政策"
+  - "韩国"
 aliases: ""
 sources: ""
 ---
-
 # 现代货币理论（Modern Monetary Theory / MMT）
 
 > **Rentenmark 改革的"理论成熟版"——21 世纪最具争议的货币理论，挑战"财政赤字必须平衡"的传统共识

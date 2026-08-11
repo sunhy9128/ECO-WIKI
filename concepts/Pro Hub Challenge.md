@@ -4,11 +4,11 @@ title: "Pro Hub Challenge"
 address: "c-000881"
 created: "2026-04-14"
 updated: "2026-04-14"
-tags: []
+tags:
+  - "知识管理"
 status: "evergreen"
 related: ""
 ---
-
 # Pro Hub Challenge
 
 A community challenge hosted in the [AI Marketing Hub Pro](https://www.skool.com/ai-marketing-hub-pro) Skool community where members build extensions for Claude SEO or Claude Blog, competing for $600 in Claude Credits.

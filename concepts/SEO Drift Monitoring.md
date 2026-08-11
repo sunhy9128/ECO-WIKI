@@ -4,11 +4,11 @@ title: "SEO Drift Monitoring"
 address: "c-000882"
 created: "2026-04-14"
 updated: "2026-04-14"
-tags: []
+tags:
+  - "知识管理"
 status: "evergreen"
 related: ""
 ---
-
 # SEO Drift Monitoring
 
 "Git for SEO" — captures baselines of SEO-critical page elements, then diffs against current state to detect regressions. Contributed to [[Claude SEO]] v1.9.0 by Dan Colta.

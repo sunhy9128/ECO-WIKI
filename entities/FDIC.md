@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "银行"
 ---
-
 # FDIC
 
 ## 核心定义

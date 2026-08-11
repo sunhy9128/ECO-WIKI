@@ -7,12 +7,12 @@ role: "AI researcher, educator, founder"
 first_mentioned: "[[LLM Wiki Pattern]]"
 created: "2026-04-07"
 updated: "2026-04-07"
-tags: []
+tags:
+  - "知识管理"
 status: "mature"
 related: ""
 sources: ""
 ---
-
 # Andrej Karpathy
 
 AI researcher and educator. Former Director of AI at Tesla, founding member of OpenAI. Known for deep learning education (Neural Networks: Zero to Hero series, micrograd, nanoGPT) and for publishing practical AI patterns.

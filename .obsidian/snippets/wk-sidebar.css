@@ -1,0 +1,36 @@
+/* ============================================================
+   wk-sidebar — 侧栏层
+   1. file explorer（文件浏览器行）
+   2. side-dock 图标 active 态（左/右 rail）
+   ============================================================ */
+
+/* ---- 1. 文件浏览器 ---- */
+
+.nav-file-title,
+.nav-folder-title {
+  border-radius: var(--wk-radius-sm);
+  margin: 1px 6px;
+  padding: 2px 6px;
+  line-height: 1.6;
+  color: var(--wk-text);
+}
+
+/* active 文件行：accent 淡底 + accent 文字与图标 */
+.nav-file-title.is-active {
+  background-color: var(--wk-accent-soft);
+}
+.nav-file-title.is-active .nav-file-title-content,
+.nav-file-title.is-active .nav-file-icon {
+  color: var(--wk-accent);
+}
+
+.nav-file-title:hover,
+.nav-folder-title:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+/* ---- 2. side-dock 图标 active 态 ---- */
+
+.workspace-tab-header.is-active .workspace-tab-header-inner-icon {
+  color: var(--wk-accent);
+}

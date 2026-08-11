@@ -1,0 +1,79 @@
+/* ============================================================
+   wk-note-surface — 笔记内容层
+   1. 数字排版（tabular-nums，金融数字对齐）
+   2. 标题层级
+   3. 内部链接
+   4. properties / metadata（轻量）
+   ============================================================ */
+
+/* ---- 1. 正文数字对齐 + 中文行高 ---- */
+
+.markdown-preview-view,
+.markdown-source-view .cm-content,
+.markdown-reading-view {
+  font-variant-numeric: tabular-nums;
+  line-height: var(--wk-line-height);
+}
+
+/* ---- 2. 标题层级（清晰但不喧宾夺主） ---- */
+
+.markdown-preview-view h1,
+.markdown-source-view .cm-content h1,
+.markdown-reading-view h1 {
+  font-size: 1.6em;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+.markdown-preview-view h2,
+.markdown-source-view .cm-content h2 {
+  font-size: 1.35em;
+  font-weight: 600;
+}
+.markdown-preview-view h3,
+.markdown-source-view .cm-content h3 {
+  font-size: 1.18em;
+  font-weight: 600;
+}
+.markdown-preview-view h4,
+.markdown-source-view .cm-content h4 {
+  font-size: 1.05em;
+  font-weight: 600;
+}
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.markdown-source-view .cm-content h5,
+.markdown-source-view .cm-content h6 {
+  font-size: 0.95em;
+  font-weight: 600;
+  color: var(--wk-text-muted);
+}
+
+/* ---- 3. 内部链接：常态无下划线，hover 下划线 ---- */
+
+.cm-hmd-internal-link,
+.internal-link {
+  color: var(--wk-accent);
+  text-decoration: none;
+}
+.cm-hmd-internal-link:hover,
+.internal-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* ---- 4. properties / metadata（轻量圆角与间距） ---- */
+
+.metadata-container {
+  border: 1px solid var(--wk-border);
+  border-radius: var(--wk-radius);
+  background-color: var(--wk-bg-soft);
+}
+.metadata-property {
+  border-radius: var(--wk-radius-sm);
+}
+.metadata-property:hover {
+  background-color: var(--wk-bg-hover);
+}
+.metadata-property .metadata-property-label {
+  color: var(--wk-text-muted);
+}

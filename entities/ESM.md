@@ -5,11 +5,15 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "entity"
-tags: []
+tags:
+  - "欧债危机"
+  - "欧元区"
+  - "宏观经济"
+  - "债券市场"
+  - "金融稳定"
 aliases: ""
 sources: ""
 ---
-
 # ESM（European Stability Mechanism / 欧洲稳定机制）
 
 > 欧元区"永久防火墙"——欧元区主权债务危机的"最后防线"，欧元区从"无救助"走向"有条件救助"的标志性机构

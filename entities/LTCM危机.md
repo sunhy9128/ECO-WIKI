@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "金融危机"
 ---
-
 # LTCM危机
 
 ## 核心定义

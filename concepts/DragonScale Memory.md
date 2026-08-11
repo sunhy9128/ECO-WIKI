@@ -7,12 +7,12 @@ domain: "knowledge-management"
 aliases: ""
 created: "2026-04-23"
 updated: "2026-04-24"
-tags: []
+tags:
+  - "知识管理"
 status: "proposed"
 related: ""
 sources: ""
 ---
-
 # DragonScale Memory
 
 A memory-layer design for LLM wiki vaults, inspired by the Heighway dragon curve. Four mechanisms (fold operator, deterministic page addresses, semantic tiling, boundary-first autoresearch) give an LLM-maintained wiki a principled way to grow, compact, and stay coherent. The dragon curve is a design-justification device, not a reasoning architecture.

@@ -7,12 +7,12 @@ domain: "knowledge-management"
 aliases: ""
 created: "2026-04-07"
 updated: "2026-04-07"
-tags: []
+tags:
+  - "知识管理"
 status: "mature"
 related: ""
 sources: ""
 ---
-
 # Compounding Knowledge
 
 The central insight behind the [[LLM Wiki Pattern]]: knowledge in a wiki compounds like interest in a bank. Every source added, every question answered, every analysis filed makes the wiki more valuable — not just by adding pages, but by enriching the connections between existing pages.

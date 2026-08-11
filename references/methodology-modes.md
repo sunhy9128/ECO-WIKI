@@ -2,13 +2,13 @@
 type: "reference"
 title: "Methodology Modes — Quick Decision Tree"
 address: "c-000843"
-tags: []
+tags:
+  - "知识管理"
 status: "evergreen"
 related: ""
 created: "2026-05-17"
 updated: "2026-06-24"
 ---
-
 # Methodology Modes — Quick Decision Tree
 
 Pick a vault organizational style with `bash bin/setup-mode.sh`.

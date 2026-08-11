@@ -1,16 +1,15 @@
 ---
-
 address: "c-000525"
 type: "entity"
 title: "SK海力士"
 created: "2026-06-04"
 updated: "2026-06-04"
 sources: ""
-tags: []
+tags:
+  - "韩国"
 aliases: ""
 status: "current"
 ---
-
 
 
 # SK海力士

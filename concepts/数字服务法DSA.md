@@ -1,16 +1,16 @@
 ---
-
 address: "c-000287"
 type: "concept"
 title: "数字服务法DSA"
 created: "2026-06-05"
 updated: "2026-06-15"
 sources: "null"
-tags: []
+tags:
+  - "贸易"
+  - "欧元区"
 aliases: ""
 status: "developing"
 ---
-
 
 # 《数字服务法》(DSA)
 

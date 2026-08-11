@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "美联储"
 ---
-
 # BTFP
 
 ## 核心定义

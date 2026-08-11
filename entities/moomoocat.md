@@ -1,16 +1,19 @@
 ---
-
 address: "c-000532"
 type: "entity"
 title: "moomoocat"
 created: "2026-06-03"
 updated: "2026-06-26"
 sources: ""
-tags: []
+tags:
+  - "能源"
+  - "韩国"
+  - "美国"
+  - "股票市场"
+  - "公开市场操作"
 aliases: ""
 status: "current"
 ---
-
 
 # moomoocat
 

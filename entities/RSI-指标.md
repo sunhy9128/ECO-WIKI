@@ -1,16 +1,15 @@
 ---
-
 address: "c-000523"
 type: "entity"
 title: "RSI-指标"
 created: "2026-06-02"
 updated: "2026-06-24"
 sources: "null"
-tags: []
+tags:
+  - "技术指标"
 aliases: ""
 status: "current"
 ---
-
 
 # RSI-指标
 

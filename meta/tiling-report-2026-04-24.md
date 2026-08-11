@@ -1,9 +1,11 @@
 ---
-
 title: "tiling-report-2026-04-24"
-address: c-000934
+address: "c-000934"
+tags:
+  - "知识管理"
+  - "回购"
+updated: "2026-08-10"
 ---
-
 # Semantic Tiling Report
 
 - generated: 2026-04-24T09:20:59Z

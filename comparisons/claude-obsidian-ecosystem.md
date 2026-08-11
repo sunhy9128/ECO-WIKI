@@ -4,12 +4,12 @@ title: "Claude + Obsidian Ecosystem: Feature Matrix"
 address: "c-000876"
 created: "2026-04-08"
 updated: "2026-04-08"
-tags: []
+tags:
+  - "知识管理"
 status: "current"
 related: ""
 sources: ""
 ---
-
 # Claude + Obsidian Ecosystem: Feature Matrix
 
 > Researched 2026-04-08 | 16+ projects analyzed | See [[cherry-picks]] for action items

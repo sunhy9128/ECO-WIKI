@@ -5,13 +5,16 @@ address: "c-000526"
 created: "2026-07-07"
 updated: "2026-07-07"
 sources: ""
-tags: []
+tags:
+  - "地缘政治"
+  - "欧元区"
+  - "货币体系"
+  - "人民币国际化"
 status: "developing"
 entity_type: "infrastructure"
 related: ""
 aliases: ""
 ---
-
 # SPFS（俄罗斯金融信息传输系统）
 
 > System for Transfer of Financial Messages — 俄罗斯版 SWIFT，应对制裁的核心金融基础设施

@@ -7,9 +7,13 @@ type: "entity"
 status: "current"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "国际金融"
+  - "欧元区"
+  - "宏观经济"
+  - "新兴市场"
+  - "金融危机"
 ---
-
 # IMF（国际货币基金组织）
 
 > 全球金融稳定的"最后贷款人"——既被推崇为"自由市场的守护者"，也被批评为"主权国家的经济殖民者"
@@ -898,3 +902,4 @@ IMF 是 20 世纪最重要的国际金融制度之一：
 - [[IMF × 2008全球金融危机]] — synthesis
 - [[扩表与缩表 × IMF]] — synthesis
 - [[美联储 × IMF]] — synthesis
+- [[ECB × IMF]] — synthesis

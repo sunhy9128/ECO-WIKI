@@ -1,16 +1,18 @@
 ---
-
 address: "c-000710"
 type: "entity"
 title: "港股-vs-美股-vs-A股"
 created: "2026-06-03"
 updated: "2026-06-03"
 sources: "null"
-tags: []
+tags:
+  - "A股"
+  - "市场机制"
+  - "港股"
+  - "美国"
 aliases: ""
 status: "current"
 ---
-
 
 # 港股 vs 美股 vs A股
 

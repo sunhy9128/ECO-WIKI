@@ -7,12 +7,12 @@ dimensions: ""
 verdict: "Wiki wins at <1000 pages. RAG wins at enterprise scale."
 created: "2026-04-07"
 updated: "2026-04-07"
-tags: []
+tags:
+  - "知识管理"
 status: "mature"
 related: ""
 sources: "[]"
 ---
-
 # Wiki vs RAG
 
 ## Overview

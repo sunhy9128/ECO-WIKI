@@ -7,12 +7,12 @@ domain: "knowledge-management"
 aliases: ""
 created: "2026-04-07"
 updated: "2026-04-07"
-tags: []
+tags:
+  - "知识管理"
 status: "mature"
 related: ""
 sources: ""
 ---
-
 # Hot Cache
 
 A ~500-word summary of the most recent context in the wiki vault. Stored in `wiki/hot.md`. Updated at the end of every session and after every significant ingest or query.

@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "金融学"
 ---
-
 # AFS会计处理
 
 ## 核心定义

@@ -5,9 +5,9 @@ created: "2026-05-09"
 updated: "2026-05-21"
 type: "source"
 status: "developing"
-tags: []
+tags:
+  - "巴塞尔协议"
 ---
-
 # 巴塞尔协议IV - Credit Risk 修订要点
 
 > 整理自用户提供的巴塞尔协议IV笔记 | 日期：2017-12-07

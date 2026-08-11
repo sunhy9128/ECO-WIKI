@@ -7,9 +7,9 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
-tags: []
+tags:
+  - "货币体系"
 ---
-
 # CHIPS
 
 > 美元同行清算系统

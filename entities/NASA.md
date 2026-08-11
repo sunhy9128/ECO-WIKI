@@ -1,16 +1,15 @@
 ---
-
 address: "c-000520"
 type: "entity"
 title: "NASA"
 created: "2026-06-03"
 updated: "2026-06-03"
 sources: ""
-tags: []
+tags:
+  - "科技"
 aliases: ""
 status: "current"
 ---
-
 
 # NASA
 

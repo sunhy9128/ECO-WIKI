@@ -24,6 +24,102 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-11] LINT | 全库健康审计（报告模式）
+
+- [2026-08-11T09:31:19+0800] LINT scanned=1046 orphans=1 broken_links=10 stale=23 contradictions=0 prov_issues=0 missing_summary=937 fragmented_clusters=20 visibility_issues=0 promotion_candidates=0 synthesis_gaps=64 relationship_issues=1 lifecycle_issues=1046 trust_ledger=missing fm_gaps=3 addr_dups=4 index_missing=5
+- 断链 5 目标/10 处：真内容断链 1 处 `concepts/2026-07 美日联合干预日元.md:38` → [[高市早苗]]（entities/ 无此页）；余 9 处为 log.md(5) 与 meta/ 历史会话报告(4)（Claude Obsidian/Rankenstein/Karpathy LLM Wiki Pattern/E-commerce SEO），按既有约定不改历史条目
+- 孤儿 1（全路径/别名感知判定）：`concepts/2026-07 美日联合干预日元.md` 零入链；sources/×5 与 questions/什么是财政货币化 为扫描器 stem-only 误报（经 [[sources/...]]/[[questions/...]] 全路径已被引用，非真孤儿）
+- 地址重复 4 对（8 文件）：c-001145/147/148/149 被 08-10 新增页（sources/环球时报、sources/北京商报、entities/片山皋月、concepts/2026-07 美日联合干预日元）与 08-07 synthesis 页共用；address-counter=1157，08-10 ingest 取号落后于计数器
+- FM gaps 3：entities/Manu、entities/五神、entities/庄炳昌 均为 `tags: []` 空标签（Manu/五神 前有孤立 `---` 空行但解析正常，非双 frontmatter）
+- stale 23（>90d）：全为 2026-04 claude-obsidian 模板种子页（status mature/evergreen，内容稳定，无 verified 高险）
+- summary 937/969 缺（96.7%，vault 约定不写该字段，软警告）；summary>200 字符 0
+- lifecycle/base_confidence：0/1046 页有（schema 未落地，待用户决策）；`obsidian-wiki trust-check --strict` fail: ledger_missing（_meta/trust-ledger.json 不存在）
+- relationships 1：`entities/石油美元体系.md` 畸形块（裸字符串 `- 'target: "[[sources/2026-06-02-石油美元体系]]'`，缺 type，引号未闭合）；journal/digest-2026-08-06.md 同型（journal 范围外）
+- 碎片化聚类 20（n≥5 且 cohesion<0.15）：知识管理 0.051/30 页、宏观经济 0.058/76、中国 0.060/80、金融学 0.062/46、数据 0.067/6、私募股权 0.077/14、金融 0.080/91、地缘政治 0.092/95、流动性 0.095/22、货币政策 0.104/102 等
+- synthesis gaps 64（top-15 高频概念对，别名合并后）：扩表与缩表×欧债危机 40、量化宽松×欧债危机 33、2008全球金融危机×欧债危机 32、量化宽松×2020年3月流动性危机 29、美联储×中国央行 29、美联储×2020年3月流动性危机 28、量化宽松×化债 27、扩表与缩表×财政货币化 27、IMF×欧债危机 27、美联储×欧债危机 26…
+- 矛盾 0（3 内容页含 ^[ambiguous] 标记：马来西亚模式/化债×ECB/扩表与缩表×化债——单点不确定性，非跨页矛盾）；provenance 0（库无 provenance 块）；visibility 0（0 页 visibility 标签、PII 模式 0 命中）；promotion 0（无 misc/）
+- index.md：链接 0 断；08-10 新增 5 页未收录（concepts/2026-07 美日联合干预日元、entities/片山皋月、sources/2026-08-03-经济热点问答、sources/2026-08-03-美日联手干预日元-环球时报、sources/2026-08-04-干预汇市美日联手救日元-北京商报）；frontmatter 有重复 [[_index]] 条目（外观问题）
+
+## [2026-08-10] LINT | 全库健康审计（报告模式）
+
+- [2026-08-10T17:35:28+0800] LINT scanned=1046 orphans=6 broken_links=16 stale=15 contradictions=0 prov_issues=0 missing_summary=1013 fragmented_clusters=15 visibility_issues=0 promotion_candidates=0 synthesis_gaps=7 relationship_issues=0 lifecycle_issues=1046 trust_ledger=missing
+- 断链 16 处/6 页:
+  - 空格 near-miss 11 处: log.md(5), meta/lint-report-2026-08-03.md(3), meta/lint-report-2026-08-04.md(3) → [[1992 欧洲货币危机]]/[[1997 亚洲金融危机]]/[[1998 香港金融保卫战]] 实际文件名无空格（08-06 已修内容页，log/meta 历史条目残留）
+  - 真缺失 1 处: concepts/2026-07 美日联合干预日元.md → [[高市早苗]]（entities/ 无此页）
+  - meta/ 会话 frontmatter related 失效 4 处: meta/2026-04-10-backlink-empire-session.md([[Claude Obsidian]]/[[Rankenstein]]/[[Karpathy LLM Wiki Pattern]]), meta/2026-04-14-claude-seo-v190-session.md([[E-commerce SEO]])
+- 孤立页 6: concepts/2026-07 美日联合干预日元.md, folds/fold-k3-...n8.md, meta/2026-04-10-backlink-empire-session.md, meta/lint-report-2026-08-04.md, meta/retrieval-benchmark-v1.7.md, meta/tiling-report-2026-04-24.md
+- trust-check 硬错误: `obsidian-wiki trust-check` status=fail, errors=[ledger_missing] —— _meta/trust-ledger.json 不存在（strict 与普通模式均 fail）
+- lifecycle/base_confidence: 全库 0/1046 页有（schema 未落地，08-06 元数据补全只补了 address/created/updated）
+- summary: 33/1046 有 (3%)，历史遗留
+- stale: 15 页全为 meta/index/系统页（无 verified 高险）
+- synthesis gaps 7: IMF×巴塞尔协议III(11), 美元霸权×欧元区主权债务危机(6), 美元霸权×巴塞尔协议III(6), 量化宽松×美元霸权(5), 扩表与缩表×美元霸权(3), 化债×巴塞尔协议III(3), 财政货币化×巴塞尔协议III(3)
+- visibility: 17 处疑似 PII 抽查全部误报（匹配到 token usage/cost 等词，非密钥）
+
+## [2026-08-07] WIKI_SYNTHESIZE | 第六轮:5 个交叉合成页(量化宽松×中国央行/化债×欧债/美联储×扩表与缩表/量化宽松×ECB/ECB×IMF)
+
+- [2026-08-07T16:45:00+0800] WIKI_SYNTHESIZE pages_scanned=1041 synthesis_created=5 candidates_skipped=0
+- 候选来源: 第五轮 Skipped 的 5 个候选对(量化宽松×中国央行, 化债×欧元区主权债务危机, 美联储×扩表与缩表, 量化宽松×ECB, ECB×IMF), 共现度复测全部确认 (27/25/52/25/26)
+- Pages (共现页数):
+  - synthesis/量化宽松 × 中国央行.md (c-001152, 27 页共现): 类 QE 同源异种——中国宽松刻意绕开央行资产负债表, MLF/PSL/买断式逆回购是"央行购债"红线的平行通道; 表克制≠不宽松(降准改乘数不动表), 化债把类 QE 推到实战(7.5万亿银行购债+3万亿冻结)
+  - synthesis/化债 × 欧元区主权债务危机.md (c-001153, 25 页共现): 欧洲硬出清 vs 中国软腾挪——分水岭=债务人是否握有印钞权(希腊减记53% vs 12万亿置换不违约); 借债-还债错配方向相反, 制度补丁(EFSF/ESM/OMT vs 特殊再融资/专项债/PSL)对照
+  - synthesis/美联储 × 扩表与缩表.md (c-001154, 52 页共现): 扩表与缩表页本质是"美联储操作手册"——QE/QT 每一条机制都来自美联储经验; "降息+缩表"罕见组合揭示利率与资产负债表是两根独立操纵杆, 2026 沃什任内正处此组合门口
+  - synthesis/量化宽松 × ECB.md (c-001155, 25 页共现): ECB 是 QE 谱系的"迟到者与变形者"——APP 按 Capital Key 分配+流动性中性, PEPP 突破 Capital Key 是"戴手铐的舞蹈"的巅峰(引发德国宪法法院争议); 负利率是 QE 被捆住时的替代解
+  - synthesis/ECB × IMF.md (c-001156, 26 页共现): 全球安全网 vs 货币联盟自救——欧债危机中 IMF 是配角(850/780亿欧元), ECB 是主角(OMT"以承诺灭火"); 拉加德(IMF 总裁→ECB 行长)是两机构"人肉桥梁", 欧洲精英同源=IMF 总裁传统与 ECB 的双支柱话语权
+- Backlinks added to 8 anchors: 量化宽松(2: ×中国央行, ×ECB), 中国央行(1: ×量化宽松), 化债(1: ×欧债), 欧元区主权债务危机(1: ×化债), 美联储(1: ×扩表与缩表), 扩表与缩表(1: ×美联储), ECB(2: ×量化宽松, ×IMF), IMF(1: ×ECB)
+- 地址计数器: 1151→1156
+- Skipped: 本轮无跳过, 第五轮遗留候选对已全部完成
+- 待解问题浮出: 买断式逆回购是否构成中国实质 QE; 银行承接 7.5 万亿化债债是否重演欧元区 doom loop; 沃什"降息+缩表"是否重演 2019 QT1 回购危机剧本; PEPP 突破 Capital Key 是"危机例外"还是"永久先例"; 格奥尔基耶娃后 IMF 总裁"欧洲传统"是否被新兴市场配额改革打破
+
+## [2026-08-07] LAYOUT_ADJUSTMENT | 整套自定义外观（克制知识工作台·浅色）首版
+
+- [2026-08-07T16:42:00+0800] LAYOUT_ADJUSTMENT snippets_created=4 enabled=4 mode=light tone=克制知识工作台 checkpoint=snippet-archive/baseline-20260807-1640.md
+- 目标: 以 Velocity 2.2.1 light 为基底，整套分层 CSS（token/app-frame/note-surface/sidebar），全部引用主题变量、不硬编码。
+- 内容: tab 条 active accent 下划线、正文 tabular-nums、标题层级、内部链接 hover 下划线、文件浏览器 active 行 accent 淡底、状态栏融入 frame。
+- 验证: 本环境截图读取不可用，待用户在 Obsidian 刷新后目视验收。
+
+## [2026-08-07] WIKI_SYNTHESIZE | 第五轮:5 个交叉合成页(ECB×欧元/2008×2020流动性/2020流动性×扩表/欧债×马约/巴III×影子银行)
+
+- [2026-08-07T16:28:00+0800] WIKI_SYNTHESIZE pages_scanned=1036 synthesis_created=5 candidates_skipped=5
+- 候选来源: 高相关主题对(欧洲货币联盟主线 × 危机主线 × 监管主线, 跨 entities/concepts 层)
+- Pages:
+  - synthesis/ECB × 欧元.md (c-001147): 欧元与 ECB 互为存在理由——无统一财政/政府的货币靠跨国央行当"锚"; 欧元先以电子形式诞生三年才物质化, 纸币统一而硬币保留国别面, 单一利率面对 19 个不同周期
+  - synthesis/2008全球金融危机 × 2020年3月流动性危机.md (c-001148): 相隔 12 年同一套危机剧本的重演与变异——同是美元融资冻结、美联储救市, 但 2008 内生偿付危机 vs 2020 外生流动性危机; 银行从主角变缓冲器, 风险主角换成影子银行
+  - synthesis/2020年3月流动性危机 × 扩表与缩表.md (c-001149): 2020 年 3 月是扩表叙事的极端样本——两周从常规工具跳到无限 QE, 资产负债表 4.2万亿→7.2万亿三个月, 扩表首次越界买公司债/市政债; 为 2022 激进缩表与 2021-22 通胀埋下伏笔
+  - synthesis/欧元区主权债务危机 × 马斯特里赫特条约.md (c-001150): 马约设计了红线(3% 赤字/60% 债务)却没设计执行——货币统一而财政分立, 借债成本被德国信誉压低、财政纪律无人看守; 救助史(EFSF/ESM/OMT)是在给马约打补丁, 不救助条款被事实救助改写
+  - synthesis/巴塞尔协议III × 影子银行.md (c-001151): 巴III 提高银行资本/流动性要求推高表内监管成本, 把信贷活动挤出到影子银行体系; 监管与套利猫鼠游戏在两场危机间闭环——2008 的影子银行角色催生巴III, 巴III 又让 2020 风险主角换成货币基金与对冲基金
+- Backlinks added to 9 anchors: ECB(1: ×欧元), 欧元(1: ×ECB), 扩表与缩表(1: ×2020流动性), 2020年3月流动性危机(2: ×2008, ×扩表与缩表), 2008全球金融危机(1: ×2020流动性), 欧元区主权债务危机(1: ×马约), 马斯特里赫特条约(1: ×欧债), 巴塞尔协议III(1: ×影子银行), 影子银行(1: ×巴III)
+- 地址计数器: 1146→1151
+- Skipped (第四轮遗留, consider next time): 量化宽松×中国央行(18), 化债×欧元区主权债务危机, 美联储×扩表与缩表, 量化宽松×ECB, ECB×IMF (共现 15-20 页区间)
+- 待解问题浮出: 欧元"表象统一"(纸币统一/硬币国别面/财政分立)是否削弱货币锚; 2008 vs 2020 风险主角切换(银行→影子银行)对宏观审慎框架的挑战; 巴III 监管套利是否必然推高非银杠杆; 马约"红线无执行力"的制度教训对中国化债的镜鉴
+
+## [2026-08-07] WIKI_SYNTHESIZE | 第四轮:5 个交叉合成页(美联储/ECB/化债 × 2008/财政货币化/中国央行)
+
+- [2026-08-07T16:30:00+0800] WIKI_SYNTHESIZE pages_scanned=1026 synthesis_created=5 candidates_skipped=5
+- 候选来源: 2026-08-07 第三轮跳过的 next-5 候选对,共现度复测全部确认 (美联储×ECB=32, ECB×2008全球金融危机=32, 化债×财政货币化=27, 化债×中国央行=26, 美联储×化债=25)
+- Pages (共现页数):
+  - synthesis/美联储 × ECB.md (c-001145, 32 页共现): 主权央行 vs 超主权央行——美联储印钞无限但授权国内, ECB 救市被 Capital Key 国别结构锁死; OMT"以承诺灭火"是扩表不可行时的替代品, 负利率是 QE 被捆住时的替代解
+  - synthesis/ECB × 2008全球金融危机.md (c-001141, 32 页共现): 2008 以三种身份落在 ECB 身上——美元荒承接者(求援者非救援者)、错读银行危机的旁观者、被主权危机重铸的当事人; 美元互换线揭示"单一货币区央行救不了货币区外资产"
+  - synthesis/化债 × 财政货币化.md (c-001142, 27 页共现): 债务消化光谱两端——央行直接印钞(创造货币) vs 银行购债+央行对冲(转移货币); 化债把资产负债表压力从央行表搬到银行表, 央行"不买债"红线是共同锚
+  - synthesis/化债 × 中国央行.md (c-001143, 26 页共现): 化债是中国央行结构主义货币哲学实战——准备金率改乘数、PSL/再贷款定向投放, 角色是"流动性调度员"而非"最后买家"; 结构性工具 ~6万亿 vs 化债 12万亿+ 的缺口由银行垫付
+  - synthesis/美联储 × 化债.md (c-001144, 25 页共现): 债务消化两套会计——美联储把债放央行表($0.9→$9万亿+QT退出), 化债把债放银行表(12万亿置换+下半场延续); 央行不买一级市场债的红线相同、绕法不同
+- Backlinks added to 7 anchors: 美联储(2: ×ECB, ×化债), ECB(2: ×美联储, ×2008), 化债(3: ×财政货币化, ×中国央行, ×美联储), 财政货币化(1: ×化债), 中国央行(1: ×化债), 2008全球金融危机(1: ×ECB)
+- 地址计数器: 1140→1146 (美联储×ECB 原分配 c-001140 与 concepts/马来西亚模式 冲突, 改分配 c-001145)
+- Skipped (consider next time, 共现页数): 量化宽松×中国央行(18), 化债×欧元区主权债务危机, 美联储×扩表与缩表, 量化宽松×ECB, ECB×IMF (共现 15-20 页区间)
+- 待解问题浮出: 化债"准财政货币化"质疑(降准+买断式逆回购是否事实越线)、ECB 若建成财政联盟是否趋同美联储、中国银行购债期限错配 vs QT 的 SVB 教训、IMF SDR 转借机制落点(延续第三轮)
+- 注: 本轮为 cross-linker 之后运行, log/hot 同步无冲突
+
+---
+
+## [2026-08-07] cross-link | 孤儿页入链 + taxonomy 引用修复
+
+- [2026-08-07T15:20:00+0800] CROSS_LINK pages_scanned=1026 links_added=2 typed_relations_written=2 pages_modified=3 orphans_remaining=5 misc_affinity_updated=0 promotion_candidates=0
+- 孤儿 7→5（实测入链后仅 7 个真孤儿，其中 6 个为 meta/folds/报告可接受孤儿）。修复真实内容孤儿：entities/石油美元体系 补源素材入链 [[sources/2026-06-02-石油美元体系]]（derived_from），该 source 页出链 31 条双向闭环；journal/digest-2026-08-06 补 taxonomy 引用 [[_meta/taxonomy]]（uses），并同步 _raw 已清空状态（2026-08-05-wiki-lint-health-baseline.md 已归档）。
+- 剩余孤儿 5 个均为 meta/fold 类（backlink-empire-session / lint-report-2026-08-04 / tiling-report-2026-04-24 / retrieval-benchmark-v1.7 / fold-k3），可接受。
+- 断链复检：知识页 0 新增断链；log.md 与 meta/lint-report 历史条目 13 处旧链接按规则保留。
+- Pre-write snapshot: 5551730 (git commit "pre-cross-linker snapshot")
+
+---
+
 ## [2026-08-06] digest | 周报：近 7 天知识活动摘要
 
 - [2026-08-06T18:00:00+0800] DIGEST period="7d" new_pages=65 updated_pages=146 themes=货币政策,中国,日本,资本管制/对外开放,地缘政治 connections=12 saved=true path=journal/digest-2026-08-06.md
@@ -613,3 +709,5 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - [2026-08-07T14:05:00+0800] QUERY query="IMF 对危机国救助是否白手套/是否应早干预/是否延迟行动另有政治营利目的" result_pages=6 mode=normal escalated=false
 - [2026-08-07T14:20:00+0800] QUERY query="马来西亚如何应对1997年金融危机" result_pages=3 mode=normal escalated=false
 - [2026-08-07T14:40:00+0800] INGEST topic="马来西亚模式" pages_created=1 pages_updated=3 mode=manual
+- [2026-08-07T16:24:00+0800] GRAPH_COLORIZE mode=by-tag groups=10 backup=graph.json.backup-20260807-1624
+- [2026-08-10T14:54:49+0800] QUERY query="美国为何帮助日本稳定日元汇率" result_pages=3 mode=normal escalated=false

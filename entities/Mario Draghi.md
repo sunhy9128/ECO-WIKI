@@ -5,11 +5,14 @@ created: "2026-07-08"
 updated: "2026-07-08"
 status: "current"
 type: "entity"
-tags: []
+tags:
+  - "欧债危机"
+  - "欧元区"
+  - "央行"
+  - "知识管理"
 aliases: ""
 sources: ""
 ---
-
 # Mario Draghi（马里奥·德拉吉）
 
 > "Within our mandate, the ECB is ready to do whatever it takes to preserve the euro. And believe me, it will be enough."
