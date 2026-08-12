@@ -67,3 +67,7 @@ Full guide: methodology-modes-guide
 Skill: wiki-mode (`skills/wiki-mode/SKILL.md`)
 Router: `scripts/wiki-mode.py`
 Setup: `bash bin/setup-mode.sh`
+
+Related reports:
+- [[retrieval-benchmark-v1.7]] — hybrid retrieval scoring corpus
+- [[tiling-report-2026-04-24]] — semantic tiling thresholds

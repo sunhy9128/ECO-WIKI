@@ -118,7 +118,7 @@ status: developing
 
 ## 七、Semantic Tiling
 
-跳过：`tiling-check.py --peek` exit 10（ollama `http://127.0.0.1:11434` 不可达，模型缺失），与 2026-08-04 一致。启动 ollama 并 `ollama pull nomic-embed-text` 后可启用。
+跳过：`tiling-check.py --peek` exit 10（ollama `http://127.0.0.1:11434` 不可达，模型缺失），与 [[lint-report-2026-08-04]] 一致。启动 ollama 并 `ollama pull nomic-embed-text` 后可启用。
 
 ## 八、待修复清单（优先级排序，需用户确认后执行）
 

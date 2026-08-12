@@ -41,3 +41,5 @@ Both approaches let you query a large document collection. They differ fundament
 The sweet spot: run the wiki pattern for active research (where things are being added, synthesized, and connected), then export to a vector store if the collection grows beyond the index threshold.
 
 (Source: [[LLM Wiki Pattern]], [[Compounding Knowledge]])
+
+Retrieval accuracy benchmark: [[retrieval-benchmark-v1.7]]

@@ -136,3 +136,5 @@ Top 5 gaps by impact:
 3. No auto-commit → vault changes aren't versioned automatically
 4. No multi-depth query → one mode for all questions
 5. No vision input → can't ingest screenshots or images
+
+Chart style conventions for wiki diagrams: [[SVG Diagram Style Guide]]

@@ -16,7 +16,8 @@ related:
   - "[[Semantic Topic Clustering]]"
   - "[[Search Experience Optimization]]"
   - "[[SEO Drift Monitoring]]"
-  - "[[E-commerce SEO]]"
+  - "E-commerce SEO" # broken link: no match found
+  - "[[2026-04-10-backlink-empire-session]]"
 ---
 
 # Claude SEO v1.9.0 — Pro Hub Challenge Integration

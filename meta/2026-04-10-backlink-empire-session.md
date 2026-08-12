@@ -8,9 +8,9 @@ tags:
   - github
 status: complete
 related:
-  - "[[Claude Obsidian]]"
-  - "[[Rankenstein]]"
-  - "[[Karpathy LLM Wiki Pattern]]"
+  - "Claude Obsidian" # broken link: no match found
+  - "Rankenstein" # broken link: no match found
+  - "Karpathy LLM Wiki Pattern" # broken link: no match found
 decision_date: 2026-04-10
 ---
 
