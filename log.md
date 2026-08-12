@@ -730,3 +730,4 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - [2026-08-11] QUERY query="安倍经济学是否是合适的经济政策，还是民粹的选举政策" result_pages=5 mode=normal escalated=false
 - [2026-08-11] WIKI_RESEARCH topic="安倍经济学的政治属性评价" rounds=3 sources_fetched=6 pages_created=11
 - [2026-08-12T09:17:01+0800] LINT issues_found=1952 orphans=22 broken_links=22 stale=372 contradictions=0 prov_issues=4 missing_summary=1018 fragmented_clusters=3 visibility_issues=0 promotion_candidates=0 synthesis_gaps=301 relationship_issues=0 missing_fm=6 no_lifecycle=1050 bad_lifecycle=6 trust_check=FAIL ledger_missing
+- [2026-08-12T14:00:00+0800] WIKI_SYNTHESIZE pages_scanned=1019 synthesis_created=5 candidates_skipped=10 (美元霸权×去美元化 c-001178 / 扩表与缩表×央行入市干预 c-001179 / 1998香港金融保卫战×扩表与缩表 c-001180 / 美元周期×新兴市场危机 c-001181 / SK海力士×三星电子 c-001182; 9 源概念页回链, index 新增 5 条, 地址计数器 1178→1182)
