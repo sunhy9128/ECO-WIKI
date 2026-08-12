@@ -40,6 +40,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[分摊痛苦]] — 房价下行时阶梯式传导链A→B→C→D分段承接下跌损失，避免单人承担全部损失（status: completed）
 - [[新NISA]] — 日本2024年1月启动的免税投资账户：终身1800万日元额度永久免税，引导家庭"从储蓄到投资"（status: current）
 - [[日本95年体制]] — 1995年定型的"拖延式"制度安排：超低利率+财政兜底+护送船团，运行近30年直到2024年退出（status: current）
+- [[经济民粹主义]] — Dornbusch-Edwards 定义：强调增长与收入再分配而淡化通胀/赤字风险；「修辞民粹 vs 内容民粹」判定标尺（status: current）
+- [[选举周期理论]] — 政策时间表被选举日历塑造：选举前扩张/选举后紧缩；安倍 2012-2013 实证（status: current）
 - [[QF制度]] — 中国跨境投资双向通道总称：QFII/QDII/RQFII + 陆股通/港股通/跨境理财通等，三元悖论下的通道化开放（status: developing）
 - [[美元潮汐]] — 美联储货币政策周期驱动的全球资本大进大出+EM泡沫积累破裂的8阶段收割循环（status: current）
 - [[美元周期]] — 美联储扩表/缩表+加息/降息的周期规律，是EM命运的总开关（status: current）
@@ -114,6 +116,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[索尼]] — 泡沫期收购哥伦比亚影业，日本企业海外并购的代表（status: stub）
 - [[三菱集团]] — 泡沫期8.46亿美元收购洛克菲勒中心51%股权（status: stub）
 - [[黑田东彦]] — 前日本央行行长，明确指出广场协议非崩盘根源（status: stub）
+- [[安倍晋三]] — 安倍经济学提出者，预期管理大师；「修辞民粹、内容反民粹」的判定对象（status: current）
+- [[鲁迪格·多恩布什]] — 经济民粹主义研究奠基人，汇率超调模型提出者（status: current）
 - [[大藏省]] — 日本1869-2001年的超级部委，泡沫经济关键推手（status: current）
 - [[欧元]] — 1999 年诞生的超主权货币，全球第二大储备货币，欧元区"未完成的货币联盟"（status: current）
 - [[Andrej Karpathy]] — AI researcher, creator of the LLM Wiki pattern, former Tesla AI director (status: developing)
@@ -134,6 +138,13 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 ---
 
 ## Sources
+
+- [[IMF-How-Inclusive-Is-Abenomics-2015]] — 2015-03 | IMF WP 15/54：三支箭分配效应计量——2%通胀目标达成→平等恶化，结构性改革→平等改善 | IMF（status: extracted）
+- [[OECD-Japan-Economic-Survey-2024]] — 2024-01 | 安倍经济学确实提高增长与劳动参与但通胀正而低、结构改革不足；债务245% | OECD（status: extracted）
+- [[Dornbusch-Edwards-Macroeconomics-of-Populism-1991]] — 1991 | 经济民粹主义经典定义与四阶段模型（拉美案例） | NBER（status: extracted）
+- [[Passive-Revolution-in-Japan-2021]] — 2021 | 葛兰西被动革命视角：安倍经济学=外向同意面、安保=内向强制面；"Abe's populist posturing" | Sagepub（status: extracted）
+- [[Morimoto-2025-Impoverishment-of-Working-Class]] — 2025 | 「廉价日本战略」失败：非常规货币政策把财富从工人转移给富人 | The Japanese Political Economy（status: extracted）
+- [[LDP-2012-Election-No-Mandate]] — 2012-12 | 无授权滑坡胜利：投票率59%战后最低、LDP得票比2009更少；预期管理先行 | Brookings/NBR/Tokyo Foundation（status: extracted）
 
 - [[2019-11-25-香港金融保卫战-巫师财经]] — 2019-11-25 | 索罗斯狙击英镑/泰铢/香港全程，含利率期货埋伏、任一招、8月28日结算机制、战损核实 | 巫师财经（status: extracted）
 - [[2025-12-25-巫师财经-中国财经年度盘点Top10]] — 2025-12-25 | 巫师财经年终盘点：Top10外卖大战+娃哈哈权力游戏+港股复活+国补诱惑+反内卷+低利率+关税战+财政扩张Top1+巫师亏钱Top0 | 巫师财经（status: current）
@@ -170,6 +181,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 ---
 
 ## Synthesis
+
+- [[安倍经济学的政治属性评价]] — 安倍经济学是合适的经济政策还是民粹的选举政策：治标不治本的续命型政策+选举基因实锤；修辞民粹、内容反民粹的资产价格增长主义（status: draft）
 
 - [[扩表与缩表 × 化债]] — 化债让银行扩表而非央行扩表，「扩表但不宽货币」的中国式资产负债表操作（status: developing）
 - [[量化宽松 × 扩表与缩表]] — QE 是扩表的一种而非全部：工具与机制分层，解释 QE 结束与缩表启动的空窗（status: developing）

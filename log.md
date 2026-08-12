@@ -727,3 +727,6 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - [2026-08-07T14:40:00+0800] INGEST topic="马来西亚模式" pages_created=1 pages_updated=3 mode=manual
 - [2026-08-07T16:24:00+0800] GRAPH_COLORIZE mode=by-tag groups=10 backup=graph.json.backup-20260807-1624
 - [2026-08-10T14:54:49+0800] QUERY query="美国为何帮助日本稳定日元汇率" result_pages=3 mode=normal escalated=false
+- [2026-08-11] QUERY query="安倍经济学是否是合适的经济政策，还是民粹的选举政策" result_pages=5 mode=normal escalated=false
+- [2026-08-11] WIKI_RESEARCH topic="安倍经济学的政治属性评价" rounds=3 sources_fetched=6 pages_created=11
+- [2026-08-12T09:17:01+0800] LINT issues_found=1952 orphans=22 broken_links=22 stale=372 contradictions=0 prov_issues=4 missing_summary=1018 fragmented_clusters=3 visibility_issues=0 promotion_candidates=0 synthesis_gaps=301 relationship_issues=0 missing_fm=6 no_lifecycle=1050 bad_lifecycle=6 trust_check=FAIL ledger_missing
