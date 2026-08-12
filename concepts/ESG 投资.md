@@ -12,6 +12,9 @@ aliases:
   - "环境社会治理投资"
   - "可持续投资"
   - "Responsible Investment"
+relationships:
+  - target: "[[domains/风险管理]]"
+    type: related_to
 related:
   - "[[主权财富基金]]"
   - "[[挪威主权基金]]"
@@ -20,7 +23,7 @@ related:
 
 # ESG 投资
 
-> 把环境、社会与治理因素放进投资决策——从"道德选项"到"风险管理"
+> 把环境、社会与治理因素放进投资决策——从"道德选项"到"[[风险管理]]"
 
 ## 一、定义
 

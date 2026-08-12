@@ -24,6 +24,18 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-12] CROSS_LINK | 补链 1946 处提及（679 页）
+
+- [2026-08-12T14:00:00+0800] CROSS_LINK pages_scanned=1064 links_added=1946 typed_relations_written=1946 pages_modified=679 orphans_remaining=3 misc_affinity_updated=0 promotion_candidates=0
+- 基于 1064 页登记表（含 41 redirect 存根）、4076 候选（EXTRACTED 2610 / INFERRED 1466），fence 配对跳过代码块，表格内插入不破坏结构。
+- 679 页写入 relationships frontmatter（1946 条关系，target 用完整路径 wikilink 无 .md 后缀，库惯例一致）；高频目标：中国/美国/日本/资产购买计划/IMF/黄金/欧元/OMT/美联储。
+- 0 死链；3 个孤儿页剩余（journal/2026-08-12、concepts/Wiki Map.canvas、references/transport-fallback，均属可接受类型）。
+
+## [2026-08-12] QUERY | 日本政治民粹化
+
+- [2026-08-12T00:00:00+0800] QUERY query="日本政治民粹化" result_pages=7 mode=normal escalated=false
+- 核心答案来自 08-11 研究集群：安倍经济学「修辞民粹、内容反民粹」（[[安倍经济学的政治属性评价]] / [[经济民粹主义]] / [[选举周期理论]]）
+
 ## [2026-08-12] DEDUP | 合并 42 对重复页（41 次级页转 redirect 存根）
 
 - [2026-08-12T13:00:00+0800] DEDUP mode=merge pages_scanned=1063 pairs_found=1014 merged=42 kept_separate=304 needs_review=1 wikilinks_rewritten=246
@@ -735,7 +747,6 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - [2026-08-07T14:40:00+0800] INGEST topic="马来西亚模式" pages_created=1 pages_updated=3 mode=manual
 - [2026-08-07T16:24:00+0800] GRAPH_COLORIZE mode=by-tag groups=10 backup=graph.json.backup-20260807-1624
 - [2026-08-10T14:54:49+0800] QUERY query="美国为何帮助日本稳定日元汇率" result_pages=3 mode=normal escalated=false
-- [2026-08-11] QUERY query="安倍经济学是否是合适的经济政策，还是民粹的选举政策" result_pages=5 mode=normal escalated=false
 - [2026-08-11] WIKI_RESEARCH topic="安倍经济学的政治属性评价" rounds=3 sources_fetched=6 pages_created=11
 - [2026-08-12T09:17:01+0800] LINT issues_found=1952 orphans=22 broken_links=22 stale=372 contradictions=0 prov_issues=4 missing_summary=1018 fragmented_clusters=3 visibility_issues=0 promotion_candidates=0 synthesis_gaps=301 relationship_issues=0 missing_fm=6 no_lifecycle=1050 bad_lifecycle=6 trust_check=FAIL ledger_missing
 - [2026-08-12T14:00:00+0800] WIKI_SYNTHESIZE pages_scanned=1019 synthesis_created=5 candidates_skipped=10 (美元霸权×去美元化 c-001178 / 扩表与缩表×央行入市干预 c-001179 / 1998香港金融保卫战×扩表与缩表 c-001180 / 美元周期×新兴市场危机 c-001181 / SK海力士×三星电子 c-001182; 9 源概念页回链, index 新增 5 条, 地址计数器 1178→1182)

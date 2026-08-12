@@ -19,9 +19,16 @@ aliases:
   - "Basel Committee on Banking Supervision"
   - "wiki/concepts/巴塞尔协议III"
   - "巴塞尔协议"
+relationships:
+  - target: "[[entities/资本充足率]]"
+    type: related_to
+  - target: "[[entities/银行监管]]"
+    type: related_to
+  - target: "[[sources/2026-04-29-巴塞尔协议]]"
+    type: related_to
 ---
 
-# 巴塞尔协议 III（Basel III）
+# [[2026-04-29-巴塞尔协议]] III（Basel III）
 
 > 全球银行监管的"圣经"——2008 危机后的全面升级，国际金融监管的"三大支柱"
 
@@ -182,7 +189,7 @@ aliases:
 
 ## 三、巴塞尔 III 的核心内容
 
-### 3.1 资本充足率：质量与数量双提升
+### 3.1 [[资本充足率]]：质量与数量双提升
 
 ```
 资本结构（自下而上）：
@@ -770,7 +777,7 @@ G-SIBs 附加缓冲：1%-2%
 | **FSB** | 系统性风险、跨境 | 协调者 |
 | **IOSCO** | 证券监管 | 互补 |
 | **IAIS** | 保险监管 | 互补 |
-| **BCBS** | 银行监管 | 巴塞尔 III 制定者 |
+| **BCBS** | [[银行监管]] | 巴塞尔 III 制定者 |
 | **IMF/世行** | 金融部门评估（FSAP） | 实施监督 |
 
 ### 10.2 总损失吸收能力（TLAC）

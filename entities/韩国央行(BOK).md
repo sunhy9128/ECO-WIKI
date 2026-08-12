@@ -7,12 +7,19 @@ updated: 2026-08-12
 status: current
 tags: ["中央银行", "韩国", "货币政策", "金融", "央行"]
 aliases: ["Bank of Korea", "韩国银行", "BOK"]
+relationships:
+  - target: "[[concepts/中央银行]]"
+    type: related_to
+  - target: "[[entities/央行]]"
+    type: related_to
+  - target: "[[entities/金融稳定]]"
+    type: related_to
 ---
 
 # 韩国央行(BOK)
 
 ## Basic Information
-- Type: organization（中央银行）
+- Type: organization（[[[[央行]]]]）
 - 全称：Bank of Korea（한국은행，韩国银行）
 - 成立时间：1950 年 6 月
 - 所在地：首尔
@@ -20,7 +27,7 @@ aliases: ["Bank of Korea", "韩国银行", "BOK"]
 
 ## Description
 
-**韩国央行（BOK）**是韩国的中央银行，依据《韩国银行法》设立，负责货币政策的制定与执行、金融稳定、发行货币与外汇管理等职能。其最重要的政策目标是**维持物价稳定**，2001 年起实行[[通胀目标制]]。
+**韩国央行（BOK）**是韩国的中央银行，依据《韩国银行法》设立，负责货币政策的制定与执行、[[金融稳定]]、发行货币与外汇管理等职能。其最重要的政策目标是**维持物价稳定**，2001 年起实行[[通胀目标制]]。
 
 韩国央行与[[韩国金融监督院(FSS)]]共同构成韩国金融监管与货币政策的双轨体系：前者负责货币政策与宏观金融稳定，后者负责金融机构的具体检查与监督。亚洲金融危机后，韩国央行独立性显著增强，但仍通过货币政策委员会与政府进行政策协调。
 

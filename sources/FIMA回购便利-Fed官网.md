@@ -8,19 +8,24 @@ updated: "2026-08-06"
 sources: "https://www.federalreserve.gov/monetarypolicy/fima-repo-facility.htm"
 tags: [美联储, 国际金融, 流动性, 回购市场]
 aliases: "FIMA Repo Facility, 外国与国际货币当局回购便利, 回购便利"
+relationships:
+  - target: "[[concepts/FIMA回购便利]]"
+    type: related_to
+  - target: "[[concepts/回购市场]]"
+    type: related_to
 status: "evergreen"
 ---
 
 # FIMA 回购便利 - Fed 官网
 
 ## 来源
-- 原始页面: [Foreign and International Monetary Authorities (FIMA) Repo Facility](https://www.federalreserve.gov/monetarypolicy/fima-repo-facility.htm)
+- 原始页面: [Foreign and International Monetary Authorities (FIMA) [[回购市场]] Facility](https://www.federalreserve.gov/monetarypolicy/fima-repo-facility.htm)
 - 收录日期: 2026-08-06
 - 性质: 美联储官方一手源
 
 ## 核心内容
 
-本文档记录**外国与国际货币当局回购便利（FIMA Repo Facility）**的官方信息，是理解美联储"全球美元流动性后盾"的另一支柱（与[[美元互换网络]]互补）。
+本文档记录**外国与国际货币当局回购便利（[[FIMA回购便利]]）**的官方信息，是理解美联储"全球美元流动性后盾"的另一支柱（与[[美元互换网络]]互补）。
 
 ### 设施定义
 

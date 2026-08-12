@@ -6,6 +6,13 @@ created: "2026-04-29"
 updated: "2026-06-02"
 sources: ""
 aliases: ""
+relationships:
+  - target: "[[entities/日本]]"
+    type: related_to
+  - target: "[[entities/中国]]"
+    type: related_to
+  - target: "[[entities/韩国]]"
+    type: related_to
 tags:
   - "宏观经济"
   - "贸易"
@@ -16,7 +23,7 @@ status: "current"
 - **Tag**: project
 - **Full Name**: 区域全面经济伙伴关系协定 (Regional Comprehensive Economic Partnership, RCEP)
 - **Aliases**: 区域全面经济伙伴关系协定
-- **成员国数量**: 15个（东盟10国 + 中国、日本、韩国、澳大利亚、新西兰）
+- **成员国数量**: 15个（东盟10国 + [[中国]]、[[日本]]、[[韩国]]、澳大利亚、新西兰）
 - **生效日期**: 2022年1月1日
 - **Sources**: [[2026-04-15 梧桐树智库外贸数据周报]]
 

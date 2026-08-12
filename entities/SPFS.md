@@ -14,6 +14,9 @@ status: "developing"
 entity_type: "infrastructure"
 related: ""
 aliases: ""
+relationships:
+  - target: "[[entities/INSTEX]]"
+    type: related_to
 ---
 # SPFS（俄罗斯金融信息传输系统）
 
@@ -209,7 +212,7 @@ SPFS 在其中扮演的角色：
 |------|----------|---------|-------------|
 | **SPFS** | 俄罗斯 | 卢布 | SWIFT 制裁应对 |
 | **CIPS** | 中国 | 人民币 | 人民币国际化 + 一带一路 |
-| **INSTEX** | 欧盟 | 欧元 | 美国次级制裁规避（伊朗）|
+| **[[INSTEX]]** | 欧盟 | 欧元 | 美国次级制裁规避（伊朗）|
 | **SEPAM** | 伊朗 | 伊朗里亚尔 | 国内替代 SWIFT |
 | **UPI-INFT** | 印度 | 卢比 | 印度版反制裁基础设施 |
 | **SEPA** | 欧盟 | 欧元 | 欧盟内部清算（已成熟）|

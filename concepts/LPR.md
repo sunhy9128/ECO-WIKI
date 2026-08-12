@@ -11,6 +11,11 @@ aliases:
   - "贷款市场报价利率"
   - "LPR利率"
   - "wiki/concepts/LPR"
+relationships:
+  - target: "[[concepts/MLF]]"
+    type: related_to
+  - target: "[[entities/央行]]"
+    type: related_to
 ---
 
 # LPR (贷款市场报价利率)
@@ -43,8 +48,8 @@ aliases:
 ## 与政策利率的关系
 
 - **改革前**:贷款基准利率(2019-08-17 改革)
-- **改革后**:LPR = MLF + 加点 → **2024 年后** LPR 与 MLF 脱钩,转为 7 天逆回购利率 + 加点
-- **当前传导链**:央行 7 天逆回购 → LPR → 银行贷款利率
+- **改革后**:LPR = [[MLF]] + 加点 → **2024 年后** LPR 与 MLF 脱钩,转为 7 天逆回购利率 + 加点
+- **当前传导链**:[[央行]] 7 天逆回购 → LPR → 银行贷款利率
 
 ## 2026 年走势
 

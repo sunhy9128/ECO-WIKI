@@ -3,6 +3,9 @@ type: "concept"
 title: "CBOT"
 address: "c-000877"
 aliases: ""
+relationships:
+  - target: "[[concepts/贸易]]"
+    type: related_to
 tags:
   - "期货"
 status: "stub"
@@ -12,7 +15,7 @@ updated: "2026-07-16"
 ---
 # CBOT
 
-Chicago Board of Trade，芝加哥期货交易所，全球大宗商品定价中心。
+Chicago Board of [[贸易]]，芝加哥期货交易所，全球大宗商品定价中心。
 
 ## 与大豆战争的关系
 

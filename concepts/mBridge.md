@@ -13,6 +13,17 @@ tags:
 status: "developing"
 related: ""
 aliases: ""
+relationships:
+  - target: "[[entities/欧元]]"
+    type: related_to
+  - target: "[[entities/INSTEX]]"
+    type: related_to
+  - target: "[[entities/中国]]"
+    type: related_to
+  - target: "[[entities/香港金管局]]"
+    type: related_to
+  - target: "[[entities/俄罗斯]]"
+    type: replaces
 ---
 # mBridge（多边央行数字货币桥）
 
@@ -31,7 +42,7 @@ mBridge 是数字货币时代"非美元清算"的最大试验，也是 CIPS 数�
 | 全称 | Project mBridge（Multi-CBDC Bridge）|
 | 中文名 | 多边央行数字货币桥 |
 | 发起方 | 国际清算银行（BIS）创新中心 |
-| 创始参与方 | 香港金管局、泰国央行、阿联酋央行、中国人民银行数研所 |
+| 创始参与方 | [[香港金管局]]、泰国央行、阿联酋央行、中国人民银行数研所 |
 | 发起时间 | 2021 年 |
 | MVP 阶段 | 2024 年 |
 | 技术基础 | 分布式账本技术（DLT，Hashgraph）|
@@ -281,9 +292,9 @@ Layer 3：应用层
 | 系统 | 主导方 | 清算对象 | 技术 | 与美元关系 |
 |------|--------|---------|------|-----------|
 | **SWIFT + CHIPS** | 美欧 | 美元（CHIPS）| 报文 + 中心化清算 | 美元主导 |
-| **CIPS** | 中国 | 人民币 | 报文 + 中心化清算 | 替代美元清算 |
-| **SPFS** | 俄罗斯 | 卢布 | 报文 + 中心化清算 | 替代美元清算 |
-| **INSTEX** | 欧盟 | 欧元（易货）| SPV 易货 | 绕开美元 |
+| **CIPS** | [[中国]] | 人民币 | 报文 + 中心化清算 | 替代美元清算 |
+| **SPFS** | [[俄罗斯]] | 卢布 | 报文 + 中心化清算 | 替代美元清算 |
+| **[[INSTEX]]** | 欧盟 | [[欧元]]（易货）| SPV 易货 | 绕开美元 |
 | **mBridge** | 多边央行 | 多币种 CBDC | DLT 分布式账本 | 不绑定单一货币 |
 
 ### 6.2 mBridge 的"非对称优势"

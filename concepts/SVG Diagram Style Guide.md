@@ -6,6 +6,13 @@ created: "2026-04-14"
 updated: "2026-04-14"
 tags:
   - "知识管理"
+relationships:
+  - target: "[[entities/Meta]]"
+    type: related_to
+  - target: "[[entities/微软]]"
+    type: related_to
+  - target: "[[concepts/期权]]"
+    type: related_to
 status: "evergreen"
 related: ""
 sources: ""
@@ -43,11 +50,11 @@ Space Grotesk is the only typeface. No fallback to serif or monospace.
 | Token | Hex | Typical use |
 |-------|-----|-------------|
 | blue | #60A5FA | Google, data, information |
-| purple | #8b5cf6 | Meta, strategy, creative |
+| purple | #8b5cf6 | [[Meta]], strategy, creative |
 | cyan | #06b6d4 | LinkedIn, networking |
 | green | #4ADE80 | Success, validation, TikTok |
 | rose | #F43F5E | YouTube, alerts |
-| orange | #FF6B35 | Microsoft, secondary accent |
+| orange | #FF6B35 | [[微软]], secondary accent |
 | gray | #888888 | Neutral, generic platforms |
 
 ### Status Colors (for pass/warn/fail indicators)
@@ -138,7 +145,7 @@ Short centered line under diagram title. Always accent color.
 | 17 | A/B Testing | Split comparison | 800x500 |
 | 18 | PPC Calculators | Tool cards | 900x350 |
 | 19 | Audit Lifecycle | Circular flow | 800x500 |
-| 20 | Install Methods | Option cards | 900x250 |
+| 20 | Install Methods | [[期权]] cards | 900x250 |
 
 ## Rules
 

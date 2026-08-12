@@ -6,12 +6,15 @@ created: "2026-04-14"
 updated: "2026-04-14"
 tags:
   - "知识管理"
+relationships:
+  - target: "[[entities/Claude SEO]]"
+    type: related_to
 status: "evergreen"
 related: ""
 ---
 # Pro Hub Challenge
 
-A community challenge hosted in the [AI Marketing Hub Pro](https://www.skool.com/ai-marketing-hub-pro) Skool community where members build extensions for Claude SEO or Claude Blog, competing for $600 in Claude Credits.
+A community challenge hosted in the [AI Marketing Hub Pro](https://www.skool.com/ai-marketing-hub-pro) Skool community where members build extensions for [[Claude SEO]] or Claude Blog, competing for $600 in Claude Credits.
 
 ## First Challenge (v1.9.0, April 2026)
 

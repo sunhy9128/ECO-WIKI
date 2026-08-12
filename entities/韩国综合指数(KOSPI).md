@@ -7,6 +7,9 @@ created: 2026-07-14
 updated: 2026-08-12
 tags: ["韩国", "股票市场", "KOSPI", "亚洲"]
 aliases: ["韩国综合指数(KOSPI)", "KOSPI", "韩国综指", "韩国综合指数", "韩国综合股价指数", "Korea Composite Stock Price Index"]
+relationships:
+  - target: "[[entities/汽车]]"
+    type: related_to
 related: ["[[韩国]]", "[[三星电子]]", "[[SK海力士]]", "[[韩国历史股灾谱系]]"]
 ---
 
@@ -64,7 +67,7 @@ KOSPI（Korea Composite Stock Price Index）是韩国证券交易所（KRX）编
 - **成分股**：约 800 只在韩国交易所上市的股票
 - **加权方式**：市值加权
 - **基准日期**：1983年1月4日 = 100
-- **行业分布**：半导体、汽车、电池、金融等
+- **行业分布**：半导体、[[汽车]]、电池、金融等
 
 ## 市场影响因素
 

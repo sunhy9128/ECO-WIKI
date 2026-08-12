@@ -11,6 +11,15 @@ aliases:
   - "CSI China Internet Index"
   - "中概互联ETF"
   - "wiki/entities/Kweb"
+relationships:
+  - target: "[[entities/拼多多]]"
+    type: related_to
+  - target: "[[entities/京东]]"
+    type: related_to
+  - target: "[[entities/恒生科技指数]]"
+    type: related_to
+  - target: "[[entities/阿里巴巴]]"
+    type: related_to
 ---
 
 # Kweb (CSI China Internet)
@@ -24,19 +33,19 @@ aliases:
 | 公司 | 类别 |
 |---|---|
 | 腾讯 | 互联网平台 |
-| 阿里巴巴 | 电商 |
+| [[阿里巴巴]] | 电商 |
 | 美团 | 本地服务 |
-| 京东 | 电商 |
+| [[京东]] | 电商 |
 | 百度 | 搜索引擎 |
 | 网易 | 游戏 |
-| 拼多多 | 电商 |
+| [[拼多多]] | 电商 |
 | 小米 | 智能硬件 |
 | 哔哩哔哩 | 视频 |
 
 ## 2026 年走势
 
 - **年内跌幅**:-27%
-- **同期对比**:恒生科技 -21%,恒生互联网 -30%
+- **同期对比**:[[恒生科技指数]] -21%,恒生互联网 -30%
 - **历史地位**:Kweb 是观察海外中概互联的最直接工具
 
 ## 相关条目

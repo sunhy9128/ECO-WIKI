@@ -12,6 +12,11 @@ aliases:
   - "Local Government Financing Vehicle"
   - "城投公司英文"
   - "wiki/concepts/LGFV"
+relationships:
+  - target: "[[entities/日本]]"
+    type: related_to
+  - target: "[[entities/美国]]"
+    type: related_to
 ---
 # LGFV
 
@@ -82,8 +87,8 @@ LGFV 是中国特色的制度安排，国际上没有完全对应物：
 
 | 国家 | 类似机制 | 差异 |
 |------|---------|------|
-| **美国** | 市政债券（Municipal Bonds） | 美国地方政府直接发债，无需平台 |
-| **日本** | 地方公社 | 类似机制，但透明度和市场化程度更高 |
+| **[[美国]]** | 市政债券（Municipal Bonds） | 美国地方政府直接发债，无需平台 |
+| **[[日本]]** | 地方公社 | 类似机制，但透明度和市场化程度更高 |
 | **欧洲** | 国有企业 | 范围更广，不限于政府融资 |
 
 > **LGFV 的特殊性**：政府融资职能 + 隐性担保 + 市场化形式 = 中国特色的"准政府"。

@@ -14,6 +14,11 @@ status: "developing"
 entity_type: "infrastructure"
 related: ""
 aliases: ""
+relationships:
+  - target: "[[concepts/mBridge]]"
+    type: related_to
+  - target: "[[entities/欧元]]"
+    type: related_to
 ---
 # CIPS（人民币跨境支付系统）
 
@@ -216,11 +221,11 @@ CIPS 作为人民币结算通道
 |------|----------|---------|---------|---------|
 | **CIPS** | 中国 | 人民币 | 人民币跨境清算 | 人民币国际化 |
 | **SPFS** | 俄罗斯 | 卢布 | 俄罗斯国内 + 周边清算 | 应对 SWIFT 制裁 |
-| **INSTEX** | 欧盟 | 欧元 | 伊朗人道主义贸易 | 绕过美国次级制裁 |
+| **INSTEX** | 欧盟 | [[欧元]] | 伊朗人道主义贸易 | 绕过美国次级制裁 |
 | **SEPAM** | 伊朗 | 伊朗里亚尔 | 伊朗国内清算 | 国内替代 SWIFT |
 | **UPI** | 印度 | 卢比 | 印度跨境支付试点 | 印度版 CIPS |
 
-### 6.2 CIPS 与 mBridge 的协同
+### 6.2 CIPS 与 [[mBridge]] 的协同
 
 > 来自 [[央行数字货币#mBridge]]：
 

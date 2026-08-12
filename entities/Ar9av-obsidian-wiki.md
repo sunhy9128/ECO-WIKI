@@ -6,6 +6,9 @@ created: "2026-04-08"
 updated: "2026-04-08"
 tags:
   - "知识管理"
+relationships:
+  - target: "[[concepts/希腊字母]]"
+    type: related_to
 status: "current"
 related: ""
 sources: ""
@@ -35,7 +38,7 @@ Framework for AI agents to build and maintain an Obsidian wiki using the Karpath
 
 ## Key Innovations
 
-### Delta Tracking Manifest
+### [[希腊字母]] Tracking Manifest
 `.manifest.json` tracks every ingested source: path, hash, timestamp, which wiki pages produced. Only processes new/changed files. Solves the "re-ingest everything" problem.
 
 ### 4-Stage Pipeline

@@ -7,6 +7,15 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
+relationships:
+  - target: "[[entities/伊朗]]"
+    type: related_to
+  - target: "[[entities/SPFS]]"
+    type: related_to
+  - target: "[[entities/俄罗斯]]"
+    type: related_to
+  - target: "[[entities/CIPS]]"
+    type: related_to
 tags:
   - "货币体系"
 ---
@@ -45,16 +54,16 @@ SWIFT（Society for Worldwide Interbank Financial Telecommunications）是全球
 
 | 年份 | 国家 | 影响 |
 |------|------|------|
-| 2012年 | 伊朗 | 银行业被踢出 |
-| 2022年 | 俄罗斯 | 部分银行被踢出 |
+| 2012年 | [[伊朗]] | 银行业被踢出 |
+| 2022年 | [[俄罗斯]] | 部分银行被踢出 |
 | 2022年 | 朝鲜 | 全面切断 |
 
 ## 中国应对
 
 | 方案 | 说明 |
 |------|------|
-| CIPS | 人民币跨境支付系统 |
-| SPFS | 俄罗斯版SWIFT |
+| [[CIPS]] | 人民币跨境支付系统 |
+| [[SPFS]] | 俄罗斯版SWIFT |
 | 数字人民币 | 跨境支付新渠道 |
 
 ## 相关概念

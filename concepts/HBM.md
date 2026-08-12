@@ -14,6 +14,17 @@ aliases:
   - "HBM2E"
   - "AI 内存"
   - "wiki/concepts/HBM"
+relationships:
+  - target: "[[entities/亚马逊]]"
+    type: related_to
+  - target: "[[entities/Meta]]"
+    type: related_to
+  - target: "[[entities/美国]]"
+    type: related_to
+  - target: "[[entities/韩国]]"
+    type: related_to
+  - target: "[[entities/微软]]"
+    type: related_to
 ---
 
 # HBM
@@ -47,9 +58,9 @@ aliases:
 
 | 公司 | 国家 | HBM 地位 | 核心客户 |
 |---|---|---|---|
-| **SK 海力士** | 韩国 | **全球第一**(HBM3 领先) | 英伟达 H100/H200 |
+| **SK 海力士** | [[韩国]] | **全球第一**(HBM3 领先) | 英伟达 H100/H200 |
 | **三星电子** | 韩国 | 第二(奋起直追) | 谷歌 TPU / AMD |
-| **美光科技** | 美国 | **第三**(2026 崛起) | 英伟达 H200/B200(部分) |
+| **美光科技** | [[美国]] | **第三**(2026 崛起) | 英伟达 H200/B200(部分) |
 
 **2026 年 HBM 三大供应商市场份额**(估算):
 - SK 海力士:**~50%**
@@ -74,7 +85,7 @@ moomoocat 2026-06-25《逼疯》数据:
 **关键认知**:
 - 美光/三星/海力士的订单是 **3-5 年长期协议**
 - 有**保底采购量**,"照付不误"
-- 大客户:英伟达、AMD、谷歌、亚马逊、Meta、微软
+- 大客户:英伟达、AMD、谷歌、[[亚马逊]]、[[Meta]]、[[微软]]
 
 > "就算应用端暂时不挣钱,大厂也要在算力生态链上**占坑卡位**"
 

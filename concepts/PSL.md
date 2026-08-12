@@ -15,6 +15,15 @@ aliases:
   - "PSL"
   - "央行PSL"
   - "wiki/concepts/PSL"
+relationships:
+  - target: "[[entities/中国]]"
+    type: related_to
+  - target: "[[entities/美联储]]"
+    type: related_to
+  - target: "[[concepts/资产购买计划]]"
+    type: related_to
+  - target: "[[entities/央行]]"
+    type: related_to
 ---
 # PSL（抵押补充贷款）
 
@@ -119,11 +128,11 @@ PSL 替代路径：
 
 ## 五、PSL 的金融学本质
 
-### 5.1 与 QE 的对比
+### 5.1 与 [[资产购买计划]] 的对比
 
-| 维度 | PSL（中国） | 美联储 QE |
+| 维度 | PSL（[[中国]]） | [[美联储]] QE |
 |------|------------|----------|
-| **扩表主体** | 央行 | 央行 |
+| **扩表主体** | [[央行]] | 央行 |
 | **资金对象** | 政策性银行 | 市场投资者 |
 | **买债方式** | 通过政策性银行绕道 | 在二级市场直接买 |
 | **资金性质** | 定向（结构性） | 总量（普惠） |

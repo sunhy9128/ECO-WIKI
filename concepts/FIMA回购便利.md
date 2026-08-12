@@ -9,6 +9,9 @@ status: "developing"
 complexity: "advanced"
 domain: "国际金融"
 aliases: "FIMA Repo Facility, 外国与国际货币当局回购便利, FIMA 回购便利, 回购便利"
+relationships:
+  - target: "[[concepts/2020年3月流动性危机]]"
+    type: related_to
 related:
   - "[[美联储]]"
   - "[[美元互换网络]]"
@@ -48,7 +51,7 @@ sources: "[[FIMA回购便利-Fed官网]]"
 - [[美元流动性]] — 全球美元流动性的危机供给工具
 - [[回购市场]] — 回购机制的国内镜像
 - [[美元霸权]] — 美债作为全球安全资产的抵押品地位
-- [[美元潮汐]] — 美元荒/美元潮的周期性背景
+- [[美元潮汐]] — [[2020年3月流动性危机]]/美元潮的周期性背景
 
 ## 来源
 

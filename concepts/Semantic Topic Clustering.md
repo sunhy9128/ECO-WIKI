@@ -6,12 +6,15 @@ created: "2026-04-14"
 updated: "2026-04-14"
 tags:
   - "知识管理"
+relationships:
+  - target: "[[concepts/Pro Hub Challenge]]"
+    type: related_to
 status: "evergreen"
 related: ""
 ---
 # Semantic Topic Clustering
 
-SERP-based keyword grouping that replaces paid tools ($50-200/month) with Claude's reasoning. Contributed to [[Claude SEO]] v1.9.0 by Lutfiya Miller (Pro Hub Challenge Winner).
+SERP-based keyword grouping that replaces paid tools ($50-200/month) with Claude's reasoning. Contributed to [[Claude SEO]] v1.9.0 by Lutfiya Miller ([[Pro Hub Challenge]] Winner).
 
 ## How It Works
 

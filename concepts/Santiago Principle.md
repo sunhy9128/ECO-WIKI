@@ -11,6 +11,11 @@ aliases:
   - "Santiago Principles"
   - "GAPP"
   - "主权财富基金公认原则与做法"
+relationships:
+  - target: "[[entities/IMF]]"
+    type: related_to
+  - target: "[[entities/中国]]"
+    type: related_to
 sources: []
 related:
   - "主权财富基金"
@@ -24,7 +29,7 @@ related:
 
 ### 1.1 定义
 
-**圣地亚哥原则**（Santiago Principles，全称 Generally Accepted Principles and Practices for SWFs，GAPP）是**主权财富基金（SWF）自愿遵循的全球性行为准则**，由国际货币基金组织（IMF）牵头、于 2008 年 10 月在智利圣地亚哥正式发布，最终形成 24 条"公认原则与做法"。
+**圣地亚哥原则**（Santiago Principles，全称 Generally Accepted Principles and Practices for SWFs，GAPP）是**主权财富基金（SWF）自愿遵循的全球性行为准则**，由国际货币基金组织（[[IMF]]）牵头、于 2008 年 10 月在智利圣地亚哥正式发布，最终形成 24 条"公认原则与做法"。
 
 ### 1.2 出台背景
 
@@ -108,7 +113,7 @@ SWF 以 GAPP 承诺（透明、治理、商业化）
 
 | 基金 | 母国 | 参照 GAPP 的实践 |
 |------|------|------------------|
-| **中投公司（CIC）** | 中国 | 发布年报、声明商业化运作，是中国 SWF 的重要代表（见 [[中投]]） |
+| **中投公司（CIC）** | [[中国]] | 发布年报、声明商业化运作，是中国 SWF 的重要代表（见 [[中投]]） |
 | **挪威政府全球养老基金（GPFG）** | 挪威 | 透明度最高的 SWF 之一，披露完整持仓（见 [[挪威主权基金]]） |
 | **淡马锡（Temasek）** | 新加坡 | 治理结构成熟，年报与投资准则公开（见 [[淡马锡]]） |
 | **GIC** | 新加坡 | 长期投资导向，主动披露治理框架（见 [[GIC]]） |

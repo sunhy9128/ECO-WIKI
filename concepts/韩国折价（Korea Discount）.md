@@ -13,6 +13,11 @@ aliases:
   - "Korea Discount"
   - "韩股折价"
   - "wiki/concepts/韩国折价（Korea Discount）"
+relationships:
+  - target: "[[entities/日本]]"
+    type: related_to
+  - target: "[[concepts/估值修复]]"
+    type: related_to
 ---
 
 # 韩国折价（Korea Discount）
@@ -79,12 +84,12 @@ aliases:
 
 ### 4.2 与日本折价修复的对照
 
-| 维度 | 日本 | 韩国 |
+| 维度 | [[日本]] | 韩国 |
 |------|------|------|
 | **问题** | 低 PBR、资本效率低 | 财阀治理、股东回报低 |
 | **改革** | 东交所要求披露 PBR 低于 1 的改善计划 | Value-up 计划引导回报与治理 |
 | **对象** | 上市公司普遍 | 大企业集团为主 |
-| **效果** | 估值修复、回购创新高 | 推进中、部分收敛 |
+| **效果** | [[估值修复]]、回购创新高 | 推进中、部分收敛 |
 
 ### 4.3 治理与外资信号
 

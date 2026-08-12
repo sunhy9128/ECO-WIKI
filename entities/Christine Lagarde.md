@@ -9,6 +9,11 @@ tags:
   - "欧元区"
   - "欧债危机"
 aliases: ""
+relationships:
+  - target: "[[concepts/再投资]]"
+    type: related_to
+  - target: "[[entities/潘功胜]]"
+    type: related_to
 sources: ""
 ---
 # Christine Lagarde（克里斯蒂娜·拉加德）
@@ -192,7 +197,7 @@ sources: ""
 
 【调整】
   - 加息周期 450bp — ECB 历史最大
-  - 缩表（2023 起逐步）— 减少 PEPP 再投资
+  - 缩表（2023 起逐步）— 减少 PEPP [[再投资]]
 
 【创新】
   - 2021.7 货币政策策略审查
@@ -340,7 +345,7 @@ Tiff Macklem 离职后：Tiff Macklem（仍是央行行长）
 ### 6.2 Lagarde 与中国央行的关系
 
 ```
-⭐ Lagarde 与易纲、潘功胜：
+⭐ Lagarde 与易纲、[[潘功胜]]：
   - 易纲（2018-2023）：央行行长，IMF 副总裁出身
   - 潘功胜（2023-至今）：央行行长，央行行长 → 副行长 → 外汇局长 → 央行行长
   - 中欧央行协调：主要通过 BIS 和 IMF

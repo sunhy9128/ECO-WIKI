@@ -10,6 +10,15 @@ aliases:
   - "过度特权"
   - "Exorbitant Privilege"
   - "美元的过度特权"
+relationships:
+  - target: "[[entities/SWIFT]]"
+    type: related_to
+  - target: "[[entities/IMF]]"
+    type: related_to
+  - target: "[[entities/欧元]]"
+    type: related_to
+  - target: "[[entities/美国]]"
+    type: related_to
 complexity: advanced
 domain: 国际金融与汇率
 related:
@@ -148,7 +157,7 @@ sources:
 
 **具体数字**：
 - 2002-2006 年：美元贬值 17%
-- 美国 NIIP 改善 GDP 的 **+5.9%**（基于 2004 数据）
+- [[美国]] NIIP 改善 GDP 的 **+5.9%**（基于 2004 数据）
 - 这是美国不需要任何紧缩政策即可获得的"自动调整"机制
 
 ---
@@ -183,7 +192,7 @@ sources:
 
 **削弱证据**：
 - 储备份额下降但**非系统替代**——分散至"非传统货币"（加元、澳元、人民币）
-- IMF Arslanalp (2024) 结论：*"Dollar dominance continues to give way to nontraditional currencies but remains the preeminent reserve currency"*
+- [[IMF]] Arslanalp (2024) 结论：*"Dollar dominance continues to give way to nontraditional currencies but remains the preeminent reserve currency"*
 
 ### 5.2 制裁武器化反而强化美元短期地位
 
@@ -244,8 +253,8 @@ EM 借美元（Original Sin）
 
 | 货币 | 当前份额 | 5-10 年预期 | 主要障碍 |
 |------|---------|------------|---------|
-| **欧元** | 储备 20-21%、交易 13% | 缓慢上升 | 欧债危机阴影、政治一体化停滞 |
-| **人民币** | 储备 2.3%、SWIFT 支付 4.7% | 5-8% | 资本账户未开放、深度不足 |
+| **[[欧元]]** | 储备 20-21%、交易 13% | 缓慢上升 | 欧债危机阴影、政治一体化停滞 |
+| **人民币** | 储备 2.3%、[[SWIFT]] 支付 4.7% | 5-8% | 资本账户未开放、深度不足 |
 | **日元** | 储备 ~6% | 下降 | 日本经济停滞 |
 | **黄金** | 央行储备 ~13%（按价值） | 上升至 15-20% | 不生利息、流动性差 |
 | **SDR** | <1% | 缓慢上升 | IMF 改革停滞 |

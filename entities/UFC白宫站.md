@@ -9,6 +9,9 @@ tags:
   - "体育"
   - "美国"
 aliases: ""
+relationships:
+  - target: "[[entities/moomoocat]]"
+    type: related_to
 status: "current"
 ---
 # UFC白宫站
@@ -22,7 +25,7 @@ status: "current"
 
 ## 描述
 
-UFC 白宫站(UFC at the White House)是 2026 年 6 月在美国白宫举办的 UFC 比赛,是 UFC 历史上罕见的政治地标性赛事。moomoocat 欣赏的多位选手在该站比赛中**集体落败**,引发作者感慨。
+UFC 白宫站(UFC at the White House)是 2026 年 6 月在美国白宫举办的 UFC 比赛,是 UFC 历史上罕见的政治地标性赛事。[[moomoocat]] 欣赏的多位选手在该站比赛中**集体落败**,引发作者感慨。
 
 ## 2026-06-15 比赛结果
 

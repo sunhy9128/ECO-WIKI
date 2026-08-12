@@ -11,6 +11,15 @@ tags: [民粹主义, 拉美, 宏观经济学, 通胀, 收入再分配]
 aliases:
   - "Macroeconomics of Populism"
   - "Dornbusch-Edwards"
+relationships:
+  - target: "[[entities/鲁迪格·多恩布什]]"
+    type: related_to
+  - target: "[[concepts/美联储独立性]]"
+    type: related_to
+  - target: "[[concepts/安倍经济学]]"
+    type: related_to
+  - target: "[[entities/IMF]]"
+    type: related_to
 status: extracted
 related_concepts:
   - 经济民粹主义
@@ -31,7 +40,7 @@ lifecycle_changed: 2026-08-11
 > 经济民粹主义的经典定义来源。拉美（阿根廷、巴西、智利、秘鲁）民粹实验的比较研究，被用于检验「安倍经济学是否民粹」的标尺。
 
 ## 来源信息
-- **作者**: Rudiger Dornbusch, Sebastian Edwards
+- **作者**: [[鲁迪格·多恩布什]], Sebastian Edwards
 - **发布**: 1991（NBER Working Paper No. 8295；后收入《The Macroeconomics of Populism in Latin America》）
 - **URL**: <https://www.nber.org/papers/w8295>
 
@@ -46,7 +55,7 @@ lifecycle_changed: 2026-08-11
 1. **阶段一**：初始不满——经济停滞、分配不公，执政者上台承诺「不牺牲增长前提下的再分配」。
 2. **阶段二**：无约束扩张——财政赤字+工资上调+价格管制，短期经济繁荣（GDP 与工资齐涨），但通胀与汇率压力积累。
 3. **阶段三**：瓶颈与通胀——外储耗尽、汇率崩溃、通胀失控，实际工资开始下滑。
-4. **阶段四**：正统稳定化——被迫 IMF 式紧缩，**真实工资暴跌，穷人受伤最重**。
+4. **阶段四**：正统稳定化——被迫 [[IMF]] 式紧缩，**真实工资暴跌，穷人受伤最重**。
 
 ### 关键机制
 
@@ -57,10 +66,10 @@ lifecycle_changed: 2026-08-11
 ## 局限性
 
 - 样本全部来自拉美（1980s），日式「通缩型民粹」是**镜像情形**——拉美民粹制造通胀，安倍经济学追求通胀而不得。
-- 未处理「央行独立性」变量（日本央行的正式独立 vs 实际政治压力，见 Miyazaki 2022）。
+- 未处理「[[美联储独立性]]」变量（日本央行的正式独立 vs 实际政治压力，见 Miyazaki 2022）。
 
 ## 与库内页面的关联
 
 - 提供 [[经济民粹主义]] 概念页的定义基础。
-- 用于 [[安倍经济学的政治属性评价]] 的判定：按 Dornbusch-Edwards 严格定义，安倍经济学**不符合**「再分配导向」（其分配结果是反方向的——受益者是有产者），但符合「淡化风险/扩张承诺」的表层特征。
+- 用于 [[安倍经济学的政治属性评价]] 的判定：按 Dornbusch-Edwards 严格定义，[[安倍经济学]]**不符合**「再分配导向」（其分配结果是反方向的——受益者是有产者），但符合「淡化风险/扩张承诺」的表层特征。
 - 与 [[伪通缩]] 概念形成对照：日本是「想通胀而不得」，拉美是「通胀失控」。

@@ -7,6 +7,9 @@ updated: 2026-08-12
 status: current
 tags: ["金融监管", "韩国", "金融机构", "金融稳定", "金融"]
 aliases: ["Financial Supervisory Service", "韩国金融监督院", "FSS"]
+relationships:
+  - target: "[[concepts/杠杆]]"
+    type: related_to
 ---
 
 # 韩国金融监督院(FSS)
@@ -137,7 +140,7 @@ aliases: ["Financial Supervisory Service", "韩国金融监督院", "FSS"]
 - KOSPI 2026 年涨幅 +94.67%(全球首位)
 - 大量杠杆资金涌入股市
 - 单股杠杆产品规模快速膨胀
-- 一旦标的出现大幅波动,杠杆 ETF 跌幅放大
+- 一旦标的出现大幅波动,[[杠杆]] ETF 跌幅放大
 
 ### 与 KOSPI 2026-06-23 -10% 事件的关联
 

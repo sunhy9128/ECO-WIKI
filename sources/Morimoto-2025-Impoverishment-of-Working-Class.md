@@ -11,6 +11,13 @@ tags: [安倍经济学, 工人阶级, 收入分配, 货币宽松, 实际工资]
 aliases:
   - "Morimoto 2025"
   - "Cheap Japan Strategy"
+relationships:
+  - target: "[[concepts/央行入市干预]]"
+    type: related_to
+  - target: "[[concepts/资产购买计划]]"
+    type: related_to
+  - target: "[[entities/IMF]]"
+    type: related_to
 status: extracted
 related_concepts:
   - 安倍经济学
@@ -28,7 +35,7 @@ lifecycle: current
 lifecycle_changed: 2026-08-11
 ---
 
-# Japan's Unconventional Monetary Policy and the Impoverishment of the Working Class (Morimoto 2025)
+# Japan's [[央行入市干预]] and the Impoverishment of the Working Class (Morimoto 2025)
 
 > The Japanese Political Economy 51(4) 论文，标题即论点：「廉价日本战略」（cheap Japan strategy）的失败——非常规货币政策如何把财富从工人转移给富人。
 
@@ -40,7 +47,7 @@ lifecycle_changed: 2026-08-11
 ## 核心观点
 
 ### 三阶段货币宽松史
-1. **ZIRP**（1999 零利率）→ **QE**（2001-06）→ **安倍经济学/QQE**（2013 起）——量宽不断加码，但逻辑从未改变。
+1. **ZIRP**（1999 零利率）→ **[[资产购买计划]]**（2001-06）→ **安倍经济学/QQE**（2013 起）——量宽不断加码，但逻辑从未改变。
 
 ### 传导失败（数据）
 - **货币供应未实际增加**（宽松未转化为信用扩张）；通胀目标持续未达。
@@ -55,7 +62,7 @@ lifecycle_changed: 2026-08-11
 ## 局限性
 
 - 单一作者批判性论文，政策归因（货币宽松 vs 人口/全球化）未做反事实检验。
-- 「工人阶级贫困化」的界定偏政治经济学，与 IMF 的基尼计量（[[IMF-How-Inclusive-Is-Abenomics-2015]]）口径不同。
+- 「工人阶级贫困化」的界定偏政治经济学，与 [[IMF]] 的基尼计量（[[IMF-How-Inclusive-Is-Abenomics-2015]]）口径不同。
 
 ## 与库内页面的关联
 

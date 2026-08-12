@@ -9,6 +9,11 @@ tags: [中国, 金融, 对外开放, 资本管制, QF制度]
 aliases:
   - "人民币合格境外机构投资者"
   - "RMB Qualified Foreign Institutional Investor"
+relationships:
+  - target: "[[concepts/QDII]]"
+    type: related_to
+  - target: "[[entities/离岸人民币]]"
+    type: related_to
 related:
   - "[[QF制度]]"
   - "[[QFII]]"
@@ -20,7 +25,7 @@ sources: []
 
 ## 概述
 
-**RQFII（RMB Qualified Foreign Institutional Investor）**——人民币合格境外机构投资者，于 **2011 年** 启动，是 QFII 的人民币版本。境外机构用**离岸人民币（CNH）**直接投资境内市场，无需换汇，是人民币国际化与资本开放结合的创新通道。
+**RQFII（RMB Qualified Foreign Institutional Investor）**——人民币合格境外机构投资者，于 **2011 年** 启动，是 QFII 的人民币版本。境外机构用**[[离岸人民币]]（CNH）**直接投资境内市场，无需换汇，是人民币国际化与资本开放结合的创新通道。
 
 ## 与 QFII 的核心差异
 
@@ -43,7 +48,7 @@ sources: []
 
 - **离岸人民币回流的官方通道**：离岸人民币持有者（CNH 存款、点心债持有人）可投资境内资产
 - **推动香港离岸市场**：香港是 RQFII 最早、最大的离岸中心
-- **人民币国际化拼图**：与[[人民币国际化]]战略联动，形成"走出去（QDII）+ 回流（RQFII）"闭环
+- **人民币国际化拼图**：与[[人民币国际化]]战略联动，形成"走出去（[[QDII]]）+ 回流（RQFII）"闭环
 
 ## 相关条目
 

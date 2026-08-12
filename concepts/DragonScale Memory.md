@@ -5,6 +5,9 @@ address: "c-000001"
 complexity: "advanced"
 domain: "knowledge-management"
 aliases: ""
+relationships:
+  - target: "[[entities/Meta]]"
+    type: related_to
 created: "2026-04-23"
 updated: "2026-04-24"
 tags:
@@ -108,7 +111,7 @@ Format: `c-<6-digit-counter>`. `c-` means "creation-order counter." Zero-padded.
 **Lint severity model** (matches `skills/wiki-lint/SKILL.md` Address Validation behavior):
 - Post-rollout pages (frontmatter `created:` >= 2026-04-23, or any page newly created after DragonScale adoption) that lack an address are **errors**. This is the silent-regression guard.
 - Legacy pages (`created:` < 2026-04-23) without addresses are **informational**. The optional `.vault-meta/legacy-pages.txt` manifest can grandfather pages whose `created:` metadata is wrong or missing.
-- Meta pages (`_index.md`, `index.md`, `log.md`, `hot.md`, etc.) and fold pages are excluded entirely.
+- [[Meta]] pages (`_index.md`, `index.md`, `log.md`, `hot.md`, etc.) and fold pages are excluded entirely.
 
 ---
 

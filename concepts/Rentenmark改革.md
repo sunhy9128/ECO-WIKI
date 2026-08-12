@@ -11,6 +11,11 @@ tags:
   - "德国"
   - "布雷顿森林"
 aliases: ""
+relationships:
+  - target: "[[entities/科尔]]"
+    type: related_to
+  - target: "[[entities/密特朗]]"
+    type: related_to
 sources: ""
 ---
 # Rentenmark 改革（1923.11.15）
@@ -642,8 +647,8 @@ sources: ""
 - [[量化宽松]] — 2008 后"信用货币"的极致运用
 
 ### 历史人物
-- 密特朗（未建）— 1983 年法国"马克投降"
-- 科尔（已建）— 德国统一总理
+- [[密特朗]]（未建）— 1983 年法国"马克投降"
+- [[科尔]]（已建）— 德国统一总理
 - [[Mario Draghi]] — "Whatever it takes"（信用货币理论的极致运用）
 
 ### 国际比较

@@ -11,6 +11,9 @@ tags: [安倍经济学, 葛兰西, 霸权, 民粹, 新自由主义, 安保]
 aliases:
   - "Passive Revolution Japan"
   - "被动革命与安倍"
+relationships:
+  - target: "[[sources/Dornbusch-Edwards-Macroeconomics-of-Populism-1991]]"
+    type: related_to
 status: extracted
 related_concepts:
   - 安倍经济学
@@ -58,7 +61,7 @@ lifecycle_changed: 2026-08-11
 ## 局限性
 
 - 理论框架（葛兰西）偏政治哲学，因果机制难以量化验证。
-- 「populist posturing」指**修辞姿态**而非政策内容——需与 Dornbusch-Edwards 的「政策内容型民粹」区分（见 [[安倍经济学的政治属性评价]] 的矛盾标记）。
+- 「populist posturing」指**修辞姿态**而非政策内容——需与 [[Dornbusch-Edwards-Macroeconomics-of-Populism-1991]] 的「政策内容型民粹」区分（见 [[安倍经济学的政治属性评价]] 的矛盾标记）。
 
 ## 与库内页面的关联
 

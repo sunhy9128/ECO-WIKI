@@ -6,6 +6,9 @@ created: "2026-04-14"
 updated: "2026-04-15"
 tags:
   - "知识管理"
+relationships:
+  - target: "[[concepts/Pro Hub Challenge]]"
+    type: related_to
 status: "evergreen"
 related: ""
 ---
@@ -41,7 +44,7 @@ A Tier 4 Claude Code skill for comprehensive SEO analysis across all industries.
 
 | Version | Date | Key Addition |
 |---------|------|-------------|
-| v1.9.0 | 2026-04-15 | Pro Hub Challenge: cluster, SXO, drift, ecommerce, cost guardrails, cultural profiles. GitHub release + PDF report + 15-slide deck. |
+| v1.9.0 | 2026-04-15 | [[Pro Hub Challenge]]: cluster, SXO, drift, ecommerce, cost guardrails, cultural profiles. GitHub release + PDF report + 15-slide deck. |
 | v1.8.2 | 2026-04-10 | Ukrainian localization, CI fixes, version sync |
 | v1.8.1 | 2026-04-06 | Google Images SERP, image optimization |
 | v1.8.0 | 2026-03-31 | Free backlink data (Moz, Bing, Common Crawl) |

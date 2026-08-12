@@ -8,6 +8,13 @@ tags:
   - "宏观经济"
   - "中国"
 aliases: ""
+relationships:
+  - target: "[[entities/中国]]"
+    type: related_to
+  - target: "[[concepts/购买力平价]]"
+    type: related_to
+  - target: "[[entities/汇率]]"
+    type: related_to
 status: "developing"
 ---
 # GDP（国内生产总值）
@@ -75,7 +82,7 @@ GDP = 工资 + 租金 + 利息 + 利润
 GDP = C + I + G + NX
 ```
 
-| 符号 | 含义 | 英文 | 中国 2024 占比（参考） |
+| 符号 | 含义 | 英文 | [[中国]] 2024 占比（参考） |
 |------|------|------|---------------------|
 | C | 居民消费 | Consumption | ~38% |
 | I | 投资 | Investment | ~42% |
@@ -151,7 +158,7 @@ GDP Deflator = (名义 GDP / 实际 GDP) × 100
 | **忽略环境成本** | 污染、碳排放、资源枯竭未扣除 |
 | **忽略收入分配** | 总量增长但分配恶化也计入增长 |
 | **忽略质量变化** | 苹果手机 2007 vs 2024 价格难比较（Hedonic 方法部分修正） |
-| **难以跨国比较** | 汇率 PPP vs 汇率法 |
+| **难以跨国比较** | [[汇率]] [[购买力平价]] vs 汇率法 |
 
 ### 4.2 替代/补充指标
 

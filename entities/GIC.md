@@ -7,6 +7,9 @@ updated: 2026-07-17
 status: current
 tags: [金融, 主权基金, 新加坡]
 aliases: ["GIC", "Government of Singapore Investment Corporation", "新加坡政府投资公司"]
+relationships:
+  - target: "[[concepts/积极股东]]"
+    type: related_to
 sources: []
 related:
   - "[[淡马锡]]"
@@ -150,7 +153,7 @@ GIC 20 年实际回报分解（USD 计）：
 | 组合规模 | USD 770 b | USD 289 b |
 | 成立 | 1981 | 1974 |
 | 资产配置 | 高度分散（含固收） | 重权益（不持现金） |
-| 投资风格 | 被动偏多（含外部资管） | 积极股东 + 内部主导 |
+| 投资风格 | 被动偏多（含外部资管） | [[积极股东]] + 内部主导 |
 | 持仓集中度 | 分散 | 集中 |
 | 美国敞口（占比） | ~40% | ~30% |
 | 中国敞口（峰值） | ~15% | 27%（2020） |

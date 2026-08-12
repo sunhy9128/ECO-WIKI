@@ -12,6 +12,13 @@ tags:
   - "货币政策"
   - "韩国"
 aliases: ""
+relationships:
+  - target: "[[concepts/财政货币化]]"
+    type: related_to
+  - target: "[[entities/日本]]"
+    type: related_to
+  - target: "[[entities/中国]]"
+    type: related_to
 sources: ""
 ---
 # 现代货币理论（Modern Monetary Theory / MMT）
@@ -442,7 +449,7 @@ sources: ""
 
 ## 七、MMT 的国际实践
 
-### 7.1 日本："最接近 MMT"的国家
+### 7.1 [[日本]]："最接近 MMT"的国家
 
 ```
 ⭐ 日本的"准 MMT"实践（30 年）：
@@ -572,7 +579,7 @@ sources: ""
 | **Fiat Currency** | 法定货币（无内在价值） |
 | **Functional Finance** | 功能财政（Abba Lerner 提出） |
 | **Job Guarantee** | 就业保障（ELR） |
-| **Overt Monetary Financing** | 显性货币化融资 |
+| **Overt [[财政货币化]]** | 显性货币化融资 |
 | **Vertical Integration** | 财政 + 货币"垂直整合" |
 | **Horizontal Integration** | 央行之间的"水平协调" |
 | **Stephanie Kelton** | MMT 主要倡导者 |
@@ -612,7 +619,7 @@ sources: ""
 - [[Hans Luther]] — Rentenmark 改革设计者
 - [[欧洲央行]] — 央行独立的"欧洲案例"
 - [[美联储]] — QE 的实施者
-- [[中国央行]] — 中国"准 MMT"实践
+- [[中国央行]] — [[中国]]"准 MMT"实践
 - [[日本银行]] — 日本"准 MMT"案例
 
 ### 历史与制度

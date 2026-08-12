@@ -10,6 +10,9 @@ tags:
   - "金融史"
   - "德国"
 aliases: ""
+relationships:
+  - target: "[[concepts/美联储独立性]]"
+    type: related_to
 sources: ""
 ---
 # Hans Luther（汉斯·路德 / 1879-1962）
@@ -447,7 +450,7 @@ sources: ""
 ### 核心概念
 - [[Rentenmark改革]] — Luther 的"天才之作"
 - [[魏玛恶性通胀]] — Luther 终结的"百年通胀"
-- [[稳定文化]] — Luther 奠基的"央行独立性"传统
+- [[稳定文化]] — Luther 奠基的"[[美联储独立性]]"传统
 - [[铆钉德国马克]] — Luther 之后的"马克基因"
 - [[现代货币理论 (MMT)]] — Luther 改革的"理论成熟版"
 

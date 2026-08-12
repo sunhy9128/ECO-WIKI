@@ -10,6 +10,13 @@ aliases:
   - "原罪"
   - "Original Sin Doctrine"
   - "Eichengreen-Hausmann Original Sin"
+relationships:
+  - target: "[[entities/IMF]]"
+    type: related_to
+  - target: "[[entities/SPFS]]"
+    type: related_to
+  - target: "[[entities/新兴市场]]"
+    type: related_to
 complexity: advanced
 domain: 国际金融与汇率
 related:
@@ -26,7 +33,7 @@ sources:
 
 # Original Sin（原罪）
 
-> 新兴市场"借不到本币长期债务"的结构性诅咒——这是美元收割 EM 的微观金融基础。
+> [[新兴市场]]"借不到本币长期债务"的结构性诅咒——这是美元收割 EM 的微观金融基础。
 
 ---
 
@@ -119,7 +126,7 @@ Eichengreen, Hausmann & Panizza（2003、2005、2007）构建了三个量化指�
 
 ### 5.2 新现象：储备层去美元化 ≠ 借款层去美元化
 
-Arslanalp et al.（IMF 2024）研究显示：
+Arslanalp et al.（[[IMF]] 2024）研究显示：
 - 央行储备层：美元份额从 70% 降至 57%（1999→2026）
 - 但私人跨境借款层：美元仍占 90%+
 - **结论**：去美元化是**政府储备行为**，**非系统性金融脱钩**
@@ -154,7 +161,7 @@ Arslanalp et al.（IMF 2024）研究显示：
 ### 6.3 长期突破（破解原罪）
 
 - **本币国际化**：人民币、欧元作为替代融资货币
-- **区域性清算系统**：CIPS、SPFS、UPI 互连
+- **区域性清算系统**：CIPS、[[SPFS]]、UPI 互连
 - **数字货币桥**：mBridge 类项目削弱美元清算垄断
 - **SDR 改革**：扩大 SDR 在 IMF 体系外的使用
 

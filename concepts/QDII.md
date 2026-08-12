@@ -9,6 +9,15 @@ tags: [中国, 金融, 对外开放, 资本管制, QF制度]
 aliases:
   - "合格境内机构投资者"
   - "Qualified Domestic Institutional Investor"
+relationships:
+  - target: "[[concepts/QFII]]"
+    type: related_to
+  - target: "[[entities/港股]]"
+    type: related_to
+  - target: "[[entities/腾讯]]"
+    type: related_to
+  - target: "[[concepts/美元债]]"
+    type: related_to
 related:
   - "[[QF制度]]"
   - "[[QDII]]"
@@ -19,7 +28,7 @@ sources: []
 
 ## 概述
 
-**QDII（Qualified Domestic Institutional Investor）**——合格境内机构投资者制度，于 **2006 年** 启动，允许境内机构（基金、券商、银行、保险）投资境外资本市场。与 QFII 方向相反，是中国资本输出的主通道。
+**QDII（Qualified Domestic Institutional Investor）**——合格境内机构投资者制度，于 **2006 年** 启动，允许境内机构（基金、券商、银行、保险）投资境外资本市场。与 [[QFII]] 方向相反，是中国资本输出的主通道。
 
 ## 关键机制
 
@@ -41,8 +50,8 @@ sources: []
 
 ## 主要产品
 
-- **QDII 公募基金**：投资美股、港股、全球配置
-- **QDII 保险资金**：险资境外配置（港股、美元债）
+- **QDII 公募基金**：投资美股、[[港股]]、全球配置
+- **QDII 保险资金**：险资境外配置（港股、[[美元债]]）
 - **银行 QDII 理财**：挂钩境外资产的结构化产品
 
 ## 与港股通（南向）的互补
@@ -52,7 +61,7 @@ sources: []
 | 投资范围 | 全球（美股、欧股、全球债） | 仅港股 |
 | 参与主体 | 机构为主 | 机构 + 个人（50 万门槛） |
 | 额度机制 | 外汇局审批 | 每日额度 420 亿 RMB |
-| 代表产品 | 纳指 ETF、标普 ETF、全球债券基金 | 港股 ETF、腾讯/美团个股 |
+| 代表产品 | 纳指 ETF、标普 ETF、全球债券基金 | 港股 ETF、[[腾讯]]/美团个股 |
 
 ## 意义
 

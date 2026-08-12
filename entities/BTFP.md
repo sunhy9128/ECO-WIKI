@@ -7,10 +7,13 @@ type: "entity"
 status: "developing"
 sources: "[]"
 aliases: ""
+relationships:
+  - target: "[[concepts/2023年SVB危机]]"
+    type: related_to
 tags:
   - "美联储"
 ---
-# BTFP
+# [[2023年SVB危机]]
 
 ## 核心定义
 

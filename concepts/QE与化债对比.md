@@ -21,8 +21,19 @@ aliases:
   - "Quantity with Bank Shrinkage"
   - "Quantitative Easing vs Debt Resolution"
   - "wiki/concepts/QE与化债对比"
+relationships:
+  - target: "[[entities/美联储]]"
+    type: related_to
+  - target: "[[concepts/结构性工具]]"
+    type: related_to
+  - target: "[[concepts/资产购买计划]]"
+    type: related_to
+  - target: "[[entities/日本]]"
+    type: related_to
+  - target: "[[entities/中国]]"
+    type: related_to
 ---
-# QE 与化债对比
+# [[资产购买计划]] 与化债对比
 
 > 一个是"印钱买债"，一个是"借新还旧" — 看似都是扩表，本质截然不同
 
@@ -30,7 +41,7 @@ aliases:
 
 | 项目 | 本质 |
 |------|------|
-| **美联储 QE** | 印钱买债（创造货币） |
+| **[[美联储]] QE** | 印钱买债（创造货币） |
 | **中国化债** | 借新还旧（结构转换） |
 
 > **核心洞察**：QE 让货币"变多"，化债让货币"搬家"。**前者注入流动性，后者冻结流动性**。
@@ -152,9 +163,9 @@ M2 大幅扩张
 | 国家 | 类似机制 | 启示 |
 |------|---------|------|
 | **美国** | QE（2008、2020） | 流动性大幅注入，通胀代价 |
-| **日本** | YCC、QQE | 长期低增长、副作用大 |
+| **[[日本]]** | YCC、QQE | 长期低增长、副作用大 |
 | **欧洲** | APP、PEPP | 与美国类似 |
-| **中国** | 化债 + 结构性工具 | 结构优化，避免大水漫灌 |
+| **[[中国]]** | 化债 + [[结构性工具]] | 结构优化，避免大水漫灌 |
 
 ---
 

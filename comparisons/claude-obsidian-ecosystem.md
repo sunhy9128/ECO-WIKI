@@ -6,6 +6,13 @@ created: "2026-04-08"
 updated: "2026-04-08"
 tags:
   - "知识管理"
+relationships:
+  - target: "[[concepts/LLM Wiki Pattern]]"
+    type: related_to
+  - target: "[[concepts/希腊字母]]"
+    type: related_to
+  - target: "[[entities/kepano-obsidian-skills]]"
+    type: related_to
 status: "current"
 related: ""
 sources: ""
@@ -24,7 +31,7 @@ sources: ""
 
 ---
 
-## LLM Wiki Pattern Projects (Claude Code Skills)
+## [[LLM Wiki Pattern]] Projects (Claude Code Skills)
 
 | Feature | claude-obsidian | claudesidian | llm-knowledge-bases | llm-wiki | obsidian-wiki | obsidian-claude-pkm |
 |---------|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -36,7 +43,7 @@ sources: ""
 | Autoresearch loop | ✅ | ❌ | 🟡 | ❌ | ❌ | ❌ |
 | Canvas / visual layer | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Hot cache | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Delta tracking** | ❌ | ❌ | ❌ | ❌ | ✅⭐ | ❌ |
+| **[[希腊字母]] tracking** | ❌ | ❌ | ❌ | ❌ | ✅⭐ | ❌ |
 | **Multi-depth query** | ❌ | ❌ | ✅⭐ | ❌ | ❌ | ❌ |
 | **URL ingestion** | ❌ | 🟡 firecrawl | ❌ | ✅ | ✅ | ❌ |
 | **Vision / image ingest** | ❌ | 🟡 gemini | ❌ | ❌ | ✅⭐ | ❌ |
@@ -87,7 +94,7 @@ sources: ""
 
 ---
 
-## kepano/obsidian-skills (Special — from Obsidian Creator)
+## [[kepano-obsidian-skills]] (Special — from Obsidian Creator)
 
 Linus Kepano (Obsidian creator + Minimal theme) published official Agent Skills for Obsidian:
 

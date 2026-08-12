@@ -14,6 +14,9 @@ aliases:
   - "MLF利率"
   - "MLF续作"
   - "wiki/concepts/MLF"
+relationships:
+  - target: "[[concepts/SLF]]"
+    type: related_to
 ---
 
 # MLF
@@ -53,7 +56,7 @@ MLF（中期借贷便利，Medium-term Lending Facility）是中国人民银行�
 - [[中国央行]]
 
 ## 来源提及
-- SLF/MLF/PSL：央行向金融机构提供资金，调节流动性结构，结构性工具，定向调控。
+- [[SLF]]/MLF/PSL：央行向金融机构提供资金，调节流动性结构，结构性工具，定向调控。
 - MLF/PSL: 高，中，2013年后MLF成为主要结构性工具。
 - 2013年后MLF成为主要结构性工具。
 - "SLF/MLF/PSL：央行向金融机构提供资金，调节流动性结构，结构性工具，定向调控。"

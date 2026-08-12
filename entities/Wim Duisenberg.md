@@ -9,6 +9,11 @@ tags:
   - "欧元区"
   - "欧债危机"
 aliases: ""
+relationships:
+  - target: "[[concepts/货币政策策略]]"
+    type: related_to
+  - target: "[[entities/荷兰]]"
+    type: related_to
 sources: ""
 ---
 # Wim Duisenberg（维姆·杜伊森贝赫）
@@ -23,7 +28,7 @@ sources: ""
 |------|------|
 | **中文名** | 维姆·杜伊森贝赫 |
 | **英文名** | Willem Frederik Duisenberg（昵称 Wim） |
-| **出生** | 1935.7.9，荷兰 Heerenveen |
+| **出生** | 1935.7.9，[[荷兰]] Heerenveen |
 | **逝世** | 2005.7.31（70 岁） |
 | **学历** | 格罗宁根大学（Groningen）经济学博士 |
 | **专业** | 经济学家、央行行长、政治家 |
@@ -205,7 +210,7 @@ sources: ""
 ### 历史与制度
 - [[马斯特里赫特条约]] — ECB 成立的法律基础
 - [[欧债危机]] — Duisenberg 卸任后 7 年的危机
-- [[扩表与缩表]] — ECB 货币政策框架
+- [[扩表与缩表]] — ECB [[货币政策策略]]
 
 ### 国际对比
 - [[美联储]] — 与 ECB 协调
