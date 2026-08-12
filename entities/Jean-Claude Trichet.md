@@ -295,20 +295,20 @@ Trichet 在卸任新闻发布会说：
 ## 相关条目
 
 ### ECB 与欧元
-- [[ECB]] — Trichet 担任行长 8 年的机构
+- [[欧洲央行]] — Trichet 担任行长 8 年的机构
 - [[欧元]] — Trichet 守护的货币
 - [[Wim Duisenberg]] — Trichet 的前任
 - [[Mario Draghi]] — Trichet 的继任者（传奇）
 - [[Christine Lagarde]] — ECB 现任行长
 
 ### 危机与改革
-- [[欧元区主权债务危机]] — Trichet 任期的核心挑战
+- [[欧债危机]] — Trichet 任期的核心挑战
 - [[2008全球金融危机]] — Trichet 任期的第一次危机
 - [[欧债危机]] — Trichet 应对但未能解决
 - [[扩表与缩表]] — ECB 货币政策框架
 
 ### 工具与机构
-- [[ESM]] — Trichet 任期的救助机制
+- [[欧洲稳定机制]] — Trichet 任期的救助机制
 - [[IMF]] — Troika 三驾马车之一
 
 ### 国际对比

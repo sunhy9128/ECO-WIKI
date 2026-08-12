@@ -1,39 +1,10 @@
 ---
-address: "c-000577"
-type: "entity"
-title: "佩雷拉(UFC)"
-created: "2026-06-24"
-updated: "2026-06-24"
-sources: ""
-tags:
-  - "体育"
-aliases: ""
-status: "current"
+type: entity
+title: 佩雷拉(UFC)
+address: c-000577
+created: 2026-06-24
+updated: 2026-08-12
+status: merged
+redirects_to: "[[佩雷拉]]"
 ---
-# 佩雷拉 (UFC)
-
-## 基本信息
-
-- Type: person
-- Source: [[2026-06-15-美伊MoU签署与全球狂欢]]
-- Tags: ufc, mma, fighter
-
-## 描述
-
-Alex Pereira(佩雷拉),绰号"Poatan"(意为"石头手"),巴西综合格斗选手,UFC 中量级 / 轻重量级冠军。2026-06-15 在白宫站被 TKO。
-
-## 2026 年关键战绩
-
-| 时点 | 赛事 | 结果 |
-|---|---|---|
-| 2026-06-15 | [[UFC白宫站]] | **被 TKO** |
-
-## 相关实体
-
-- [[UFC白宫站]] — 落败赛事
-- [[托普利亚(UFC)]] — 同一站同样被 TKO
-
-## 来源提及
-
-> "佩雷拉和托普利亚两人被 tko,目瞪口呆"
-> — 集体落败
+This page has been merged into [[佩雷拉]].

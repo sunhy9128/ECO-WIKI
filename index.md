@@ -82,7 +82,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[万科宝能之争]] — 2015-2017年中国资本市场最典型的控制权争夺战（status: current）
 - [[欧洲货币体系]] — 1979-1999 EMS/ERM/ECU 货币合作机制，欧元的"前身"（status: current）
 - [[马斯特里赫特条约]] — 1992 马约法律基础、趋同标准、各国批准博弈（status: current）
-- [[欧元区主权债务危机]] — 2010-2012 欧债危机、PIIGS、ESM、OMT（status: current）
+- [[欧债危机]] — 2010-2012 欧债危机、PIIGS、ESM、OMT（status: current）
 - [[LLM Wiki Pattern]] — the pattern for building persistent, compounding knowledge bases using LLMs (status: mature)
 - [[Hot Cache]] — ~500-word session context file, updated after every ingest and session (status: mature)
 - [[Compounding Knowledge]] — why wiki knowledge grows more valuable over time, unlike RAG (status: mature)

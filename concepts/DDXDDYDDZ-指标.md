@@ -1,15 +1,12 @@
 ---
-address: "c-000049"
-type: "concept"
-title: "DDXDDYDDZ-指标"
-created: "2026-07-14"
-updated: "2026-08-05"
+address: c-000049
+type: concept
+title: DDXDDYDDZ-指标
+created: 2026-07-14
+updated: 2026-08-12
 status: current
-tags: [技术指标, 资金流向, 主力资金]
-aliases:
-  - "DDX/DDY/DDZ 指标"
-  - "DDE 指标族"
-sources: []
+tags: ["技术指标", "资金流向", "主力资金", "技术分析", "A股", "指标"]
+aliases: ["DDX/DDY/DDZ 指标", "DDE 指标族"]
 ---
 
 # DDXDDYDDZ-指标

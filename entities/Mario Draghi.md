@@ -412,12 +412,12 @@ OMT 的法律挑战：
 ## 相关条目
 
 ### ECB 与欧元
-- [[ECB]] — Draghi 担任行长 8 年的机构
+- [[欧洲央行]] — Draghi 担任行长 8 年的机构
 - [[欧元]] — Draghi 捍卫的货币
 - [[Christine Lagarde]] — Draghi 的继任者
 - [[Wim Duisenberg]] — ECB 首任行长
 - [[Jean-Claude Trichet]] — Draghi 的前任
-- [[欧元区主权债务危机]] — Draghi 拯救的危机
+- [[欧债危机]] — Draghi 拯救的危机
 
 ### 政策工具
 - [[OMT]] — Draghi 创造的"威慑工具"
@@ -442,4 +442,4 @@ OMT 的法律挑战：
 
 ### 实体
 - [[欧盟]] — Draghi 政治生涯的母体
-- [[ESM]] — Draghi 时代的救助工具
+- [[欧洲稳定机制]] — Draghi 时代的救助工具

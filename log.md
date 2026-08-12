@@ -24,6 +24,14 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-12] DEDUP | 合并 42 对重复页（41 次级页转 redirect 存根）
+
+- [2026-08-12T13:00:00+0800] DEDUP mode=merge pages_scanned=1063 pairs_found=1014 merged=42 kept_separate=304 needs_review=1 wikilinks_rewritten=246
+- 扫描 1063 页、1014 候选对（HIGH 61 / MEDIUM 286 / LOW 667 跳过），人工判定后推荐合并 42、保留 304、待审 1（开正门堵偏门，语境不同：地方债务 vs 资本管制）。
+- 41 个次级页转为 redirect 存根（保留 type/title/address/created，status=merged，redirects_to=canonical）：次级制裁→二级制裁、卖空机制→做空机制、2008金融危机→2008全球金融危机、亚洲金融危机→1997亚洲金融危机、ECB→欧洲央行、ESM→欧洲稳定机制、KOSPI 三方→韩国综合指数(KOSPI)、港股三方→comparisons/港股vs美股vsA股 等。
+- 内容合并进 canonical（aliases/tags 去重、updated=now、正文整合去重）；vault 全域 wikilink 重写 [[secondary]]→[[canonical]]（245 文件脚本 + 1 手动修复 ECB 引用），fence 配对跳过代码块。
+- 同步更新 index.md（1 条）、.manifest.json（total_pages 1068→1027、39 sources 加 merged_into）、hot.md（Last Updated）。
+
 ## [2026-08-11] WIKI_SYNTHESIZE | 第七轮:5 个交叉合成页落地(2008×欧债/美联储×欧债/QE×2020/扩表×财政货币化/ECB×中国央行)
 
 - [2026-08-11T10:27:04+0800] WIKI_SYNTHESIZE pages_scanned=1052 synthesis_created=5 candidates_skipped=64
@@ -731,3 +739,4 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - [2026-08-11] WIKI_RESEARCH topic="安倍经济学的政治属性评价" rounds=3 sources_fetched=6 pages_created=11
 - [2026-08-12T09:17:01+0800] LINT issues_found=1952 orphans=22 broken_links=22 stale=372 contradictions=0 prov_issues=4 missing_summary=1018 fragmented_clusters=3 visibility_issues=0 promotion_candidates=0 synthesis_gaps=301 relationship_issues=0 missing_fm=6 no_lifecycle=1050 bad_lifecycle=6 trust_check=FAIL ledger_missing
 - [2026-08-12T14:00:00+0800] WIKI_SYNTHESIZE pages_scanned=1019 synthesis_created=5 candidates_skipped=10 (美元霸权×去美元化 c-001178 / 扩表与缩表×央行入市干预 c-001179 / 1998香港金融保卫战×扩表与缩表 c-001180 / 美元周期×新兴市场危机 c-001181 / SK海力士×三星电子 c-001182; 9 源概念页回链, index 新增 5 条, 地址计数器 1178→1182)
+- [2026-08-12T14:13:13+0800] GRAPH_COLORIZE mode=by-tag groups=10 backup=graph.json.backup-20260812-1413

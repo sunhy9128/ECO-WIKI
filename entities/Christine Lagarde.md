@@ -399,7 +399,7 @@ Tiff Macklem 离职后：Tiff Macklem（仍是央行行长）
 ## 相关条目
 
 ### ECB 与欧元
-- [[ECB]] — Lagarde 担任行长的机构
+- [[欧洲央行]] — Lagarde 担任行长的机构
 - [[欧元]] — Lagarde 守护的货币
 - [[Mario Draghi]] — Lagarde 的前任
 - [[Wim Duisenberg]] — ECB 首任行长
@@ -413,7 +413,7 @@ Tiff Macklem 离职后：Tiff Macklem（仍是央行行长）
 - [[利率走廊]] — ECB 的利率体系
 
 ### 危机与改革
-- [[欧元区主权债务危机]] — Lagarde 时代的危机应对
+- [[欧债危机]] — Lagarde 时代的危机应对
 - [[2020年3月流动性危机]] — Lagarde 时代最大危机
 - [[2008全球金融危机]] — Lagarde 在法国财长任期的危机
 - [[马斯特里赫特条约]] — ECB 成立的法律基础

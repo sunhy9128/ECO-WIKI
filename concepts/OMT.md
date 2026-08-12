@@ -427,15 +427,15 @@ ECB 工具层级：
 ## 相关条目
 
 ### ECB 与欧元
-- [[ECB]] — OMT 的执行机构
+- [[欧洲央行]] — OMT 的执行机构
 - [[欧元]] — OMT 守护的货币
 - [[Mario Draghi]] — OMT 的设计者（"Whatever it takes"）
-- [[ESM]] — OMT 的合作伙伴（严格条件）
+- [[欧洲稳定机制]] — OMT 的合作伙伴（严格条件）
 - [[Christine Lagarde]] — OMT 时代的 ECB 行长
 - [[Jean-Claude Trichet]] — OMT 前的 ECB 行长
 
 ### 危机与改革
-- [[欧元区主权债务危机]] — OMT 诞生的背景
+- [[欧债危机]] — OMT 诞生的背景
 - [[欧债危机]] — OMT 应对的危机
 - [[2008全球金融危机]] — 危机的源头
 - [[扩表与缩表]] — ECB 货币政策框架

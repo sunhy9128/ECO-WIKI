@@ -196,7 +196,7 @@ sources: ""
 ## 相关条目
 
 ### ECB 与欧元
-- [[ECB]] — Duisenberg 创建的央行
+- [[欧洲央行]] — Duisenberg 创建的央行
 - [[欧元]] — Duisenberg 推动的货币
 - [[Jean-Claude Trichet]] — Duisenberg 的继任者
 - [[Mario Draghi]] — Trichet 的继任者
@@ -204,7 +204,7 @@ sources: ""
 
 ### 历史与制度
 - [[马斯特里赫特条约]] — ECB 成立的法律基础
-- [[欧元区主权债务危机]] — Duisenberg 卸任后 7 年的危机
+- [[欧债危机]] — Duisenberg 卸任后 7 年的危机
 - [[扩表与缩表]] — ECB 货币政策框架
 
 ### 国际对比

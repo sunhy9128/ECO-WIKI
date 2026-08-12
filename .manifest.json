@@ -184,11 +184,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/2008金融危机.md": {
       "content_hash": "sha256:f90eb2c1a8ef6b0d6c1249f86353c6292026da3a9c8e7a1d8ef2c99a7f6a0b83",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/2008金融危机.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/2008全球金融危机.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/2013年钱荒.md": {
       "content_hash": "sha256:a3d87c0d1577a4750b4a34fb4aeed3538478782ef7d869edc3778ab525488210",
@@ -625,11 +626,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/KOSPI.md": {
       "content_hash": "sha256:cdcd488e967e4cc19fd63b8221a3f5f8c875b52a3aa391af35f37b5b9b400731",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/KOSPI.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/韩国综合指数(KOSPI).md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/Karpathy LLM Wiki Pattern.md": {
       "content_hash": "sha256:facf363952f3ec0d42510081c2684bf5bc6a895f0b6a980b7a0783a0976a8dfd",
@@ -1237,11 +1239,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/中国2026年一季度外贸数据.md": {
       "content_hash": "sha256:7edf93bc14efdda96facf94f92a70394437f3c4d67c6d35a3714e75514a9b360",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/中国2026年一季度外贸数据.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/2026年1-3月中国外贸数据.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/中国改革.md": {
       "content_hash": "sha256:bc5d2653d0965c24c096998a1a9d2ef5fb310e053aebcd4ed07d86ec5177ae02",
@@ -1318,11 +1321,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/为何日韩会股牛汇弱.md": {
       "content_hash": "sha256:a5c6f6d9491787ed5abe938e7800519d509f8919397325e57d6c4b65c5fe9481",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/为何日韩会股牛汇弱.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/股牛汇弱.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/主权基金透明度.md": {
       "content_hash": "sha256:aee33e3416c730dc355eae8cefbd5f962d4851d08e18e2ac787b14e6cda3baa3",
@@ -1381,11 +1385,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/亚洲金融危机.md": {
       "content_hash": "sha256:ed2c1c8662dd8332391b5fe50d22a83c7bcf3b2f211f354b703435b1b17dd08f",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/亚洲金融危机.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/1997亚洲金融危机.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/交易成本与科斯定理.md": {
       "content_hash": "sha256:2dfd9e862bfb74439ca399ea483169614234721a2b8c16b9ef29fdf597dbba9d",
@@ -1678,11 +1683,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/公募基金行业2025H1排名分析.md": {
       "content_hash": "sha256:897839616800f35d8e866279a9708009e28e6b1871db3ee363ab74bc86c8ff55",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/公募基金行业2025H1排名分析.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "analysis/基金行业2025H1排名分析.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/公地悲剧.md": {
       "content_hash": "sha256:e108b1dc2136460bf0a725ab76a1a83dce6d3c883287a9525a29d8a380dac15d",
@@ -1705,11 +1711,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/共建_一带一路_.md": {
       "content_hash": "sha256:2c8f88241d66c80a7760f56c6d20a218641cc0d747fe19b434273f1ca4543815",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/共建_一带一路_.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/共建一带一路.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/共建一带一路.md": {
       "content_hash": "sha256:5f031058f1d01c952991cd45fd3e9d8f137730b143551c19f63ee5d647422f53",
@@ -1930,11 +1937,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/化债机制图谱 1.canvas.md": {
       "content_hash": "sha256:ba1a583d851501417a5ce5bc2e1789f9e6b2ee690f49dddad0e9df0ba98d7ae3",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/化债机制图谱 1.canvas.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/化债机制图谱.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/化债机制图谱.md": {
       "content_hash": "sha256:ee91a8feca141663d618ca55b1476c03ed625efab64edcb57e177f3acee9a866",
@@ -2002,11 +2010,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/卖空机制.md": {
       "content_hash": "sha256:efea90e3ea4a5d9aa7c808e8cd1485f01934d338ce42139a48b6b67dfc84b7a4",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/卖空机制.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/做空机制.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/占优策略与重复博弈.md": {
       "content_hash": "sha256:8702ade7ba120327ddcdd57be58a8197ad3c396c30719e7375650afa24b7fc95",
@@ -2353,11 +2362,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/外国补贴条例FSR.md": {
       "content_hash": "sha256:b006a01f081aed07ab99ea46c9bcb1a1bc1aafe8362922687e78b4273554ef26",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/外国补贴条例FSR.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/外国补贴条例(FSR).md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/外国补贴条例（FSR）.md": {
       "content_hash": "sha256:4211113bae37795f2e7dda3b7716d3a40f56e633ba6e191ff59f16a5f52d0003",
@@ -3118,11 +3128,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/数字服务法DSA.md": {
       "content_hash": "sha256:fdeac04541236281e8432694aeca21390b0d5452c322d0444d9a3d77e9d2efd5",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/数字服务法DSA.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/数字服务法(DSA).md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/数字货币桥.md": {
       "content_hash": "sha256:89d260ab5201723eca85f299706be3c3a622aa841b443acc202fa08d29b4c714",
@@ -3361,11 +3372,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/次级制裁.md": {
       "content_hash": "sha256:ecd6469b2f4d06e5f566a029c1812c43204db324727896bb5f1f7efff033f157",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/次级制裁.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/二级制裁.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/欧债危机.md": {
       "content_hash": "sha256:e216641dd51bb381c0abd3294575623dc9ca9c82e52e949bf4c588a627da4597",
@@ -3379,11 +3391,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/欧元区主权债务危机.md": {
       "content_hash": "sha256:165925bcc79842bfbc8260e52173d206d4eca0eab5d1a075ce4812bdf057bdbd",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/欧元区主权债务危机.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/欧债危机.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/欧洲货币体系.md": {
       "content_hash": "sha256:26c1144d4d5a93d25ff5341acf085ded83ceb778cf5def9a3e8e5a233c020d5f",
@@ -4072,11 +4085,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/股份回购与注销.md": {
       "content_hash": "sha256:e911259eb4554fdb108697e924795cae2f1d5309b92e20e06da473b92cd55aa2",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/股份回购与注销.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/回购注销.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/股债跷跷板效应.md": {
       "content_hash": "sha256:c24186d5b7856f9b83c4bb1be54b97e3fb0fcb677dae7702ba3c257d62c19364",
@@ -4126,11 +4140,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/股汇负相关性.md": {
       "content_hash": "sha256:5a32bd0463a2d9182224418cd07a1829270179a37c4794f4d148230b8b549a45",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/股汇负相关性.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/股汇负相关.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/股牛汇弱.md": {
       "content_hash": "sha256:9030498c4f7ea60207246cf8ba1b8a16396950fb9cc52b1486b8ac040fa22ccd",
@@ -4468,11 +4483,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/货币贬值.md": {
       "content_hash": "sha256:993e0ab0a58d50a0fc68d05aaae684774f52a27524b65679c258a7561164002e",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/货币贬值.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/本币贬值.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/贫民窟.md": {
       "content_hash": "sha256:6ad52e817839bd891a16dce2be4a4eb51f0ffe9ae5a86f5e33d6bc416725e2f8",
@@ -4495,11 +4511,12 @@
     "/Users/mac/Documents/金融知识库/wiki/concepts/购买力平价理论.md": {
       "content_hash": "sha256:877deff2169ac306b45b28b3418095f61eacff06d05fa75365a3d294d044ad9d",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "concepts/购买力平价理论.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/购买力平价.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/concepts/贸易.md": {
       "content_hash": "sha256:63a008278234b7a2869233572e4bc0650812cce82527572f68a47a2cd1456a10",
@@ -5278,11 +5295,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/8-11汇改.md": {
       "content_hash": "sha256:a93361c091add16951bef04a43248932fdabcd47d46781ae086c296b5502f06a",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/8-11汇改.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/8.11 汇改.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/8·11汇改.md": {
       "content_hash": "sha256:985590c38f93751f58a5b0a423737b342ba97b410f44a84ed1b7118188b6eb20",
@@ -5431,20 +5449,22 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/ECB.md": {
       "content_hash": "sha256:99178bb6adf7d05c7dd2840ab111c862545f52132c2042db16527dbbe2b93ed2",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/ECB.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/欧洲央行.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/ESM.md": {
       "content_hash": "sha256:a5be04085dab17d75e195999dc23f671dce6994f69216f7861cf54395ead2d83",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/ESM.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/欧洲稳定机制.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/EU理事会.md": {
       "content_hash": "sha256:054b6609848f87aa43284f242da2b531840040b1485b8c5189548cbae24b2c2d",
@@ -5584,11 +5604,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/LTCM危机.md": {
       "content_hash": "sha256:29de396e17a33eb35e68183dd11e2ac225745dbecdef7210bcaa972d8d8f37d8",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/LTCM危机.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/1998年LTCM危机.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/LudwigErhard.md": {
       "content_hash": "sha256:8e41966bb9ac490b97e8e41119abd4ec16cda17785b4007ffd3ae9ecff6c3dbc",
@@ -6106,11 +6127,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/也门胡塞武装.md": {
       "content_hash": "sha256:5bdfab6eeb96b00aaf7acdd694f3a9209d33b934f8f40c8ae21f42a62ee66dd3",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/也门胡塞武装.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/胡塞武装.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/五神.md": {
       "content_hash": "sha256:a73ff6be3e92a641d697c13754e3286c3ab8dd5008f5bf7f8235ee41b89fe312",
@@ -6268,11 +6290,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/佩雷拉(UFC).md": {
       "content_hash": "sha256:a4e1fab305d397339d006debb1303caf42ad282928a5dbe6a213b4f88e1a0969",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/佩雷拉(UFC).md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/佩雷拉.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/佩雷拉.md": {
       "content_hash": "sha256:7e7c2940c115fdbb19e3de193f2f6ee710d674af14f6a5192a7065b34275d79d",
@@ -6646,11 +6669,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/土耳其.md": {
       "content_hash": "sha256:1859dd099d50846005f9d470b4ad28022dca02b5af7a05783c1a38782e7abd2f",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/土耳其.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/Turkey (土耳其).md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/埃及.md": {
       "content_hash": "sha256:a5e08098028b9d89ef2e9dea235d1ca1d59c56c93d302da6639c145bac685109",
@@ -6772,11 +6796,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/存款保险制度.md": {
       "content_hash": "sha256:80aab1cf11db2fb1ba07fd8d0dd9890fa8b68200a5ceaed502ed1d0c093327f3",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/存款保险制度.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/存款保险.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/孟山都.md": {
       "content_hash": "sha256:587c1f22635e61f688d65a4dae6e23aebc3cf60674bffa8b54902897ebc7e527",
@@ -6871,11 +6896,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/巴勒斯坦哈马斯.md": {
       "content_hash": "sha256:e0c0c0b68d1c8c6128ffa465d8f318c2ab09bc7575181515fc17c0afed97b800",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/巴勒斯坦哈马斯.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/哈马斯.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/巴基斯坦.md": {
       "content_hash": "sha256:4be6ffe45edf7beb9a35e1b99c4d18ec162fb3e31584335f0ccfd417289428f1",
@@ -7051,11 +7077,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/托普利亚(UFC).md": {
       "content_hash": "sha256:342655fd5ea74b4d0b174b6bbfaca820fed9d428a9af7ead84385ca4f9a993df",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/托普利亚(UFC).md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/托普利亚.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/托普利亚.md": {
       "content_hash": "sha256:1b1312dc6a31174fbfbecdd7c18c7dc4b043bc8f8c860c27437e0f0fe0843efc",
@@ -7285,11 +7312,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/梧桐树智库.md": {
       "content_hash": "sha256:e3b6afbdb4534f642fc983c9d646128201e40602a729580c37ab609fbdb249a3",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/梧桐树智库.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/梧桐树智庫.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/梧桐树智库外贸数据周报.md": {
       "content_hash": "sha256:22c08561230dc0a504226eaa2fdb7c5993b2a3743d50a007c832ea644ecaa8cb",
@@ -7573,20 +7601,22 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/港股 vs 美股 vs A股.md": {
       "content_hash": "sha256:0feda9b24c0de05c963ba4f74bbe87d1fee94185105fc7a0781f5a6636ce29d5",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/港股 vs 美股 vs A股.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "comparisons/港股vs美股vsA股.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/港股-vs-美股-vs-A股.md": {
       "content_hash": "sha256:203c7927083cf742756670c1308be6d93ce064fcc7fa5cff2f3602c95665adf7",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/港股-vs-美股-vs-A股.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "comparisons/港股vs美股vsA股.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/港股.md": {
       "content_hash": "sha256:8cb0a0258bf9d5edc674f731f19cae594b0630a2c9c40553ede396cd1a930d43",
@@ -8248,11 +8278,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/货币传导机制.md": {
       "content_hash": "sha256:67608d3f680fe2cbaa6777c2c067276a7cbc13be865494aba866c24e2b8fcc2a",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/货币传导机制.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "concepts/货币政策传导机制.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/货币信用.md": {
       "content_hash": "sha256:c71d662ddbcd05d2cfe06f5c757ba44e4be06e72edb8263adfc1a33e0f9fe9bf",
@@ -8635,11 +8666,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/韩国KOSPI.md": {
       "content_hash": "sha256:48c7ac814415b7a4a496f96752ed70db673ee53d02ea3e74c5803a81f95dc2a0",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/韩国KOSPI.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/韩国综合指数(KOSPI).md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/韩国央行(BOK).md": {
       "content_hash": "sha256:2e2ea29b6b32376e86299dd035062897997a1141dc8a6bbe20cc0a8d0ef78496",
@@ -8653,11 +8685,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/韩国央行.md": {
       "content_hash": "sha256:ec731e87b2381424227863daebceba87f0240947c69ee8046cdf3a88de0eb89d",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/韩国央行.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/韩国央行(BOK).md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/韩国综合指数(KOSPI).md": {
       "content_hash": "sha256:71cad3ad4a9483e2763ef7154eb3b7b6593db260dddb9e1b9d06527244141b18",
@@ -8671,11 +8704,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/韩国综合指数.md": {
       "content_hash": "sha256:aa77e8a6ad0ee7581558ff78615fd805538b7d292e2d5929dd001f2adadff695",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/韩国综合指数.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/韩国综合指数(KOSPI).md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/韩国金融监督院(FSS).md": {
       "content_hash": "sha256:64fe55b66deefc8e200ad7880dc6425bd13f7b896ffdebe683b15b5f2af7080f",
@@ -8689,11 +8723,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/韩国金融监督院.md": {
       "content_hash": "sha256:070ab9b499664dcfc7c8eed426854d0c45da3cb87b81fd1045170a7714a94d1d",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/韩国金融监督院.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/韩国金融监督院(FSS).md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/风险加权资产.md": {
       "content_hash": "sha256:bde0dff378ef9e4387c14d85ce01f096d883b7f09cd44be9681d760bc3a47d25",
@@ -8716,11 +8751,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/马克龙.md": {
       "content_hash": "sha256:64b1f11c53019584518f27b141ed1a7b7f865b214d60d78a801757fd1350db8e",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/马克龙.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/法国总统马克龙.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/马斯克.md": {
       "content_hash": "sha256:39ea75d7c5c95d212e7f3c6dc879ec457a6e9d5cc4e11aa9bbb393e4d82d4e34",
@@ -8779,11 +8815,12 @@
     "/Users/mac/Documents/金融知识库/wiki/entities/黎巴嫩真主党.md": {
       "content_hash": "sha256:c9b4352be4e5bc9bb1d51b75abd54f415121363cff15f2af5e9705927724f888",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "entities/黎巴嫩真主党.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "entities/真主党.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/entities/黑田东彦.md": {
       "content_hash": "sha256:f12d406b58897f0b01c213af656db01b927ae948637f4524dcaa90bf5d841e99",
@@ -9175,11 +9212,12 @@
     "/Users/mac/Documents/金融知识库/wiki/sources/2026-03-24-中东局势对全球金融市场的影响.md": {
       "content_hash": "sha256:9c4c535fa17017c8271a296c6ef8e872584394a1e42d65c17494c9c7ed9d59b5",
       "last_ingested": "2026-08-05T03:59:32Z",
-      "pages_produced": [
-        "sources/2026-03-24-中东局势对全球金融市场的影响.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "sources/2026-03-24-中东局势对全球金融市场影响.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/wiki/sources/2026-04-07-日本金融市场震荡深层逻辑.md": {
       "content_hash": "sha256:fb40512be496f33d1340de96b511aa202e2b577260b833062a5fb8ad2b5fc79e",
@@ -9535,11 +9573,12 @@
     "/Users/mac/Documents/金融知识库/raw/wechat/2026-03-24-中东局势对全球金融市场的影响.md": {
       "content_hash": "sha256:f90c9083fd7432f1753845baecb56cfab92088b90888a196355339b02c78a0fa",
       "last_ingested": "2026-08-05T04:04:55Z",
-      "pages_produced": [
-        "sources/2026-03-24-中东局势对全球金融市场的影响.md"
-      ],
+      "pages_produced": [],
       "source_type": "document",
-      "project": null
+      "project": null,
+      "merged_into": [
+        "sources/2026-03-24-中东局势对全球金融市场影响.md"
+      ]
     },
     "/Users/mac/Documents/金融知识库/raw/wechat/2026-06-15-美伊MoU签署与全球狂欢.md": {
       "content_hash": "sha256:7707ff466676f10c1fdab240af12cefc15c58d64e331e9d0c577d2fb4f72d520",
@@ -9985,8 +10024,8 @@
   },
   "stats": {
     "total_sources_ingested": 1109,
-    "total_pages": 1068,
-    "last_update": "2026-08-11T12:00:00+08:00"
+    "total_pages": 1027,
+    "last_update": "2026-08-12T12:00:00+08:00"
   },
   "research": [
     {
