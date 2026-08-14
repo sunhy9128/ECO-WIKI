@@ -1,34 +1,462 @@
 {
-  "today": "2026-08-11",
-  "total": 1052,
-  "orphans": [],
+  "today": "2026-08-14",
+  "total": 1069,
+  "orphans": [
+    "concepts/DDX DDY DDZ 指标.md",
+    "concepts/中国2026年一季度外贸数据.md",
+    "concepts/为何日韩会股牛汇弱.md",
+    "concepts/公募基金行业2025H1排名分析.md",
+    "concepts/共建_一带一路_.md",
+    "concepts/化债机制图谱 1.canvas.md",
+    "concepts/外国补贴条例FSR.md",
+    "concepts/微盘股指数.md",
+    "concepts/数字服务法DSA.md",
+    "concepts/次级制裁.md",
+    "concepts/美联储点阵图.md",
+    "concepts/股份回购与注销.md",
+    "concepts/股汇负相关性.md",
+    "concepts/货币贬值.md",
+    "concepts/购买力平价理论.md",
+    "entities/8-11汇改.md",
+    "entities/ECB.md",
+    "entities/ESM.md",
+    "entities/LTCM危机.md",
+    "entities/也门胡塞武装.md",
+    "entities/佩雷拉(UFC).md",
+    "entities/土耳其.md",
+    "entities/存款保险制度.md",
+    "entities/巴勒斯坦哈马斯.md",
+    "entities/托普利亚(UFC).md",
+    "entities/梧桐树智库.md",
+    "entities/港股 vs 美股 vs A股.md",
+    "entities/港股-vs-美股-vs-A股.md",
+    "entities/货币传导机制.md",
+    "entities/韩国KOSPI.md",
+    "entities/韩国央行.md",
+    "entities/韩国金融监督院.md",
+    "entities/马克龙.md",
+    "entities/黎巴嫩真主党.md",
+    "sources/2026-03-24-中东局势对全球金融市场的影响.md"
+  ],
   "dead_links": {
+    "[[美联储独立性": [
+      "concepts/1970年代滞胀.md"
+    ],
+    "2008 全球金融危机": [
+      "concepts/2008金融危机.md"
+    ],
+    "sources/2026-06-02-[[2026-06-02-冲销式干预": [
+      "concepts/冲销式干预.md"
+    ],
+    "[[1970年代滞胀": [
+      "concepts/实际利率框架.md",
+      "concepts/广场协议.md"
+    ],
+    "[[2023年SVB危机": [
+      "concepts/流动性风险.md"
+    ],
+    "2026-04-15-[[2026年1-3月中国外贸数据": [
+      "concepts/粮食危机.md",
+      "entities/美以伊战争.md"
+    ],
+    "2026-06-02-[[石油美元体系": [
+      "concepts/美元霸权.md"
+    ],
+    "questions/[[什么是财政货币化": [
+      "concepts/财政货币化.md"
+    ],
+    "欧洲央行（ECB）": [
+      "entities/ECB.md"
+    ],
+    "欧洲稳定机制（ESM）": [
+      "entities/ESM.md"
+    ],
+    "[[欧盟要与中国打贸易战？": [
+      "entities/意大利.md"
+    ],
+    "港股 vs 美股 vs A 股": [
+      "entities/港股 vs 美股 vs A股.md",
+      "entities/港股-vs-美股-vs-A股.md"
+    ],
+    "[[央行": [
+      "entities/韩国央行(BOK).md"
+    ],
+    "concepts/[[保交楼": [
+      "journal/digest-2026-08-06.md"
+    ],
+    "secondary": [
+      "log.md"
+    ],
+    "canonical": [
+      "log.md"
+    ],
     "Claude Obsidian": [
-      "log.md",
-      "meta/2026-04-10-backlink-empire-session.md"
+      "log.md"
     ],
     "Rankenstein": [
-      "log.md",
-      "meta/2026-04-10-backlink-empire-session.md"
+      "log.md"
     ],
     "Karpathy LLM Wiki Pattern": [
-      "log.md",
-      "meta/2026-04-10-backlink-empire-session.md"
+      "log.md"
     ],
     "E-commerce SEO": [
-      "log.md",
-      "meta/2026-04-14-claude-seo-v190-session.md"
+      "log.md"
+    ],
+    "[中东局势对全球金融市场的影响": [
+      "sources/2026-03-24-中东局势对全球金融市场影响.md"
+    ],
+    "[中央银行": [
+      "sources/美联储中央央行流动性互换-Fed官网.md"
+    ],
+    "半导体周期": [
+      "synthesis/SK海力士 × 三星电子.md"
+    ],
+    "[[美联储": [
+      "synthesis/扩表与缩表 × 央行入市干预.md"
+    ],
+    "扩表与缩表 × [[中国央行": [
+      "synthesis/扩表与缩表 × 财政货币化.md"
+    ],
+    "[[欧盟要与中国打贸易战": [
+      "synthesis/欧盟 × 贸易战.md"
+    ],
+    "制裁武器化": [
+      "synthesis/美元霸权 × 去美元化.md"
+    ],
+    "石油美元": [
+      "synthesis/美元霸权 × 去美元化.md"
+    ],
+    "美联储 × [[IMF": [
+      "synthesis/美联储 × 欧元区主权债务危机.md"
     ]
   },
-  "dead_link_count": 8,
-  "fm_gaps": [],
-  "addr_errors": [],
+  "dead_link_count": 34,
+  "fm_gaps": [
+    [
+      "concepts/2008金融危机.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/DDX DDY DDZ 指标.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/KOSPI.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/中国2026年一季度外贸数据.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/为何日韩会股牛汇弱.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/亚洲金融危机.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/公募基金行业2025H1排名分析.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/共建_一带一路_.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/化债机制图谱 1.canvas.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/卖空机制.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/外国补贴条例FSR.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/微盘股指数.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/数字服务法DSA.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/次级制裁.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/欧元区主权债务危机.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/美联储点阵图.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/股份回购与注销.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/股汇负相关性.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/货币贬值.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "concepts/购买力平价理论.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/8-11汇改.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/ECB.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/ESM.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/LTCM危机.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/也门胡塞武装.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/佩雷拉(UFC).md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/土耳其.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/存款保险制度.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/巴勒斯坦哈马斯.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/托普利亚(UFC).md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/梧桐树智库.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/港股 vs 美股 vs A股.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/港股-vs-美股-vs-A股.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/货币传导机制.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/韩国KOSPI.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/韩国央行.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/韩国综合指数.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/韩国金融监督院.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/马克龙.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "entities/黎巴嫩真主党.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "sources/2026-03-24-中东局势对全球金融市场的影响.md",
+      [
+        "tags"
+      ]
+    ],
+    [
+      "synthesis/安倍经济学的政治属性评价.md",
+      [
+        "status"
+      ]
+    ]
+  ],
+  "addr_errors": [
+    [
+      "c-001167",
+      "counter drift: n=1167 >= peek=1167"
+    ],
+    [
+      "c-001168",
+      "counter drift: n=1168 >= peek=1167"
+    ],
+    [
+      "c-001169",
+      "counter drift: n=1169 >= peek=1167"
+    ],
+    [
+      "c-001170",
+      "counter drift: n=1170 >= peek=1167"
+    ],
+    [
+      "c-001173",
+      "counter drift: n=1173 >= peek=1167"
+    ],
+    [
+      "c-001171",
+      "counter drift: n=1171 >= peek=1167"
+    ],
+    [
+      "c-001176",
+      "counter drift: n=1176 >= peek=1167"
+    ],
+    [
+      "c-001175",
+      "counter drift: n=1175 >= peek=1167"
+    ],
+    [
+      "c-001172",
+      "counter drift: n=1172 >= peek=1167"
+    ],
+    [
+      "c-001174",
+      "counter drift: n=1174 >= peek=1167"
+    ],
+    [
+      "c-001180",
+      "counter drift: n=1180 >= peek=1167"
+    ],
+    [
+      "c-001182",
+      "counter drift: n=1182 >= peek=1167"
+    ],
+    [
+      "c-001177",
+      "counter drift: n=1177 >= peek=1167"
+    ],
+    [
+      "c-001179",
+      "counter drift: n=1179 >= peek=1167"
+    ],
+    [
+      "c-001181",
+      "counter drift: n=1181 >= peek=1167"
+    ],
+    [
+      "c-001178",
+      "counter drift: n=1178 >= peek=1167"
+    ]
+  ],
   "page_types": {
     "meta": 22,
     "analysis": 2,
     "comparison": 6,
-    "concept": 528,
-    "entity": 384,
+    "concept": 530,
+    "entity": 386,
     "data": 1,
     "domain": 8,
     "fold": 1,
@@ -36,25 +464,26 @@
     "decision": 1,
     "overview": 1,
     "question": 5,
-    "synthesis": 39,
+    "synthesis": 45,
     "reference": 2,
-    "source": 46
+    "source": 52
   },
   "page_statuses": {
-    "current": 465,
+    "current": 447,
     "seed": 4,
-    "developing": 453,
+    "developing": 444,
     "mature": 6,
-    "seedling": 3,
-    "stub": 29,
+    "seedling": 2,
+    "merged": 41,
+    "stub": 25,
     "proposed": 1,
     "evergreen": 52,
     "completed": 17,
     "complete": 4,
     "active": 1,
     "snapshot": 1,
-    "extracted": 13,
+    "extracted": 19,
     "digested": 1
   },
-  "issues_total": 4
+  "issues_total": 122
 }
