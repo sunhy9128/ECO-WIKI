@@ -19,7 +19,7 @@ relationships:
 # 韩国央行(BOK)
 
 ## Basic Information
-- Type: organization（[[[[央行]]]]）
+- Type: organization（[[央行]]）
 - 全称：Bank of Korea（한국은행，韩国银行）
 - 成立时间：1950 年 6 月
 - 所在地：首尔

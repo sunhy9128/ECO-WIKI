@@ -25,7 +25,7 @@ status: "evergreen"
 # 美联储中央央行流动性互换 - Fed 官网
 
 ## 来源
-- 原始页面: [[[中央银行]] Liquidity Swaps](https://www.federalreserve.gov/monetarypolicy/central-bank-liquidity-swaps.htm) + [Central bank liquidity swaps 历史页](https://www.federalreserve.gov/monetarypolicy/bst_liquidityswaps.htm) + [2023-03-19 协调行动新闻稿](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm)
+- 原始页面: [[中央银行]] Liquidity Swaps](https://www.federalreserve.gov/monetarypolicy/central-bank-liquidity-swaps.htm) + [Central bank liquidity swaps 历史页](https://www.federalreserve.gov/monetarypolicy/bst_liquidityswaps.htm) + [2023-03-19 协调行动新闻稿](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm)
 - 收录日期: 2026-08-06
 - 性质: 美联储官方一手源（政策工具介绍 + 历史 + 新闻稿）
 

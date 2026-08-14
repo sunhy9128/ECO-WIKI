@@ -7,4 +7,4 @@ updated: 2026-08-12
 status: merged
 redirects_to: "[[欧洲稳定机制]]"
 ---
-This page has been merged into [[欧洲稳定机制（ESM）]].
+This page has been merged into [[欧洲稳定机制]].

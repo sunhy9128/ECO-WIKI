@@ -753,3 +753,4 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - [2026-08-12T14:13:13+0800] GRAPH_COLORIZE mode=by-tag groups=10 backup=graph.json.backup-20260812-1413
 - [2026-08-12T00:00:00+0800] QUERY query="日本政治民粹化" result_pages=7 mode=normal escalated=false
 - [2026-08-14T13:57:14+0800] LINT issues_found=2213 orphans=0 broken_links=29 stale=64 contradictions=5 prov_issues=0 missing_summary=994 fragmented_clusters=17 visibility_issues=0 promotion_candidates=0 synthesis_gaps=28 relationship_issues=0 missing_fm=1 no_lifecycle=1047 bad_lifecycle=6 trust_check=FAIL ledger_missing addr_errors=16 duplicate_titles=6 index_gaps=871 (说明: 35 orphans 全为 41 个 redirect 存根; 64 stale 系 08-12 cross-linker 回链 bumped 源页 updated 所致; 6 处 broken 为 log.md 历史叙事链接)
+- [2026-08-12] QUERY query="IMF 国际货币基金组织" result_pages=6 mode=normal escalated=false

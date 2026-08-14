@@ -7,4 +7,4 @@ updated: 2026-08-12
 status: merged
 redirects_to: "[[港股vs美股vsA股]]"
 ---
-This page has been merged into [[港股 vs 美股 vs A 股]].
+This page has been merged into [[港股vs美股vsA股]].
