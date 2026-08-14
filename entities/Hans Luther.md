@@ -2,7 +2,7 @@
 title: "Hans Luther"
 address: "c-000506"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 type: "entity"
 tags:
@@ -13,11 +13,15 @@ aliases: ""
 relationships:
   - target: "[[concepts/美联储独立性]]"
     type: related_to
+  - target: "[[concepts/魏玛恶性通胀]]"
+    type: related_to
+  - target: "[[entities/密特朗]]"
+    type: related_to
 sources: ""
 ---
 # Hans Luther（汉斯·路德 / 1879-1962）
 
-> 1923 年用"地租票据"在 24 小时内终结魏玛恶性通胀的"天才央行行长"——从 Reichsbank 行长到德国总理，再到中国国民政府顾问
+> 1923 年用"地租票据"在 24 小时内终结[[concepts/魏玛恶性通胀|魏玛恶性通胀]]的"天才央行行长"——从 Reichsbank 行长到德国总理，再到中国国民政府顾问
 
 ---
 
@@ -468,7 +472,7 @@ sources: ""
 - [[Mario Draghi]] — "Whatever it takes"的承诺者（与 Luther 的"危机管理"对比）
 - [[Christine Lagarde]] — ECB 现任行长
 - [[Wim Duisenberg]] — ECB 首任行长
-- 密特朗（未建）— 1983 年法国"转向"
+- [[entities/密特朗|密特朗]]（未建）— 1983 年法国"转向"
 
 ### 国际比较
 - [[扩表与缩表]] — 央行资产负债表的"信用货币"理论

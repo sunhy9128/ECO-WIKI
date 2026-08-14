@@ -5,7 +5,7 @@ address: c-001083
 question: "什么是QQE（QEE）？QQE是不是日本央行直接购买本国ETF？YCC相比QQE更激进在哪？YCC的目的与实际资金流向是什么？"
 answer_quality: solid
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-14
 tags: [日本, 货币政策, QQE, YCC, 量化宽松]
 relationships:
   - target: "[[concepts/资产购买计划]]"
@@ -13,6 +13,12 @@ relationships:
   - target: "[[entities/新兴市场]]"
     type: related_to
   - target: "[[entities/黄金]]"
+    type: related_to
+  - target: "[[entities/黑田东彦]]"
+    type: related_to
+  - target: "[[entities/日本银行]]"
+    type: related_to
+  - target: "[[concepts/负利率]]"
     type: related_to
 related:
   - "[[量化宽松]]"
@@ -37,20 +43,20 @@ status: completed
 
 ## 一句话回答
 
-> QQE（量化质化宽松）是黑田东彦2013年启动的超级宽松：国债为主 + ETF/J-REITs为辅的"量+质"组合拳；YCC比QQE更激进在于从"承诺数量"升级为"承诺价格"（10年期0%钉死、弹药无上限）；YCC的设计意图是把资金从零收益国债逼向风险资产，但实际资金主要流向了海外carry trade和央行自己的资产负债表。
+> QQE（量化质化宽松）是[[entities/黑田东彦|黑田东彦]]2013年启动的超级宽松：国债为主 + ETF/J-REITs为辅的"量+质"组合拳；YCC比QQE更激进在于从"承诺数量"升级为"承诺价格"（10年期0%钉死、弹药无上限）；YCC的设计意图是把资金从零收益国债逼向风险资产，但实际资金主要流向了海外carry trade和央行自己的资产负债表。
 
 ---
 
 ## 一、什么是QQE
 
-**QQE**（Quantitative and Qualitative Easing，量化质化宽松）是日本银行行长[[黑田东彦]]2013年4月启动的超级量化宽松，[[安倍经济学]]第一支箭的核心。与普通QE只扩"量"不同，QQE还加"质"：购买国债以外的风险资产（ETF、J-REITs），目标是把基础货币2年内翻倍（138万亿→270万亿日元），强行植入2%通胀目标（[[量化宽松]] §4.3、[[安倍经济学]]）。
+**QQE**（Quantitative and Qualitative Easing，量化质化宽松）是[[entities/日本银行|日本银行]]行长[[黑田东彦]]2013年4月启动的超级量化宽松，[[安倍经济学]]第一支箭的核心。与普通QE只扩"量"不同，QQE还加"质"：购买国债以外的风险资产（ETF、J-REITs），目标是把基础货币2年内翻倍（138万亿→270万亿日元），强行植入2%通胀目标（[[量化宽松]] §4.3、[[安倍经济学]]）。
 
 | 时期 | 政策 | 状态 |
 |------|------|------|
 | 2013.4-2016.9 | QQE 1.0：每年60-80万亿日元，买长期国债+ETF+J-REITs | "质化量化宽松" |
 | 2016.9-2023.4 | YCC 1.0：10年期国债收益率控制在0%附近 | 全球唯一收益率曲线控制 |
 | 2023.4-2023.10 | YCC 2.0：放宽至容忍1% | 软退出 |
-| 2024.3.19 | 退出负利率+YCC，取消ETF/J-REITs购买 | QQE彻底死亡 |
+| 2024.3.19 | 退出[[concepts/负利率|负利率]]+YCC，取消ETF/J-REITs购买 | QQE彻底死亡 |
 
 ## 二、QQE是不是日银直接买本国ETF？
 

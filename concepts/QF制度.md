@@ -3,7 +3,7 @@ type: concept
 title: "QF制度"
 address: c-001071
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-14
 status: developing
 tags: [中国, 金融, 对外开放, 资本管制, 互联互通]
 aliases:
@@ -14,6 +14,12 @@ relationships:
   - target: "[[concepts/MLF]]"
     type: related_to
   - target: "[[concepts/二十届三中全会]]"
+    type: related_to
+  - target: "[[concepts/RQFII]]"
+    type: related_to
+  - target: "[[concepts/陆股通]]"
+    type: related_to
+  - target: "[[entities/港股通]]"
     type: related_to
 related:
   - "[[三元悖论]]"
@@ -27,7 +33,7 @@ related:
 
 # QF制度
 
-> 中国跨境投资双向通道的总称：QFII（境外机构投资境内）+ QDII（境内机构投资境外）+ RQFII + 陆股通/港股通/跨境理财通等互联互通机制。本质：在资本项目未完全开放的前提下，给资金进出提供可控通道。
+> 中国跨境投资双向通道的总称：QFII（境外机构投资境内）+ QDII（境内机构投资境外）+ [[concepts/RQFII|RQFII]] + [[concepts/陆股通|陆股通]]/[[entities/港股通|港股通]]/跨境理财通等互联互通机制。本质：在资本项目未完全开放的前提下，给资金进出提供可控通道。
 
 ## 一、制度定位：三元悖论下的通道化开放
 

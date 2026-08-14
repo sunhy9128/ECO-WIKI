@@ -3,7 +3,7 @@ type: concept
 title: "做空CDS"
 address: c-000144
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-14
 tags: [金融, 衍生品, cds, 信用衍生品, 做空]
 status: current
 sources: []
@@ -14,6 +14,12 @@ aliases:
   - "做空信用"
 relationships:
   - target: "[[concepts/套期保值]]"
+    type: related_to
+  - target: "[[concepts/信用利差]]"
+    type: related_to
+  - target: "[[concepts/2008全球金融危机]]"
+    type: related_to
+  - target: "[[entities/系统性风险]]"
     type: related_to
 related:
   - "[[CDS信用违约互换]]"
@@ -37,7 +43,7 @@ related:
 | **标的** | 公司股票 | 公司/主权信用 |
 | **工具** | 融券卖出 | 买入 CDS 保护 |
 | **借券** | 需要借券 | 不需要借券 |
-| **关键变量** | 股价 | 信用利差 |
+| **关键变量** | 股价 | [[concepts/信用利差|信用利差]] |
 | **触发点** | 无明确事件 | 信用事件（违约等） |
 
 ---
@@ -73,10 +79,10 @@ CDS 利差走阔（保费上升）
 
 ## 三、典型场景
 
-### 3.1 2008 年金融危机中的角色
+### 3.1 [[concepts/2008全球金融危机|2008 年金融危机]]中的角色
 
 - 金融机构大量买入 CDS 做空次级抵押贷款相关证券
-- 参见 [[AIG]]：AIG 作为 CDS 卖方承保了巨额次级债风险，危机爆发后无力赔付，成为系统性风险爆发的标志性事件；参见 [[2008全球金融危机]]
+- 参见 [[AIG]]：AIG 作为 CDS 卖方承保了巨额次级债风险，危机爆发后无力赔付，成为[[entities/系统性风险|系统性风险]]爆发的标志性事件；参见 [[2008全球金融危机]]
 - CDS 市场的信息不对称与杠杆放大了金融体系的脆弱性
 
 ### 3.2 欧债危机

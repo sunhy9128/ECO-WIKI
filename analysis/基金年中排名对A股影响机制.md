@@ -3,7 +3,7 @@ type: "analysis"
 title: "基金年中排名对A股影响机制"
 address: "c-000016"
 created: "2026-05-22"
-updated: "2026-05-22"
+updated: 2026-08-14
 tags:
   - "A股"
   - "金融"
@@ -14,6 +14,8 @@ relationships:
   - target: "[[concepts/制度变迁]]"
     type: related_to
   - target: "[[entities/宁德时代]]"
+    type: related_to
+  - target: "[[concepts/信息不对称]]"
     type: related_to
 status: "developing"
 ---
@@ -79,7 +81,7 @@ status: "developing"
 | 谢治宇（兴证全球） | 四季报看好AI硬件，但降至2016年来最低仓位（83.73%），减持中际旭创/[[宁德时代]]，加仓防御 |
 | 谭佳俊（金信基金） | 前十大重仓股**全部洗牌**，信息技术占比从22.6%飙升至62.4%，全面转向AI |
 
-**对A股的影响：** 言行背离导致市场信号紊乱——投资者无法通过路演/季报判断真实操作方向，信息不对称加剧。
+**对A股的影响：** 言行背离导致市场信号紊乱——投资者无法通过路演/季报判断真实操作方向，[[concepts/信息不对称|信息不对称]]加剧。
 
 ## 三、年中资金流向的结构性影响
 

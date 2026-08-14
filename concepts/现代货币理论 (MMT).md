@@ -2,7 +2,7 @@
 title: "现代货币理论 (MMT)"
 address: "c-000337"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 type: "concept"
 tags:
@@ -18,6 +18,12 @@ relationships:
   - target: "[[entities/日本]]"
     type: related_to
   - target: "[[entities/中国]]"
+    type: related_to
+  - target: "[[entities/Hans Luther]]"
+    type: related_to
+  - target: "[[entities/央行独立性]]"
+    type: related_to
+  - target: "[[concepts/负利率]]"
     type: related_to
 sources: ""
 ---
@@ -78,7 +84,7 @@ sources: ""
   - ⭐ "美国学派的非正统经济学家"
 
 【理论根源】
-  - 1923 Rentenmark 改革（Hans Luther）：信用是货币的锚
+  - 1923 Rentenmark 改革（[[entities/Hans Luther|Hans Luther]]）：信用是货币的锚
   - 凯恩斯（部分）：政府支出创造需求
   - 米尔顿·弗里德曼（部分）：货币是政府的债务
   - 制度经济学（凡勃伦、艾尔斯）
@@ -312,7 +318,7 @@ sources: ""
   - 累进税的"政治阻力"巨大
   - ⭐ 理论正确，但难以实施
 
-【批评 4：央行独立性受威胁】
+【批评 4：[[entities/央行独立性|央行独立性]]受威胁】
   - 央行配合财政 → 失去独立性
   - 历史：央行独立 = 货币稳定
   - ⭐ MMT 反对"央行独立"的原则
@@ -456,7 +462,7 @@ sources: ""
 
 【货币政策】
   - 1990s 零利率
-  - 2016 负利率 + YCC
+  - 2016 [[concepts/负利率|负利率]] + YCC
   - 2024 退出
   - ⭐ "30 年极端宽松"
 

@@ -2,7 +2,7 @@
 title: "Rentenmark改革"
 address: "c-000076"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 type: "concept"
 tags:
@@ -16,11 +16,17 @@ relationships:
     type: related_to
   - target: "[[entities/密特朗]]"
     type: related_to
+  - target: "[[entities/Hans Luther]]"
+    type: related_to
+  - target: "[[concepts/魏玛恶性通胀]]"
+    type: related_to
+  - target: "[[concepts/秩序自由主义]]"
+    type: related_to
 sources: ""
 ---
 # Rentenmark 改革（1923.11.15）
 
-> 人类历史上**最戏剧性的恶性通胀终结者**——Hans Luther 用一张"地租票据"在 24 小时内终结了 1 美元 = 4.2 万亿马克的噩梦，揭示了**"信用是货币的锚"**的深刻真理
+> 人类历史上**最戏剧性的恶性通胀终结者**——[[entities/Hans Luther|Hans Luther]] 用一张"地租票据"在 24 小时内终结了 1 美元 = 4.2 万亿马克的噩梦，揭示了**"信用是货币的锚"**的深刻真理
 
 ---
 
@@ -28,7 +34,7 @@ sources: ""
 
 ### 1.1 一句话定义
 
-**Rentenmark 改革**（1923.11.15）是指**Hans Luther**（时任德国帝国银行行长、改革的核心设计者）在魏玛恶性通胀最高峰时推出的**货币改革**——通过创设**Rentenmark**（地租马克）作为新货币单位，**以德国全部土地与工业资产的"地租"（Hypotheken）作为资产抵押**，在**24 小时内终结了魏玛恶性通胀**。这次改革揭示了**"信用是货币的真正锚"**这一深刻真理，是现代货币理论（MMT）的早期实践。
+**Rentenmark 改革**（1923.11.15）是指**Hans Luther**（时任德国帝国银行行长、改革的核心设计者）在[[concepts/魏玛恶性通胀|魏玛恶性通胀]]最高峰时推出的**货币改革**——通过创设**Rentenmark**（地租马克）作为新货币单位，**以德国全部土地与工业资产的"地租"（Hypotheken）作为资产抵押**，在**24 小时内终结了魏玛恶性通胀**。这次改革揭示了**"信用是货币的真正锚"**这一深刻真理，是现代货币理论（MMT）的早期实践。
 
 ### 1.2 关键事实
 
@@ -579,7 +585,7 @@ sources: ""
 | **Gustav Stresemann** | 1923.8-11 总理 | 政治支持 + 改革推动者 |
 | **Rudolf Havenstein** | 1923.11.20 去世的旧 Reichsbank 行长 | 改革反对派，但已去世 |
 | **Wilhelm Marx** | 1923-1924 总理（部分时间） | 改革支持者 |
-| **Walter Eucken** | 弗莱堡学派 | 改革的精神继承者（秩序自由主义） |
+| **Walter Eucken** | 弗莱堡学派 | 改革的精神继承者（[[concepts/秩序自由主义|秩序自由主义]]） |
 | **Ludwig Erhard** | 1948 货币改革设计师 | Rentenmark 改革的精神传承者 |
 
 ---

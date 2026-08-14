@@ -3,7 +3,7 @@ type: entity
 title: "DeepSeek (深度求索)"
 address: c-000497
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-14
 tags: [ai, llm, 中国]
 status: developing
 aliases:
@@ -16,13 +16,15 @@ relationships:
     type: related_to
   - target: "[[entities/腾讯]]"
     type: related_to
+  - target: "[[entities/梁文峰]]"
+    type: related_to
 ---
 
 # DeepSeek (深度求索)
 
 > 中国头部 AI 大模型公司,2026 首轮融资规模惊人
 
-**DeepSeek**(深度求索)是中国领先的大语言模型(LLM)创业公司,总部位于杭州,由**梁文峰**创立。公司以"高性能 + 低成本 + 开源"为定位,在国际 AI 竞争中占据重要位置。
+**DeepSeek**(深度求索)是中国领先的大语言模型(LLM)创业公司,总部位于杭州,由**[[entities/梁文峰|梁文峰]]**创立。公司以"高性能 + 低成本 + 开源"为定位,在国际 AI 竞争中占据重要位置。
 
 ## 2026 首轮融资
 
@@ -36,7 +38,7 @@ relationships:
 **关键观察**:
 - [[moomoocat]] 评价:"**个人能拿出 200 亿的在中国真不多见,很多大佬的财富都在资产上,你让他们出 200 亿现金要挤好久**"
 - 梁文峰个人出资规模,反映其对公司的绝对控制与深度绑定
-- 腾讯 + 宁德时代 = 互联网 + 实体产业资源整合
+- 腾讯 + [[entities/宁德时代|宁德时代]] = 互联网 + 实体产业资源整合
 
 ## 核心定位
 

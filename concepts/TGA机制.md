@@ -3,7 +3,7 @@ type: concept
 title: "TGA机制"
 address: c-000081
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-14
 tags: [美联储, 债券市场, 货币政策, 美国]
 status: developing
 aliases:
@@ -21,6 +21,10 @@ relationships:
   - target: "[[concepts/主权财富基金]]"
     type: related_to
   - target: "[[concepts/资产购买计划]]"
+    type: related_to
+  - target: "[[entities/美联储资产负债表]]"
+    type: related_to
+  - target: "[[entities/直升机撒钱]]"
     type: related_to
 ---
 
@@ -124,7 +128,7 @@ Chase 的 reserve account -$5000
 TGA +$5000
 ```
 
-## 美联储资产负债表的负债端结构
+## [[entities/美联储资产负债表|美联储资产负债表]]的负债端结构
 
 ```
 美联储负债端:
@@ -192,7 +196,7 @@ QE 通过美联储从银行买旧国债影响 TGA:
 - 财政部发新债 → 银行准备金减少 → **TGA 增加**
 - 两者**形式上独立**
 
-## TGA 与"直升机撒钱"的区别
+## TGA 与"[[entities/直升机撒钱|直升机撒钱]]"的区别
 
 | 维度 | TGA + 国债融资(实际) | 直升机撒钱(假想) |
 |---|---|---|

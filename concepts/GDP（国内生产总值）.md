@@ -3,7 +3,7 @@ address: "c-000057"
 type: "concept"
 title: "GDP（国内生产总值）"
 created: "2026-06-03"
-updated: "2026-06-03"
+updated: 2026-08-14
 tags:
   - "宏观经济"
   - "中国"
@@ -14,6 +14,10 @@ relationships:
   - target: "[[concepts/购买力平价]]"
     type: related_to
   - target: "[[entities/汇率]]"
+    type: related_to
+  - target: "[[concepts/收入分配]]"
+    type: related_to
+  - target: "[[entities/转移支付]]"
     type: related_to
 status: "developing"
 ---
@@ -156,7 +160,7 @@ GDP Deflator = (名义 GDP / 实际 GDP) × 100
 | **忽略地下经济** | 现金交易、灰色产业 |
 | **忽略闲暇** | 工作时间越长，GDP 越高，但福利可能下降 |
 | **忽略环境成本** | 污染、碳排放、资源枯竭未扣除 |
-| **忽略收入分配** | 总量增长但分配恶化也计入增长 |
+| **忽略[[concepts/收入分配|收入分配]]** | 总量增长但分配恶化也计入增长 |
 | **忽略质量变化** | 苹果手机 2007 vs 2024 价格难比较（Hedonic 方法部分修正） |
 | **难以跨国比较** | [[汇率]] [[购买力平价]] vs 汇率法 |
 
@@ -204,7 +208,7 @@ GDP Deflator = (名义 GDP / 实际 GDP) × 100
 |------|----------|
 | GDP 越高 = 居民越富 | 可能是分配恶化；GNI/人均 GDP 更能反映 |
 | 二手车交易计入 GDP | **不计入**（已是最终品再转让） |
-| 政府转移支付计入 GDP | **不计入**（无对应生产） |
+| 政府[[entities/转移支付|转移支付]]计入 GDP | **不计入**（无对应生产） |
 | 股票买卖计入 GDP | **不计入**（金融资产转让，非生产） |
 | 中间品计入 GDP | **不计入**（避免重复计算） |
 

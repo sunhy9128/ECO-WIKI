@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-08-12
+updated: 2026-08-14
 tags:
   - meta
   - hot-cache
@@ -19,6 +19,8 @@ related:
 Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
+
+2026-08-14: **CROSS_LINK: 碎片标签簇补链 1488 处（582 页）**。针对 cohesion<0.15 的 19 个标签簇（#中国/#宏观经济/#金融学/#知识管理/#金融/#地缘政治/#货币政策 等），机械扫描 646 页、940 唯一候选名（≥3 CJK 或 ≥5 ASCII、唯一解析、非 redirect 存根），inline 首提及包裹 + 1378 条 related_to relationships + updated 刷新。全库 0 新死链（断链降至 6 处全为 log.md 历史叙事）；#央行/#债务 越过 0.15 阈值、#金融稳定 0.13→0.25。同日 wiki-lint：修 25 处断链（嵌套括号/别名错链/redirect 存根）+ 地址计数器 1185 + 新增 [[半导体周期]]/[[制裁武器化]] 存根 + index 全量清单（833 条）+ 石油美元错链就近改指 [[石油美元环流]]。
 
 2026-08-12: **CROSS_LINK: 补链 1946 处提及（679 页）**。扫描 1064 页（含 41 redirect 存根）、4076 候选（EXTRACTED 2610/INFERRED 1466），inline 首提及包裹 + 679 页写入 relationships frontmatter（1946 条 typed relations）。0 死链，3 孤儿页剩余（journal/2026-08-12、Wiki Map.canvas、transport-fallback）。
 

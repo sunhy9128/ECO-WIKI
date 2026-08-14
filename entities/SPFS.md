@@ -3,7 +3,7 @@ type: "entity"
 title: "SPFS"
 address: "c-000526"
 created: "2026-07-07"
-updated: "2026-07-07"
+updated: 2026-08-14
 sources: ""
 tags:
   - "地缘政治"
@@ -17,12 +17,18 @@ aliases: ""
 relationships:
   - target: "[[entities/INSTEX]]"
     type: related_to
+  - target: "[[entities/SWIFT]]"
+    type: related_to
+  - target: "[[concepts/金融制裁]]"
+    type: related_to
+  - target: "[[concepts/资本管制]]"
+    type: related_to
 ---
 # SPFS（俄罗斯金融信息传输系统）
 
-> System for Transfer of Financial Messages — 俄罗斯版 SWIFT，应对制裁的核心金融基础设施
+> System for Transfer of Financial Messages — 俄罗斯版 [[entities/SWIFT|SWIFT]]，应对制裁的核心金融基础设施
 
-**SPFS**（俄语：Система передачи финансовых сообщений，СПФС；英语：System for Transfer of Financial Messages）是俄罗斯央行（Bank of Russia）于 2014 年克里米亚事件后开始建设的国内金融信息传输系统，作为对 SWIFT 的替代方案。它于 2018 年开始测试运行，2022 年俄乌冲突后被大规模应用，成为俄罗斯应对西方金融制裁的"金融盾"。
+**SPFS**（俄语：Система передачи финансовых сообщений，СПФС；英语：System for Transfer of Financial Messages）是俄罗斯央行（Bank of Russia）于 2014 年克里米亚事件后开始建设的国内金融信息传输系统，作为对 SWIFT 的替代方案。它于 2018 年开始测试运行，2022 年俄乌冲突后被大规模应用，成为俄罗斯应对西方[[concepts/金融制裁|金融制裁]]的"金融盾"。
 
 ---
 
@@ -198,7 +204,7 @@ SPFS 在其中扮演的角色：
 |------|------|---------|
 | **国际化程度低** | 西方银行普遍拒绝接入 | 难以承担大额跨境结算 |
 | **技术标准受限** | 报文标准与 SWIFT 兼容但不互通 | 复杂交易仍需 SWIFT 配合 |
-| **流动性不足** | 卢布资本管制严格 | 难以形成全球网络效应 |
+| **流动性不足** | 卢布[[concepts/资本管制|资本管制]]严格 | 难以形成全球网络效应 |
 | **政治风险高** | 服务于反制裁目的 | 第三方国家顾虑接入的政治代价 |
 | **规模仍小** | 处理量远低于 SWIFT | 多数俄罗斯外贸仍需通过 SWIFT 报文 |
 

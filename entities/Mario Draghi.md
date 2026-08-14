@@ -2,7 +2,7 @@
 title: "Mario Draghi"
 address: "c-000517"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 type: "entity"
 tags:
@@ -11,6 +11,13 @@ tags:
   - "央行"
   - "知识管理"
 aliases: ""
+relationships:
+  - target: "[[entities/意大利]]"
+    type: related_to
+  - target: "[[entities/日本银行]]"
+    type: related_to
+  - target: "[[concepts/负利率]]"
+    type: related_to
 sources: ""
 ---
 # Mario Draghi（马里奥·德拉吉）
@@ -27,7 +34,7 @@ sources: ""
 |------|------|
 | **中文名** | 马里奥·德拉吉 |
 | **英文名** | Mario Draghi |
-| **出生** | 1947.9.3，意大利罗马 |
+| **出生** | 1947.9.3，[[entities/意大利|意大利]]罗马 |
 | **学历** | 麻省理工学院（MIT）经济学博士（1977） |
 | **专业背景** | 经济学家、央行行长、商业银行家、政治家 |
 | **绰号** | ⭐ "Super Mario"、"Mr. Whatever It Takes"、"拯救欧元的人" |
@@ -105,7 +112,7 @@ sources: ""
   - 但威慑效应稳定了市场
        ↓
 2014.6.5 ：DFR 降至 -0.10%
-  - ECB 进入负利率时代
+  - ECB 进入[[concepts/负利率|负利率]]时代
        ↓
 2015.1.22：APP 启动
   - ECB QE 时代开始
@@ -277,7 +284,7 @@ OMT 的法律挑战：
 
 【遗产 8：ECB 的国际地位】
   - ECB 从"区域央行"升格为"全球系统性央行"
-  - 与美联储、日本银行并列
+  - 与美联储、[[entities/日本银行|日本银行]]并列
   - ⭐ "Whatever it takes" 效应
 ```
 

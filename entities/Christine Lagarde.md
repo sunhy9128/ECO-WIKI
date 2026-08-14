@@ -2,7 +2,7 @@
 title: "Christine Lagarde"
 address: "c-000495"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 type: "entity"
 tags:
@@ -13,6 +13,12 @@ relationships:
   - target: "[[concepts/再投资]]"
     type: related_to
   - target: "[[entities/潘功胜]]"
+    type: related_to
+  - target: "[[concepts/货币政策策略]]"
+    type: related_to
+  - target: "[[concepts/降息周期]]"
+    type: related_to
+  - target: "[[entities/鲍威尔]]"
     type: related_to
 sources: ""
 ---
@@ -136,7 +142,7 @@ sources: ""
      - 加息速度超过 ECB 历史
      - 退出 QE
   
-  4. **降息周期（2024-至今）**
+  4. **[[concepts/降息周期|降息周期]]（2024-至今）**
      - 2024.6 开始降息
      - 2026.6 DFR 已降至 2.5%
        ↓
@@ -200,7 +206,7 @@ sources: ""
   - 缩表（2023 起逐步）— 减少 PEPP [[再投资]]
 
 【创新】
-  - 2021.7 货币政策策略审查
+  - 2021.7 [[concepts/货币政策策略|货币政策策略]]审查
   - 首次纳入"气候变化"考量
   - 首次纳入"住房价格"考量
 ```
@@ -296,7 +302,7 @@ sources: ""
   - 未充分重视能源价格上涨
   - 政策反应迟缓
   
-  → 与美联储（鲍威尔）2022.3 加息相比，ECB 晚了 4 个月
+  → 与美联储（[[entities/鲍威尔|鲍威尔]]）2022.3 加息相比，ECB 晚了 4 个月
 ```
 
 ### 5.3 Lagarde 的"通胀应对"

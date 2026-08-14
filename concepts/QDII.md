@@ -3,7 +3,7 @@ type: concept
 title: "QDII"
 address: c-001073
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-14
 status: developing
 tags: [中国, 金融, 对外开放, 资本管制, QF制度]
 aliases:
@@ -17,6 +17,12 @@ relationships:
   - target: "[[entities/腾讯]]"
     type: related_to
   - target: "[[concepts/美元债]]"
+    type: related_to
+  - target: "[[entities/证监会]]"
+    type: related_to
+  - target: "[[entities/港股通]]"
+    type: related_to
+  - target: "[[entities/人民币国际化]]"
     type: related_to
 related:
   - "[[QF制度]]"
@@ -35,7 +41,7 @@ sources: []
 | 要素 | 说明 |
 |------|------|
 | 启动时间 | 2006 年（首批 QDII 基金 2007 年发行） |
-| 管理机构 | 证监会批准资格，外汇局批准额度 |
+| 管理机构 | [[entities/证监会|证监会]]批准资格，外汇局批准额度 |
 | 投资范围 | 境外股票、债券、基金、衍生品、REITs |
 | 额度管理 | 早期总额度 1015 亿美元；2021 年后动态审批 |
 | 参与主体 | 公募基金、保险、银行理财、券商资管 |
@@ -54,7 +60,7 @@ sources: []
 - **QDII 保险资金**：险资境外配置（港股、[[美元债]]）
 - **银行 QDII 理财**：挂钩境外资产的结构化产品
 
-## 与港股通（南向）的互补
+## 与[[entities/港股通|港股通]]（南向）的互补
 
 | 维度 | QDII | 港股通（南向） |
 |------|------|---------------|
@@ -67,7 +73,7 @@ sources: []
 
 - **资本输出通道**：为境内资金参与全球配置提供合法渠道
 - **风险分散**：投资者可布局美股、美元资产对冲人民币风险
-- **人民币国际化**：与 QFII 形成"双 Q"双向通道（参见 [[QF制度]]）
+- **[[entities/人民币国际化|人民币国际化]]**：与 QFII 形成"双 Q"双向通道（参见 [[QF制度]]）
 
 ## 相关条目
 

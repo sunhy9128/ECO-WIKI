@@ -2,7 +2,7 @@
 title: "OMT"
 address: "c-000069"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 related: "[[货币政策与中央银行]]"
 type: "concept"
@@ -16,6 +16,12 @@ relationships:
     type: related_to
   - target: "[[entities/爱尔兰]]"
     type: related_to
+  - target: "[[entities/欧洲央行]]"
+    type: related_to
+  - target: "[[entities/欧洲稳定机制]]"
+    type: related_to
+  - target: "[[entities/欧洲稳定机制]]"
+    type: related_to
 sources: ""
 ---
 # OMT（Outright Monetary Transactions / 直接货币交易）
@@ -28,7 +34,7 @@ sources: ""
 
 ### 1.1 一句话定义
 
-**OMT**（Outright Monetary Transactions，**直接货币交易**），是欧洲中央银行（ECB）于 **2012 年 9 月 6 日**启动的政府债券购买计划，授权 ECB 在二级市场**无限量**购买成员国国债，以**威慑市场投机**。但 OMT 实际**从未被启用**——它的存在本身就已经稳定了欧元区金融市场。
+**OMT**（Outright Monetary Transactions，**直接货币交易**），是[[entities/欧洲央行|欧洲中央银行]]（ECB）于 **2012 年 9 月 6 日**启动的政府债券购买计划，授权 ECB 在二级市场**无限量**购买成员国国债，以**威慑市场投机**。但 OMT 实际**从未被启用**——它的存在本身就已经稳定了欧元区金融市场。
 
 ### 1.2 OMT 的三大要素
 
@@ -42,7 +48,7 @@ sources: ""
   - 实际：威慑效应，从未实际启用
   
 【3】触发条件（"严格条件"）
-  - 必须事先申请 ESM（欧洲稳定机制）救助
+  - 必须事先申请 ESM（[[entities/欧洲稳定机制|欧洲稳定机制]]）救助
   - 接受 ESM 严苛的紧缩 + 改革条件
   - ⭐ 防止"道德风险"
 ```
@@ -404,7 +410,7 @@ ECB 工具层级：
 |------|------|
 | **OMT** | Outright Monetary Transactions（直接货币交易） |
 | **SMP** | Securities Markets Programme（证券市场计划，OMT 的前身） |
-| **ESM** | European Stability Mechanism（欧洲稳定机制） |
+| **ESM** | [[entities/欧洲稳定机制|European Stability Mechanism]]（欧洲稳定机制） |
 | **"严格条件"** | OMT 必须配合 ESM 救助 |
 | **"威慑效应"** | OMT 实际未启用但已稳定市场 |
 | **"二次世界大战"** | 欧债危机的"至暗时刻" |

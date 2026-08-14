@@ -3,7 +3,7 @@ type: "entity"
 title: "CIPS"
 address: "c-000493"
 created: "2026-07-07"
-updated: "2026-07-07"
+updated: 2026-08-14
 sources: ""
 tags:
   - "人民币国际化"
@@ -19,12 +19,18 @@ relationships:
     type: related_to
   - target: "[[entities/欧元]]"
     type: related_to
+  - target: "[[entities/人民币国际化]]"
+    type: related_to
+  - target: "[[entities/中国人民银行]]"
+    type: related_to
+  - target: "[[entities/SWIFT]]"
+    type: related_to
 ---
 # CIPS（人民币跨境支付系统）
 
-> Cross-border Interbank Payment System — 人民币国际化的"高速公路"
+> Cross-border Interbank Payment System — [[entities/人民币国际化|人民币国际化]]的"高速公路"
 
-**CIPS**（人民币跨境支付系统，Cross-border Interbank Payment System）是中国为推进人民币国际化而建设的专门处理人民币跨境清算业务的金融基础设施，由中国人民银行于 2012 年决定建设，2015 年一期上线运行，2018 年二期全面投运。它是中国对标 SWIFT（报文）+ CHIPS（美元清算）的"二合一"跨境支付清算系统，承担人民币跨境支付的信息流与资金流双重职能。
+**CIPS**（人民币跨境支付系统，Cross-border Interbank Payment System）是中国为推进人民币国际化而建设的专门处理人民币跨境清算业务的金融基础设施，由[[entities/中国人民银行|中国人民银行]]于 2012 年决定建设，2015 年一期上线运行，2018 年二期全面投运。它是中国对标 [[entities/SWIFT|SWIFT]]（报文）+ CHIPS（美元清算）的"二合一"跨境支付清算系统，承担人民币跨境支付的信息流与资金流双重职能。
 
 ---
 

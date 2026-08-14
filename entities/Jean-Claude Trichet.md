@@ -2,7 +2,7 @@
 title: "Jean-Claude Trichet"
 address: "c-000510"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 type: "entity"
 tags:
@@ -13,6 +13,10 @@ relationships:
   - target: "[[concepts/OMT]]"
     type: related_to
   - target: "[[concepts/货币政策策略]]"
+    type: related_to
+  - target: "[[entities/Wim Duisenberg]]"
+    type: related_to
+  - target: "[[entities/Mario Draghi]]"
     type: related_to
 sources: ""
 ---
@@ -32,8 +36,8 @@ sources: ""
 | **学历** | 巴黎高等师范学院（ENS）、巴黎高等矿业学院 |
 | **专业** | 工程师、经济学家、央行行长 |
 | **ECB 行长任期** | 2003.11.1 - 2011.10.31（8 年） |
-| **前任** | Wim Duisenberg |
-| **继任** | Mario Draghi |
+| **前任** | [[entities/Wim Duisenberg|Wim Duisenberg]] |
+| **继任** | [[entities/Mario Draghi|Mario Draghi]] |
 | **前职务** | 法国央行行长（1993-2003） |
 
 ---

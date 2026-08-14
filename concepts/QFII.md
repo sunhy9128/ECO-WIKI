@@ -3,7 +3,7 @@ type: concept
 title: "QFII"
 address: c-001072
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-14
 status: developing
 tags: [中国, 金融, 对外开放, 资本管制, QF制度]
 aliases:
@@ -11,6 +11,12 @@ aliases:
   - "Qualified Foreign Institutional Investor"
 relationships:
   - target: "[[concepts/股指期货]]"
+    type: related_to
+  - target: "[[entities/证监会]]"
+    type: related_to
+  - target: "[[concepts/RQFII]]"
+    type: related_to
+  - target: "[[concepts/陆股通]]"
     type: related_to
 related:
   - "[[QF制度]]"
@@ -30,7 +36,7 @@ sources: []
 | 要素 | 说明 |
 |------|------|
 | 启动时间 | 2002 年（首笔试点 2003 年落地） |
-| 管理机构 | 证监会审批资格，外汇局批准额度 |
+| 管理机构 | [[entities/证监会|证监会]]审批资格，外汇局批准额度 |
 | 投资范围 | A 股、债券、基金、[[股指期货]]（2011 年后逐步放开） |
 | 额度管理 | 早期总额度 1500 亿美元；2019 年**取消额度限制** |
 | 准入条件 | 境外资产管理机构、银行、保险、证券机构 |
@@ -40,11 +46,11 @@ sources: []
 
 - **2002**：制度启动，初始总额度 40 亿美元
 - **2003**：首批 QFII（瑞银、花旗等）获批入市
-- **2011**：QFII 额度扩至 300 亿美元，RQFII 同步推出
+- **2011**：QFII 额度扩至 300 亿美元，[[concepts/RQFII|RQFII]] 同步推出
 - **2019**：全面取消 QFII/RQFII 投资额度限制（外汇局）
 - **2020**：简化资格审批，扩大投资范围
 
-## 与陆股通的互补
+## 与[[concepts/陆股通|陆股通]]的互补
 
 QFII 与[[陆股通]]是外资进入 A 股的两条主通道：
 

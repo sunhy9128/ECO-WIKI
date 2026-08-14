@@ -3,7 +3,7 @@ type: "entity"
 title: "INSTEX"
 address: "c-000508"
 created: "2026-07-07"
-updated: "2026-07-07"
+updated: 2026-08-14
 sources: ""
 tags:
   - "地缘政治"
@@ -19,12 +19,18 @@ relationships:
     type: related_to
   - target: "[[entities/中国]]"
     type: related_to
+  - target: "[[concepts/金融制裁]]"
+    type: related_to
+  - target: "[[concepts/二级制裁]]"
+    type: related_to
+  - target: "[[concepts/长臂管辖]]"
+    type: related_to
 ---
 # INSTEX（贸易互换支持工具）
 
 > Instrument in Support of [[贸易]] Exchanges — 欧盟绕开美元制裁伊朗的"非美元清算"实验
 
-**INSTEX**（Instrument in Support of Trade Exchanges，贸易互换支持工具）是法国、德国、英国（2019 年退出后）于 2019 年 1 月联合发起的特殊目的载体（SPV），总部设在巴黎。其核心目标是建立绕开美国金融制裁的"非美元清算通道"，使欧盟企业能够继续与伊朗进行人道主义贸易（药品、医疗器械、食品等），同时规避美国对与伊朗交易的第三国企业的次级制裁。
+**INSTEX**（Instrument in Support of Trade Exchanges，贸易互换支持工具）是法国、德国、英国（2019 年退出后）于 2019 年 1 月联合发起的特殊目的载体（SPV），总部设在巴黎。其核心目标是建立绕开美国[[concepts/金融制裁|金融制裁]]的"非美元清算通道"，使欧盟企业能够继续与伊朗进行人道主义贸易（药品、医疗器械、食品等），同时规避美国对与伊朗交易的第三国企业的[[concepts/二级制裁|次级制裁]]。
 
 INSTEX 是欧盟在"美欧战略分歧"背景下的关键金融基础设施试验，其成败反映了欧盟追求"战略自主"的实际能力。
 
@@ -65,7 +71,7 @@ INSTEX 是欧盟在"美欧战略分歧"背景下的关键金融基础设施试�
 【欧盟的两难】
 ├── 1. 安全依赖美国（北约 + 情报共享）
 ├── 2. 经济上又需维护自身利益
-├── 3. 多数欧盟企业因长臂管辖被迫退出伊朗
+├── 3. 多数欧盟企业因[[concepts/长臂管辖|长臂管辖]]被迫退出伊朗
 └── 4. 缺乏独立金融基础设施
 ```
 

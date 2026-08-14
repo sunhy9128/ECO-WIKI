@@ -2,7 +2,7 @@
 title: "EU理事会"
 address: "c-000500"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 type: "entity"
 tags:
@@ -11,6 +11,11 @@ tags:
   - "宏观经济"
   - "财政政策"
 aliases: ""
+relationships:
+  - target: "[[entities/欧洲稳定机制]]"
+    type: related_to
+  - target: "[[entities/欧洲稳定机制]]"
+    type: related_to
 sources: ""
 ---
 # EU 理事会（Council of the European Union）
@@ -245,7 +250,7 @@ EU 理事会主席（轮值）：
   - 4-7 月发布国别建议（CSRs）
   - ⭐ "欧元区经济体检"
 
-【机制 2：欧洲稳定机制（ESM）】
+【机制 2：[[entities/欧洲稳定机制|欧洲稳定机制]]（ESM）】
   - ESM 由 Eurogroup 监督
   - EU 理事会通过 ESM 改革
   - ⭐ ESM 是 EU 理事会 + Eurogroup 的"工具"
@@ -357,7 +362,7 @@ EU 理事会与 ECB 的决策分工：
 | **QMV** | Qualified Majority Voting（合格多数） |
 | **CSRs** | Country-Specific Recommendations（国别建议） |
 | **NGEU** | NextGenerationEU（复苏基金） |
-| **ESM** | European Stability Mechanism（欧洲稳定机制） |
+| **ESM** | [[entities/欧洲稳定机制|European Stability Mechanism]]（欧洲稳定机制） |
 
 ---
 

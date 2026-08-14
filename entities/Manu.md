@@ -4,10 +4,13 @@ address: "c-000516"
 type: "entity"
 title: "Manu"
 created: "2026-06-02"
-updated: "2026-06-02"
+updated: 2026-08-14
 sources: ""
 tags: [中国, 监管, 贸易]
 aliases: ""
+relationships:
+  - target: "[[entities/商务部]]"
+    type: related_to
 status: "current"
 ---
 
@@ -31,4 +34,4 @@ Manu是被[[Meta]]收购的公司，其与Meta之间的并购交易因涉及技�
 - [[国务院关于对外投资的规定]]
 
 ## 来源提及
-- 显然，这很容易让人联想到Meta收购Manu事件，如商务部于2026年1月8日宣布启动审查，以核查技术出口、数据跨境、合规申报等方面的问题。
+- 显然，这很容易让人联想到Meta收购Manu事件，如[[entities/商务部|商务部]]于2026年1月8日宣布启动审查，以核查技术出口、数据跨境、合规申报等方面的问题。

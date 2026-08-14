@@ -4,7 +4,7 @@ address: "c-001129"
 type: "source"
 title: "美联储中央央行流动性互换-Fed官网"
 created: "2026-08-06"
-updated: "2026-08-06"
+updated: 2026-08-14
 sources: "https://www.federalreserve.gov/monetarypolicy/central-bank-liquidity-swaps.htm"
 tags: [美联储, 国际金融, 流动性, 货币互换]
 aliases: "Central Bank Liquidity Swaps, 美元互换额度, 货币互换协议"
@@ -18,6 +18,12 @@ relationships:
   - target: "[[entities/央行]]"
     type: related_to
   - target: "[[entities/欧元]]"
+    type: related_to
+  - target: "[[entities/英格兰银行]]"
+    type: related_to
+  - target: "[[entities/日本银行]]"
+    type: related_to
+  - target: "[[entities/瑞士央行]]"
     type: related_to
 status: "evergreen"
 ---
@@ -35,7 +41,7 @@ status: "evergreen"
 
 ### 常设互换网络（C6）
 
-加拿大央行、英格兰银行、日本银行、欧洲央行、[[美联储]]、瑞士央行六家央行**维持常设美元流动性互换线**（standing U.S. dollar liquidity swap line arrangements）。官方定位：作为**重要流动性后盾（liquidity backstop）**，缓解全球融资市场压力，从而减轻此类压力对国内外家庭与企业信贷供给的影响。^[extracted]
+加拿大央行、[[entities/英格兰银行|英格兰银行]]、[[entities/日本银行|日本银行]]、欧洲央行、[[美联储]]、[[entities/瑞士央行|瑞士央行]]六家央行**维持常设美元流动性互换线**（standing U.S. dollar liquidity swap line arrangements）。官方定位：作为**重要流动性后盾（liquidity backstop）**，缓解全球融资市场压力，从而减轻此类压力对国内外家庭与企业信贷供给的影响。^[extracted]
 
 ### 法律依据与治理
 

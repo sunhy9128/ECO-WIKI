@@ -2,7 +2,7 @@
 title: "Wim Duisenberg"
 address: "c-000531"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 type: "entity"
 tags:
@@ -13,6 +13,8 @@ relationships:
   - target: "[[concepts/货币政策策略]]"
     type: related_to
   - target: "[[entities/荷兰]]"
+    type: related_to
+  - target: "[[entities/Jean-Claude Trichet]]"
     type: related_to
 sources: ""
 ---
@@ -35,7 +37,7 @@ sources: ""
 | **绰号** | ⭐ "Mr. Euro"、"欧元之父"之一 |
 | **ECB 行长任期** | 1998.6.1 - 2003.10.31（5 年 5 个月） |
 | **前任** | （ECB 首任行长，无前任） |
-| **继任** | Jean-Claude Trichet |
+| **继任** | [[entities/Jean-Claude Trichet|Jean-Claude Trichet]] |
 
 ---
 

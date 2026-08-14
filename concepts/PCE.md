@@ -4,7 +4,7 @@ type: concept
 title: "PCE"
 address: c-000070
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-08-14
 tags: [美国, 通胀, 美联储, 货币政策]
 status: developing
 related: "[[宏观经济]]"
@@ -27,13 +27,17 @@ relationships:
     type: related_to
   - target: "[[concepts/房地产]]"
     type: related_to
+  - target: "[[entities/美联储利率决策]]"
+    type: related_to
+  - target: "[[concepts/通胀目标制]]"
+    type: related_to
 ---
 
 # PCE
 
-> 美联储最青睐的通胀指标,直接影响美联储利率决策
+> 美联储最青睐的通胀指标,直接影响[[entities/美联储利率决策|美联储利率决策]]
 
-**PCE**(Personal Consumption Expenditures Price Index,个人消费支出价格指数)是美国商务部经济分析局(BEA)发布的**通胀衡量指标**,反映美国消费者购买商品和服务的**价格变化**。美联储将其作为**制定货币政策的首选通胀指标**,权重高于 CPI。
+**PCE**(Personal Consumption Expenditures Price Index,个人消费支出价格指数)是美国[[entities/商务部|商务部]]经济分析局(BEA)发布的**通胀衡量指标**,反映美国消费者购买商品和服务的**价格变化**。美联储将其作为**制定货币政策的首选通胀指标**,权重高于 CPI。
 
 ## PCE vs CPI 关键区别
 
@@ -63,7 +67,7 @@ relationships:
 ### 通胀目标
 
 - **2% PCE**(长期目标)
-- 美联储采用**"灵活平均通胀目标制"**(FAIT,2020-)
+- 美联储采用**"灵活平均[[concepts/通胀目标制|通胀目标制]]"**(FAIT,2020-)
 - 容忍通胀**暂时高于** 2%(以弥补低于 2% 的时期)
 
 ## 2026 年 PCE 关键数据

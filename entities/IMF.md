@@ -2,7 +2,7 @@
 title: "IMF"
 address: "c-000507"
 created: "2026-04-29"
-updated: "2026-07-07"
+updated: 2026-08-14
 type: "entity"
 status: "current"
 sources: "[]"
@@ -14,6 +14,12 @@ relationships:
     type: related_to
   - target: "[[concepts/金砖国家]]"
     type: related_to
+  - target: "[[concepts/货币基金]]"
+    type: related_to
+  - target: "[[entities/金融稳定]]"
+    type: related_to
+  - target: "[[entities/世界银行]]"
+    type: related_to
 tags:
   - "国际金融"
   - "欧元区"
@@ -21,13 +27,13 @@ tags:
   - "新兴市场"
   - "金融危机"
 ---
-# IMF（国际货币基金组织）
+# IMF（国际[[concepts/货币基金|货币基金]]组织）
 
-> 全球金融稳定的"最后贷款人"——既被推崇为"自由市场的守护者"，也被批评为"主权国家的经济殖民者"
+> 全球[[entities/金融稳定|金融稳定]]的"最后贷款人"——既被推崇为"自由市场的守护者"，也被批评为"主权国家的经济殖民者"
 
 ## 一、核心定义
 
-**国际货币基金组织**（International Monetary Fund，IMF）成立于 **1944 年 7 月**，于 **1945 年 12 月**正式运作，总部位于美国华盛顿特区，是**布雷顿森林体系**的两大支柱之一（另一个是世界银行）。
+**国际货币基金组织**（International Monetary Fund，IMF）成立于 **1944 年 7 月**，于 **1945 年 12 月**正式运作，总部位于美国华盛顿特区，是**布雷顿森林体系**的两大支柱之一（另一个是[[entities/世界银行|世界银行]]）。
 
 **核心职责**：
 - 维护国际汇率稳定

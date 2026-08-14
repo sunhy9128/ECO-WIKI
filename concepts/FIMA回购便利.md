@@ -3,7 +3,7 @@ type: "concept"
 title: "FIMA回购便利"
 address: "c-001132"
 created: "2026-08-06"
-updated: "2026-08-06"
+updated: 2026-08-14
 tags: [美联储, 国际金融, 流动性, 回购市场, 美元]
 status: "developing"
 complexity: "advanced"
@@ -11,6 +11,8 @@ domain: "国际金融"
 aliases: "FIMA Repo Facility, 外国与国际货币当局回购便利, FIMA 回购便利, 回购便利"
 relationships:
   - target: "[[concepts/2020年3月流动性危机]]"
+    type: related_to
+  - target: "[[concepts/美元流动性]]"
     type: related_to
 related:
   - "[[美联储]]"
@@ -43,7 +45,7 @@ sources: "[[FIMA回购便利-Fed官网]]"
 | 普惠性 | 排他（EM 大多无线） | **普惠补充**（有美债即有美元） |
 | 常设化 | 2013（C5/6）+ 2021.7.28 | 2021.7.28 |
 
-**关键意义**：FIMA repo 把"外国央行手中的美债"变成"可抵押的美元流动性"，让**没有互换线的央行**也能在美元荒时获得美元，同时**避免它们被迫抛售美债**——这既稳定全球美元融资市场，也反过来保护了美债市场。^[inferred]
+**关键意义**：FIMA repo 把"外国央行手中的美债"变成"可抵押的[[concepts/美元流动性|美元流动性]]"，让**没有互换线的央行**也能在美元荒时获得美元，同时**避免它们被迫抛售美债**——这既稳定全球美元融资市场，也反过来保护了美债市场。^[inferred]
 
 ## 相关概念
 

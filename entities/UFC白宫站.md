@@ -3,7 +3,7 @@ address: "c-000530"
 type: "entity"
 title: "UFC白宫站"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: 2026-08-14
 sources: ""
 tags:
   - "体育"
@@ -34,7 +34,7 @@ UFC 白宫站(UFC at the White House)是 2026 年 6 月在美国白宫举办的 
 | [[佩雷拉]] | 被 TKO | — |
 | [[托普利亚]] | 被 TKO(眼伤) | 医生建议不继续,托普利亚眼露恐惧 |
 
-## moomoocat 的情绪反应
+## [[entities/moomoocat|moomoocat]] 的情绪反应
 
 > "至于 UFC 比赛没啥好说的,等了三个月,结果我欣赏的选手今天都扑街了。"
 

@@ -3,7 +3,7 @@ type: concept
 title: "Volkswagen 轧空事件"
 address: c-000085
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-08-14
 status: current
 tags: [金融, 市场机制, 轧空, 期权]
 aliases:
@@ -21,6 +21,10 @@ relationships:
     type: related_to
   - target: "[[entities/欧元]]"
     type: related_to
+  - target: "[[entities/大众汽车]]"
+    type: related_to
+  - target: "[[entities/皮耶希]]"
+    type: related_to
 ---
 
 # Volkswagen 轧空事件（2008年10月）
@@ -29,7 +33,7 @@ relationships:
 
 ## 一、事件概要
 
-**Volkswagen 轧空事件**（Volkswagen Short Squeeze）发生于 **2008 年 10 月 27-28 日**，是金融史上最戏剧性的轧空事件之一。保时捷（Porsche）通过**[[期权]]**累积了大众汽车 74.1% 的股权，加上州政府持股，**市场上可流通的股票仅剩 5.99%**。当空头试图平仓时，**找不到股票**。
+**Volkswagen 轧空事件**（Volkswagen Short Squeeze）发生于 **2008 年 10 月 27-28 日**，是金融史上最戏剧性的轧空事件之一。保时捷（Porsche）通过**[[期权]]**累积了[[entities/大众汽车|大众汽车]] 74.1% 的股权，加上州政府持股，**市场上可流通的股票仅剩 5.99%**。当空头试图平仓时，**找不到股票**。
 
 结果：大众股价从 200 欧元在 **2 天内**飙升至 **1000 [[欧元]]**（涨 5 倍），**空头爆仓数十亿欧元**。10 月 28 日盘中，大众**短暂成为全球市值最大的公司**。
 
@@ -225,7 +229,7 @@ VW 案例：
 | 卖空头寸/流通股 | 2.0 倍（数学上不可能平仓）|
 | 空头总亏损 | 数十亿欧元 |
 
-## 四、保时捷与皮耶希家族
+## 四、保时捷与[[entities/皮耶希|皮耶希]]家族
 
 ### 4.1 角色说明
 

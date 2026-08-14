@@ -3,7 +3,7 @@ address: "c-000529"
 type: "entity"
 title: "Temu"
 created: "2026-06-05"
-updated: "2026-06-05"
+updated: 2026-08-14
 sources: ""
 tags:
   - "科技"
@@ -13,6 +13,8 @@ aliases: ""
 relationships:
   - target: "[[concepts/工业加速器法案]]"
     type: implements
+  - target: "[[entities/Ceconomy]]"
+    type: related_to
 status: "current"
 ---
 
@@ -38,5 +40,5 @@ Temu是中国电商企业[[拼多多]](PDD Holdings)旗下的跨境电商平台�
 - [[欧盟对华贸易战]]
 
 ## 来源提及
-- "2026年5月28日，欧盟首次启用《外国补贴条例（FSR）》立案审查京东收购德国Ceconomy，并依据《数字服务法》对Temu罚款2亿欧元。"
+- "2026年5月28日，欧盟首次启用《外国补贴条例（FSR）》立案审查京东收购德国[[entities/Ceconomy|Ceconomy]]，并依据《数字服务法》对Temu罚款2亿欧元。"
 - "推动《[[工业加速器法案]]》尽快落地，要求欧盟新能源补贴绑定本土零部件占比（如要求整车零部件的欧盟原产比例达到70%），限制中国汽配、电池进入欧盟补贴项目。"

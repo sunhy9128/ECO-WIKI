@@ -3,13 +3,18 @@ type: source
 title: "OECD Economic Surveys: Japan 2024"
 address: c-001172
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-14
 source: OECD 官方报告
 source_url: https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2024_0f30f7b9-en.html
 author: OECD
 tags: [日本, OECD, 安倍经济学, 债务, 结构性改革, YCC]
 aliases:
   - "OECD Japan 2024"
+relationships:
+  - target: "[[concepts/输入型通胀]]"
+    type: related_to
+  - target: "[[concepts/负利率]]"
+    type: related_to
 status: extracted
 related_concepts:
   - 安倍经济学
@@ -37,7 +42,7 @@ lifecycle_changed: 2026-08-11
 ## 核心观点
 
 1. **安倍经济学「确实提高了增长和劳动参与」**——尤其女性与老年工人的劳动参与率显著上升（这是官方叙事里最扎实的成绩单）。
-2. **通胀「正但低」**——并未持续达到 2% 目标；2022-2023 的 CPI 上行主要靠输入型通胀（日元贬值+大宗商品），非内生需求。
+2. **通胀「正但低」**——并未持续达到 2% 目标；2022-2023 的 CPI 上行主要靠[[concepts/输入型通胀|输入型通胀]]（日元贬值+大宗商品），非内生需求。
 3. **结构性改革不足**——第三支箭承诺的放松管制、劳动力市场改革（消除二元市场）、生产率提升大多未兑现。
 4. **债务/GDP 达 245%（2022）**——全球最高，财政可持续性仍是核心风险。
 5. 政策建议：**逐渐退出 YCC**（后已实现，2024.03）、提高退休年龄、消除劳动力二元市场（正规/非正规工资差）。
@@ -45,7 +50,7 @@ lifecycle_changed: 2026-08-11
 ## 局限性
 
 - 官方机构报告，措辞谨慎，未直接评价安倍经济学的政治属性（民粹/选举），只评估经济绩效。
-- 未覆盖 2024.03 退出负利率/YCC 之后的政策效果。
+- 未覆盖 2024.03 退出[[concepts/负利率|负利率]]/YCC 之后的政策效果。
 
 ## 与库内页面的关联
 

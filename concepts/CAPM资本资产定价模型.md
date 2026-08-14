@@ -3,7 +3,7 @@ address: "c-000045"
 type: "concept"
 title: "CAPM资本资产定价模型"
 created: "2026-06-03"
-updated: "2026-06-03"
+updated: 2026-08-14
 tags:
   - "资产定价"
   - "金融学"
@@ -15,11 +15,17 @@ relationships:
     type: related_to
   - target: "[[concepts/杠杆]]"
     type: related_to
+  - target: "[[entities/系统性风险]]"
+    type: related_to
+  - target: "[[domains/宏观经济]]"
+    type: related_to
+  - target: "[[entities/折现率]]"
+    type: related_to
 status: "developing"
 ---
 > 由 AI 系统化整理（2026-06-03），待补充原始来源素材
 
-> CAPM（Capital Asset Pricing Model）由 William Sharpe（1964）、John Lintner（1965）、Jan Mossin（1966）独立提出，描述在均衡市场中，单一证券的预期收益与其系统性风险（β）之间的线性关系。
+> CAPM（Capital Asset Pricing Model）由 William Sharpe（1964）、John Lintner（1965）、Jan Mossin（1966）独立提出，描述在均衡市场中，单一证券的预期收益与其[[entities/系统性风险|系统性风险]]（β）之间的线性关系。
 
 ---
 
@@ -79,7 +85,7 @@ E(Ri) = Rf + βi × [E(Rm) - Rf]
 | 经营杠杆 | 固定成本高 → 高 β |
 | 财务杠杆 | 负债多 → 高 β |
 | 收入波动性 | 现金流波动大 → 高 β |
-| 与宏观经济相关性 | 与 GDP 相关性高 → 高 β |
+| 与[[domains/宏观经济|宏观经济]]相关性 | 与 GDP 相关性高 → 高 β |
 
 ## 三、CAPM 假设
 
@@ -203,7 +209,7 @@ E(Ri) = Rf + β_MKT × ERP
 
 | 场景 | 用途 |
 |------|------|
-| 资本预算 | 估算项目折现率（WACC 中的股权成本） |
+| 资本预算 | 估算项目[[entities/折现率|折现率]]（WACC 中的股权成本） |
 | 股票估值 | 折现现金流模型（DCF） |
 | 业绩评估 | Jensen's Alpha = R_p - [Rf + β(R_m - Rf)] |
 | [[资源配置]] | 风险调整后收益排序 |

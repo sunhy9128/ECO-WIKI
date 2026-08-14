@@ -3,7 +3,7 @@ type: entity
 title: "Kweb (CSI China Internet)"
 address: c-000511
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-14
 tags: [中国, us-market]
 status: developing
 aliases:
@@ -19,6 +19,8 @@ relationships:
   - target: "[[entities/恒生科技指数]]"
     type: related_to
   - target: "[[entities/阿里巴巴]]"
+    type: related_to
+  - target: "[[concepts/中概股]]"
     type: related_to
 ---
 
@@ -50,6 +52,6 @@ relationships:
 
 ## 相关条目
 
-- [[中概股]] — Kweb 是中概股最核心的美股指数化工具
+- [[中概股]] — Kweb 是[[concepts/中概股|中概股]]最核心的美股指数化工具
 - [[崩溃的信徒]] — 2026 年暴跌的数据来源
 - [[腾讯]], [[美团]], [[小米]] — 主要持仓标的

@@ -2,7 +2,7 @@
 title: "巴塞尔协议 III"
 address: c-000253
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-08-14
 status: current
 type: concept
 tags: [金融, 监管, 银行, 巴塞尔协议, 资本充足]
@@ -26,11 +26,15 @@ relationships:
     type: related_to
   - target: "[[sources/2026-04-29-巴塞尔协议]]"
     type: related_to
+  - target: "[[entities/系统性风险]]"
+    type: related_to
+  - target: "[[concepts/沃尔克规则]]"
+    type: related_to
 ---
 
 # [[2026-04-29-巴塞尔协议]] III（Basel III）
 
-> 全球银行监管的"圣经"——2008 危机后的全面升级，国际金融监管的"三大支柱"
+> 全球[[entities/银行监管|银行监管]]的"圣经"——2008 危机后的全面升级，国际金融监管的"三大支柱"
 
 ## 一、核心定义
 
@@ -40,7 +44,7 @@ relationships:
 1. **提高银行资本质量与数量**
 2. **引入杠杆率要求**
 3. **引入流动性监管标准**
-4. **减少银行体系的系统性风险**
+4. **减少银行体系的[[entities/系统性风险|系统性风险]]**
 5. **防止"太大而不能倒"**
 
 **实施时间表**（原本）：
@@ -631,7 +635,7 @@ G-SIBs 附加缓冲：1%-2%
 
 ---
 
-## 八、巴塞尔 III 与沃尔克规则
+## 八、巴塞尔 III 与[[concepts/沃尔克规则|沃尔克规则]]
 
 ### 8.1 关系对比
 

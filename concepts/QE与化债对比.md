@@ -3,7 +3,7 @@ address: "c-000073"
 type: "concept"
 title: "QE与化债对比"
 created: "2026-06-26"
-updated: "2026-07-06"
+updated: 2026-08-14
 status: "current"
 sources:
   - "[[2024-化债政策包]]"
@@ -31,6 +31,12 @@ relationships:
   - target: "[[entities/日本]]"
     type: related_to
   - target: "[[entities/中国]]"
+    type: related_to
+  - target: "[[entities/金融稳定]]"
+    type: related_to
+  - target: "[[concepts/本币贬值]]"
+    type: related_to
+  - target: "[[entities/货币创造]]"
     type: related_to
 ---
 # [[资产购买计划]] 与化债对比
@@ -145,8 +151,8 @@ M2 大幅扩张
 |------|----------|---------|
 | **通胀** | 高通胀风险 | 通胀压力小 |
 | **资产泡沫** | 风险显著 | 风险较小 |
-| **金融稳定** | 资产价格上涨隐忧 | 银行盈利压力 |
-| **汇率** | 本币贬值压力 | 影响较小 |
+| **[[entities/金融稳定|金融稳定]]** | 资产价格上涨隐忧 | 银行盈利压力 |
+| **汇率** | [[concepts/本币贬值|本币贬值压力]] | 影响较小 |
 | **贫富差距** | 加剧（资产价格上涨） | 影响较小 |
 
 ### 3.6 退出机制
@@ -173,7 +179,7 @@ M2 大幅扩张
 
 ### 4.1 QE 的本质
 
-> **QE = Monetary Creation（货币创造）**
+> **QE = Monetary Creation（[[entities/货币创造|货币创造]]）**
 
 ```
 美联储扩表 1 万亿美元

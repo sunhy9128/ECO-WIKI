@@ -3,12 +3,16 @@ type: entity
 title: "GIC（新加坡政府投资公司）"
 address: c-000912
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-14
 status: current
 tags: [金融, 主权基金, 新加坡]
 aliases: ["GIC", "Government of Singapore Investment Corporation", "新加坡政府投资公司"]
 relationships:
   - target: "[[concepts/积极股东]]"
+    type: related_to
+  - target: "[[concepts/主权财富基金]]"
+    type: related_to
+  - target: "[[concepts/Santiago Principle]]"
     type: related_to
 sources: []
 related:
@@ -21,7 +25,7 @@ related:
 
 # GIC（新加坡政府投资公司）
 
-> 新加坡两大主权财富基金之一（与淡马锡并列），外汇储备"分流型" SWF，全球最大的主权级资管组合之一
+> 新加坡两大[[concepts/主权财富基金|主权财富基金]]之一（与淡马锡并列），外汇储备"分流型" SWF，全球最大的主权级资管组合之一
 
 ---
 
@@ -33,7 +37,7 @@ related:
 - **淡马锡** = 国有**股权**管理（1974 年开始，从一开始就是股权）
 - **GIC** = 外汇储备**分流**管理（1981 年开始，从一开始就是固收 / 多资产分散）
 
-GIC 是 SWF 矩阵中典型的"外汇储备分流 + 公司型治理" 标杆，被 IMF 列为 Santiago Principle 范本之一。
+GIC 是 SWF 矩阵中典型的"外汇储备分流 + 公司型治理" 标杆，被 IMF 列为 [[concepts/Santiago Principle|Santiago Principle]] 范本之一。
 
 ---
 

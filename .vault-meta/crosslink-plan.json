@@ -1,0 +1,7442 @@
+[
+ {
+  "src": "analysis/基金年中排名对A股影响机制.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "analysis/基金行业2025H1排名分析.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "analysis/基金行业2025H1排名分析.md",
+  "name": "被动投资",
+  "tgt": "concepts/被动投资.md"
+ },
+ {
+  "src": "analysis/基金行业2025H1排名分析.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "comparisons/中俄联合声明2021vs2026.md",
+  "name": "天然气",
+  "tgt": "entities/天然气.md"
+ },
+ {
+  "src": "comparisons/中俄联合声明2021vs2026.md",
+  "name": "大欧亚伙伴关系",
+  "tgt": "concepts/大欧亚伙伴关系.md"
+ },
+ {
+  "src": "comparisons/港股vs美股vsA股.md",
+  "name": "港交所",
+  "tgt": "entities/港交所.md"
+ },
+ {
+  "src": "comparisons/港股vs美股vsA股.md",
+  "name": "科创板",
+  "tgt": "entities/科创板.md"
+ },
+ {
+  "src": "comparisons/港股vs美股vsA股.md",
+  "name": "创业板",
+  "tgt": "entities/创业板.md"
+ },
+ {
+  "src": "comparisons/美联储vs中国央行.md",
+  "name": "压力测试",
+  "tgt": "entities/压力测试.md"
+ },
+ {
+  "src": "comparisons/美联储vs中国央行.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "comparisons/美联储vs中国央行.md",
+  "name": "周小川",
+  "tgt": "entities/周小川.md"
+ },
+ {
+  "src": "concepts/1970年代滞胀.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/1970年代滞胀.md",
+  "name": "凯恩斯主义",
+  "tgt": "concepts/凯恩斯主义.md"
+ },
+ {
+  "src": "concepts/1970年代滞胀.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/1987黑色星期一.md",
+  "name": "动态对冲",
+  "tgt": "concepts/动态对冲.md"
+ },
+ {
+  "src": "concepts/1987黑色星期一.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "concepts/1987黑色星期一.md",
+  "name": "股指期货",
+  "tgt": "concepts/股指期货.md"
+ },
+ {
+  "src": "concepts/1992欧洲货币危机.md",
+  "name": "英格兰银行",
+  "tgt": "entities/英格兰银行.md"
+ },
+ {
+  "src": "concepts/1992欧洲货币危机.md",
+  "name": "香港金管局",
+  "tgt": "entities/香港金管局.md"
+ },
+ {
+  "src": "concepts/1992欧洲货币危机.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "concepts/1997亚洲金融危机.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/1997亚洲金融危机.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "concepts/1997亚洲金融危机.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "concepts/1998香港金融保卫战.md",
+  "name": "香港金管局",
+  "tgt": "entities/香港金管局.md"
+ },
+ {
+  "src": "concepts/1998香港金融保卫战.md",
+  "name": "联系汇率制度",
+  "tgt": "concepts/联系汇率制度.md"
+ },
+ {
+  "src": "concepts/1998香港金融保卫战.md",
+  "name": "直升机撒钱",
+  "tgt": "entities/直升机撒钱.md"
+ },
+ {
+  "src": "concepts/2008全球金融危机.md",
+  "name": "雷曼兄弟",
+  "tgt": "entities/雷曼兄弟.md"
+ },
+ {
+  "src": "concepts/2008全球金融危机.md",
+  "name": "美联储资产负债表",
+  "tgt": "entities/美联储资产负债表.md"
+ },
+ {
+  "src": "concepts/2008全球金融危机.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/2013年钱荒.md",
+  "name": "回购市场",
+  "tgt": "concepts/回购市场.md"
+ },
+ {
+  "src": "concepts/2013年钱荒.md",
+  "name": "国债逆回购",
+  "tgt": "concepts/国债逆回购.md"
+ },
+ {
+  "src": "concepts/2013年钱荒.md",
+  "name": "SHIBOR",
+  "tgt": "concepts/SHIBOR.md"
+ },
+ {
+  "src": "concepts/2020年3月流动性危机.md",
+  "name": "美元指数",
+  "tgt": "entities/美元指数.md"
+ },
+ {
+  "src": "concepts/2020年3月流动性危机.md",
+  "name": "美联储资产负债表",
+  "tgt": "entities/美联储资产负债表.md"
+ },
+ {
+  "src": "concepts/2020年3月流动性危机.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/2020美国财政刺激.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "concepts/2020美国财政刺激.md",
+  "name": "直升机撒钱",
+  "tgt": "entities/直升机撒钱.md"
+ },
+ {
+  "src": "concepts/2020美国财政刺激.md",
+  "name": "鲍威尔",
+  "tgt": "entities/鲍威尔.md"
+ },
+ {
+  "src": "concepts/2022 俄罗斯制裁.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "concepts/2022 俄罗斯制裁.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/2022 俄罗斯制裁.md",
+  "name": "出口管制",
+  "tgt": "concepts/出口管制.md"
+ },
+ {
+  "src": "concepts/2022-2024 美联储紧缩周期.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "concepts/2022-2024 美联储紧缩周期.md",
+  "name": "鲍威尔",
+  "tgt": "entities/鲍威尔.md"
+ },
+ {
+  "src": "concepts/2022-2024 美联储紧缩周期.md",
+  "name": "美联储资产负债表",
+  "tgt": "entities/美联储资产负债表.md"
+ },
+ {
+  "src": "concepts/2023年SVB危机.md",
+  "name": "利率风险",
+  "tgt": "entities/利率风险.md"
+ },
+ {
+  "src": "concepts/2023年SVB危机.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "concepts/2023年SVB危机.md",
+  "name": "银行挤兑",
+  "tgt": "entities/银行挤兑.md"
+ },
+ {
+  "src": "concepts/2026 新一轮美元紧缩周期与新兴市场.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "concepts/2026 新一轮美元紧缩周期与新兴市场.md",
+  "name": "输入型通胀",
+  "tgt": "concepts/输入型通胀.md"
+ },
+ {
+  "src": "concepts/2026 新一轮美元紧缩周期与新兴市场.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "concepts/2026-07 美日联合干预日元.md",
+  "name": "日元套利交易",
+  "tgt": "entities/日元套利交易.md"
+ },
+ {
+  "src": "concepts/2026-07 美日联合干预日元.md",
+  "name": "套利资金",
+  "tgt": "concepts/套利资金.md"
+ },
+ {
+  "src": "concepts/301调查.md",
+  "name": "进口配额",
+  "tgt": "concepts/进口配额.md"
+ },
+ {
+  "src": "concepts/301调查.md",
+  "name": "法国总统马克龙",
+  "tgt": "entities/法国总统马克龙.md"
+ },
+ {
+  "src": "concepts/301调查.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "concepts/70城房价.md",
+  "name": "城镇化",
+  "tgt": "concepts/城镇化.md"
+ },
+ {
+  "src": "concepts/8.11 汇改.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "concepts/8.11 汇改.md",
+  "name": "人民币汇率形成机制",
+  "tgt": "entities/人民币汇率形成机制.md"
+ },
+ {
+  "src": "concepts/8.11 汇改.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/CAPM资本资产定价模型.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/CAPM资本资产定价模型.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/CAPM资本资产定价模型.md",
+  "name": "折现率",
+  "tgt": "entities/折现率.md"
+ },
+ {
+  "src": "concepts/CDS信用违约互换.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "concepts/CDS信用违约互换.md",
+  "name": "2008 年金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/CDS信用违约互换.md",
+  "name": "信用利差",
+  "tgt": "concepts/信用利差.md"
+ },
+ {
+  "src": "concepts/CPI与通胀.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/CPI与通胀.md",
+  "name": "猪周期",
+  "tgt": "concepts/猪周期.md"
+ },
+ {
+  "src": "concepts/CPI与通胀.md",
+  "name": "第一次石油危机",
+  "tgt": "entities/第一次石油危机.md"
+ },
+ {
+  "src": "concepts/ESG 投资.md",
+  "name": "主权财富基金",
+  "tgt": "concepts/主权财富基金.md"
+ },
+ {
+  "src": "concepts/ESG 投资.md",
+  "name": "被动投资",
+  "tgt": "concepts/被动投资.md"
+ },
+ {
+  "src": "concepts/ESG 投资.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/FAI.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "concepts/FAI.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/FAI.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "concepts/FIMA回购便利.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "concepts/GDP（国内生产总值）.md",
+  "name": "收入分配",
+  "tgt": "concepts/收入分配.md"
+ },
+ {
+  "src": "concepts/GDP（国内生产总值）.md",
+  "name": "转移支付",
+  "tgt": "entities/转移支付.md"
+ },
+ {
+  "src": "concepts/GameStop轧空事件.md",
+  "name": "流动性风险",
+  "tgt": "concepts/流动性风险.md"
+ },
+ {
+  "src": "concepts/GameStop轧空事件.md",
+  "name": "借股票池",
+  "tgt": "concepts/借股票池.md"
+ },
+ {
+  "src": "concepts/IS-LM模型.md",
+  "name": "凯恩斯主义",
+  "tgt": "concepts/凯恩斯主义.md"
+ },
+ {
+  "src": "concepts/IS-LM模型.md",
+  "name": "流动性陷阱",
+  "tgt": "entities/流动性陷阱.md"
+ },
+ {
+  "src": "concepts/IS-LM模型.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/OMT.md",
+  "name": "欧洲中央银行",
+  "tgt": "entities/欧洲央行.md"
+ },
+ {
+  "src": "concepts/OMT.md",
+  "name": "European Stability Mechanism",
+  "tgt": "entities/欧洲稳定机制.md"
+ },
+ {
+  "src": "concepts/OMT.md",
+  "name": "欧洲稳定机制",
+  "tgt": "entities/欧洲稳定机制.md"
+ },
+ {
+  "src": "concepts/PCE.md",
+  "name": "美联储利率决策",
+  "tgt": "entities/美联储利率决策.md"
+ },
+ {
+  "src": "concepts/PCE.md",
+  "name": "商务部",
+  "tgt": "entities/商务部.md"
+ },
+ {
+  "src": "concepts/PCE.md",
+  "name": "通胀目标制",
+  "tgt": "concepts/通胀目标制.md"
+ },
+ {
+  "src": "concepts/PSL.md",
+  "name": "化债核心命题",
+  "tgt": "concepts/化债核心命题.md"
+ },
+ {
+  "src": "concepts/PSL.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "concepts/PSL.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "concepts/QDII.md",
+  "name": "证监会",
+  "tgt": "entities/证监会.md"
+ },
+ {
+  "src": "concepts/QDII.md",
+  "name": "港股通",
+  "tgt": "entities/港股通.md"
+ },
+ {
+  "src": "concepts/QDII.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/QE与化债对比.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/QE与化债对比.md",
+  "name": "本币贬值压力",
+  "tgt": "concepts/本币贬值.md"
+ },
+ {
+  "src": "concepts/QE与化债对比.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "concepts/QFII.md",
+  "name": "证监会",
+  "tgt": "entities/证监会.md"
+ },
+ {
+  "src": "concepts/QFII.md",
+  "name": "RQFII",
+  "tgt": "concepts/RQFII.md"
+ },
+ {
+  "src": "concepts/QFII.md",
+  "name": "陆股通",
+  "tgt": "concepts/陆股通.md"
+ },
+ {
+  "src": "concepts/QF制度.md",
+  "name": "RQFII",
+  "tgt": "concepts/RQFII.md"
+ },
+ {
+  "src": "concepts/QF制度.md",
+  "name": "陆股通",
+  "tgt": "concepts/陆股通.md"
+ },
+ {
+  "src": "concepts/QF制度.md",
+  "name": "港股通",
+  "tgt": "entities/港股通.md"
+ },
+ {
+  "src": "concepts/RQFII.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/RQFII.md",
+  "name": "离岸人民币",
+  "tgt": "entities/离岸人民币.md"
+ },
+ {
+  "src": "concepts/Rentenmark改革.md",
+  "name": "Hans Luther",
+  "tgt": "entities/Hans Luther.md"
+ },
+ {
+  "src": "concepts/Rentenmark改革.md",
+  "name": "魏玛恶性通胀",
+  "tgt": "concepts/魏玛恶性通胀.md"
+ },
+ {
+  "src": "concepts/Rentenmark改革.md",
+  "name": "秩序自由主义",
+  "tgt": "concepts/秩序自由主义.md"
+ },
+ {
+  "src": "concepts/Santiago Principle.md",
+  "name": "主权财富基金",
+  "tgt": "concepts/主权财富基金.md"
+ },
+ {
+  "src": "concepts/Santiago Principle.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "concepts/Santiago Principle.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/TGA机制.md",
+  "name": "美联储资产负债表",
+  "tgt": "entities/美联储资产负债表.md"
+ },
+ {
+  "src": "concepts/TGA机制.md",
+  "name": "直升机撒钱",
+  "tgt": "entities/直升机撒钱.md"
+ },
+ {
+  "src": "concepts/Treuhand 私有化.md",
+  "name": "休克疗法",
+  "tgt": "concepts/休克疗法.md"
+ },
+ {
+  "src": "concepts/Turkey (土耳其).md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "concepts/Turkey (土耳其).md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "concepts/Turkey (土耳其).md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "concepts/Volkswagen轧空事件.md",
+  "name": "大众汽车",
+  "tgt": "entities/大众汽车.md"
+ },
+ {
+  "src": "concepts/Volkswagen轧空事件.md",
+  "name": "皮耶希",
+  "tgt": "entities/皮耶希.md"
+ },
+ {
+  "src": "concepts/mBridge.md",
+  "name": "央行数字货币",
+  "tgt": "concepts/央行数字货币.md"
+ },
+ {
+  "src": "concepts/mBridge.md",
+  "name": "阿联酋",
+  "tgt": "entities/阿联酋.md"
+ },
+ {
+  "src": "concepts/mBridge.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "concepts/不可替代价值.md",
+  "name": "巧克力块理论",
+  "tgt": "concepts/巧克力块理论.md"
+ },
+ {
+  "src": "concepts/不可替代价值.md",
+  "name": "稀缺性",
+  "tgt": "concepts/稀缺性.md"
+ },
+ {
+  "src": "concepts/不可替代价值.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "concepts/不婚不育消费降级.md",
+  "name": "moomoocat",
+  "tgt": "entities/moomoocat.md"
+ },
+ {
+  "src": "concepts/东欧转型.md",
+  "name": "休克疗法",
+  "tgt": "concepts/休克疗法.md"
+ },
+ {
+  "src": "concepts/东欧转型.md",
+  "name": "渐进式改革",
+  "tgt": "entities/渐进式改革.md"
+ },
+ {
+  "src": "concepts/两德合并.md",
+  "name": "Treuhand 私有化",
+  "tgt": "concepts/Treuhand 私有化.md"
+ },
+ {
+  "src": "concepts/两德合并.md",
+  "name": "转移支付",
+  "tgt": "entities/转移支付.md"
+ },
+ {
+  "src": "concepts/两德合并.md",
+  "name": "团结税",
+  "tgt": "concepts/团结税.md"
+ },
+ {
+  "src": "concepts/中东地缘新平衡.md",
+  "name": "美以伊战争",
+  "tgt": "entities/美以伊战争.md"
+ },
+ {
+  "src": "concepts/中东地缘新平衡.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/中东地缘新平衡.md",
+  "name": "以色列",
+  "tgt": "entities/以色列.md"
+ },
+ {
+  "src": "concepts/中东局势.md",
+  "name": "天然气",
+  "tgt": "entities/天然气.md"
+ },
+ {
+  "src": "concepts/中东局势.md",
+  "name": "进口商品结构",
+  "tgt": "concepts/进口商品结构.md"
+ },
+ {
+  "src": "concepts/中俄全面战略协作伙伴关系.md",
+  "name": "军事同盟",
+  "tgt": "concepts/军事同盟.md"
+ },
+ {
+  "src": "concepts/中俄全面战略协作伙伴关系.md",
+  "name": "天然气",
+  "tgt": "entities/天然气.md"
+ },
+ {
+  "src": "concepts/中俄全面战略协作伙伴关系.md",
+  "name": "实体页",
+  "tgt": "entities/实体页.md"
+ },
+ {
+  "src": "concepts/中国改革.md",
+  "name": "邓小平",
+  "tgt": "entities/邓小平.md"
+ },
+ {
+  "src": "concepts/中国改革.md",
+  "name": "渐进主义",
+  "tgt": "concepts/渐进主义.md"
+ },
+ {
+  "src": "concepts/中国改革.md",
+  "name": "华盛顿共识",
+  "tgt": "concepts/华盛顿共识.md"
+ },
+ {
+  "src": "concepts/中央银行.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/中央银行.md",
+  "name": "Bundesbank",
+  "tgt": "entities/Bundesbank.md"
+ },
+ {
+  "src": "concepts/中央银行.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "concepts/中央银行外汇干预.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "concepts/中央银行外汇干预.md",
+  "name": "窗口指导",
+  "tgt": "concepts/窗口指导.md"
+ },
+ {
+  "src": "concepts/中央银行外汇干预.md",
+  "name": "本币升值",
+  "tgt": "concepts/本币升值.md"
+ },
+ {
+  "src": "concepts/中概股.md",
+  "name": "moomoocat",
+  "tgt": "entities/moomoocat.md"
+ },
+ {
+  "src": "concepts/中欧经贸关系.md",
+  "name": "加息预期",
+  "tgt": "concepts/加息预期.md"
+ },
+ {
+  "src": "concepts/中欧经贸关系.md",
+  "name": "中国外交部",
+  "tgt": "entities/中国外交部.md"
+ },
+ {
+  "src": "concepts/中美俄大三角.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "concepts/中美俄大三角.md",
+  "name": "天然气",
+  "tgt": "entities/天然气.md"
+ },
+ {
+  "src": "concepts/中美俄大三角.md",
+  "name": "北约亚太扩张",
+  "tgt": "concepts/北约亚太扩张.md"
+ },
+ {
+  "src": "concepts/主权财富基金.md",
+  "name": "Santiago Principle",
+  "tgt": "concepts/Santiago Principle.md"
+ },
+ {
+  "src": "concepts/主权财富基金.md",
+  "name": "阿联酋",
+  "tgt": "entities/阿联酋.md"
+ },
+ {
+  "src": "concepts/主权财富基金.md",
+  "name": "科威特",
+  "tgt": "entities/科威特.md"
+ },
+ {
+  "src": "concepts/买断式逆回购.md",
+  "name": "正回购",
+  "tgt": "concepts/正回购.md"
+ },
+ {
+  "src": "concepts/买断式逆回购.md",
+  "name": "国债逆回购",
+  "tgt": "concepts/国债逆回购.md"
+ },
+ {
+  "src": "concepts/买断式逆回购.md",
+  "name": "央行政策",
+  "tgt": "concepts/央行政策.md"
+ },
+ {
+  "src": "concepts/二十届三中全会.md",
+  "name": "高质量发展",
+  "tgt": "concepts/高质量发展.md"
+ },
+ {
+  "src": "concepts/二十届三中全会.md",
+  "name": "产业升级",
+  "tgt": "concepts/产业升级.md"
+ },
+ {
+  "src": "concepts/二十届三中全会.md",
+  "name": "财税改革",
+  "tgt": "concepts/财税改革.md"
+ },
+ {
+  "src": "concepts/二级制裁.md",
+  "name": "武器化相互依存",
+  "tgt": "concepts/武器化相互依存.md"
+ },
+ {
+  "src": "concepts/二级制裁.md",
+  "name": "长臂管辖",
+  "tgt": "concepts/长臂管辖.md"
+ },
+ {
+  "src": "concepts/二级制裁.md",
+  "name": "CHIPS",
+  "tgt": "entities/CHIPS.md"
+ },
+ {
+  "src": "concepts/交易成本与科斯定理.md",
+  "name": "制度变迁",
+  "tgt": "concepts/制度变迁.md"
+ },
+ {
+  "src": "concepts/交易成本与科斯定理.md",
+  "name": "法经济学",
+  "tgt": "concepts/法经济学.md"
+ },
+ {
+  "src": "concepts/交易成本与科斯定理.md",
+  "name": "公地悲剧",
+  "tgt": "concepts/公地悲剧.md"
+ },
+ {
+  "src": "concepts/产业升级.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "concepts/产业升级.md",
+  "name": "出口商品结构",
+  "tgt": "concepts/出口商品结构.md"
+ },
+ {
+  "src": "concepts/产业升级.md",
+  "name": "高新技术产品",
+  "tgt": "entities/高新技术产品.md"
+ },
+ {
+  "src": "concepts/人口结构.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "concepts/人口结构.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/人口结构.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/价格传导非对称性.md",
+  "name": "市场竞争",
+  "tgt": "concepts/市场竞争.md"
+ },
+ {
+  "src": "concepts/价格传导非对称性.md",
+  "name": "猪周期",
+  "tgt": "concepts/猪周期.md"
+ },
+ {
+  "src": "concepts/价格传导非对称性.md",
+  "name": "蛛网模型",
+  "tgt": "concepts/蛛网模型.md"
+ },
+ {
+  "src": "concepts/企业理论.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "concepts/企业理论.md",
+  "name": "实体页",
+  "tgt": "entities/实体页.md"
+ },
+ {
+  "src": "concepts/伊朗制裁.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "concepts/伊朗制裁.md",
+  "name": "武器化相互依存",
+  "tgt": "concepts/武器化相互依存.md"
+ },
+ {
+  "src": "concepts/伊朗制裁.md",
+  "name": "中东地缘格局",
+  "tgt": "entities/中东地缘格局.md"
+ },
+ {
+  "src": "concepts/休克疗法.md",
+  "name": "萨克斯",
+  "tgt": "entities/萨克斯.md"
+ },
+ {
+  "src": "concepts/休克疗法.md",
+  "name": "东欧转型",
+  "tgt": "concepts/东欧转型.md"
+ },
+ {
+  "src": "concepts/休克疗法.md",
+  "name": "渐进主义",
+  "tgt": "concepts/渐进主义.md"
+ },
+ {
+  "src": "concepts/伪通缩.md",
+  "name": "人口结构",
+  "tgt": "concepts/人口结构.md"
+ },
+ {
+  "src": "concepts/伪通缩.md",
+  "name": "收入分配",
+  "tgt": "concepts/收入分配.md"
+ },
+ {
+  "src": "concepts/伪通缩.md",
+  "name": "产业升级",
+  "tgt": "concepts/产业升级.md"
+ },
+ {
+  "src": "concepts/供需.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "concepts/供需.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/供需.md",
+  "name": "实体页",
+  "tgt": "entities/实体页.md"
+ },
+ {
+  "src": "concepts/供需均衡.md",
+  "name": "价格机制",
+  "tgt": "concepts/价格机制.md"
+ },
+ {
+  "src": "concepts/供需均衡.md",
+  "name": "有效市场假说",
+  "tgt": "concepts/有效市场假说.md"
+ },
+ {
+  "src": "concepts/供需均衡.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "concepts/俄乌无人机消耗战.md",
+  "name": "乌克兰",
+  "tgt": "entities/乌克兰.md"
+ },
+ {
+  "src": "concepts/俄乌无人机消耗战.md",
+  "name": "战损比",
+  "tgt": "concepts/战损比.md"
+ },
+ {
+  "src": "concepts/俄罗斯转型.md",
+  "name": "休克疗法",
+  "tgt": "concepts/休克疗法.md"
+ },
+ {
+  "src": "concepts/俄罗斯转型.md",
+  "name": "叶利钦",
+  "tgt": "entities/叶利钦.md"
+ },
+ {
+  "src": "concepts/俄罗斯转型.md",
+  "name": "萨克斯",
+  "tgt": "entities/萨克斯.md"
+ },
+ {
+  "src": "concepts/信用利差.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "concepts/信用利差.md",
+  "name": "流动性风险",
+  "tgt": "concepts/流动性风险.md"
+ },
+ {
+  "src": "concepts/信用利差.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/借股票池.md",
+  "name": "小盘股",
+  "tgt": "concepts/微盘股.md"
+ },
+ {
+  "src": "concepts/借股票池.md",
+  "name": "2008 金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/债券通.md",
+  "name": "港交所",
+  "tgt": "entities/港交所.md"
+ },
+ {
+  "src": "concepts/债券通.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/债务重组.md",
+  "name": "软着陆",
+  "tgt": "concepts/软着陆.md"
+ },
+ {
+  "src": "concepts/债务重组.md",
+  "name": "分摊痛苦",
+  "tgt": "concepts/分摊痛苦.md"
+ },
+ {
+  "src": "concepts/债务重组.md",
+  "name": "美元债",
+  "tgt": "concepts/美元债.md"
+ },
+ {
+  "src": "concepts/债市定价逻辑.md",
+  "name": "折现率",
+  "tgt": "entities/折现率.md"
+ },
+ {
+  "src": "concepts/债市定价逻辑.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/债市定价逻辑.md",
+  "name": "利率风险",
+  "tgt": "entities/利率风险.md"
+ },
+ {
+  "src": "concepts/做空CDS.md",
+  "name": "信用利差",
+  "tgt": "concepts/信用利差.md"
+ },
+ {
+  "src": "concepts/做空CDS.md",
+  "name": "2008 年金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/做空CDS.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/做空机制.md",
+  "name": "融资融券",
+  "tgt": "concepts/融资融券.md"
+ },
+ {
+  "src": "concepts/做空机制.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "concepts/做空机制.md",
+  "name": "2008 年金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/全国统一大市场.md",
+  "name": "价格机制",
+  "tgt": "concepts/价格机制.md"
+ },
+ {
+  "src": "concepts/全国统一大市场.md",
+  "name": "土地财政",
+  "tgt": "entities/土地财政.md"
+ },
+ {
+  "src": "concepts/全国统一大市场.md",
+  "name": "竞争政策",
+  "tgt": "concepts/竞争政策.md"
+ },
+ {
+  "src": "concepts/全球金融周期.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/全球金融周期.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "concepts/全球金融周期.md",
+  "name": "货币政策独立性",
+  "tgt": "concepts/货币政策独立性.md"
+ },
+ {
+  "src": "concepts/公共物品.md",
+  "name": "价格机制",
+  "tgt": "concepts/价格机制.md"
+ },
+ {
+  "src": "concepts/公共物品.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "concepts/公地悲剧.md",
+  "name": "囚徒困境",
+  "tgt": "concepts/囚徒困境.md"
+ },
+ {
+  "src": "concepts/公开市场操作.md",
+  "name": "货币政策工具",
+  "tgt": "entities/货币政策工具.md"
+ },
+ {
+  "src": "concepts/公开市场操作.md",
+  "name": "外汇占款",
+  "tgt": "concepts/外汇占款.md"
+ },
+ {
+  "src": "concepts/公开市场操作.md",
+  "name": "离岸人民币",
+  "tgt": "entities/离岸人民币.md"
+ },
+ {
+  "src": "concepts/共建一带一路.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/共建一带一路.md",
+  "name": "INSTEX",
+  "tgt": "entities/INSTEX.md"
+ },
+ {
+  "src": "concepts/共建一带一路.md",
+  "name": "次级制裁",
+  "tgt": "concepts/二级制裁.md"
+ },
+ {
+  "src": "concepts/关税战对通胀的传导.md",
+  "name": "通胀多因素推动论",
+  "tgt": "concepts/通胀多因素推动论.md"
+ },
+ {
+  "src": "concepts/关税战对通胀的传导.md",
+  "name": "输入型通胀",
+  "tgt": "concepts/输入型通胀.md"
+ },
+ {
+  "src": "concepts/关税战对通胀的传导.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "concepts/军事同盟.md",
+  "name": "中东地缘格局",
+  "tgt": "entities/中东地缘格局.md"
+ },
+ {
+  "src": "concepts/冲销式干预.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "concepts/冲销式干预.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "concepts/冲销式干预.md",
+  "name": "公开市场操作",
+  "tgt": "concepts/公开市场操作.md"
+ },
+ {
+  "src": "concepts/凯恩斯主义.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/凯恩斯主义.md",
+  "name": "理性预期",
+  "tgt": "concepts/理性预期.md"
+ },
+ {
+  "src": "concepts/凯恩斯主义.md",
+  "name": "转移支付",
+  "tgt": "entities/转移支付.md"
+ },
+ {
+  "src": "concepts/出口导向型经济体.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/出口导向型经济体.md",
+  "name": "中国台湾",
+  "tgt": "entities/中国台湾.md"
+ },
+ {
+  "src": "concepts/出口导向型经济体.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/出口盈利预期.md",
+  "name": "出口导向型经济体",
+  "tgt": "concepts/出口导向型经济体.md"
+ },
+ {
+  "src": "concepts/出口盈利预期.md",
+  "name": "中国台湾",
+  "tgt": "entities/中国台湾.md"
+ },
+ {
+  "src": "concepts/利差交易.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/利差交易.md",
+  "name": "日元套利交易",
+  "tgt": "entities/日元套利交易.md"
+ },
+ {
+  "src": "concepts/利差交易.md",
+  "name": "2008 年金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/利率平价理论.md",
+  "name": "汇率风险",
+  "tgt": "entities/汇率风险.md"
+ },
+ {
+  "src": "concepts/利率平价理论.md",
+  "name": "2008 金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/利率平价理论.md",
+  "name": "套息交易",
+  "tgt": "concepts/套息交易.md"
+ },
+ {
+  "src": "concepts/制裁武器.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/制裁武器.md",
+  "name": "CHIPS",
+  "tgt": "entities/CHIPS.md"
+ },
+ {
+  "src": "concepts/制裁武器.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "concepts/制裁武器化.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/制裁武器化.md",
+  "name": "CHIPS",
+  "tgt": "entities/CHIPS.md"
+ },
+ {
+  "src": "concepts/制裁武器化.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "concepts/前景理论.md",
+  "name": "期望效用理论",
+  "tgt": "concepts/期望效用理论.md"
+ },
+ {
+  "src": "concepts/前景理论.md",
+  "name": "损失厌恶",
+  "tgt": "concepts/损失厌恶.md"
+ },
+ {
+  "src": "concepts/前景理论.md",
+  "name": "处置效应",
+  "tgt": "concepts/处置效应.md"
+ },
+ {
+  "src": "concepts/加息预期.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "concepts/加息预期.md",
+  "name": "moomoocat",
+  "tgt": "entities/moomoocat.md"
+ },
+ {
+  "src": "concepts/动态对冲.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/动态对冲.md",
+  "name": "流动性风险",
+  "tgt": "concepts/流动性风险.md"
+ },
+ {
+  "src": "concepts/化债.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/化债.md",
+  "name": "特殊再融资债券",
+  "tgt": "concepts/特殊再融资债券.md"
+ },
+ {
+  "src": "concepts/化债.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "concepts/化债核心命题.md",
+  "name": "特殊再融资债券",
+  "tgt": "concepts/特殊再融资债券.md"
+ },
+ {
+  "src": "concepts/化债核心命题.md",
+  "name": "软着陆",
+  "tgt": "concepts/软着陆.md"
+ },
+ {
+  "src": "concepts/化债核心命题.md",
+  "name": "产业升级",
+  "tgt": "concepts/产业升级.md"
+ },
+ {
+  "src": "concepts/化债的成本转嫁与道德风险.md",
+  "name": "化债核心命题",
+  "tgt": "concepts/化债核心命题.md"
+ },
+ {
+  "src": "concepts/化债的成本转嫁与道德风险.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/化债的成本转嫁与道德风险.md",
+  "name": "利率市场化",
+  "tgt": "concepts/利率市场化.md"
+ },
+ {
+  "src": "concepts/半冲销.md",
+  "name": "公开市场操作",
+  "tgt": "concepts/公开市场操作.md"
+ },
+ {
+  "src": "concepts/半冲销.md",
+  "name": "货币政策独立性",
+  "tgt": "concepts/货币政策独立性.md"
+ },
+ {
+  "src": "concepts/华盛顿共识.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "concepts/去美元化.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/去美元化.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/去美元化.md",
+  "name": "CHIPS",
+  "tgt": "entities/CHIPS.md"
+ },
+ {
+  "src": "concepts/双顺差.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/双顺差.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "concepts/双顺差.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/启发式与偏差.md",
+  "name": "过度自信",
+  "tgt": "concepts/过度自信.md"
+ },
+ {
+  "src": "concepts/启发式与偏差.md",
+  "name": "处置效应",
+  "tgt": "concepts/处置效应.md"
+ },
+ {
+  "src": "concepts/回购市场.md",
+  "name": "正回购",
+  "tgt": "concepts/正回购.md"
+ },
+ {
+  "src": "concepts/回购市场.md",
+  "name": "2008 金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/回购市场.md",
+  "name": "DR007",
+  "tgt": "concepts/DR007.md"
+ },
+ {
+  "src": "concepts/团结税.md",
+  "name": "转移支付",
+  "tgt": "entities/转移支付.md"
+ },
+ {
+  "src": "concepts/国企改革.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "concepts/国企改革.md",
+  "name": "渐进式改革",
+  "tgt": "entities/渐进式改革.md"
+ },
+ {
+  "src": "concepts/国企改革.md",
+  "name": "市场竞争",
+  "tgt": "concepts/市场竞争.md"
+ },
+ {
+  "src": "concepts/国债缓冲机制.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "concepts/国债缓冲机制.md",
+  "name": "美联储独立性",
+  "tgt": "concepts/美联储独立性.md"
+ },
+ {
+  "src": "concepts/国债缓冲机制.md",
+  "name": "鲍威尔",
+  "tgt": "entities/鲍威尔.md"
+ },
+ {
+  "src": "concepts/国债逆回购.md",
+  "name": "正回购",
+  "tgt": "concepts/正回购.md"
+ },
+ {
+  "src": "concepts/国债逆回购.md",
+  "name": "回购市场",
+  "tgt": "concepts/回购市场.md"
+ },
+ {
+  "src": "concepts/国债逆回购.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "concepts/国务院关于产业链供应链安全的规定.md",
+  "name": "国家安全法",
+  "tgt": "concepts/国家安全法.md"
+ },
+ {
+  "src": "concepts/国务院关于产业链供应链安全的规定.md",
+  "name": "对外贸易法",
+  "tgt": "concepts/对外贸易法.md"
+ },
+ {
+  "src": "concepts/国务院关于产业链供应链安全的规定.md",
+  "name": "反外国制裁法",
+  "tgt": "concepts/反外国制裁法.md"
+ },
+ {
+  "src": "concepts/国务院关于对外投资的规定.md",
+  "name": "对外关系法",
+  "tgt": "concepts/对外关系法.md"
+ },
+ {
+  "src": "concepts/国务院关于对外投资的规定.md",
+  "name": "对外贸易法",
+  "tgt": "concepts/对外贸易法.md"
+ },
+ {
+  "src": "concepts/国务院关于对外投资的规定.md",
+  "name": "反外国制裁法",
+  "tgt": "concepts/反外国制裁法.md"
+ },
+ {
+  "src": "concepts/国家理论.md",
+  "name": "公共物品",
+  "tgt": "concepts/公共物品.md"
+ },
+ {
+  "src": "concepts/国家理论.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/国家理论.md",
+  "name": "制度变迁",
+  "tgt": "concepts/制度变迁.md"
+ },
+ {
+  "src": "concepts/国际收支.md",
+  "name": "本币升值",
+  "tgt": "concepts/本币升值.md"
+ },
+ {
+  "src": "concepts/国际收支.md",
+  "name": "本币贬值压力",
+  "tgt": "concepts/本币贬值.md"
+ },
+ {
+  "src": "concepts/国际收支.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "concepts/地方政府隐性债务.md",
+  "name": "化债核心命题",
+  "tgt": "concepts/化债核心命题.md"
+ },
+ {
+  "src": "concepts/地方政府隐性债务.md",
+  "name": "银监会",
+  "tgt": "entities/银监会.md"
+ },
+ {
+  "src": "concepts/地方政府隐性债务.md",
+  "name": "土地财政",
+  "tgt": "entities/土地财政.md"
+ },
+ {
+  "src": "concepts/地缘政治对抗.md",
+  "name": "舆论战",
+  "tgt": "concepts/舆论战.md"
+ },
+ {
+  "src": "concepts/地缘政治对抗.md",
+  "name": "武器化相互依存",
+  "tgt": "concepts/武器化相互依存.md"
+ },
+ {
+  "src": "concepts/地缘政治对抗.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "concepts/城镇化.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "concepts/城镇化.md",
+  "name": "制度变迁",
+  "tgt": "concepts/制度变迁.md"
+ },
+ {
+  "src": "concepts/城镇化.md",
+  "name": "土地财政",
+  "tgt": "entities/土地财政.md"
+ },
+ {
+  "src": "concepts/处置效应.md",
+  "name": "行为金融学",
+  "tgt": "concepts/行为金融学.md"
+ },
+ {
+  "src": "concepts/处置效应.md",
+  "name": "损失厌恶",
+  "tgt": "concepts/损失厌恶.md"
+ },
+ {
+  "src": "concepts/处置效应.md",
+  "name": "心理账户",
+  "tgt": "concepts/心理账户.md"
+ },
+ {
+  "src": "concepts/外汇占款.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/外汇占款.md",
+  "name": "双顺差",
+  "tgt": "concepts/双顺差.md"
+ },
+ {
+  "src": "concepts/外汇占款.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/外汇干预有效性.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "concepts/外汇干预有效性.md",
+  "name": "美元指数",
+  "tgt": "entities/美元指数.md"
+ },
+ {
+  "src": "concepts/外汇干预有效性.md",
+  "name": "三村淳",
+  "tgt": "entities/三村淳.md"
+ },
+ {
+  "src": "concepts/外汇掉期冲销.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/外汇管制.md",
+  "name": "股汇关系",
+  "tgt": "concepts/股汇关系.md"
+ },
+ {
+  "src": "concepts/外汇管制.md",
+  "name": "非市场化力量",
+  "tgt": "concepts/非市场化力量.md"
+ },
+ {
+  "src": "concepts/外汇管制.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/外汇管理.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/外汇管理.md",
+  "name": "货币政策独立性",
+  "tgt": "concepts/货币政策独立性.md"
+ },
+ {
+  "src": "concepts/外汇管理.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/外管局.md",
+  "name": "国家外汇管理局",
+  "tgt": "entities/国家外汇管理局.md"
+ },
+ {
+  "src": "concepts/外管局.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/外管局.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "concepts/多德弗兰克法案.md",
+  "name": "2008 金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/多德弗兰克法案.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/多德弗兰克法案.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/多极化格局.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/多极化格局.md",
+  "name": "供应链多元化",
+  "tgt": "concepts/供应链多元化.md"
+ },
+ {
+  "src": "concepts/大小盘轮动.md",
+  "name": "小盘股",
+  "tgt": "concepts/微盘股.md"
+ },
+ {
+  "src": "concepts/大小盘轮动.md",
+  "name": "结构性行情",
+  "tgt": "concepts/结构性行情.md"
+ },
+ {
+  "src": "concepts/大小盘轮动.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "concepts/央票.md",
+  "name": "超额准备金",
+  "tgt": "entities/超额准备金.md"
+ },
+ {
+  "src": "concepts/央票.md",
+  "name": "离岸人民币",
+  "tgt": "entities/离岸人民币.md"
+ },
+ {
+  "src": "concepts/央票.md",
+  "name": "外汇占款",
+  "tgt": "concepts/外汇占款.md"
+ },
+ {
+  "src": "concepts/央行入市干预.md",
+  "name": "货币政策工具",
+  "tgt": "entities/货币政策工具.md"
+ },
+ {
+  "src": "concepts/央行入市干预.md",
+  "name": "2008 金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/央行入市干预.md",
+  "name": "直升机撒钱",
+  "tgt": "entities/直升机撒钱.md"
+ },
+ {
+  "src": "concepts/央行对冲工具.md",
+  "name": "外汇占款",
+  "tgt": "concepts/外汇占款.md"
+ },
+ {
+  "src": "concepts/央行对冲工具.md",
+  "name": "公开市场操作",
+  "tgt": "concepts/公开市场操作.md"
+ },
+ {
+  "src": "concepts/央行对冲工具.md",
+  "name": "正回购",
+  "tgt": "concepts/正回购.md"
+ },
+ {
+  "src": "concepts/央行对冲工具（化债背景）.md",
+  "name": "化债核心命题",
+  "tgt": "concepts/化债核心命题.md"
+ },
+ {
+  "src": "concepts/央行对冲工具（化债背景）.md",
+  "name": "土地财政",
+  "tgt": "entities/土地财政.md"
+ },
+ {
+  "src": "concepts/央行对冲工具（化债背景）.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "concepts/央行政策.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/央行政策.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/央行政策.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/央行数字货币.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/央行数字货币.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "concepts/央行数字货币.md",
+  "name": "mBridge",
+  "tgt": "concepts/mBridge.md"
+ },
+ {
+  "src": "concepts/套利资金.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "concepts/套利资金.md",
+  "name": "货币政策独立性",
+  "tgt": "concepts/货币政策独立性.md"
+ },
+ {
+  "src": "concepts/套利资金.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/套息交易.md",
+  "name": "利率平价理论",
+  "tgt": "concepts/利率平价理论.md"
+ },
+ {
+  "src": "concepts/套息交易.md",
+  "name": "利差交易",
+  "tgt": "concepts/利差交易.md"
+ },
+ {
+  "src": "concepts/套息交易.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/套期保值.md",
+  "name": "期货对冲",
+  "tgt": "concepts/期货对冲.md"
+ },
+ {
+  "src": "concepts/套期保值.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/套期保值.md",
+  "name": "香港金管局",
+  "tgt": "entities/香港金管局.md"
+ },
+ {
+  "src": "concepts/奥肯定律与潜在产出.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/奥肯定律与潜在产出.md",
+  "name": "人口结构",
+  "tgt": "concepts/人口结构.md"
+ },
+ {
+  "src": "concepts/存款保险.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/存款保险.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "concepts/存款保险.md",
+  "name": "压力测试",
+  "tgt": "entities/压力测试.md"
+ },
+ {
+  "src": "concepts/存款准备金率.md",
+  "name": "超额准备金",
+  "tgt": "entities/超额准备金.md"
+ },
+ {
+  "src": "concepts/存款准备金率.md",
+  "name": "外汇占款",
+  "tgt": "concepts/外汇占款.md"
+ },
+ {
+  "src": "concepts/存款准备金率.md",
+  "name": "双顺差",
+  "tgt": "concepts/双顺差.md"
+ },
+ {
+  "src": "concepts/实际有效汇率.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "concepts/实际有效汇率.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "concepts/对外关系法.md",
+  "name": "对外贸易法",
+  "tgt": "concepts/对外贸易法.md"
+ },
+ {
+  "src": "concepts/对外关系法.md",
+  "name": "反外国制裁法",
+  "tgt": "concepts/反外国制裁法.md"
+ },
+ {
+  "src": "concepts/对外关系法.md",
+  "name": "国家安全法",
+  "tgt": "concepts/国家安全法.md"
+ },
+ {
+  "src": "concepts/对外投资安全审查.md",
+  "name": "国务院关于对外投资的规定",
+  "tgt": "concepts/国务院关于对外投资的规定.md"
+ },
+ {
+  "src": "concepts/对外投资安全审查.md",
+  "name": "再投资",
+  "tgt": "concepts/再投资.md"
+ },
+ {
+  "src": "concepts/对外贸易法.md",
+  "name": "对外关系法",
+  "tgt": "concepts/对外关系法.md"
+ },
+ {
+  "src": "concepts/对外贸易法.md",
+  "name": "反外国制裁法",
+  "tgt": "concepts/反外国制裁法.md"
+ },
+ {
+  "src": "concepts/对外贸易法.md",
+  "name": "跨境数据流动",
+  "tgt": "concepts/跨境数据流动.md"
+ },
+ {
+  "src": "concepts/居民个人对外投资.md",
+  "name": "国家发改委",
+  "tgt": "entities/国家发改委.md"
+ },
+ {
+  "src": "concepts/居民个人对外投资.md",
+  "name": "商务部",
+  "tgt": "entities/商务部.md"
+ },
+ {
+  "src": "concepts/居民个人对外投资.md",
+  "name": "八部门",
+  "tgt": "entities/八部门.md"
+ },
+ {
+  "src": "concepts/巴塞尔协议III.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "concepts/巴塞尔协议III.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/巴塞尔协议III.md",
+  "name": "沃尔克规则",
+  "tgt": "concepts/沃尔克规则.md"
+ },
+ {
+  "src": "concepts/巴拉萨-萨缪尔森效应.md",
+  "name": "世界银行",
+  "tgt": "entities/世界银行.md"
+ },
+ {
+  "src": "concepts/巴拉萨-萨缪尔森效应.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "concepts/市场失灵与外部性.md",
+  "name": "公共物品",
+  "tgt": "concepts/公共物品.md"
+ },
+ {
+  "src": "concepts/市场失灵与外部性.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "concepts/市场失灵与外部性.md",
+  "name": "收入分配",
+  "tgt": "concepts/收入分配.md"
+ },
+ {
+  "src": "concepts/市场微观结构.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "concepts/市场竞争.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "concepts/市场竞争.md",
+  "name": "竞争政策",
+  "tgt": "concepts/竞争政策.md"
+ },
+ {
+  "src": "concepts/市场竞争.md",
+  "name": "国企改革",
+  "tgt": "concepts/国企改革.md"
+ },
+ {
+  "src": "concepts/希腊字母.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/希腊字母.md",
+  "name": "动态对冲",
+  "tgt": "concepts/动态对冲.md"
+ },
+ {
+  "src": "concepts/希腊字母.md",
+  "name": "仪表盘",
+  "tgt": "concepts/仪表盘.md"
+ },
+ {
+  "src": "concepts/广场协议与G5政策分化.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "concepts/广场协议与G5政策分化.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "concepts/广场协议与G5政策分化.md",
+  "name": "大藏省",
+  "tgt": "entities/大藏省.md"
+ },
+ {
+  "src": "concepts/库存周期.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/库存周期.md",
+  "name": "猪周期",
+  "tgt": "concepts/猪周期.md"
+ },
+ {
+  "src": "concepts/弹性.md",
+  "name": "税收归宿",
+  "tgt": "concepts/税收归宿.md"
+ },
+ {
+  "src": "concepts/征兵困境.md",
+  "name": "乌克兰",
+  "tgt": "entities/乌克兰.md"
+ },
+ {
+  "src": "concepts/心理账户.md",
+  "name": "前景理论",
+  "tgt": "concepts/前景理论.md"
+ },
+ {
+  "src": "concepts/心理账户.md",
+  "name": "过度自信",
+  "tgt": "concepts/过度自信.md"
+ },
+ {
+  "src": "concepts/心理账户.md",
+  "name": "沉没成本",
+  "tgt": "concepts/沉没成本.md"
+ },
+ {
+  "src": "concepts/恶性通胀.md",
+  "name": "尼日利亚",
+  "tgt": "entities/尼日利亚.md"
+ },
+ {
+  "src": "concepts/恶性通胀.md",
+  "name": "抗通胀资产",
+  "tgt": "concepts/抗通胀资产.md"
+ },
+ {
+  "src": "concepts/恶性通胀.md",
+  "name": "股汇关系",
+  "tgt": "concepts/股汇关系.md"
+ },
+ {
+  "src": "concepts/房地产.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "concepts/房地产.md",
+  "name": "土地财政",
+  "tgt": "entities/土地财政.md"
+ },
+ {
+  "src": "concepts/房地产.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/房地产白名单.md",
+  "name": "保交楼",
+  "tgt": "concepts/保交楼.md"
+ },
+ {
+  "src": "concepts/房地产白名单.md",
+  "name": "分摊痛苦",
+  "tgt": "concepts/分摊痛苦.md"
+ },
+ {
+  "src": "concepts/房地产白名单.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/扩表与缩表.md",
+  "name": "再投资",
+  "tgt": "concepts/再投资.md"
+ },
+ {
+  "src": "concepts/扩表与缩表.md",
+  "name": "美联储资产负债表",
+  "tgt": "entities/美联储资产负债表.md"
+ },
+ {
+  "src": "concepts/扩表与缩表.md",
+  "name": "回购市场",
+  "tgt": "concepts/回购市场.md"
+ },
+ {
+  "src": "concepts/投资组合理论.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/抵抗轴心.md",
+  "name": "以色列",
+  "tgt": "entities/以色列.md"
+ },
+ {
+  "src": "concepts/损失厌恶.md",
+  "name": "前景理论",
+  "tgt": "concepts/前景理论.md"
+ },
+ {
+  "src": "concepts/损失厌恶.md",
+  "name": "沉没成本",
+  "tgt": "concepts/沉没成本.md"
+ },
+ {
+  "src": "concepts/损失厌恶.md",
+  "name": "处置效应",
+  "tgt": "concepts/处置效应.md"
+ },
+ {
+  "src": "concepts/收入分配.md",
+  "name": "转移支付",
+  "tgt": "entities/转移支付.md"
+ },
+ {
+  "src": "concepts/收入分配.md",
+  "name": "社会保障",
+  "tgt": "concepts/社会保障.md"
+ },
+ {
+  "src": "concepts/收入分配.md",
+  "name": "房产税",
+  "tgt": "concepts/房产税.md"
+ },
+ {
+  "src": "concepts/散户行为.md",
+  "name": "处置效应",
+  "tgt": "concepts/处置效应.md"
+ },
+ {
+  "src": "concepts/散户行为.md",
+  "name": "行为金融学",
+  "tgt": "concepts/行为金融学.md"
+ },
+ {
+  "src": "concepts/散户行为.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "concepts/数字服务法(DSA).md",
+  "name": "欧委会",
+  "tgt": "entities/欧委会.md"
+ },
+ {
+  "src": "concepts/数字服务法(DSA).md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/数字服务法(DSA).md",
+  "name": "欧盟委员会",
+  "tgt": "entities/欧盟委员会.md"
+ },
+ {
+  "src": "concepts/数字货币桥.md",
+  "name": "央行数字货币",
+  "tgt": "concepts/央行数字货币.md"
+ },
+ {
+  "src": "concepts/数字货币桥.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/数字货币桥.md",
+  "name": "CHIPS",
+  "tgt": "entities/CHIPS.md"
+ },
+ {
+  "src": "concepts/数据安全.md",
+  "name": "国家秘密",
+  "tgt": "concepts/国家秘密.md"
+ },
+ {
+  "src": "concepts/数据安全.md",
+  "name": "个人信息保护",
+  "tgt": "concepts/个人信息保护.md"
+ },
+ {
+  "src": "concepts/数据安全.md",
+  "name": "出口管制",
+  "tgt": "concepts/出口管制.md"
+ },
+ {
+  "src": "concepts/新质生产力.md",
+  "name": "高质量发展",
+  "tgt": "concepts/高质量发展.md"
+ },
+ {
+  "src": "concepts/新质生产力.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "concepts/新质生产力.md",
+  "name": "集成电路",
+  "tgt": "entities/集成电路.md"
+ },
+ {
+  "src": "concepts/无人机消耗战.md",
+  "name": "战损比",
+  "tgt": "concepts/战损比.md"
+ },
+ {
+  "src": "concepts/无人机消耗战.md",
+  "name": "乌克兰",
+  "tgt": "entities/乌克兰.md"
+ },
+ {
+  "src": "concepts/无人机消耗战.md",
+  "name": "出口管制",
+  "tgt": "concepts/出口管制.md"
+ },
+ {
+  "src": "concepts/日元升值.md",
+  "name": "实际有效汇率",
+  "tgt": "concepts/实际有效汇率.md"
+ },
+ {
+  "src": "concepts/日元升值.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/日元国际化与外储.md",
+  "name": "日元套利交易",
+  "tgt": "entities/日元套利交易.md"
+ },
+ {
+  "src": "concepts/日元国际化与外储.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "concepts/日元国际化与外储.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "concepts/日本95年体制.md",
+  "name": "日元升值",
+  "tgt": "concepts/日元升值.md"
+ },
+ {
+  "src": "concepts/日本95年体制.md",
+  "name": "大藏省",
+  "tgt": "entities/大藏省.md"
+ },
+ {
+  "src": "concepts/日本95年体制.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "concepts/日本财政扩张担忧.md",
+  "name": "加息预期",
+  "tgt": "concepts/加息预期.md"
+ },
+ {
+  "src": "concepts/日本财政扩张担忧.md",
+  "name": "股汇背离",
+  "tgt": "concepts/股牛汇弱.md"
+ },
+ {
+  "src": "concepts/日本财政扩张担忧.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/最后贷款人.md",
+  "name": "伯南克",
+  "tgt": "entities/伯南克.md"
+ },
+ {
+  "src": "concepts/最后贷款人.md",
+  "name": "英格兰银行",
+  "tgt": "entities/英格兰银行.md"
+ },
+ {
+  "src": "concepts/最后贷款人.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "concepts/有效市场假说.md",
+  "name": "小盘股",
+  "tgt": "concepts/微盘股.md"
+ },
+ {
+  "src": "concepts/有效市场假说.md",
+  "name": "损失厌恶",
+  "tgt": "concepts/损失厌恶.md"
+ },
+ {
+  "src": "concepts/有效市场假说.md",
+  "name": "心理账户",
+  "tgt": "concepts/心理账户.md"
+ },
+ {
+  "src": "concepts/期望效用理论.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "concepts/期望效用理论.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/期权.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "concepts/期权.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/期权.md",
+  "name": "创业板",
+  "tgt": "entities/创业板.md"
+ },
+ {
+  "src": "concepts/期权策略.md",
+  "name": "希腊字母",
+  "tgt": "concepts/希腊字母.md"
+ },
+ {
+  "src": "concepts/期权策略.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/期货对冲.md",
+  "name": "香港金管局",
+  "tgt": "entities/香港金管局.md"
+ },
+ {
+  "src": "concepts/期货对冲.md",
+  "name": "基差风险",
+  "tgt": "concepts/基差风险.md"
+ },
+ {
+  "src": "concepts/期货对冲.md",
+  "name": "流动性风险",
+  "tgt": "concepts/流动性风险.md"
+ },
+ {
+  "src": "concepts/本币升值.md",
+  "name": "贸易顺差",
+  "tgt": "entities/贸易顺差.md"
+ },
+ {
+  "src": "concepts/本币升值.md",
+  "name": "出口导向型经济体",
+  "tgt": "concepts/出口导向型经济体.md"
+ },
+ {
+  "src": "concepts/本币升值.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/本币贬值.md",
+  "name": "美元指数",
+  "tgt": "entities/美元指数.md"
+ },
+ {
+  "src": "concepts/本币贬值.md",
+  "name": "1997 亚洲金融危机",
+  "tgt": "concepts/1997亚洲金融危机.md"
+ },
+ {
+  "src": "concepts/本币贬值.md",
+  "name": "1998 俄罗斯卢布危机",
+  "tgt": "concepts/1998 俄罗斯卢布危机.md"
+ },
+ {
+  "src": "concepts/机会成本.md",
+  "name": "稀缺性",
+  "tgt": "concepts/稀缺性.md"
+ },
+ {
+  "src": "concepts/机会成本.md",
+  "name": "沉没成本",
+  "tgt": "concepts/沉没成本.md"
+ },
+ {
+  "src": "concepts/杠杆.md",
+  "name": "融资融券",
+  "tgt": "concepts/融资融券.md"
+ },
+ {
+  "src": "concepts/杠杆.md",
+  "name": "套息交易",
+  "tgt": "concepts/套息交易.md"
+ },
+ {
+  "src": "concepts/杠杆.md",
+  "name": "利差交易",
+  "tgt": "concepts/利差交易.md"
+ },
+ {
+  "src": "concepts/杠杆收购.md",
+  "name": "宝能系",
+  "tgt": "entities/宝能系.md"
+ },
+ {
+  "src": "concepts/杠杆收购.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/核准备案.md",
+  "name": "跨境资金登记",
+  "tgt": "concepts/跨境资金登记.md"
+ },
+ {
+  "src": "concepts/核准备案.md",
+  "name": "对外投资安全审查",
+  "tgt": "concepts/对外投资安全审查.md"
+ },
+ {
+  "src": "concepts/欧债危机.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "concepts/欧债危机.md",
+  "name": "葡萄牙",
+  "tgt": "entities/葡萄牙.md"
+ },
+ {
+  "src": "concepts/欧债危机.md",
+  "name": "爱尔兰",
+  "tgt": "entities/爱尔兰.md"
+ },
+ {
+  "src": "concepts/欧洲货币体系.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "concepts/欧洲货币体系.md",
+  "name": "2010-2012 欧债危机",
+  "tgt": "concepts/欧债危机.md"
+ },
+ {
+  "src": "concepts/欧洲货币体系.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "concepts/欧猪五国.md",
+  "name": "葡萄牙",
+  "tgt": "entities/葡萄牙.md"
+ },
+ {
+  "src": "concepts/欧猪五国.md",
+  "name": "爱尔兰",
+  "tgt": "entities/爱尔兰.md"
+ },
+ {
+  "src": "concepts/欧猪五国.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "concepts/武器化相互依存.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/武器化相互依存.md",
+  "name": "CHIPS",
+  "tgt": "entities/CHIPS.md"
+ },
+ {
+  "src": "concepts/武器化相互依存.md",
+  "name": "长臂管辖",
+  "tgt": "concepts/长臂管辖.md"
+ },
+ {
+  "src": "concepts/汇率传导机制.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/汇率传导机制.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/汇率传导机制.md",
+  "name": "日元套利交易",
+  "tgt": "entities/日元套利交易.md"
+ },
+ {
+  "src": "concepts/汇率制度.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "concepts/汇率制度.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/汇率制度.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "concepts/汇率损失.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/汇率损失.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/汇率损失.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/汇率超调模型.md",
+  "name": "理性预期",
+  "tgt": "concepts/理性预期.md"
+ },
+ {
+  "src": "concepts/汇率超调模型.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/汇率超调模型.md",
+  "name": "蒙代尔-弗莱明模型",
+  "tgt": "concepts/蒙代尔-弗莱明模型.md"
+ },
+ {
+  "src": "concepts/汇率非市场化.md",
+  "name": "非市场化力量",
+  "tgt": "concepts/非市场化力量.md"
+ },
+ {
+  "src": "concepts/汇率非市场化.md",
+  "name": "外汇管制",
+  "tgt": "concepts/外汇管制.md"
+ },
+ {
+  "src": "concepts/汇率非市场化.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/沃尔克规则.md",
+  "name": "多德弗兰克法案",
+  "tgt": "concepts/多德弗兰克法案.md"
+ },
+ {
+  "src": "concepts/沃尔克规则.md",
+  "name": "监管套利",
+  "tgt": "entities/监管套利.md"
+ },
+ {
+  "src": "concepts/沃尔克规则.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "concepts/沉没成本.md",
+  "name": "机会成本",
+  "tgt": "concepts/机会成本.md"
+ },
+ {
+  "src": "concepts/没人关心普京访华？.md",
+  "name": "集中度风险",
+  "tgt": "entities/集中度风险.md"
+ },
+ {
+  "src": "concepts/没人关心普京访华？.md",
+  "name": "实体页",
+  "tgt": "entities/实体页.md"
+ },
+ {
+  "src": "concepts/没人关心普京访华？.md",
+  "name": "中俄全面战略协作伙伴关系",
+  "tgt": "concepts/中俄全面战略协作伙伴关系.md"
+ },
+ {
+  "src": "concepts/沪港通.md",
+  "name": "深港通",
+  "tgt": "concepts/深港通.md"
+ },
+ {
+  "src": "concepts/沪港通.md",
+  "name": "港股通",
+  "tgt": "entities/港股通.md"
+ },
+ {
+  "src": "concepts/沪港通.md",
+  "name": "港交所",
+  "tgt": "entities/港交所.md"
+ },
+ {
+  "src": "concepts/法国1983年转向.md",
+  "name": "密特朗",
+  "tgt": "entities/密特朗.md"
+ },
+ {
+  "src": "concepts/法国1983年转向.md",
+  "name": "铆钉德国马克",
+  "tgt": "concepts/铆钉德国马克.md"
+ },
+ {
+  "src": "concepts/法国1983年转向.md",
+  "name": "制度学习",
+  "tgt": "concepts/制度学习.md"
+ },
+ {
+  "src": "concepts/法经济学.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "concepts/流动性幻觉.md",
+  "name": "外汇占款",
+  "tgt": "concepts/外汇占款.md"
+ },
+ {
+  "src": "concepts/流动性幻觉.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/流动性消失术.md",
+  "name": "急速加息",
+  "tgt": "concepts/自杀式加息.md"
+ },
+ {
+  "src": "concepts/流动性消失术.md",
+  "name": "泡沫经济",
+  "tgt": "concepts/泡沫经济.md"
+ },
+ {
+  "src": "concepts/流动性虹吸.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/流动性风险.md",
+  "name": "2008 年金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/流动性风险.md",
+  "name": "净稳定资金比率",
+  "tgt": "entities/净稳定资金比率.md"
+ },
+ {
+  "src": "concepts/流动性风险.md",
+  "name": "期限错配",
+  "tgt": "entities/期限错配.md"
+ },
+ {
+  "src": "concepts/海外投行预测偏差.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "concepts/海外投行预测偏差.md",
+  "name": "美元加息周期",
+  "tgt": "concepts/美元加息周期.md"
+ },
+ {
+  "src": "concepts/海外投行预测偏差.md",
+  "name": "任庄主",
+  "tgt": "entities/任庄主.md"
+ },
+ {
+  "src": "concepts/深港通.md",
+  "name": "沪港通",
+  "tgt": "concepts/沪港通.md"
+ },
+ {
+  "src": "concepts/深港通.md",
+  "name": "港股通",
+  "tgt": "entities/港股通.md"
+ },
+ {
+  "src": "concepts/深港通.md",
+  "name": "创业板",
+  "tgt": "entities/创业板.md"
+ },
+ {
+  "src": "concepts/渐进主义.md",
+  "name": "渐进式改革",
+  "tgt": "entities/渐进式改革.md"
+ },
+ {
+  "src": "concepts/渐进主义.md",
+  "name": "休克疗法",
+  "tgt": "concepts/休克疗法.md"
+ },
+ {
+  "src": "concepts/热钱.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/热钱.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/热钱.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/特殊再融资债券.md",
+  "name": "化债核心命题",
+  "tgt": "concepts/化债核心命题.md"
+ },
+ {
+  "src": "concepts/特殊再融资债券.md",
+  "name": "土地财政",
+  "tgt": "entities/土地财政.md"
+ },
+ {
+  "src": "concepts/猪周期.md",
+  "name": "蛛网模型",
+  "tgt": "concepts/蛛网模型.md"
+ },
+ {
+  "src": "concepts/猪周期.md",
+  "name": "非洲猪瘟",
+  "tgt": "entities/非洲猪瘟.md"
+ },
+ {
+  "src": "concepts/猪周期.md",
+  "name": "能繁母猪",
+  "tgt": "entities/能繁母猪.md"
+ },
+ {
+  "src": "concepts/现代货币理论 (MMT).md",
+  "name": "Hans Luther",
+  "tgt": "entities/Hans Luther.md"
+ },
+ {
+  "src": "concepts/现代货币理论 (MMT).md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "concepts/现代货币理论 (MMT).md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "concepts/现状偏见.md",
+  "name": "损失厌恶",
+  "tgt": "concepts/损失厌恶.md"
+ },
+ {
+  "src": "concepts/现状偏见.md",
+  "name": "处置效应",
+  "tgt": "concepts/处置效应.md"
+ },
+ {
+  "src": "concepts/理性预期.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/理性预期.md",
+  "name": "有效市场假说",
+  "tgt": "concepts/有效市场假说.md"
+ },
+ {
+  "src": "concepts/硬着陆.md",
+  "name": "央行政策",
+  "tgt": "concepts/央行政策.md"
+ },
+ {
+  "src": "concepts/硬着陆.md",
+  "name": "软着陆",
+  "tgt": "concepts/软着陆.md"
+ },
+ {
+  "src": "concepts/硬着陆.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/社会消费品零售.md",
+  "name": "不婚不育消费降级",
+  "tgt": "concepts/不婚不育消费降级.md"
+ },
+ {
+  "src": "concepts/离岸央票.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "concepts/离岸央票.md",
+  "name": "离岸人民币",
+  "tgt": "entities/离岸人民币.md"
+ },
+ {
+  "src": "concepts/离岸央票.md",
+  "name": "稀缺性",
+  "tgt": "concepts/稀缺性.md"
+ },
+ {
+  "src": "concepts/秩序自由主义.md",
+  "name": "莱茵资本主义",
+  "tgt": "concepts/莱茵资本主义.md"
+ },
+ {
+  "src": "concepts/秩序自由主义.md",
+  "name": "凯恩斯主义",
+  "tgt": "concepts/凯恩斯主义.md"
+ },
+ {
+  "src": "concepts/秩序自由主义.md",
+  "name": "反垄断法",
+  "tgt": "concepts/反垄断法.md"
+ },
+ {
+  "src": "concepts/积极股东.md",
+  "name": "主权财富基金",
+  "tgt": "concepts/主权财富基金.md"
+ },
+ {
+  "src": "concepts/积极股东.md",
+  "name": "被动投资",
+  "tgt": "concepts/被动投资.md"
+ },
+ {
+  "src": "concepts/稀缺性.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/稀缺性.md",
+  "name": "机会成本",
+  "tgt": "concepts/机会成本.md"
+ },
+ {
+  "src": "concepts/稀缺性.md",
+  "name": "价格机制",
+  "tgt": "concepts/价格机制.md"
+ },
+ {
+  "src": "concepts/税收归宿.md",
+  "name": "实体页",
+  "tgt": "entities/实体页.md"
+ },
+ {
+  "src": "concepts/稳定文化.md",
+  "name": "魏玛恶性通胀",
+  "tgt": "concepts/魏玛恶性通胀.md"
+ },
+ {
+  "src": "concepts/稳定文化.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "concepts/稳定文化.md",
+  "name": "Bundesbank",
+  "tgt": "entities/Bundesbank.md"
+ },
+ {
+  "src": "concepts/窗口指导.md",
+  "name": "泡沫经济",
+  "tgt": "concepts/泡沫经济.md"
+ },
+ {
+  "src": "concepts/窗口指导.md",
+  "name": "金融自由化",
+  "tgt": "concepts/金融自由化.md"
+ },
+ {
+  "src": "concepts/窗口指导.md",
+  "name": "大藏省",
+  "tgt": "entities/大藏省.md"
+ },
+ {
+  "src": "concepts/粮食危机.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/粮食危机.md",
+  "name": "乌克兰",
+  "tgt": "entities/乌克兰.md"
+ },
+ {
+  "src": "concepts/粮食安全.md",
+  "name": "战略储备",
+  "tgt": "concepts/战略储备.md"
+ },
+ {
+  "src": "concepts/粮食安全.md",
+  "name": "粮食危机",
+  "tgt": "concepts/粮食危机.md"
+ },
+ {
+  "src": "concepts/粮食安全.md",
+  "name": "进口配额",
+  "tgt": "concepts/进口配额.md"
+ },
+ {
+  "src": "concepts/经常账户.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/经常账户.md",
+  "name": "双顺差",
+  "tgt": "concepts/双顺差.md"
+ },
+ {
+  "src": "concepts/经常账户.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "concepts/经济增长.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/结构性工具.md",
+  "name": "货币政策工具",
+  "tgt": "entities/货币政策工具.md"
+ },
+ {
+  "src": "concepts/结构性工具.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "concepts/综合整治非法跨境证券期货基金经营活动实施方案.md",
+  "name": "国务院关于对外投资的规定",
+  "tgt": "concepts/国务院关于对外投资的规定.md"
+ },
+ {
+  "src": "concepts/综合整治非法跨境证券期货基金经营活动实施方案.md",
+  "name": "开正门、堵偏门",
+  "tgt": "concepts/开正门、堵偏门.md"
+ },
+ {
+  "src": "concepts/综合整治非法跨境证券期货基金经营活动实施方案.md",
+  "name": "居民个人对外投资",
+  "tgt": "concepts/居民个人对外投资.md"
+ },
+ {
+  "src": "concepts/美伊备忘录.md",
+  "name": "美以伊战争",
+  "tgt": "entities/美以伊战争.md"
+ },
+ {
+  "src": "concepts/美伊备忘录.md",
+  "name": "抵抗轴心",
+  "tgt": "concepts/抵抗轴心.md"
+ },
+ {
+  "src": "concepts/美伊备忘录.md",
+  "name": "以色列",
+  "tgt": "entities/以色列.md"
+ },
+ {
+  "src": "concepts/美元互换网络.md",
+  "name": "全球最后贷款人",
+  "tgt": "synthesis/美联储在国际经济中的作用.md"
+ },
+ {
+  "src": "concepts/美元互换网络.md",
+  "name": "汇率风险",
+  "tgt": "entities/汇率风险.md"
+ },
+ {
+  "src": "concepts/美元互换网络.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "concepts/美元周期.md",
+  "name": "美联储货币政策",
+  "tgt": "entities/美联储货币政策.md"
+ },
+ {
+  "src": "concepts/美元周期.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "concepts/美元周期.md",
+  "name": "美联储资产负债表",
+  "tgt": "entities/美联储资产负债表.md"
+ },
+ {
+  "src": "concepts/美元流动性.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/美元流动性.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "concepts/美元流动性.md",
+  "name": "美元债",
+  "tgt": "concepts/美元债.md"
+ },
+ {
+  "src": "concepts/美元潮汐量化实证.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/美元潮汐量化实证.md",
+  "name": "美联储资产负债表",
+  "tgt": "entities/美联储资产负债表.md"
+ },
+ {
+  "src": "concepts/美元潮汐量化实证.md",
+  "name": "美元债",
+  "tgt": "concepts/美元债.md"
+ },
+ {
+  "src": "concepts/美元霸权.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/美元霸权.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "concepts/美元霸权.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/美国旋转门制度.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "concepts/美国旋转门制度.md",
+  "name": "泡沫经济",
+  "tgt": "concepts/泡沫经济.md"
+ },
+ {
+  "src": "concepts/美联储独立性.md",
+  "name": "鲍威尔",
+  "tgt": "entities/鲍威尔.md"
+ },
+ {
+  "src": "concepts/美联储独立性.md",
+  "name": "英格兰银行",
+  "tgt": "entities/英格兰银行.md"
+ },
+ {
+  "src": "concepts/美联储独立性.md",
+  "name": "压力测试",
+  "tgt": "entities/压力测试.md"
+ },
+ {
+  "src": "concepts/联系汇率制度.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "concepts/联系汇率制度.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "concepts/联系汇率制度.md",
+  "name": "逆周期资本缓冲",
+  "tgt": "concepts/逆周期资本缓冲.md"
+ },
+ {
+  "src": "concepts/股债跷跷板效应.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/股债跷跷板效应.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/股债跷跷板效应.md",
+  "name": "货币政策工具",
+  "tgt": "entities/货币政策工具.md"
+ },
+ {
+  "src": "concepts/股指期货.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/股指期货.md",
+  "name": "机会成本",
+  "tgt": "concepts/机会成本.md"
+ },
+ {
+  "src": "concepts/股指期货.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/股汇关系.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/股汇负相关.md",
+  "name": "出口导向型经济体",
+  "tgt": "concepts/出口导向型经济体.md"
+ },
+ {
+  "src": "concepts/股汇负相关.md",
+  "name": "本币升值",
+  "tgt": "concepts/本币升值.md"
+ },
+ {
+  "src": "concepts/股汇负相关.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/股牛汇弱.md",
+  "name": "本币升值",
+  "tgt": "concepts/本币升值.md"
+ },
+ {
+  "src": "concepts/股牛汇弱.md",
+  "name": "出口导向型经济体",
+  "tgt": "concepts/出口导向型经济体.md"
+ },
+ {
+  "src": "concepts/股牛汇弱.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "concepts/自杀式加息.md",
+  "name": "流动性消失术",
+  "tgt": "concepts/流动性消失术.md"
+ },
+ {
+  "src": "concepts/自杀式加息.md",
+  "name": "大藏省",
+  "tgt": "entities/大藏省.md"
+ },
+ {
+  "src": "concepts/自杀式加息.md",
+  "name": "泡沫经济",
+  "tgt": "concepts/泡沫经济.md"
+ },
+ {
+  "src": "concepts/莱茵资本主义.md",
+  "name": "稳定文化",
+  "tgt": "concepts/稳定文化.md"
+ },
+ {
+  "src": "concepts/莱茵资本主义.md",
+  "name": "长期主义",
+  "tgt": "concepts/长期主义.md"
+ },
+ {
+  "src": "concepts/莱茵资本主义.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "concepts/菲利普斯曲线.md",
+  "name": "软着陆",
+  "tgt": "concepts/软着陆.md"
+ },
+ {
+  "src": "concepts/菲利普斯曲线.md",
+  "name": "硬着陆",
+  "tgt": "concepts/硬着陆.md"
+ },
+ {
+  "src": "concepts/菲利普斯曲线.md",
+  "name": "鲍威尔",
+  "tgt": "entities/鲍威尔.md"
+ },
+ {
+  "src": "concepts/蒙代尔-弗莱明模型.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/蒙代尔-弗莱明模型.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/蒙代尔-弗莱明模型.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/蛛网模型.md",
+  "name": "供需均衡",
+  "tgt": "concepts/供需均衡.md"
+ },
+ {
+  "src": "concepts/蛛网模型.md",
+  "name": "猪周期",
+  "tgt": "concepts/猪周期.md"
+ },
+ {
+  "src": "concepts/蛛网模型.md",
+  "name": "理性预期",
+  "tgt": "concepts/理性预期.md"
+ },
+ {
+  "src": "concepts/行业分析框架.md",
+  "name": "国产替代",
+  "tgt": "concepts/国产替代.md"
+ },
+ {
+  "src": "concepts/行业分析框架.md",
+  "name": "证监会",
+  "tgt": "entities/证监会.md"
+ },
+ {
+  "src": "concepts/行业分析框架.md",
+  "name": "行业轮动",
+  "tgt": "entities/行业轮动.md"
+ },
+ {
+  "src": "concepts/行为助推.md",
+  "name": "心理账户",
+  "tgt": "concepts/心理账户.md"
+ },
+ {
+  "src": "concepts/行为金融学.md",
+  "name": "前景理论",
+  "tgt": "concepts/前景理论.md"
+ },
+ {
+  "src": "concepts/行为金融学.md",
+  "name": "心理账户",
+  "tgt": "concepts/心理账户.md"
+ },
+ {
+  "src": "concepts/被动投资.md",
+  "name": "主权财富基金",
+  "tgt": "concepts/主权财富基金.md"
+ },
+ {
+  "src": "concepts/被动投资.md",
+  "name": "长期主义",
+  "tgt": "concepts/长期主义.md"
+ },
+ {
+  "src": "concepts/被动投资.md",
+  "name": "积极股东",
+  "tgt": "concepts/积极股东.md"
+ },
+ {
+  "src": "concepts/规模经济与范围经济.md",
+  "name": "规模不经济",
+  "tgt": "concepts/规模不经济.md"
+ },
+ {
+  "src": "concepts/规模经济与范围经济.md",
+  "name": "阿里巴巴",
+  "tgt": "entities/阿里巴巴.md"
+ },
+ {
+  "src": "concepts/计划经济转型.md",
+  "name": "制度变迁",
+  "tgt": "concepts/制度变迁.md"
+ },
+ {
+  "src": "concepts/计划经济转型.md",
+  "name": "休克疗法",
+  "tgt": "concepts/休克疗法.md"
+ },
+ {
+  "src": "concepts/计划经济转型.md",
+  "name": "渐进主义",
+  "tgt": "concepts/渐进主义.md"
+ },
+ {
+  "src": "concepts/负利率.md",
+  "name": "央行政策",
+  "tgt": "concepts/央行政策.md"
+ },
+ {
+  "src": "concepts/财富转移效应.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/财富转移效应.md",
+  "name": "转移支付",
+  "tgt": "entities/转移支付.md"
+ },
+ {
+  "src": "concepts/财政发力与通胀关联.md",
+  "name": "通胀多因素推动论",
+  "tgt": "concepts/通胀多因素推动论.md"
+ },
+ {
+  "src": "concepts/财政发力与通胀关联.md",
+  "name": "输入型通胀",
+  "tgt": "concepts/输入型通胀.md"
+ },
+ {
+  "src": "concepts/财政政策与货币政策协同.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "concepts/财政政策与货币政策协同.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "concepts/财政政策与货币政策协同.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/财政政策乘数.md",
+  "name": "凯恩斯主义",
+  "tgt": "concepts/凯恩斯主义.md"
+ },
+ {
+  "src": "concepts/财政政策乘数.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/财政货币化.md",
+  "name": "化债核心命题",
+  "tgt": "concepts/化债核心命题.md"
+ },
+ {
+  "src": "concepts/财政货币化.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "concepts/财政货币化.md",
+  "name": "直升机撒钱",
+  "tgt": "entities/直升机撒钱.md"
+ },
+ {
+  "src": "concepts/财税改革.md",
+  "name": "土地财政",
+  "tgt": "entities/土地财政.md"
+ },
+ {
+  "src": "concepts/财税改革.md",
+  "name": "分税制",
+  "tgt": "entities/分税制.md"
+ },
+ {
+  "src": "concepts/财税改革.md",
+  "name": "财政包干制",
+  "tgt": "entities/财政包干制.md"
+ },
+ {
+  "src": "concepts/货币乘数.md",
+  "name": "存款准备金率",
+  "tgt": "concepts/存款准备金率.md"
+ },
+ {
+  "src": "concepts/货币乘数.md",
+  "name": "超额准备金",
+  "tgt": "entities/超额准备金.md"
+ },
+ {
+  "src": "concepts/货币乘数.md",
+  "name": "资本充足率",
+  "tgt": "entities/资本充足率.md"
+ },
+ {
+  "src": "concepts/货币兑换（1990东德）.md",
+  "name": "两德合并",
+  "tgt": "concepts/两德合并.md"
+ },
+ {
+  "src": "concepts/货币兑换（1990东德）.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "concepts/货币兑换（1990东德）.md",
+  "name": "巴拉萨-萨缪尔森效应",
+  "tgt": "concepts/巴拉萨-萨缪尔森效应.md"
+ },
+ {
+  "src": "concepts/货币基金.md",
+  "name": "国债逆回购",
+  "tgt": "concepts/国债逆回购.md"
+ },
+ {
+  "src": "concepts/货币政策传导机制.md",
+  "name": "凯恩斯主义",
+  "tgt": "concepts/凯恩斯主义.md"
+ },
+ {
+  "src": "concepts/货币政策传导机制.md",
+  "name": "资产价格渠道",
+  "tgt": "entities/资产价格渠道.md"
+ },
+ {
+  "src": "concepts/货币政策传导机制.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/货币政策独立性.md",
+  "name": "通胀目标制",
+  "tgt": "concepts/通胀目标制.md"
+ },
+ {
+  "src": "concepts/货币政策独立性.md",
+  "name": "理性预期",
+  "tgt": "concepts/理性预期.md"
+ },
+ {
+  "src": "concepts/货币政策独立性.md",
+  "name": "美联储独立性",
+  "tgt": "concepts/美联储独立性.md"
+ },
+ {
+  "src": "concepts/货币政策策略.md",
+  "name": "通胀目标制",
+  "tgt": "concepts/通胀目标制.md"
+ },
+ {
+  "src": "concepts/货币政策策略.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/货币政策策略.md",
+  "name": "联系汇率制度",
+  "tgt": "concepts/联系汇率制度.md"
+ },
+ {
+  "src": "concepts/购买力平价.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "concepts/购买力平价.md",
+  "name": "日元升值",
+  "tgt": "concepts/日元升值.md"
+ },
+ {
+  "src": "concepts/购买力平价.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/贸易.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "concepts/贸易.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/贸易.md",
+  "name": "2008 年金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "concepts/贸易战.md",
+  "name": "反补贴",
+  "tgt": "concepts/反补贴.md"
+ },
+ {
+  "src": "concepts/贸易战.md",
+  "name": "反倾销税",
+  "tgt": "concepts/反倾销税.md"
+ },
+ {
+  "src": "concepts/贸易战.md",
+  "name": "工业加速器法案",
+  "tgt": "concepts/工业加速器法案.md"
+ },
+ {
+  "src": "concepts/资产购买计划.md",
+  "name": "公开市场操作",
+  "tgt": "concepts/公开市场操作.md"
+ },
+ {
+  "src": "concepts/资产购买计划.md",
+  "name": "黑田东彦",
+  "tgt": "entities/黑田东彦.md"
+ },
+ {
+  "src": "concepts/资产购买计划.md",
+  "name": "前瞻指引",
+  "tgt": "entities/前瞻指引.md"
+ },
+ {
+  "src": "concepts/资本管制.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/资本管制.md",
+  "name": "套利资金",
+  "tgt": "concepts/套利资金.md"
+ },
+ {
+  "src": "concepts/资本管制.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/资源配置.md",
+  "name": "稀缺性",
+  "tgt": "concepts/稀缺性.md"
+ },
+ {
+  "src": "concepts/资源配置.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/资源配置.md",
+  "name": "价格机制",
+  "tgt": "concepts/价格机制.md"
+ },
+ {
+  "src": "concepts/赎罪性质回购.md",
+  "name": "五粮液",
+  "tgt": "entities/五粮液.md"
+ },
+ {
+  "src": "concepts/赎罪性质回购.md",
+  "name": "moomoocat",
+  "tgt": "entities/moomoocat.md"
+ },
+ {
+  "src": "concepts/赎罪性质回购.md",
+  "name": "宝能系",
+  "tgt": "entities/宝能系.md"
+ },
+ {
+  "src": "concepts/跨境数据流动.md",
+  "name": "数据安全",
+  "tgt": "concepts/数据安全.md"
+ },
+ {
+  "src": "concepts/跨境数据流动.md",
+  "name": "个人信息保护",
+  "tgt": "concepts/个人信息保护.md"
+ },
+ {
+  "src": "concepts/跨境数据流动.md",
+  "name": "商务部",
+  "tgt": "entities/商务部.md"
+ },
+ {
+  "src": "concepts/跨境理财通.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/跨境资金登记.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "concepts/跨境资金登记.md",
+  "name": "国家外汇管理局",
+  "tgt": "entities/国家外汇管理局.md"
+ },
+ {
+  "src": "concepts/跨境资金登记.md",
+  "name": "再投资",
+  "tgt": "concepts/再投资.md"
+ },
+ {
+  "src": "concepts/跷跷板效应.md",
+  "name": "老登板块",
+  "tgt": "concepts/老登板块.md"
+ },
+ {
+  "src": "concepts/跷跷板效应.md",
+  "name": "太不团结了",
+  "tgt": "sources/太不团结了.md"
+ },
+ {
+  "src": "concepts/轧空.md",
+  "name": "借股票池",
+  "tgt": "concepts/借股票池.md"
+ },
+ {
+  "src": "concepts/轧空.md",
+  "name": "流动性陷阱",
+  "tgt": "entities/流动性陷阱.md"
+ },
+ {
+  "src": "concepts/轧空.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/输入型通胀.md",
+  "name": "战略储备",
+  "tgt": "concepts/战略储备.md"
+ },
+ {
+  "src": "concepts/过度自信.md",
+  "name": "行为金融学",
+  "tgt": "concepts/行为金融学.md"
+ },
+ {
+  "src": "concepts/过度自信.md",
+  "name": "锚定效应",
+  "tgt": "concepts/锚定效应.md"
+ },
+ {
+  "src": "concepts/过度自信.md",
+  "name": "损失厌恶",
+  "tgt": "concepts/损失厌恶.md"
+ },
+ {
+  "src": "concepts/进口商品结构.md",
+  "name": "高新技术产品",
+  "tgt": "entities/高新技术产品.md"
+ },
+ {
+  "src": "concepts/进口商品结构.md",
+  "name": "战略储备",
+  "tgt": "concepts/战略储备.md"
+ },
+ {
+  "src": "concepts/进口商品结构.md",
+  "name": "粮食安全",
+  "tgt": "concepts/粮食安全.md"
+ },
+ {
+  "src": "concepts/逆周期资本缓冲.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/逆周期资本缓冲.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/逆周期资本缓冲.md",
+  "name": "金融安全网",
+  "tgt": "concepts/存款保险.md"
+ },
+ {
+  "src": "concepts/通胀多因素推动论.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "concepts/通胀多因素推动论.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "concepts/通胀多因素推动论.md",
+  "name": "输入型通胀",
+  "tgt": "concepts/输入型通胀.md"
+ },
+ {
+  "src": "concepts/通胀目标制.md",
+  "name": "韩国银行",
+  "tgt": "entities/韩国央行(BOK).md"
+ },
+ {
+  "src": "concepts/通胀目标制.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/重分红轻回购.md",
+  "name": "英伟达",
+  "tgt": "concepts/英伟达.md"
+ },
+ {
+  "src": "concepts/重分红轻回购.md",
+  "name": "再投资",
+  "tgt": "concepts/再投资.md"
+ },
+ {
+  "src": "concepts/重分红轻回购.md",
+  "name": "回购注销",
+  "tgt": "concepts/回购注销.md"
+ },
+ {
+  "src": "concepts/量化宽松.md",
+  "name": "货币政策工具",
+  "tgt": "entities/货币政策工具.md"
+ },
+ {
+  "src": "concepts/量化宽松.md",
+  "name": "流动性陷阱",
+  "tgt": "entities/流动性陷阱.md"
+ },
+ {
+  "src": "concepts/量化宽松.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "concepts/金砖支付系统.md",
+  "name": "BRICS Pay",
+  "tgt": "entities/BRICS Pay.md"
+ },
+ {
+  "src": "concepts/金砖支付系统.md",
+  "name": "金砖国家",
+  "tgt": "concepts/金砖国家.md"
+ },
+ {
+  "src": "concepts/金砖支付系统.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/金穹系统.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "concepts/金融传导机制分析框架.md",
+  "name": "库存周期",
+  "tgt": "concepts/库存周期.md"
+ },
+ {
+  "src": "concepts/金融传导机制分析框架.md",
+  "name": "预期差交易",
+  "tgt": "concepts/预期差交易.md"
+ },
+ {
+  "src": "concepts/金融传导机制分析框架.md",
+  "name": "实际利率框架",
+  "tgt": "concepts/实际利率框架.md"
+ },
+ {
+  "src": "concepts/金融体制改革.md",
+  "name": "金融创新",
+  "tgt": "entities/金融创新.md"
+ },
+ {
+  "src": "concepts/金融体制改革.md",
+  "name": "监管套利",
+  "tgt": "entities/监管套利.md"
+ },
+ {
+  "src": "concepts/金融体制改革.md",
+  "name": "证监会",
+  "tgt": "entities/证监会.md"
+ },
+ {
+  "src": "concepts/金融制裁.md",
+  "name": "长臂管辖",
+  "tgt": "concepts/长臂管辖.md"
+ },
+ {
+  "src": "concepts/金融制裁.md",
+  "name": "次级制裁",
+  "tgt": "concepts/二级制裁.md"
+ },
+ {
+  "src": "concepts/金融制裁.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/金融危机.md",
+  "name": "期限错配",
+  "tgt": "entities/期限错配.md"
+ },
+ {
+  "src": "concepts/金融危机.md",
+  "name": "信息不对称",
+  "tgt": "concepts/信息不对称.md"
+ },
+ {
+  "src": "concepts/金融危机.md",
+  "name": "隐性刚兑",
+  "tgt": "concepts/隐性刚兑.md"
+ },
+ {
+  "src": "concepts/金融安全.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/金融安全.md",
+  "name": "土地财政",
+  "tgt": "entities/土地财政.md"
+ },
+ {
+  "src": "concepts/金融安全.md",
+  "name": "期限错配",
+  "tgt": "entities/期限错配.md"
+ },
+ {
+  "src": "concepts/金融投资知识库概览.md",
+  "name": "金融创新",
+  "tgt": "entities/金融创新.md"
+ },
+ {
+  "src": "concepts/金融武器化.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "concepts/金融武器化.md",
+  "name": "CHIPS",
+  "tgt": "entities/CHIPS.md"
+ },
+ {
+  "src": "concepts/金融武器化.md",
+  "name": "长臂管辖",
+  "tgt": "concepts/长臂管辖.md"
+ },
+ {
+  "src": "concepts/金融脱媒.md",
+  "name": "利率市场化",
+  "tgt": "concepts/利率市场化.md"
+ },
+ {
+  "src": "concepts/铆钉德国马克.md",
+  "name": "稳定文化",
+  "tgt": "concepts/稳定文化.md"
+ },
+ {
+  "src": "concepts/铆钉德国马克.md",
+  "name": "欧洲货币体系",
+  "tgt": "concepts/欧洲货币体系.md"
+ },
+ {
+  "src": "concepts/铆钉德国马克.md",
+  "name": "魏玛恶性通胀",
+  "tgt": "concepts/魏玛恶性通胀.md"
+ },
+ {
+  "src": "concepts/银行扩表与流动性.md",
+  "name": "货币乘数",
+  "tgt": "concepts/货币乘数.md"
+ },
+ {
+  "src": "concepts/银行扩表与流动性.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "concepts/银行扩表与流动性.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "concepts/银行风险.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/银行风险.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "concepts/银行风险.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/锚定效应.md",
+  "name": "启发式与偏差",
+  "tgt": "concepts/启发式与偏差.md"
+ },
+ {
+  "src": "concepts/锚定效应.md",
+  "name": "处置效应",
+  "tgt": "concepts/处置效应.md"
+ },
+ {
+  "src": "concepts/锚定效应.md",
+  "name": "损失厌恶",
+  "tgt": "concepts/损失厌恶.md"
+ },
+ {
+  "src": "concepts/长期主义.md",
+  "name": "主权财富基金",
+  "tgt": "concepts/主权财富基金.md"
+ },
+ {
+  "src": "concepts/长期主义.md",
+  "name": "处置效应",
+  "tgt": "concepts/处置效应.md"
+ },
+ {
+  "src": "concepts/长期主义.md",
+  "name": "被动投资",
+  "tgt": "concepts/被动投资.md"
+ },
+ {
+  "src": "concepts/长期资本管理公司.md",
+  "name": "动态对冲",
+  "tgt": "concepts/动态对冲.md"
+ },
+ {
+  "src": "concepts/长期资本管理公司.md",
+  "name": "全球流动性危机",
+  "tgt": "entities/全球流动性危机.md"
+ },
+ {
+  "src": "concepts/长期资本管理公司.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "concepts/长臂管辖.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "concepts/长臂管辖.md",
+  "name": "金融武器化",
+  "tgt": "concepts/金融武器化.md"
+ },
+ {
+  "src": "concepts/长臂管辖.md",
+  "name": "INSTEX",
+  "tgt": "entities/INSTEX.md"
+ },
+ {
+  "src": "concepts/阻断法令.md",
+  "name": "长臂管辖",
+  "tgt": "concepts/长臂管辖.md"
+ },
+ {
+  "src": "concepts/阻断法令.md",
+  "name": "域外管辖权",
+  "tgt": "concepts/域外管辖权.md"
+ },
+ {
+  "src": "concepts/阻断法令.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "concepts/陆股通.md",
+  "name": "深港通",
+  "tgt": "concepts/深港通.md"
+ },
+ {
+  "src": "concepts/陆股通.md",
+  "name": "港交所",
+  "tgt": "entities/港交所.md"
+ },
+ {
+  "src": "concepts/霸权稳定论.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "concepts/霸权稳定论.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "concepts/非冲销式干预.md",
+  "name": "外汇占款",
+  "tgt": "concepts/外汇占款.md"
+ },
+ {
+  "src": "concepts/非冲销式干预.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "concepts/非冲销式干预.md",
+  "name": "半冲销",
+  "tgt": "concepts/半冲销.md"
+ },
+ {
+  "src": "concepts/非市场化力量.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "concepts/非市场化力量.md",
+  "name": "窗口指导",
+  "tgt": "concepts/窗口指导.md"
+ },
+ {
+  "src": "concepts/非市场化力量.md",
+  "name": "定向调控",
+  "tgt": "concepts/定向调控.md"
+ },
+ {
+  "src": "concepts/韩国折价（Korea Discount）.md",
+  "name": "再投资",
+  "tgt": "concepts/再投资.md"
+ },
+ {
+  "src": "concepts/韩国折价（Korea Discount）.md",
+  "name": "估值修复",
+  "tgt": "concepts/估值修复.md"
+ },
+ {
+  "src": "concepts/风险溢价与无风险利率.md",
+  "name": "信用利差",
+  "tgt": "concepts/信用利差.md"
+ },
+ {
+  "src": "concepts/风险溢价与无风险利率.md",
+  "name": "再投资",
+  "tgt": "concepts/再投资.md"
+ },
+ {
+  "src": "concepts/风险溢价与无风险利率.md",
+  "name": "流动性风险",
+  "tgt": "concepts/流动性风险.md"
+ },
+ {
+  "src": "concepts/饲料成本传导.md",
+  "name": "猪周期",
+  "tgt": "concepts/猪周期.md"
+ },
+ {
+  "src": "concepts/饲料成本传导.md",
+  "name": "非洲猪瘟",
+  "tgt": "entities/非洲猪瘟.md"
+ },
+ {
+  "src": "concepts/饲料成本传导.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "concepts/马斯特里赫特条约.md",
+  "name": "欧洲中央银行",
+  "tgt": "entities/欧洲央行.md"
+ },
+ {
+  "src": "concepts/马斯特里赫特条约.md",
+  "name": "2010-2012 欧债危机",
+  "tgt": "concepts/欧债危机.md"
+ },
+ {
+  "src": "concepts/马斯特里赫特条约.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "concepts/马来西亚模式.md",
+  "name": "1997 年亚洲金融危机",
+  "tgt": "concepts/1997亚洲金融危机.md"
+ },
+ {
+  "src": "concepts/马来西亚模式.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "concepts/马来西亚模式.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "concepts/高通胀保值效应.md",
+  "name": "股汇关系",
+  "tgt": "concepts/股汇关系.md"
+ },
+ {
+  "src": "concepts/高通胀保值效应.md",
+  "name": "尼日利亚",
+  "tgt": "entities/尼日利亚.md"
+ },
+ {
+  "src": "concepts/魏玛恶性通胀.md",
+  "name": "稳定文化",
+  "tgt": "concepts/稳定文化.md"
+ },
+ {
+  "src": "concepts/魏玛恶性通胀.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "concepts/魏玛恶性通胀.md",
+  "name": "Bundesbank",
+  "tgt": "entities/Bundesbank.md"
+ },
+ {
+  "src": "domains/中国金融与改革.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "domains/中国金融与改革.md",
+  "name": "分税制",
+  "tgt": "entities/分税制.md"
+ },
+ {
+  "src": "domains/中国金融与改革.md",
+  "name": "利率市场化",
+  "tgt": "concepts/利率市场化.md"
+ },
+ {
+  "src": "domains/国际金融与汇率.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "domains/国际金融与汇率.md",
+  "name": "汇率传导机制",
+  "tgt": "concepts/汇率传导机制.md"
+ },
+ {
+  "src": "domains/国际金融与汇率.md",
+  "name": "全球金融周期",
+  "tgt": "concepts/全球金融周期.md"
+ },
+ {
+  "src": "domains/宏观经济.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "domains/货币政策与中央银行.md",
+  "name": "货币政策工具",
+  "tgt": "entities/货币政策工具.md"
+ },
+ {
+  "src": "domains/货币政策与中央银行.md",
+  "name": "资产价格渠道",
+  "tgt": "entities/资产价格渠道.md"
+ },
+ {
+  "src": "domains/货币政策与中央银行.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "domains/银行体系与金融监管.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "domains/银行体系与金融监管.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "domains/银行体系与金融监管.md",
+  "name": "风险加权资产",
+  "tgt": "entities/风险加权资产.md"
+ },
+ {
+  "src": "domains/风险管理.md",
+  "name": "监管套利",
+  "tgt": "entities/监管套利.md"
+ },
+ {
+  "src": "domains/风险管理.md",
+  "name": "利率风险",
+  "tgt": "entities/利率风险.md"
+ },
+ {
+  "src": "domains/风险管理.md",
+  "name": "流动性风险",
+  "tgt": "concepts/流动性风险.md"
+ },
+ {
+  "src": "entities/1948货币改革.md",
+  "name": "Bundesbank",
+  "tgt": "entities/Bundesbank.md"
+ },
+ {
+  "src": "entities/1948货币改革.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "entities/1948货币改革.md",
+  "name": "稳定文化",
+  "tgt": "concepts/稳定文化.md"
+ },
+ {
+  "src": "entities/1998年LTCM危机.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "entities/1998年LTCM危机.md",
+  "name": "压力测试",
+  "tgt": "entities/压力测试.md"
+ },
+ {
+  "src": "entities/1998年LTCM危机.md",
+  "name": "流动性风险",
+  "tgt": "concepts/流动性风险.md"
+ },
+ {
+  "src": "entities/2026年1-3月中国外贸数据.md",
+  "name": "贸易顺差",
+  "tgt": "entities/贸易顺差.md"
+ },
+ {
+  "src": "entities/2026年1-3月中国外贸数据.md",
+  "name": "供应链多元化",
+  "tgt": "concepts/供应链多元化.md"
+ },
+ {
+  "src": "entities/2026年1-3月中国外贸数据.md",
+  "name": "高新技术产品",
+  "tgt": "entities/高新技术产品.md"
+ },
+ {
+  "src": "entities/AFS会计处理.md",
+  "name": "资本充足率",
+  "tgt": "entities/资本充足率.md"
+ },
+ {
+  "src": "entities/AFS会计处理.md",
+  "name": "HTM会计处理",
+  "tgt": "entities/HTM会计处理.md"
+ },
+ {
+  "src": "entities/AFS会计处理.md",
+  "name": "利率风险",
+  "tgt": "entities/利率风险.md"
+ },
+ {
+  "src": "entities/BIS.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/BIS.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "entities/BIS.md",
+  "name": "风险加权资产",
+  "tgt": "entities/风险加权资产.md"
+ },
+ {
+  "src": "entities/BRICS Pay.md",
+  "name": "金砖国家",
+  "tgt": "concepts/金砖国家.md"
+ },
+ {
+  "src": "entities/Bundesbank.md",
+  "name": "货币政策独立性",
+  "tgt": "concepts/货币政策独立性.md"
+ },
+ {
+  "src": "entities/Bundesbank.md",
+  "name": "货币信用",
+  "tgt": "entities/货币信用.md"
+ },
+ {
+  "src": "entities/Bundesbank.md",
+  "name": "公开市场操作",
+  "tgt": "concepts/公开市场操作.md"
+ },
+ {
+  "src": "entities/CIPS.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "entities/CIPS.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "entities/CIPS.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "entities/Ceconomy.md",
+  "name": "欧盟委员会",
+  "tgt": "entities/欧盟委员会.md"
+ },
+ {
+  "src": "entities/Christine Lagarde.md",
+  "name": "货币政策策略",
+  "tgt": "concepts/货币政策策略.md"
+ },
+ {
+  "src": "entities/Christine Lagarde.md",
+  "name": "降息周期",
+  "tgt": "concepts/降息周期.md"
+ },
+ {
+  "src": "entities/Christine Lagarde.md",
+  "name": "鲍威尔",
+  "tgt": "entities/鲍威尔.md"
+ },
+ {
+  "src": "entities/DeepSeek.md",
+  "name": "梁文峰",
+  "tgt": "entities/梁文峰.md"
+ },
+ {
+  "src": "entities/DeepSeek.md",
+  "name": "宁德时代",
+  "tgt": "entities/宁德时代.md"
+ },
+ {
+  "src": "entities/EU理事会.md",
+  "name": "European Stability Mechanism",
+  "tgt": "entities/欧洲稳定机制.md"
+ },
+ {
+  "src": "entities/EU理事会.md",
+  "name": "欧洲稳定机制",
+  "tgt": "entities/欧洲稳定机制.md"
+ },
+ {
+  "src": "entities/FDIC.md",
+  "name": "Federal Deposit Insurance Corporation",
+  "tgt": "concepts/存款保险.md"
+ },
+ {
+  "src": "entities/FDIC.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "entities/FDIC.md",
+  "name": "银行风险",
+  "tgt": "concepts/银行风险.md"
+ },
+ {
+  "src": "entities/G7.md",
+  "name": "G7领导人峰会",
+  "tgt": "entities/G7领导人峰会.md"
+ },
+ {
+  "src": "entities/GIC.md",
+  "name": "主权财富基金",
+  "tgt": "concepts/主权财富基金.md"
+ },
+ {
+  "src": "entities/GIC.md",
+  "name": "Santiago Principle",
+  "tgt": "concepts/Santiago Principle.md"
+ },
+ {
+  "src": "entities/HTM会计处理.md",
+  "name": "利率风险",
+  "tgt": "entities/利率风险.md"
+ },
+ {
+  "src": "entities/Hans Luther.md",
+  "name": "魏玛恶性通胀",
+  "tgt": "concepts/魏玛恶性通胀.md"
+ },
+ {
+  "src": "entities/Hans Luther.md",
+  "name": "密特朗",
+  "tgt": "entities/密特朗.md"
+ },
+ {
+  "src": "entities/IMF.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "entities/IMF.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/IMF.md",
+  "name": "世界银行",
+  "tgt": "entities/世界银行.md"
+ },
+ {
+  "src": "entities/INSTEX.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "entities/INSTEX.md",
+  "name": "次级制裁",
+  "tgt": "concepts/二级制裁.md"
+ },
+ {
+  "src": "entities/INSTEX.md",
+  "name": "长臂管辖",
+  "tgt": "concepts/长臂管辖.md"
+ },
+ {
+  "src": "entities/Jean-Claude Trichet.md",
+  "name": "Wim Duisenberg",
+  "tgt": "entities/Wim Duisenberg.md"
+ },
+ {
+  "src": "entities/Jean-Claude Trichet.md",
+  "name": "Mario Draghi",
+  "tgt": "entities/Mario Draghi.md"
+ },
+ {
+  "src": "entities/Kweb.md",
+  "name": "中概股",
+  "tgt": "concepts/中概股.md"
+ },
+ {
+  "src": "entities/Manu.md",
+  "name": "商务部",
+  "tgt": "entities/商务部.md"
+ },
+ {
+  "src": "entities/Mario Draghi.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "entities/Mario Draghi.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "entities/Mario Draghi.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "entities/SDR.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "entities/SDR.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "entities/SDR.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "entities/SPFS.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "entities/SPFS.md",
+  "name": "金融制裁",
+  "tgt": "concepts/金融制裁.md"
+ },
+ {
+  "src": "entities/SPFS.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "entities/Temu.md",
+  "name": "Ceconomy",
+  "tgt": "entities/Ceconomy.md"
+ },
+ {
+  "src": "entities/UFC白宫站.md",
+  "name": "moomoocat",
+  "tgt": "entities/moomoocat.md"
+ },
+ {
+  "src": "entities/Wim Duisenberg.md",
+  "name": "Jean-Claude Trichet",
+  "tgt": "entities/Jean-Claude Trichet.md"
+ },
+ {
+  "src": "entities/moomoocat.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "entities/moomoocat.md",
+  "name": "创业板",
+  "tgt": "entities/创业板.md"
+ },
+ {
+  "src": "entities/moomoocat.md",
+  "name": "库拉索",
+  "tgt": "entities/库拉索.md"
+ },
+ {
+  "src": "entities/三元悖论.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "entities/三元悖论.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "entities/三元悖论.md",
+  "name": "香港金管局",
+  "tgt": "entities/香港金管局.md"
+ },
+ {
+  "src": "entities/世界银行.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "entities/世界银行.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "entities/世界银行.md",
+  "name": "金融安全网",
+  "tgt": "concepts/存款保险.md"
+ },
+ {
+  "src": "entities/东德.md",
+  "name": "柏林墙",
+  "tgt": "entities/柏林墙.md"
+ },
+ {
+  "src": "entities/东德.md",
+  "name": "休克疗法",
+  "tgt": "concepts/休克疗法.md"
+ },
+ {
+  "src": "entities/两房.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "entities/两房.md",
+  "name": "资本充足率",
+  "tgt": "entities/资本充足率.md"
+ },
+ {
+  "src": "entities/两房.md",
+  "name": "道德风险与委托代理",
+  "tgt": "concepts/道德风险与委托代理.md"
+ },
+ {
+  "src": "entities/中东五股力量博弈.md",
+  "name": "抵抗轴心",
+  "tgt": "concepts/抵抗轴心.md"
+ },
+ {
+  "src": "entities/中东五股力量博弈.md",
+  "name": "军事同盟",
+  "tgt": "concepts/军事同盟.md"
+ },
+ {
+  "src": "entities/中东五股力量博弈.md",
+  "name": "阿联酋",
+  "tgt": "entities/阿联酋.md"
+ },
+ {
+  "src": "entities/中东地缘格局.md",
+  "name": "我们已经处于新一轮加息周期中或前夜",
+  "tgt": "sources/我们已经处于新一轮加息周期中或前夜.md"
+ },
+ {
+  "src": "entities/中东地缘格局.md",
+  "name": "抵抗轴心",
+  "tgt": "concepts/抵抗轴心.md"
+ },
+ {
+  "src": "entities/中东地缘格局.md",
+  "name": "黎巴嫩真主党",
+  "tgt": "entities/真主党.md"
+ },
+ {
+  "src": "entities/中东局势对全球金融市场的影响.md",
+  "name": "原油价格",
+  "tgt": "entities/原油价格.md"
+ },
+ {
+  "src": "entities/中华人民共和国财政部.md",
+  "name": "转移支付",
+  "tgt": "entities/转移支付.md"
+ },
+ {
+  "src": "entities/中华人民共和国财政部.md",
+  "name": "社会保障",
+  "tgt": "concepts/社会保障.md"
+ },
+ {
+  "src": "entities/中华人民共和国财政部.md",
+  "name": "特殊再融资债券",
+  "tgt": "concepts/特殊再融资债券.md"
+ },
+ {
+  "src": "entities/中国.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "entities/中国中免.md",
+  "name": "老登板块",
+  "tgt": "concepts/老登板块.md"
+ },
+ {
+  "src": "entities/中国人民银行.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/中国人民银行.md",
+  "name": "银监会",
+  "tgt": "entities/银监会.md"
+ },
+ {
+  "src": "entities/中国人民银行.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "entities/中国共产党.md",
+  "name": "中国改革",
+  "tgt": "concepts/中国改革.md"
+ },
+ {
+  "src": "entities/中国共产党.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "entities/中国共产党.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "entities/中国台湾.md",
+  "name": "出口导向型经济体",
+  "tgt": "concepts/出口导向型经济体.md"
+ },
+ {
+  "src": "entities/中国台湾.md",
+  "name": "出口盈利预期",
+  "tgt": "concepts/出口盈利预期.md"
+ },
+ {
+  "src": "entities/中国外交部.md",
+  "name": "中欧经贸关系",
+  "tgt": "concepts/中欧经贸关系.md"
+ },
+ {
+  "src": "entities/中国外贸数据.md",
+  "name": "贸易顺差",
+  "tgt": "entities/贸易顺差.md"
+ },
+ {
+  "src": "entities/中国外贸数据.md",
+  "name": "高新技术产品",
+  "tgt": "entities/高新技术产品.md"
+ },
+ {
+  "src": "entities/中国外贸数据.md",
+  "name": "集成电路",
+  "tgt": "entities/集成电路.md"
+ },
+ {
+  "src": "entities/中国央行.md",
+  "name": "离岸央票",
+  "tgt": "concepts/离岸央票.md"
+ },
+ {
+  "src": "entities/中国央行.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "entities/中国央行.md",
+  "name": "大小盘轮动",
+  "tgt": "concepts/大小盘轮动.md"
+ },
+ {
+  "src": "entities/中国银行间市场.md",
+  "name": "公开市场操作",
+  "tgt": "concepts/公开市场操作.md"
+ },
+ {
+  "src": "entities/中国银行间市场.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "entities/中国银行间市场.md",
+  "name": "债券通",
+  "tgt": "concepts/债券通.md"
+ },
+ {
+  "src": "entities/中投.md",
+  "name": "主权财富基金",
+  "tgt": "concepts/主权财富基金.md"
+ },
+ {
+  "src": "entities/中投.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "entities/中投.md",
+  "name": "产业升级",
+  "tgt": "concepts/产业升级.md"
+ },
+ {
+  "src": "entities/中芯国际.md",
+  "name": "国产替代",
+  "tgt": "concepts/国产替代.md"
+ },
+ {
+  "src": "entities/中芯国际.md",
+  "name": "出口管制",
+  "tgt": "concepts/出口管制.md"
+ },
+ {
+  "src": "entities/中芯国际.md",
+  "name": "集成电路",
+  "tgt": "entities/集成电路.md"
+ },
+ {
+  "src": "entities/乌克兰.md",
+  "name": "战损比",
+  "tgt": "concepts/战损比.md"
+ },
+ {
+  "src": "entities/五神.md",
+  "name": "孟山都",
+  "tgt": "entities/孟山都.md"
+ },
+ {
+  "src": "entities/亚洲金融危机传导机制.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "entities/亚洲金融危机传导机制.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "entities/亚洲金融危机传导机制.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "entities/京东.md",
+  "name": "中欧经贸关系",
+  "tgt": "concepts/中欧经贸关系.md"
+ },
+ {
+  "src": "entities/京东.md",
+  "name": "Ceconomy",
+  "tgt": "entities/Ceconomy.md"
+ },
+ {
+  "src": "entities/人民币国际化.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "entities/人民币国际化.md",
+  "name": "CHIPS",
+  "tgt": "entities/CHIPS.md"
+ },
+ {
+  "src": "entities/人民币国际化.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "entities/人民币汇率形成机制.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "entities/人民币汇率形成机制.md",
+  "name": "离岸人民币",
+  "tgt": "entities/离岸人民币.md"
+ },
+ {
+  "src": "entities/人民币汇率形成机制.md",
+  "name": "窗口指导",
+  "tgt": "concepts/窗口指导.md"
+ },
+ {
+  "src": "entities/人民日报.md",
+  "name": "中国共产党",
+  "tgt": "entities/中国共产党.md"
+ },
+ {
+  "src": "entities/以色列.md",
+  "name": "美以伊战争",
+  "tgt": "entities/美以伊战争.md"
+ },
+ {
+  "src": "entities/价格双轨制.md",
+  "name": "中国改革",
+  "tgt": "concepts/中国改革.md"
+ },
+ {
+  "src": "entities/价格双轨制.md",
+  "name": "渐进式改革",
+  "tgt": "entities/渐进式改革.md"
+ },
+ {
+  "src": "entities/价格改革时机.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/价格改革时机.md",
+  "name": "社会保障",
+  "tgt": "concepts/社会保障.md"
+ },
+ {
+  "src": "entities/价格改革时机.md",
+  "name": "物价闯关",
+  "tgt": "entities/物价闯关.md"
+ },
+ {
+  "src": "entities/任博宏观论道.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/任博宏观论道.md",
+  "name": "贸易顺差",
+  "tgt": "entities/贸易顺差.md"
+ },
+ {
+  "src": "entities/任庄主.md",
+  "name": "我们已经处于新一轮加息周期中或前夜",
+  "tgt": "sources/我们已经处于新一轮加息周期中或前夜.md"
+ },
+ {
+  "src": "entities/任庄主.md",
+  "name": "中国外交部",
+  "tgt": "entities/中国外交部.md"
+ },
+ {
+  "src": "entities/任庄主.md",
+  "name": "欧盟对华贸易战",
+  "tgt": "entities/欧盟对华贸易战.md"
+ },
+ {
+  "src": "entities/伊拉克亲伊朗武装.md",
+  "name": "Hezbollah",
+  "tgt": "entities/真主党.md"
+ },
+ {
+  "src": "entities/伊朗.md",
+  "name": "抵抗轴心",
+  "tgt": "concepts/抵抗轴心.md"
+ },
+ {
+  "src": "entities/伊朗.md",
+  "name": "美以伊战争",
+  "tgt": "entities/美以伊战争.md"
+ },
+ {
+  "src": "entities/伊朗.md",
+  "name": "输入型通胀",
+  "tgt": "concepts/输入型通胀.md"
+ },
+ {
+  "src": "entities/伊朗石油欧元计价.md",
+  "name": "俄罗斯人民币结算",
+  "tgt": "entities/俄罗斯人民币结算.md"
+ },
+ {
+  "src": "entities/伊朗石油欧元计价.md",
+  "name": "INSTEX",
+  "tgt": "entities/INSTEX.md"
+ },
+ {
+  "src": "entities/伊朗石油欧元计价.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "entities/伯南克.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/伯南克.md",
+  "name": "前瞻指引",
+  "tgt": "entities/前瞻指引.md"
+ },
+ {
+  "src": "entities/伯南克.md",
+  "name": "通胀目标制",
+  "tgt": "concepts/通胀目标制.md"
+ },
+ {
+  "src": "entities/俄罗斯.md",
+  "name": "战损比",
+  "tgt": "concepts/战损比.md"
+ },
+ {
+  "src": "entities/俄罗斯.md",
+  "name": "乌克兰",
+  "tgt": "entities/乌克兰.md"
+ },
+ {
+  "src": "entities/俄罗斯.md",
+  "name": "中东地缘格局",
+  "tgt": "entities/中东地缘格局.md"
+ },
+ {
+  "src": "entities/信用风险.md",
+  "name": "逆周期资本缓冲",
+  "tgt": "concepts/逆周期资本缓冲.md"
+ },
+ {
+  "src": "entities/信用风险.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/信用风险.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "entities/债务陷阱.md",
+  "name": "美元债",
+  "tgt": "concepts/美元债.md"
+ },
+ {
+  "src": "entities/债务陷阱.md",
+  "name": "巴基斯坦",
+  "tgt": "entities/巴基斯坦.md"
+ },
+ {
+  "src": "entities/全球流动性危机.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "entities/全球流动性危机.md",
+  "name": "美以伊战争",
+  "tgt": "entities/美以伊战争.md"
+ },
+ {
+  "src": "entities/全球流动性危机.md",
+  "name": "原油价格",
+  "tgt": "entities/原油价格.md"
+ },
+ {
+  "src": "entities/八部门.md",
+  "name": "综合整治非法跨境证券期货基金经营活动实施方案",
+  "tgt": "concepts/综合整治非法跨境证券期货基金经营活动实施方案.md"
+ },
+ {
+  "src": "entities/八部门.md",
+  "name": "开正门、堵偏门",
+  "tgt": "concepts/开正门、堵偏门.md"
+ },
+ {
+  "src": "entities/农业农村部.md",
+  "name": "猪周期",
+  "tgt": "concepts/猪周期.md"
+ },
+ {
+  "src": "entities/农业农村部.md",
+  "name": "能繁母猪",
+  "tgt": "entities/能繁母猪.md"
+ },
+ {
+  "src": "entities/农业农村部.md",
+  "name": "非洲猪瘟",
+  "tgt": "entities/非洲猪瘟.md"
+ },
+ {
+  "src": "entities/前瞻指引.md",
+  "name": "经济预测摘要",
+  "tgt": "entities/经济预测摘要.md"
+ },
+ {
+  "src": "entities/华夏基金.md",
+  "name": "moomoocat",
+  "tgt": "entities/moomoocat.md"
+ },
+ {
+  "src": "entities/压力测试.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "entities/压力测试.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/压力测试.md",
+  "name": "2008 年金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "entities/原油.md",
+  "name": "原油价格",
+  "tgt": "entities/原油价格.md"
+ },
+ {
+  "src": "entities/原油.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/周小川.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "entities/周小川.md",
+  "name": "2013年钱荒",
+  "tgt": "concepts/2013年钱荒.md"
+ },
+ {
+  "src": "entities/哈马斯.md",
+  "name": "抵抗轴心",
+  "tgt": "concepts/抵抗轴心.md"
+ },
+ {
+  "src": "entities/哈马斯.md",
+  "name": "以色列",
+  "tgt": "entities/以色列.md"
+ },
+ {
+  "src": "entities/哈马斯.md",
+  "name": "黎巴嫩真主党",
+  "tgt": "entities/真主党.md"
+ },
+ {
+  "src": "entities/商务部.md",
+  "name": "居民个人对外投资",
+  "tgt": "concepts/居民个人对外投资.md"
+ },
+ {
+  "src": "entities/商务部.md",
+  "name": "国家发改委",
+  "tgt": "entities/国家发改委.md"
+ },
+ {
+  "src": "entities/国务院.md",
+  "name": "反外国制裁法",
+  "tgt": "concepts/反外国制裁法.md"
+ },
+ {
+  "src": "entities/国务院.md",
+  "name": "国家发改委",
+  "tgt": "entities/国家发改委.md"
+ },
+ {
+  "src": "entities/国务院.md",
+  "name": "外管局",
+  "tgt": "concepts/外管局.md"
+ },
+ {
+  "src": "entities/国家发改委.md",
+  "name": "国务院关于对外投资的规定",
+  "tgt": "concepts/国务院关于对外投资的规定.md"
+ },
+ {
+  "src": "entities/国家外汇管理局.md",
+  "name": "国家发改委",
+  "tgt": "entities/国家发改委.md"
+ },
+ {
+  "src": "entities/国家外汇管理局.md",
+  "name": "外管局",
+  "tgt": "concepts/外管局.md"
+ },
+ {
+  "src": "entities/国家外汇管理局.md",
+  "name": "核准备案",
+  "tgt": "concepts/核准备案.md"
+ },
+ {
+  "src": "entities/土地财政.md",
+  "name": "房产税",
+  "tgt": "concepts/房产税.md"
+ },
+ {
+  "src": "entities/土地财政.md",
+  "name": "分税制",
+  "tgt": "entities/分税制.md"
+ },
+ {
+  "src": "entities/土地财政.md",
+  "name": "城镇化",
+  "tgt": "concepts/城镇化.md"
+ },
+ {
+  "src": "entities/埃及.md",
+  "name": "抗通胀资产",
+  "tgt": "concepts/抗通胀资产.md"
+ },
+ {
+  "src": "entities/埃及.md",
+  "name": "中东地缘格局",
+  "tgt": "entities/中东地缘格局.md"
+ },
+ {
+  "src": "entities/埃及.md",
+  "name": "尼日利亚",
+  "tgt": "entities/尼日利亚.md"
+ },
+ {
+  "src": "entities/城投公司.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "entities/城投公司.md",
+  "name": "资管新规",
+  "tgt": "concepts/资管新规.md"
+ },
+ {
+  "src": "entities/城投公司.md",
+  "name": "地方政府隐性债务",
+  "tgt": "concepts/地方政府隐性债务.md"
+ },
+ {
+  "src": "entities/外汇储备.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "entities/外汇储备.md",
+  "name": "1997年亚洲金融危机",
+  "tgt": "concepts/1997亚洲金融危机.md"
+ },
+ {
+  "src": "entities/外汇储备.md",
+  "name": "机会成本",
+  "tgt": "concepts/机会成本.md"
+ },
+ {
+  "src": "entities/天弘基金.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "entities/天然气.md",
+  "name": "卡塔尔",
+  "tgt": "concepts/卡塔尔.md"
+ },
+ {
+  "src": "entities/天然气.md",
+  "name": "实体页",
+  "tgt": "entities/实体页.md"
+ },
+ {
+  "src": "entities/央行.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/央行.md",
+  "name": "存款准备金率",
+  "tgt": "concepts/存款准备金率.md"
+ },
+ {
+  "src": "entities/央行.md",
+  "name": "公开市场操作",
+  "tgt": "concepts/公开市场操作.md"
+ },
+ {
+  "src": "entities/央行独立性.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "entities/央行独立性.md",
+  "name": "三元悖论",
+  "tgt": "entities/三元悖论.md"
+ },
+ {
+  "src": "entities/央行独立性.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "entities/存款保险上限.md",
+  "name": "存款保险制度",
+  "tgt": "concepts/存款保险.md"
+ },
+ {
+  "src": "entities/存款保险上限.md",
+  "name": "银行风险",
+  "tgt": "concepts/银行风险.md"
+ },
+ {
+  "src": "entities/存款保险上限.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "entities/密特朗.md",
+  "name": "制度学习",
+  "tgt": "concepts/制度学习.md"
+ },
+ {
+  "src": "entities/寒武纪.md",
+  "name": "英伟达",
+  "tgt": "concepts/英伟达.md"
+ },
+ {
+  "src": "entities/寒武纪.md",
+  "name": "科创板",
+  "tgt": "entities/科创板.md"
+ },
+ {
+  "src": "entities/寒武纪.md",
+  "name": "国产替代",
+  "tgt": "concepts/国产替代.md"
+ },
+ {
+  "src": "entities/巴基斯坦.md",
+  "name": "军事同盟",
+  "tgt": "concepts/军事同盟.md"
+ },
+ {
+  "src": "entities/巴基斯坦.md",
+  "name": "中东地缘格局",
+  "tgt": "entities/中东地缘格局.md"
+ },
+ {
+  "src": "entities/巴基斯坦.md",
+  "name": "阵营化趋势",
+  "tgt": "concepts/阵营化趋势.md"
+ },
+ {
+  "src": "entities/巴林.md",
+  "name": "卡塔尔",
+  "tgt": "concepts/卡塔尔.md"
+ },
+ {
+  "src": "entities/希腊.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/希腊.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "entities/希腊.md",
+  "name": "债务重组",
+  "tgt": "concepts/债务重组.md"
+ },
+ {
+  "src": "entities/彭博.md",
+  "name": "欧委会",
+  "tgt": "entities/欧委会.md"
+ },
+ {
+  "src": "entities/影子银行.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "entities/影子银行.md",
+  "name": "回购市场",
+  "tgt": "concepts/回购市场.md"
+ },
+ {
+  "src": "entities/影子银行.md",
+  "name": "期限错配",
+  "tgt": "entities/期限错配.md"
+ },
+ {
+  "src": "entities/德国.md",
+  "name": "moomoocat",
+  "tgt": "entities/moomoocat.md"
+ },
+ {
+  "src": "entities/德国.md",
+  "name": "库拉索",
+  "tgt": "entities/库拉索.md"
+ },
+ {
+  "src": "entities/德国.md",
+  "name": "稳定文化",
+  "tgt": "concepts/稳定文化.md"
+ },
+ {
+  "src": "entities/德国马克.md",
+  "name": "稳定文化",
+  "tgt": "concepts/稳定文化.md"
+ },
+ {
+  "src": "entities/德国马克.md",
+  "name": "Bundesbank",
+  "tgt": "entities/Bundesbank.md"
+ },
+ {
+  "src": "entities/德国马克.md",
+  "name": "中国经济",
+  "tgt": "concepts/中国经济.md"
+ },
+ {
+  "src": "entities/意大利.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "entities/挪威主权基金.md",
+  "name": "主权财富基金",
+  "tgt": "concepts/主权财富基金.md"
+ },
+ {
+  "src": "entities/挪威主权基金.md",
+  "name": "积极股东",
+  "tgt": "concepts/积极股东.md"
+ },
+ {
+  "src": "entities/挪威主权基金.md",
+  "name": "被动投资",
+  "tgt": "concepts/被动投资.md"
+ },
+ {
+  "src": "entities/操作风险.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "entities/操作风险.md",
+  "name": "风险加权资产",
+  "tgt": "entities/风险加权资产.md"
+ },
+ {
+  "src": "entities/操作风险.md",
+  "name": "瑞士央行",
+  "tgt": "entities/瑞士央行.md"
+ },
+ {
+  "src": "entities/新兴市场危机.md",
+  "name": "美元债",
+  "tgt": "concepts/美元债.md"
+ },
+ {
+  "src": "entities/新兴市场危机.md",
+  "name": "1997亚洲金融危机",
+  "tgt": "concepts/1997亚洲金融危机.md"
+ },
+ {
+  "src": "entities/新兴市场危机.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "entities/日本.md",
+  "name": "出口导向型经济体",
+  "tgt": "concepts/出口导向型经济体.md"
+ },
+ {
+  "src": "entities/日本.md",
+  "name": "股汇关系",
+  "tgt": "concepts/股汇关系.md"
+ },
+ {
+  "src": "entities/日本.md",
+  "name": "加息预期",
+  "tgt": "concepts/加息预期.md"
+ },
+ {
+  "src": "entities/日本银行.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/日本银行.md",
+  "name": "日本财务省",
+  "tgt": "entities/日本财务省.md"
+ },
+ {
+  "src": "entities/日本银行.md",
+  "name": "大藏省",
+  "tgt": "entities/大藏省.md"
+ },
+ {
+  "src": "entities/易纲.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "entities/易纲.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/普京.md",
+  "name": "太不团结了",
+  "tgt": "sources/太不团结了.md"
+ },
+ {
+  "src": "entities/普京.md",
+  "name": "乌克兰",
+  "tgt": "entities/乌克兰.md"
+ },
+ {
+  "src": "entities/梧桐树智庫.md",
+  "name": "任庄主",
+  "tgt": "entities/任庄主.md"
+ },
+ {
+  "src": "entities/梧桐树智庫.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/梧桐树智庫.md",
+  "name": "全球金融周期",
+  "tgt": "concepts/全球金融周期.md"
+ },
+ {
+  "src": "entities/次贷危机.md",
+  "name": "资产证券化",
+  "tgt": "entities/资产证券化.md"
+ },
+ {
+  "src": "entities/次贷危机.md",
+  "name": "雷曼兄弟",
+  "tgt": "entities/雷曼兄弟.md"
+ },
+ {
+  "src": "entities/次贷危机.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "entities/欧元.md",
+  "name": "欧洲中央银行",
+  "tgt": "entities/欧洲央行.md"
+ },
+ {
+  "src": "entities/欧元.md",
+  "name": "Christine Lagarde",
+  "tgt": "entities/Christine Lagarde.md"
+ },
+ {
+  "src": "entities/欧元.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "entities/欧元区.md",
+  "name": "压力测试",
+  "tgt": "entities/压力测试.md"
+ },
+ {
+  "src": "entities/欧元区.md",
+  "name": "汇率风险",
+  "tgt": "entities/汇率风险.md"
+ },
+ {
+  "src": "entities/欧元区.md",
+  "name": "资本流动",
+  "tgt": "entities/资本流动.md"
+ },
+ {
+  "src": "entities/欧央行执行委员会.md",
+  "name": "欧洲中央银行",
+  "tgt": "entities/欧洲央行.md"
+ },
+ {
+  "src": "entities/欧央行执行委员会.md",
+  "name": "欧洲议会",
+  "tgt": "entities/欧洲议会.md"
+ },
+ {
+  "src": "entities/欧央行执行委员会.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "entities/欧委会.md",
+  "name": "进口配额",
+  "tgt": "concepts/进口配额.md"
+ },
+ {
+  "src": "entities/欧委会.md",
+  "name": "供应链强制多元化新规",
+  "tgt": "concepts/供应链强制多元化新规.md"
+ },
+ {
+  "src": "entities/欧洲央行.md",
+  "name": "利率走廊",
+  "tgt": "concepts/利率走廊.md"
+ },
+ {
+  "src": "entities/欧洲央行.md",
+  "name": "资产购买计划",
+  "tgt": "concepts/资产购买计划.md"
+ },
+ {
+  "src": "entities/欧洲央行.md",
+  "name": "前瞻指引",
+  "tgt": "entities/前瞻指引.md"
+ },
+ {
+  "src": "entities/欧洲稳定机制.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/欧洲稳定机制.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/欧洲稳定机制.md",
+  "name": "银行挤兑",
+  "tgt": "entities/银行挤兑.md"
+ },
+ {
+  "src": "entities/欧洲议会.md",
+  "name": "钢铁进口保护法案",
+  "tgt": "concepts/钢铁进口保护法案.md"
+ },
+ {
+  "src": "entities/欧盟.md",
+  "name": "欧委会",
+  "tgt": "entities/欧委会.md"
+ },
+ {
+  "src": "entities/欧盟.md",
+  "name": "钢铁进口保护法案",
+  "tgt": "concepts/钢铁进口保护法案.md"
+ },
+ {
+  "src": "entities/欧盟.md",
+  "name": "G7领导人峰会",
+  "tgt": "entities/G7领导人峰会.md"
+ },
+ {
+  "src": "entities/欧盟委员会.md",
+  "name": "竞争政策",
+  "tgt": "concepts/竞争政策.md"
+ },
+ {
+  "src": "entities/欧盟委员会.md",
+  "name": "反垄断法",
+  "tgt": "concepts/反垄断法.md"
+ },
+ {
+  "src": "entities/欧盟委员会.md",
+  "name": "反补贴",
+  "tgt": "concepts/反补贴.md"
+ },
+ {
+  "src": "entities/欧盟对华贸易战.md",
+  "name": "西班牙",
+  "tgt": "entities/西班牙.md"
+ },
+ {
+  "src": "entities/欧盟对华贸易战.md",
+  "name": "立陶宛",
+  "tgt": "entities/立陶宛.md"
+ },
+ {
+  "src": "entities/欧盟对华贸易战.md",
+  "name": "钢铁进口保护法案",
+  "tgt": "concepts/钢铁进口保护法案.md"
+ },
+ {
+  "src": "entities/欧盟要与中国打贸易战？.md",
+  "name": "欧委会",
+  "tgt": "entities/欧委会.md"
+ },
+ {
+  "src": "entities/欧盟要与中国打贸易战？.md",
+  "name": "Ceconomy",
+  "tgt": "entities/Ceconomy.md"
+ },
+ {
+  "src": "entities/欧盟要与中国打贸易战？.md",
+  "name": "欧洲议会",
+  "tgt": "entities/欧洲议会.md"
+ },
+ {
+  "src": "entities/汇率.md",
+  "name": "购买力平价理论",
+  "tgt": "concepts/购买力平价.md"
+ },
+ {
+  "src": "entities/汇率.md",
+  "name": "利率平价理论",
+  "tgt": "concepts/利率平价理论.md"
+ },
+ {
+  "src": "entities/汇率.md",
+  "name": "汇率风险",
+  "tgt": "entities/汇率风险.md"
+ },
+ {
+  "src": "entities/沃什.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "entities/沃什.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "entities/沃什.md",
+  "name": "前瞻指引",
+  "tgt": "entities/前瞻指引.md"
+ },
+ {
+  "src": "entities/沃尔克.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "entities/沃尔克.md",
+  "name": "多德弗兰克法案",
+  "tgt": "concepts/多德弗兰克法案.md"
+ },
+ {
+  "src": "entities/沃尔克.md",
+  "name": "沃尔克规则",
+  "tgt": "concepts/沃尔克规则.md"
+ },
+ {
+  "src": "entities/沙特.md",
+  "name": "巴基斯坦",
+  "tgt": "entities/巴基斯坦.md"
+ },
+ {
+  "src": "entities/沙特.md",
+  "name": "军事同盟",
+  "tgt": "concepts/军事同盟.md"
+ },
+ {
+  "src": "entities/沙特.md",
+  "name": "布雷顿森林体系瓦解",
+  "tgt": "entities/布雷顿森林体系瓦解.md"
+ },
+ {
+  "src": "entities/法国.md",
+  "name": "布雷顿森林体系瓦解",
+  "tgt": "entities/布雷顿森林体系瓦解.md"
+ },
+ {
+  "src": "entities/法国.md",
+  "name": "密特朗",
+  "tgt": "entities/密特朗.md"
+ },
+ {
+  "src": "entities/法国.md",
+  "name": "欧洲货币体系",
+  "tgt": "concepts/欧洲货币体系.md"
+ },
+ {
+  "src": "entities/法国总统马克龙.md",
+  "name": "爱尔兰",
+  "tgt": "entities/爱尔兰.md"
+ },
+ {
+  "src": "entities/法国总统马克龙.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "entities/流动性陷阱.md",
+  "name": "泡沫经济",
+  "tgt": "concepts/泡沫经济.md"
+ },
+ {
+  "src": "entities/海天味业.md",
+  "name": "回购注销",
+  "tgt": "concepts/回购注销.md"
+ },
+ {
+  "src": "entities/海天味业.md",
+  "name": "moomoocat",
+  "tgt": "entities/moomoocat.md"
+ },
+ {
+  "src": "entities/淡马锡.md",
+  "name": "主权财富基金",
+  "tgt": "concepts/主权财富基金.md"
+ },
+ {
+  "src": "entities/淡马锡.md",
+  "name": "积极股东",
+  "tgt": "concepts/积极股东.md"
+ },
+ {
+  "src": "entities/淡马锡.md",
+  "name": "挪威主权基金",
+  "tgt": "entities/挪威主权基金.md"
+ },
+ {
+  "src": "entities/渐进式改革.md",
+  "name": "价格机制",
+  "tgt": "concepts/价格机制.md"
+ },
+ {
+  "src": "entities/港股通.md",
+  "name": "深港通",
+  "tgt": "concepts/深港通.md"
+ },
+ {
+  "src": "entities/港股通.md",
+  "name": "港交所",
+  "tgt": "entities/港交所.md"
+ },
+ {
+  "src": "entities/港股通.md",
+  "name": "估值修复",
+  "tgt": "concepts/估值修复.md"
+ },
+ {
+  "src": "entities/滞胀.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/滞胀.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "entities/滞胀.md",
+  "name": "原油价格",
+  "tgt": "entities/原油价格.md"
+ },
+ {
+  "src": "entities/点阵图.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "entities/牧原股份.md",
+  "name": "猪周期",
+  "tgt": "concepts/猪周期.md"
+ },
+ {
+  "src": "entities/牧原股份.md",
+  "name": "moomoocat",
+  "tgt": "entities/moomoocat.md"
+ },
+ {
+  "src": "entities/物价闯关.md",
+  "name": "价格双轨制",
+  "tgt": "entities/价格双轨制.md"
+ },
+ {
+  "src": "entities/物价闯关.md",
+  "name": "资源配置",
+  "tgt": "concepts/资源配置.md"
+ },
+ {
+  "src": "entities/物价闯关.md",
+  "name": "价格改革时机",
+  "tgt": "entities/价格改革时机.md"
+ },
+ {
+  "src": "entities/特朗普.md",
+  "name": "美以伊战争",
+  "tgt": "entities/美以伊战争.md"
+ },
+ {
+  "src": "entities/环球时报.md",
+  "name": "中国共产党",
+  "tgt": "entities/中国共产党.md"
+ },
+ {
+  "src": "entities/环球时报.md",
+  "name": "人民日报",
+  "tgt": "entities/人民日报.md"
+ },
+ {
+  "src": "entities/瑞典央行.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "entities/瑞典央行.md",
+  "name": "央行政策",
+  "tgt": "concepts/央行政策.md"
+ },
+ {
+  "src": "entities/瑞典央行.md",
+  "name": "通胀目标制",
+  "tgt": "concepts/通胀目标制.md"
+ },
+ {
+  "src": "entities/瑞士央行.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "entities/瑞士央行.md",
+  "name": "央行政策",
+  "tgt": "concepts/央行政策.md"
+ },
+ {
+  "src": "entities/直升机撒钱.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "entities/直升机撒钱.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "entities/直升机撒钱.md",
+  "name": "联系汇率制度",
+  "tgt": "concepts/联系汇率制度.md"
+ },
+ {
+  "src": "entities/真主党.md",
+  "name": "抵抗轴心",
+  "tgt": "concepts/抵抗轴心.md"
+ },
+ {
+  "src": "entities/真主党.md",
+  "name": "以色列",
+  "tgt": "entities/以色列.md"
+ },
+ {
+  "src": "entities/真主党.md",
+  "name": "也门胡塞武装",
+  "tgt": "entities/胡塞武装.md"
+ },
+ {
+  "src": "entities/石油美元体系.md",
+  "name": "第一次石油危机",
+  "tgt": "entities/第一次石油危机.md"
+ },
+ {
+  "src": "entities/石油美元体系.md",
+  "name": "沙特协议",
+  "tgt": "entities/沙特协议.md"
+ },
+ {
+  "src": "entities/石油美元体系.md",
+  "name": "美元循环",
+  "tgt": "concepts/美元循环.md"
+ },
+ {
+  "src": "entities/离岸人民币.md",
+  "name": "离岸央票",
+  "tgt": "concepts/离岸央票.md"
+ },
+ {
+  "src": "entities/离岸人民币.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "entities/离岸人民币.md",
+  "name": "套利资金",
+  "tgt": "concepts/套利资金.md"
+ },
+ {
+  "src": "entities/科威特.md",
+  "name": "阿联酋",
+  "tgt": "entities/阿联酋.md"
+ },
+ {
+  "src": "entities/科威特.md",
+  "name": "天然气",
+  "tgt": "entities/天然气.md"
+ },
+ {
+  "src": "entities/科威特.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "entities/科尔.md",
+  "name": "柏林墙",
+  "tgt": "entities/柏林墙.md"
+ },
+ {
+  "src": "entities/科尔.md",
+  "name": "Treuhand 私有化",
+  "tgt": "concepts/Treuhand 私有化.md"
+ },
+ {
+  "src": "entities/科尔.md",
+  "name": "团结税",
+  "tgt": "concepts/团结税.md"
+ },
+ {
+  "src": "entities/立陶宛.md",
+  "name": "西班牙",
+  "tgt": "entities/西班牙.md"
+ },
+ {
+  "src": "entities/立陶宛.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "entities/立陶宛.md",
+  "name": "欧委会",
+  "tgt": "entities/欧委会.md"
+ },
+ {
+  "src": "entities/索罗斯.md",
+  "name": "英格兰银行",
+  "tgt": "entities/英格兰银行.md"
+ },
+ {
+  "src": "entities/索罗斯.md",
+  "name": "香港金管局",
+  "tgt": "entities/香港金管局.md"
+ },
+ {
+  "src": "entities/索罗斯.md",
+  "name": "1997 亚洲金融危机",
+  "tgt": "concepts/1997亚洲金融危机.md"
+ },
+ {
+  "src": "entities/经济预测摘要.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "entities/美以伊战争.md",
+  "name": "以色列",
+  "tgt": "entities/以色列.md"
+ },
+ {
+  "src": "entities/美以伊战争.md",
+  "name": "抵抗轴心",
+  "tgt": "concepts/抵抗轴心.md"
+ },
+ {
+  "src": "entities/美以伊战争.md",
+  "name": "中东地缘新平衡",
+  "tgt": "concepts/中东地缘新平衡.md"
+ },
+ {
+  "src": "entities/美元微笑理论.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "entities/美元指数.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "entities/美元指数.md",
+  "name": "降息周期",
+  "tgt": "concepts/降息周期.md"
+ },
+ {
+  "src": "entities/美元指数.md",
+  "name": "2022年加息周期",
+  "tgt": "entities/2022年加息周期.md"
+ },
+ {
+  "src": "entities/美国.md",
+  "name": "降息周期",
+  "tgt": "concepts/降息周期.md"
+ },
+ {
+  "src": "entities/美国.md",
+  "name": "以色列",
+  "tgt": "entities/以色列.md"
+ },
+ {
+  "src": "entities/美国.md",
+  "name": "我们已经处于新一轮加息周期中或前夜",
+  "tgt": "sources/我们已经处于新一轮加息周期中或前夜.md"
+ },
+ {
+  "src": "entities/美联储.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/美联储.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "entities/美联储.md",
+  "name": "非冲销式干预",
+  "tgt": "concepts/非冲销式干预.md"
+ },
+ {
+  "src": "entities/美联储货币政策.md",
+  "name": "通胀目标制",
+  "tgt": "concepts/通胀目标制.md"
+ },
+ {
+  "src": "entities/美联储货币政策.md",
+  "name": "压力测试",
+  "tgt": "entities/压力测试.md"
+ },
+ {
+  "src": "entities/美联储货币政策.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "entities/美联储银行业监管.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "entities/美联储银行业监管.md",
+  "name": "逆周期资本缓冲",
+  "tgt": "concepts/逆周期资本缓冲.md"
+ },
+ {
+  "src": "entities/美联储银行业监管.md",
+  "name": "压力测试",
+  "tgt": "entities/压力测试.md"
+ },
+ {
+  "src": "entities/联邦基金利率.md",
+  "name": "超额准备金",
+  "tgt": "entities/超额准备金.md"
+ },
+ {
+  "src": "entities/联邦基金利率.md",
+  "name": "美联储货币政策",
+  "tgt": "entities/美联储货币政策.md"
+ },
+ {
+  "src": "entities/联邦基金利率.md",
+  "name": "利率走廊",
+  "tgt": "concepts/利率走廊.md"
+ },
+ {
+  "src": "entities/胡塞武装.md",
+  "name": "抵抗轴心",
+  "tgt": "concepts/抵抗轴心.md"
+ },
+ {
+  "src": "entities/胡塞武装.md",
+  "name": "阿联酋",
+  "tgt": "entities/阿联酋.md"
+ },
+ {
+  "src": "entities/胡塞武装.md",
+  "name": "黎巴嫩真主党",
+  "tgt": "entities/真主党.md"
+ },
+ {
+  "src": "entities/英国养老金制度.md",
+  "name": "利率风险",
+  "tgt": "entities/利率风险.md"
+ },
+ {
+  "src": "entities/英国养老金危机.md",
+  "name": "利率风险",
+  "tgt": "entities/利率风险.md"
+ },
+ {
+  "src": "entities/英格兰银行.md",
+  "name": "瑞典央行",
+  "tgt": "entities/瑞典央行.md"
+ },
+ {
+  "src": "entities/英格兰银行.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "entities/英格兰银行.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "entities/荷兰.md",
+  "name": "出口管制",
+  "tgt": "concepts/出口管制.md"
+ },
+ {
+  "src": "entities/萨克斯.md",
+  "name": "休克疗法",
+  "tgt": "concepts/休克疗法.md"
+ },
+ {
+  "src": "entities/萨克斯.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/萨克斯.md",
+  "name": "渐进式改革",
+  "tgt": "entities/渐进式改革.md"
+ },
+ {
+  "src": "entities/葡萄牙.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "entities/葡萄牙.md",
+  "name": "爱尔兰",
+  "tgt": "entities/爱尔兰.md"
+ },
+ {
+  "src": "entities/葡萄牙.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "entities/西班牙.md",
+  "name": "法国总统马克龙",
+  "tgt": "entities/法国总统马克龙.md"
+ },
+ {
+  "src": "entities/贝森特.md",
+  "name": "日元升值",
+  "tgt": "concepts/日元升值.md"
+ },
+ {
+  "src": "entities/财政包干制.md",
+  "name": "分税制",
+  "tgt": "entities/分税制.md"
+ },
+ {
+  "src": "entities/货币信用.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "entities/货币创造.md",
+  "name": "货币乘数",
+  "tgt": "concepts/货币乘数.md"
+ },
+ {
+  "src": "entities/货币层级.md",
+  "name": "货币乘数",
+  "tgt": "concepts/货币乘数.md"
+ },
+ {
+  "src": "entities/货币政策工具.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "entities/货币政策正常化.md",
+  "name": "泡沫经济",
+  "tgt": "concepts/泡沫经济.md"
+ },
+ {
+  "src": "entities/货币政策正常化.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "entities/货币政策正常化.md",
+  "name": "流动性陷阱",
+  "tgt": "entities/流动性陷阱.md"
+ },
+ {
+  "src": "entities/货币本质.md",
+  "name": "央行数字货币",
+  "tgt": "concepts/央行数字货币.md"
+ },
+ {
+  "src": "entities/资产价格渠道.md",
+  "name": "货币政策传导机制",
+  "tgt": "concepts/货币政策传导机制.md"
+ },
+ {
+  "src": "entities/资产价格渠道.md",
+  "name": "央行政策",
+  "tgt": "concepts/央行政策.md"
+ },
+ {
+  "src": "entities/资产负债表衰退.md",
+  "name": "流动性陷阱",
+  "tgt": "entities/流动性陷阱.md"
+ },
+ {
+  "src": "entities/资产负债表衰退.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/资本流动.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "entities/超额准备金.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "entities/超额准备金.md",
+  "name": "货币政策传导机制",
+  "tgt": "concepts/货币政策传导机制.md"
+ },
+ {
+  "src": "entities/超额准备金.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "entities/转移支付.md",
+  "name": "分税制",
+  "tgt": "entities/分税制.md"
+ },
+ {
+  "src": "entities/转移支付.md",
+  "name": "税收返还",
+  "tgt": "entities/税收返还.md"
+ },
+ {
+  "src": "entities/通胀预期与美债收益率.md",
+  "name": "折现率",
+  "tgt": "entities/折现率.md"
+ },
+ {
+  "src": "entities/通胀预期管理.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/通胀预期管理.md",
+  "name": "物价闯关",
+  "tgt": "entities/物价闯关.md"
+ },
+ {
+  "src": "entities/邓小平.md",
+  "name": "中国改革",
+  "tgt": "concepts/中国改革.md"
+ },
+ {
+  "src": "entities/邓小平.md",
+  "name": "渐进主义",
+  "tgt": "concepts/渐进主义.md"
+ },
+ {
+  "src": "entities/邓小平.md",
+  "name": "中国共产党",
+  "tgt": "entities/中国共产党.md"
+ },
+ {
+  "src": "entities/部分准备金制度.md",
+  "name": "货币乘数",
+  "tgt": "concepts/货币乘数.md"
+ },
+ {
+  "src": "entities/部分准备金制度.md",
+  "name": "资产证券化",
+  "tgt": "entities/资产证券化.md"
+ },
+ {
+  "src": "entities/部分准备金制度.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "entities/金融创新.md",
+  "name": "资产证券化",
+  "tgt": "entities/资产证券化.md"
+ },
+ {
+  "src": "entities/金融创新.md",
+  "name": "监管套利",
+  "tgt": "entities/监管套利.md"
+ },
+ {
+  "src": "entities/金融创新.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "entities/金融稳定.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "entities/金融稳定.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "entities/金融稳定.md",
+  "name": "资本充足率",
+  "tgt": "entities/资本充足率.md"
+ },
+ {
+  "src": "entities/银行挤兑.md",
+  "name": "隐性刚兑",
+  "tgt": "concepts/隐性刚兑.md"
+ },
+ {
+  "src": "entities/银行挤兑.md",
+  "name": "银行风险",
+  "tgt": "concepts/银行风险.md"
+ },
+ {
+  "src": "entities/银行挤兑.md",
+  "name": "量价关系",
+  "tgt": "concepts/量价关系.md"
+ },
+ {
+  "src": "entities/银行监管.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "entities/银行监管.md",
+  "name": "风险管理",
+  "tgt": "domains/风险管理.md"
+ },
+ {
+  "src": "entities/银行监管.md",
+  "name": "隐性刚兑",
+  "tgt": "concepts/隐性刚兑.md"
+ },
+ {
+  "src": "entities/长江存储.md",
+  "name": "集成电路",
+  "tgt": "entities/集成电路.md"
+ },
+ {
+  "src": "entities/长江存储.md",
+  "name": "商务部",
+  "tgt": "entities/商务部.md"
+ },
+ {
+  "src": "entities/长鑫存储.md",
+  "name": "集成电路",
+  "tgt": "entities/集成电路.md"
+ },
+ {
+  "src": "entities/长鑫存储.md",
+  "name": "英伟达",
+  "tgt": "concepts/英伟达.md"
+ },
+ {
+  "src": "entities/长鑫存储.md",
+  "name": "出口管制",
+  "tgt": "concepts/出口管制.md"
+ },
+ {
+  "src": "entities/阿曼.md",
+  "name": "阿联酋",
+  "tgt": "entities/阿联酋.md"
+ },
+ {
+  "src": "entities/阿曼.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "entities/阿联酋.md",
+  "name": "卡塔尔",
+  "tgt": "concepts/卡塔尔.md"
+ },
+ {
+  "src": "entities/阿联酋.md",
+  "name": "科威特",
+  "tgt": "entities/科威特.md"
+ },
+ {
+  "src": "entities/阿联酋.md",
+  "name": "以色列",
+  "tgt": "entities/以色列.md"
+ },
+ {
+  "src": "entities/霍尔木兹海峡.md",
+  "name": "输入型通胀",
+  "tgt": "concepts/输入型通胀.md"
+ },
+ {
+  "src": "entities/霍尔木兹海峡.md",
+  "name": "中东地缘格局",
+  "tgt": "entities/中东地缘格局.md"
+ },
+ {
+  "src": "entities/韩国央行(BOK).md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/韩国央行(BOK).md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "entities/韩国央行(BOK).md",
+  "name": "1997 年亚洲金融危机",
+  "tgt": "concepts/1997亚洲金融危机.md"
+ },
+ {
+  "src": "entities/韩国金融监督院(FSS).md",
+  "name": "1997 年亚洲金融危机",
+  "tgt": "concepts/1997亚洲金融危机.md"
+ },
+ {
+  "src": "entities/韩国金融监督院(FSS).md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "entities/韩国金融监督院(FSS).md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "entities/高盛.md",
+  "name": "加息预期",
+  "tgt": "concepts/加息预期.md"
+ },
+ {
+  "src": "entities/鲁迪格·多恩布什.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "entities/鲁迪格·多恩布什.md",
+  "name": "经济民粹主义",
+  "tgt": "concepts/经济民粹主义.md"
+ },
+ {
+  "src": "entities/黑田东彦.md",
+  "name": "日本财务省",
+  "tgt": "entities/日本财务省.md"
+ },
+ {
+  "src": "entities/黑田东彦.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "entities/黑田东彦.md",
+  "name": "泡沫经济",
+  "tgt": "concepts/泡沫经济.md"
+ },
+ {
+  "src": "questions/什么是QQE与YCC的比较.md",
+  "name": "黑田东彦",
+  "tgt": "entities/黑田东彦.md"
+ },
+ {
+  "src": "questions/什么是QQE与YCC的比较.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "questions/什么是QQE与YCC的比较.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "questions/什么是财政货币化.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "questions/什么是财政货币化.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "questions/什么是财政货币化.md",
+  "name": "货币信用",
+  "tgt": "entities/货币信用.md"
+ },
+ {
+  "src": "questions/新兴市场为避免被美国薅羊毛采取了哪些措施.md",
+  "name": "资本管制",
+  "tgt": "concepts/资本管制.md"
+ },
+ {
+  "src": "questions/新兴市场为避免被美国薅羊毛采取了哪些措施.md",
+  "name": "INSTEX",
+  "tgt": "entities/INSTEX.md"
+ },
+ {
+  "src": "questions/新兴市场为避免被美国薅羊毛采取了哪些措施.md",
+  "name": "SWIFT",
+  "tgt": "entities/SWIFT.md"
+ },
+ {
+  "src": "questions/日本金融刺激是否导致金融化与盘剥无资产居民.md",
+  "name": "输入型通胀",
+  "tgt": "concepts/输入型通胀.md"
+ },
+ {
+  "src": "questions/日本金融刺激是否导致金融化与盘剥无资产居民.md",
+  "name": "日元升值",
+  "tgt": "concepts/日元升值.md"
+ },
+ {
+  "src": "questions/美元收割全球的机制是什么.md",
+  "name": "降息周期",
+  "tgt": "concepts/降息周期.md"
+ },
+ {
+  "src": "questions/美元收割全球的机制是什么.md",
+  "name": "美联储资产负债表",
+  "tgt": "entities/美联储资产负债表.md"
+ },
+ {
+  "src": "questions/美元收割全球的机制是什么.md",
+  "name": "美元债",
+  "tgt": "concepts/美元债.md"
+ },
+ {
+  "src": "sources/2025-02-04-中国粮食金融保卫战-巫师财经.md",
+  "name": "战略储备",
+  "tgt": "concepts/战略储备.md"
+ },
+ {
+  "src": "sources/2025-02-04-中国粮食金融保卫战-巫师财经.md",
+  "name": "粮食安全",
+  "tgt": "concepts/粮食安全.md"
+ },
+ {
+  "src": "sources/2025-02-04-中国粮食金融保卫战-巫师财经.md",
+  "name": "大豆战争",
+  "tgt": "concepts/大豆战争.md"
+ },
+ {
+  "src": "sources/2025-12-25-巫师财经-中国财经年度盘点Top10.md",
+  "name": "中概股",
+  "tgt": "concepts/中概股.md"
+ },
+ {
+  "src": "sources/2025-12-25-巫师财经-中国财经年度盘点Top10.md",
+  "name": "宁德时代",
+  "tgt": "entities/宁德时代.md"
+ },
+ {
+  "src": "sources/2025-12-25-巫师财经-中国财经年度盘点Top10.md",
+  "name": "海天味业",
+  "tgt": "entities/海天味业.md"
+ },
+ {
+  "src": "sources/2026-03-23-巫师财经-崩了.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "sources/2026-03-23-巫师财经-崩了.md",
+  "name": "实际利率框架",
+  "tgt": "concepts/实际利率框架.md"
+ },
+ {
+  "src": "sources/2026-03-23-巫师财经-崩了.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "sources/2026-03-24-中东局势对全球金融市场影响.md",
+  "name": "原油价格",
+  "tgt": "entities/原油价格.md"
+ },
+ {
+  "src": "sources/2026-03-24-中东局势对全球金融市场影响.md",
+  "name": "输入型通胀",
+  "tgt": "concepts/输入型通胀.md"
+ },
+ {
+  "src": "sources/2026-03-24-中东局势对全球金融市场影响.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "sources/2026-04-15-2026年1-3月中国外贸数据.md",
+  "name": "贸易顺差",
+  "tgt": "entities/贸易顺差.md"
+ },
+ {
+  "src": "sources/2026-04-15-2026年1-3月中国外贸数据.md",
+  "name": "高新技术产品",
+  "tgt": "entities/高新技术产品.md"
+ },
+ {
+  "src": "sources/2026-04-15-2026年1-3月中国外贸数据.md",
+  "name": "战略储备",
+  "tgt": "concepts/战略储备.md"
+ },
+ {
+  "src": "sources/2026-05-13-日元保卫战-日本央行11万亿干预.md",
+  "name": "日元升值",
+  "tgt": "concepts/日元升值.md"
+ },
+ {
+  "src": "sources/2026-05-13-日元保卫战-日本央行11万亿干预.md",
+  "name": "套息交易",
+  "tgt": "concepts/套息交易.md"
+ },
+ {
+  "src": "sources/2026-05-13-日元保卫战-日本央行11万亿干预.md",
+  "name": "央行政策",
+  "tgt": "concepts/央行政策.md"
+ },
+ {
+  "src": "sources/2026-05-22-没人关心普京访华.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "sources/2026-05-22-没人关心普京访华.md",
+  "name": "天然气",
+  "tgt": "entities/天然气.md"
+ },
+ {
+  "src": "sources/2026-05-22-没人关心普京访华.md",
+  "name": "北约亚太扩张",
+  "tgt": "concepts/北约亚太扩张.md"
+ },
+ {
+  "src": "sources/2026-06-02-冲销式干预.md",
+  "name": "正回购",
+  "tgt": "concepts/正回购.md"
+ },
+ {
+  "src": "sources/2026-06-02-冲销式干预.md",
+  "name": "汇率损失",
+  "tgt": "concepts/汇率损失.md"
+ },
+ {
+  "src": "sources/2026-06-02-冲销式干预.md",
+  "name": "流动性幻觉",
+  "tgt": "concepts/流动性幻觉.md"
+ },
+ {
+  "src": "sources/2026-06-04-日本史上最大规模汇率保卫战.md",
+  "name": "原油价格",
+  "tgt": "entities/原油价格.md"
+ },
+ {
+  "src": "sources/2026-06-04-日本史上最大规模汇率保卫战.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "sources/2026-06-04-日本史上最大规模汇率保卫战.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "sources/2026-06-15-美伊MoU签署与全球狂欢.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "sources/2026-06-15-美伊MoU签署与全球狂欢.md",
+  "name": "联邦基金利率",
+  "tgt": "entities/联邦基金利率.md"
+ },
+ {
+  "src": "sources/2026-06-15-美伊MoU签署与全球狂欢.md",
+  "name": "创业板",
+  "tgt": "entities/创业板.md"
+ },
+ {
+  "src": "sources/2026-08-03-经济热点问答-美国缘何出手救日元-新华社.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "sources/2026-08-03-经济热点问答-美国缘何出手救日元-新华社.md",
+  "name": "套利资金",
+  "tgt": "concepts/套利资金.md"
+ },
+ {
+  "src": "sources/2026-08-03-美日联手干预日元-环球时报.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "sources/2026-08-03-美日联手干预日元-环球时报.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "sources/2026-08-03-美日联手干预日元-环球时报.md",
+  "name": "央行政策",
+  "tgt": "concepts/央行政策.md"
+ },
+ {
+  "src": "sources/2026-08-03-美日韩同时出手-任博宏观论道.md",
+  "name": "任庄主",
+  "tgt": "entities/任庄主.md"
+ },
+ {
+  "src": "sources/2026-08-03-美日韩同时出手-任博宏观论道.md",
+  "name": "美元指数",
+  "tgt": "entities/美元指数.md"
+ },
+ {
+  "src": "sources/2026-08-03-美日韩同时出手-任博宏观论道.md",
+  "name": "日本财务省",
+  "tgt": "entities/日本财务省.md"
+ },
+ {
+  "src": "sources/2026-08-04-干预汇市美日联手救日元-北京商报.md",
+  "name": "高市早苗",
+  "tgt": "entities/高市早苗.md"
+ },
+ {
+  "src": "sources/2026-08-04-干预汇市美日联手救日元-北京商报.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "sources/837号令.md",
+  "name": "国家发改委",
+  "tgt": "entities/国家发改委.md"
+ },
+ {
+  "src": "sources/837号令.md",
+  "name": "跨境资金登记",
+  "tgt": "concepts/跨境资金登记.md"
+ },
+ {
+  "src": "sources/837号令.md",
+  "name": "跨境数据流动",
+  "tgt": "concepts/跨境数据流动.md"
+ },
+ {
+  "src": "sources/Dornbusch-Edwards-Macroeconomics-of-Populism-1991.md",
+  "name": "经济民粹主义",
+  "tgt": "concepts/经济民粹主义.md"
+ },
+ {
+  "src": "sources/FIMA回购便利-Fed官网.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "sources/OECD-Japan-Economic-Survey-2024.md",
+  "name": "输入型通胀",
+  "tgt": "concepts/输入型通胀.md"
+ },
+ {
+  "src": "sources/OECD-Japan-Economic-Survey-2024.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "sources/不结婚，也不消费，谁有办法.md",
+  "name": "西班牙",
+  "tgt": "entities/西班牙.md"
+ },
+ {
+  "src": "sources/不结婚，也不消费，谁有办法.md",
+  "name": "DeepSeek",
+  "tgt": "entities/DeepSeek.md"
+ },
+ {
+  "src": "sources/不结婚，也不消费，谁有办法.md",
+  "name": "梁文峰",
+  "tgt": "entities/梁文峰.md"
+ },
+ {
+  "src": "sources/劳资协议.md",
+  "name": "宏观经济",
+  "tgt": "domains/宏观经济.md"
+ },
+ {
+  "src": "sources/劳资协议.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "sources/太不团结了.md",
+  "name": "战损比",
+  "tgt": "concepts/战损比.md"
+ },
+ {
+  "src": "sources/太不团结了.md",
+  "name": "蓝色起源",
+  "tgt": "entities/蓝色起源.md"
+ },
+ {
+  "src": "sources/太不团结了.md",
+  "name": "SpaceX",
+  "tgt": "entities/SpaceX.md"
+ },
+ {
+  "src": "sources/我们已经处于新一轮加息周期中或前夜.md",
+  "name": "美元加息周期",
+  "tgt": "concepts/美元加息周期.md"
+ },
+ {
+  "src": "sources/我们已经处于新一轮加息周期中或前夜.md",
+  "name": "降息周期",
+  "tgt": "concepts/降息周期.md"
+ },
+ {
+  "src": "sources/我们已经处于新一轮加息周期中或前夜.md",
+  "name": "霍尔木兹海峡",
+  "tgt": "entities/霍尔木兹海峡.md"
+ },
+ {
+  "src": "sources/欧盟要与中国打贸易战.md",
+  "name": "欧盟要与中国打贸易战？",
+  "tgt": "entities/欧盟要与中国打贸易战？.md"
+ },
+ {
+  "src": "sources/欧盟要与中国打贸易战.md",
+  "name": "梧桐樹智庫",
+  "tgt": "entities/梧桐树智庫.md"
+ },
+ {
+  "src": "sources/欧盟要与中国打贸易战.md",
+  "name": "钢铁进口保护法案",
+  "tgt": "concepts/钢铁进口保护法案.md"
+ },
+ {
+  "src": "sources/美联储中央央行流动性互换-Fed官网.md",
+  "name": "英格兰银行",
+  "tgt": "entities/英格兰银行.md"
+ },
+ {
+  "src": "sources/美联储中央央行流动性互换-Fed官网.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "sources/美联储中央央行流动性互换-Fed官网.md",
+  "name": "瑞士央行",
+  "tgt": "entities/瑞士央行.md"
+ },
+ {
+  "src": "synthesis/1998香港金融保卫战 × 扩表与缩表.md",
+  "name": "联系汇率制度",
+  "tgt": "concepts/联系汇率制度.md"
+ },
+ {
+  "src": "synthesis/1998香港金融保卫战 × 扩表与缩表.md",
+  "name": "直升机撒钱",
+  "tgt": "entities/直升机撒钱.md"
+ },
+ {
+  "src": "synthesis/1998香港金融保卫战 × 扩表与缩表.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "synthesis/2008全球金融危机 × 2020年3月流动性危机.md",
+  "name": "资本充足率",
+  "tgt": "entities/资本充足率.md"
+ },
+ {
+  "src": "synthesis/2008全球金融危机 × 2020年3月流动性危机.md",
+  "name": "美元指数",
+  "tgt": "entities/美元指数.md"
+ },
+ {
+  "src": "synthesis/2008全球金融危机 × 2020年3月流动性危机.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "synthesis/2008全球金融危机 × 欧元区主权债务危机.md",
+  "name": "爱尔兰",
+  "tgt": "entities/爱尔兰.md"
+ },
+ {
+  "src": "synthesis/2008全球金融危机 × 欧元区主权债务危机.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "synthesis/2008全球金融危机 × 欧元区主权债务危机.md",
+  "name": "西班牙",
+  "tgt": "entities/西班牙.md"
+ },
+ {
+  "src": "synthesis/ECB × 2008全球金融危机.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "synthesis/ECB × 2008全球金融危机.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "synthesis/ECB × 2008全球金融危机.md",
+  "name": "爱尔兰",
+  "tgt": "entities/爱尔兰.md"
+ },
+ {
+  "src": "synthesis/ECB × IMF.md",
+  "name": "欧洲稳定机制",
+  "tgt": "entities/欧洲稳定机制.md"
+ },
+ {
+  "src": "synthesis/ECB × IMF.md",
+  "name": "爱尔兰",
+  "tgt": "entities/爱尔兰.md"
+ },
+ {
+  "src": "synthesis/ECB × IMF.md",
+  "name": "国际收支",
+  "tgt": "concepts/国际收支.md"
+ },
+ {
+  "src": "synthesis/ECB × 欧元区主权债务危机.md",
+  "name": "爱尔兰",
+  "tgt": "entities/爱尔兰.md"
+ },
+ {
+  "src": "synthesis/ECB × 欧元区主权债务危机.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "synthesis/ECB × 欧元区主权债务危机.md",
+  "name": "西班牙",
+  "tgt": "entities/西班牙.md"
+ },
+ {
+  "src": "synthesis/化债 × 2008全球金融危机.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "synthesis/化债 × 2008全球金融危机.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "synthesis/化债 × 2008全球金融危机.md",
+  "name": "美联储资产负债表",
+  "tgt": "entities/美联储资产负债表.md"
+ },
+ {
+  "src": "synthesis/化债 × ECB.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "synthesis/化债 × ECB.md",
+  "name": "稳定文化",
+  "tgt": "concepts/稳定文化.md"
+ },
+ {
+  "src": "synthesis/化债 × 中国央行.md",
+  "name": "买断式逆回购",
+  "tgt": "concepts/买断式逆回购.md"
+ },
+ {
+  "src": "synthesis/化债 × 中国央行.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "synthesis/化债 × 中国央行.md",
+  "name": "扩表与缩表 × 中国央行",
+  "tgt": "synthesis/扩表与缩表 × 中国央行.md"
+ },
+ {
+  "src": "synthesis/化债 × 欧元区主权债务危机.md",
+  "name": "中国人民银行",
+  "tgt": "entities/中国人民银行.md"
+ },
+ {
+  "src": "synthesis/化债 × 欧元区主权债务危机.md",
+  "name": "利率市场化",
+  "tgt": "concepts/利率市场化.md"
+ },
+ {
+  "src": "synthesis/化债 × 欧元区主权债务危机.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "synthesis/化债 × 财政货币化.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "synthesis/化债 × 财政货币化.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "synthesis/化债 × 财政货币化.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "synthesis/巴塞尔协议III × 影子银行.md",
+  "name": "资本充足率",
+  "tgt": "entities/资本充足率.md"
+ },
+ {
+  "src": "synthesis/巴塞尔协议III × 影子银行.md",
+  "name": "银行监管",
+  "tgt": "entities/银行监管.md"
+ },
+ {
+  "src": "synthesis/巴塞尔协议III × 影子银行.md",
+  "name": "货币基金",
+  "tgt": "concepts/货币基金.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 2008全球金融危机.md",
+  "name": "沃尔克规则",
+  "tgt": "concepts/沃尔克规则.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 2008全球金融危机.md",
+  "name": "资本充足率",
+  "tgt": "entities/资本充足率.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 2008全球金融危机.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × ECB.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × ECB.md",
+  "name": "再投资",
+  "tgt": "concepts/再投资.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × ECB.md",
+  "name": "金融稳定",
+  "tgt": "entities/金融稳定.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × IMF.md",
+  "name": "金融安全网",
+  "tgt": "concepts/存款保险.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × IMF.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × IMF.md",
+  "name": "系统性风险",
+  "tgt": "entities/系统性风险.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 中国央行.md",
+  "name": "存款准备金率",
+  "tgt": "concepts/存款准备金率.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 中国央行.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 中国央行.md",
+  "name": "实体页",
+  "tgt": "entities/实体页.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 化债.md",
+  "name": "货币政策工具",
+  "tgt": "entities/货币政策工具.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 化债.md",
+  "name": "买断式逆回购",
+  "tgt": "concepts/买断式逆回购.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 化债.md",
+  "name": "特殊再融资债券",
+  "tgt": "concepts/特殊再融资债券.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 央行入市干预.md",
+  "name": "直升机撒钱",
+  "tgt": "entities/直升机撒钱.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 央行入市干预.md",
+  "name": "联系汇率制度",
+  "tgt": "concepts/联系汇率制度.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 央行入市干预.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 财政货币化.md",
+  "name": "日本银行",
+  "tgt": "entities/日本银行.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 财政货币化.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "synthesis/扩表与缩表 × 财政货币化.md",
+  "name": "央行独立性",
+  "tgt": "entities/央行独立性.md"
+ },
+ {
+  "src": "synthesis/欧洲央行 × 中国央行.md",
+  "name": "货币政策工具",
+  "tgt": "entities/货币政策工具.md"
+ },
+ {
+  "src": "synthesis/欧洲央行 × 中国央行.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "synthesis/欧洲央行 × 中国央行.md",
+  "name": "买断式逆回购",
+  "tgt": "concepts/买断式逆回购.md"
+ },
+ {
+  "src": "synthesis/美元周期 × 新兴市场危机.md",
+  "name": "美元加息周期",
+  "tgt": "concepts/美元加息周期.md"
+ },
+ {
+  "src": "synthesis/美元周期 × 新兴市场危机.md",
+  "name": "美元债",
+  "tgt": "concepts/美元债.md"
+ },
+ {
+  "src": "synthesis/美元周期 × 新兴市场危机.md",
+  "name": "经常账户",
+  "tgt": "concepts/经常账户.md"
+ },
+ {
+  "src": "synthesis/美元霸权 × 去美元化.md",
+  "name": "制裁武器化",
+  "tgt": "concepts/制裁武器化.md"
+ },
+ {
+  "src": "synthesis/美元霸权 × 去美元化.md",
+  "name": "经济增长",
+  "tgt": "concepts/经济增长.md"
+ },
+ {
+  "src": "synthesis/美联储 × ECB.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "synthesis/美联储 × ECB.md",
+  "name": "西班牙",
+  "tgt": "entities/西班牙.md"
+ },
+ {
+  "src": "synthesis/美联储 × ECB.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "synthesis/美联储 × IMF.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "synthesis/美联储 × IMF.md",
+  "name": "全球最后贷款人",
+  "tgt": "synthesis/美联储在国际经济中的作用.md"
+ },
+ {
+  "src": "synthesis/美联储 × IMF.md",
+  "name": "金融安全网",
+  "tgt": "concepts/存款保险.md"
+ },
+ {
+  "src": "synthesis/美联储 × 化债.md",
+  "name": "货币创造",
+  "tgt": "entities/货币创造.md"
+ },
+ {
+  "src": "synthesis/美联储 × 化债.md",
+  "name": "银行挤兑",
+  "tgt": "entities/银行挤兑.md"
+ },
+ {
+  "src": "synthesis/美联储 × 化债.md",
+  "name": "人民币国际化",
+  "tgt": "entities/人民币国际化.md"
+ },
+ {
+  "src": "synthesis/美联储 × 扩表与缩表.md",
+  "name": "鲍威尔",
+  "tgt": "entities/鲍威尔.md"
+ },
+ {
+  "src": "synthesis/美联储 × 扩表与缩表.md",
+  "name": "特朗普",
+  "tgt": "entities/特朗普.md"
+ },
+ {
+  "src": "synthesis/美联储 × 扩表与缩表.md",
+  "name": "再投资",
+  "tgt": "concepts/再投资.md"
+ },
+ {
+  "src": "synthesis/美联储 × 欧元区主权债务危机.md",
+  "name": "爱尔兰",
+  "tgt": "entities/爱尔兰.md"
+ },
+ {
+  "src": "synthesis/美联储 × 欧元区主权债务危机.md",
+  "name": "全球最后贷款人",
+  "tgt": "synthesis/美联储在国际经济中的作用.md"
+ },
+ {
+  "src": "synthesis/美联储 × 欧元区主权债务危机.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "synthesis/美联储 × 量化宽松.md",
+  "name": "2008 年金融危机",
+  "tgt": "concepts/2008全球金融危机.md"
+ },
+ {
+  "src": "synthesis/美联储 × 量化宽松.md",
+  "name": "负利率",
+  "tgt": "concepts/负利率.md"
+ },
+ {
+  "src": "synthesis/美联储 × 量化宽松.md",
+  "name": "前瞻指引",
+  "tgt": "entities/前瞻指引.md"
+ },
+ {
+  "src": "synthesis/美联储在国际经济中的作用.md",
+  "name": "美元流动性",
+  "tgt": "concepts/美元流动性.md"
+ },
+ {
+  "src": "synthesis/美联储在国际经济中的作用.md",
+  "name": "汇率风险",
+  "tgt": "entities/汇率风险.md"
+ },
+ {
+  "src": "synthesis/美联储在国际经济中的作用.md",
+  "name": "信用风险",
+  "tgt": "entities/信用风险.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × 2008全球金融危机.md",
+  "name": "前瞻指引",
+  "tgt": "entities/前瞻指引.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × 2008全球金融危机.md",
+  "name": "伯南克",
+  "tgt": "entities/伯南克.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × 2008全球金融危机.md",
+  "name": "英格兰银行",
+  "tgt": "entities/英格兰银行.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × 2020年3月流动性危机.md",
+  "name": "央行数字货币",
+  "tgt": "concepts/央行数字货币.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × ECB.md",
+  "name": "实体页",
+  "tgt": "entities/实体页.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × ECB.md",
+  "name": "再投资",
+  "tgt": "concepts/再投资.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × ECB.md",
+  "name": "意大利",
+  "tgt": "entities/意大利.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × 中国央行.md",
+  "name": "实体页",
+  "tgt": "entities/实体页.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × 中国央行.md",
+  "name": "外汇占款",
+  "tgt": "concepts/外汇占款.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × 中国央行.md",
+  "name": "结构性工具",
+  "tgt": "concepts/结构性工具.md"
+ },
+ {
+  "src": "synthesis/量化宽松 × 扩表与缩表.md",
+  "name": "买断式逆回购",
+  "tgt": "concepts/买断式逆回购.md"
+ }
+]

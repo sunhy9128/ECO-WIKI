@@ -3,7 +3,7 @@ type: concept
 title: "GameStop 轧空事件"
 address: c-000058
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-08-14
 status: current
 tags: [金融, 市场机制, 轧空, gamestop]
 aliases:
@@ -22,6 +22,8 @@ relationships:
   - target: "[[concepts/流动性风险]]"
     type: related_to
   - target: "[[entities/央行]]"
+    type: related_to
+  - target: "[[concepts/借股票池]]"
     type: related_to
 ---
 
@@ -154,7 +156,7 @@ relationships:
   - 散户 1 月开始大量买入
   - 散户明确表示"不卖"
   - 部分用户声称"不借给做空者"
-  - 借股票池快速枯竭
+  - [[concepts/借股票池|借股票池]]快速枯竭
   ✓ 锁仓进行中
 
 阶段 3：触发临界点
@@ -304,7 +306,7 @@ relationships:
 |------|------|
 | **对冲基金** | 减少对单一股票的极端卖空 |
 | **做市商** | 更谨慎管理轧空风险 |
-| **券商** | 重视流动性风险管理 |
+| **券商** | 重视[[concepts/流动性风险|流动性风险]]管理 |
 | **散户平台** | Robinhood 等吸引大量新用户 |
 
 ### 6.4 对 GameStop 公司

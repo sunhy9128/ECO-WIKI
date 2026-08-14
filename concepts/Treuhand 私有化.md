@@ -3,7 +3,7 @@ type: "concept"
 title: "Treuhand 私有化"
 address: "c-000083"
 created: "2026-07-07"
-updated: "2026-07-07"
+updated: 2026-08-14
 sources: ""
 tags:
   - "东欧转型"
@@ -14,6 +14,9 @@ tags:
 status: "developing"
 related: ""
 aliases: ""
+relationships:
+  - target: "[[concepts/休克疗法]]"
+    type: related_to
 ---
 # Treuhand 私有化
 
@@ -708,7 +711,7 @@ Treuhand 决策：
 - [[两德合并]] — Treuhand 的历史背景
 - [[货币兑换（1990东德）]] — Treuhand 运作的市场环境
 - [[团结税]] — Treuhand 赤字的财政承担机制
-- [[休克疗法]] — Treuhand 是休克疗法私有化的典型案例
+- [[休克疗法]] — Treuhand 是[[concepts/休克疗法|休克疗法]]私有化的典型案例
 
 ### 相关实体
 - [[东德]] — Treuhand 私有化的对象方

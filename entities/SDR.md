@@ -3,7 +3,7 @@ type: "entity"
 title: "SDR（特别提款权）"
 address: "c-000524"
 created: "2026-05-21"
-updated: "2026-05-21"
+updated: 2026-08-14
 tags:
   - "货币体系"
   - "汇率"
@@ -21,6 +21,12 @@ relationships:
     type: related_to
   - target: "[[entities/黄金]]"
     type: related_to
+  - target: "[[concepts/国际收支]]"
+    type: related_to
+  - target: "[[entities/人民币国际化]]"
+    type: related_to
+  - target: "[[concepts/资本管制]]"
+    type: related_to
 related: ""
 sources: "[]"
 ---
@@ -28,7 +34,7 @@ sources: "[]"
 
 ## 核心定义
 
-特别提款权（SDR / Special Drawing Rights）是 IMF 在 1969 年创建的国际储备资产，旨在补充成员国官方储备。SDR 既不是货币也不是对 IMF 的债权，而是**对 IMF 成员国可自由使用货币的潜在求偿权**。持有 SDR 的国家可以将其兑换为篮子中的货币（美元、[[欧元]]、人民币、日元、英镑）以满足国际收支需求。
+特别提款权（SDR / Special Drawing Rights）是 IMF 在 1969 年创建的国际储备资产，旨在补充成员国官方储备。SDR 既不是货币也不是对 IMF 的债权，而是**对 IMF 成员国可自由使用货币的潜在求偿权**。持有 SDR 的国家可以将其兑换为篮子中的货币（美元、[[欧元]]、人民币、日元、英镑）以满足[[concepts/国际收支|国际收支]]需求。
 
 ---
 
@@ -91,7 +97,7 @@ B 获得利息（因为提供了外汇），A 支付利息（因为使用了 SDR
 | **人民币** | **2016.10.01** | **首个被纳入 SDR 的新兴市场货币** |
 
 > [!key-insight] 人民币纳入 SDR 的意义（2016）
-> 人民币纳入 SDR 是人民币国际化的重要里程碑。它证明国际社会接受人民币"可自由使用"——尽管中国仍然实行资本管制。IMF 的判断是：人民币在**支付和交易**层面已经足够国际化，即使资本账户不完全开放。
+> 人民币纳入 SDR 是[[entities/人民币国际化|人民币国际化]]的重要里程碑。它证明国际社会接受人民币"可自由使用"——尽管中国仍然实行[[concepts/资本管制|资本管制]]。IMF 的判断是：人民币在**支付和交易**层面已经足够国际化，即使资本账户不完全开放。
 
 ---
 

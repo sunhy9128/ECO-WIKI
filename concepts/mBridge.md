@@ -3,7 +3,7 @@ type: "concept"
 title: "mBridge"
 address: "c-000097"
 created: "2026-07-07"
-updated: "2026-07-07"
+updated: 2026-08-14
 sources: ""
 tags:
   - "货币体系"
@@ -24,12 +24,18 @@ relationships:
     type: related_to
   - target: "[[entities/俄罗斯]]"
     type: replaces
+  - target: "[[concepts/央行数字货币]]"
+    type: related_to
+  - target: "[[entities/阿联酋]]"
+    type: related_to
+  - target: "[[entities/中国人民银行]]"
+    type: related_to
 ---
-# mBridge（多边央行数字货币桥）
+# mBridge（多边[[concepts/央行数字货币|央行数字货币]]桥）
 
 > Multi-CBDC Bridge — 重构全球跨境支付格局的"数字货币联盟"
 
-**mBridge**（Project mBridge，多边央行数字货币桥项目）是由国际清算银行（BIS）创新中心、香港金融管理局、泰国央行、阿联酋中央银行和中国人民银行数字货币研究所共同发起的多边央行数字货币（CBDC）跨境支付实验平台。它旨在**建立一个基于分布式账本技术（DLT）的多边 CBDC 清算平台，实现近乎即时、低成本、点对点的跨境支付**，并可能在未来彻底改变以 SWIFT + CHIPS 为核心的现有跨境支付格局。
+**mBridge**（Project mBridge，多边央行数字货币桥项目）是由国际清算银行（BIS）创新中心、香港金融管理局、泰国央行、[[entities/阿联酋|阿联酋]]中央银行和[[entities/中国人民银行|中国人民银行]]数字货币研究所共同发起的多边央行数字货币（CBDC）跨境支付实验平台。它旨在**建立一个基于分布式账本技术（DLT）的多边 CBDC 清算平台，实现近乎即时、低成本、点对点的跨境支付**，并可能在未来彻底改变以 SWIFT + CHIPS 为核心的现有跨境支付格局。
 
 mBridge 是数字货币时代"非美元清算"的最大试验，也是 CIPS 数字化升级的方向。
 

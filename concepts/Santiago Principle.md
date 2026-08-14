@@ -4,7 +4,7 @@ title: "Santiago Principle"
 address: c-001032
 status: current
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-08-14
 tags: [主权基金, 主权财富基金, 国际金融, 治理]
 aliases:
   - "圣地亚哥原则"
@@ -16,6 +16,12 @@ relationships:
     type: related_to
   - target: "[[entities/中国]]"
     type: related_to
+  - target: "[[concepts/主权财富基金]]"
+    type: related_to
+  - target: "[[concepts/货币基金]]"
+    type: related_to
+  - target: "[[entities/资本流动]]"
+    type: related_to
 sources: []
 related:
   - "主权财富基金"
@@ -23,19 +29,19 @@ related:
 ---
 # Santiago Principle
 
-> 主权财富基金的自律宪章 — 用透明与治理换取东道国的信任与准入
+> [[concepts/主权财富基金|主权财富基金]]的自律宪章 — 用透明与治理换取东道国的信任与准入
 
 ## 一、概述
 
 ### 1.1 定义
 
-**圣地亚哥原则**（Santiago Principles，全称 Generally Accepted Principles and Practices for SWFs，GAPP）是**主权财富基金（SWF）自愿遵循的全球性行为准则**，由国际货币基金组织（[[IMF]]）牵头、于 2008 年 10 月在智利圣地亚哥正式发布，最终形成 24 条"公认原则与做法"。
+**圣地亚哥原则**（Santiago Principles，全称 Generally Accepted Principles and Practices for SWFs，GAPP）是**主权财富基金（SWF）自愿遵循的全球性行为准则**，由国际[[concepts/货币基金|货币基金]]组织（[[IMF]]）牵头、于 2008 年 10 月在智利圣地亚哥正式发布，最终形成 24 条"公认原则与做法"。
 
 ### 1.2 出台背景
 
 - 本世纪以来，以石油出口国和亚洲新兴经济体为代表的主权财富基金规模快速膨胀，跨境投资日趋活跃；
 - 东道国（尤其是欧美）对 SWF 的**投资动机、透明度、以及是否隐含政治目标**普遍存在担忧，甚至出现保护主义阻挠；
-- 为避免各国单边立法限制 SWF 投资，并维护全球资本流动的开放格局，IMF 联合主要 SWF 与东道国共同制定这套自愿性准则。
+- 为避免各国单边立法限制 SWF 投资，并维护全球[[entities/资本流动|资本流动]]的开放格局，IMF 联合主要 SWF 与东道国共同制定这套自愿性准则。
 
 ### 1.3 核心目标
 

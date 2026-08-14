@@ -3,7 +3,7 @@ type: concept
 title: "韩国折价（Korea Discount）"
 address: c-001007
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-14
 status: current
 tags: [金融, 韩国, KOSPI]
 sources: []
@@ -17,6 +17,8 @@ relationships:
   - target: "[[entities/日本]]"
     type: related_to
   - target: "[[concepts/估值修复]]"
+    type: related_to
+  - target: "[[concepts/再投资]]"
     type: related_to
 ---
 
@@ -52,7 +54,7 @@ relationships:
 ### 2.2 股东回报偏低
 
 - 韩国企业分红率与回购规模长期低于国际同行
-- 留存收益再投资效率偏低，ROE 与资本回报不足
+- 留存收益[[concepts/再投资|再投资]]效率偏低，ROE 与资本回报不足
 
 ### 2.3 地缘政治风险
 
@@ -103,7 +105,7 @@ relationships:
 | 视角 | 含义 |
 |------|------|
 | **价值机会** | 折价收敛 + 股东回报提升构成价值重估逻辑 |
-| **治理溢价** | 治理改善是估值修复的核心驱动 |
+| **治理溢价** | 治理改善是[[concepts/估值修复|估值修复]]的核心驱动 |
 | **波动风险** | 高波动与地缘风险仍是配置约束 |
 | **长期视角** | 改革见效需时间，适合 [[长期主义]] 框架 |
 

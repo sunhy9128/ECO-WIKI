@@ -3,7 +3,7 @@ type: source
 title: "The Macroeconomics of Populism (Dornbusch & Edwards 1991)"
 address: c-001173
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-14
 source: NBER Working Paper
 source_url: https://www.nber.org/papers/w8295
 author: Rudiger Dornbusch, Sebastian Edwards
@@ -19,6 +19,8 @@ relationships:
   - target: "[[concepts/安倍经济学]]"
     type: related_to
   - target: "[[entities/IMF]]"
+    type: related_to
+  - target: "[[concepts/经济民粹主义]]"
     type: related_to
 status: extracted
 related_concepts:
@@ -37,7 +39,7 @@ lifecycle_changed: 2026-08-11
 
 # The Macroeconomics of Populism (Dornbusch & Edwards, 1991)
 
-> 经济民粹主义的经典定义来源。拉美（阿根廷、巴西、智利、秘鲁）民粹实验的比较研究，被用于检验「安倍经济学是否民粹」的标尺。
+> [[concepts/经济民粹主义|经济民粹主义]]的经典定义来源。拉美（阿根廷、巴西、智利、秘鲁）民粹实验的比较研究，被用于检验「安倍经济学是否民粹」的标尺。
 
 ## 来源信息
 - **作者**: [[鲁迪格·多恩布什]], Sebastian Edwards

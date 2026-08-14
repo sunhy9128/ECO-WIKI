@@ -2,7 +2,7 @@
 title: "BIS"
 address: "c-000489"
 created: "2026-07-08"
-updated: "2026-07-08"
+updated: 2026-08-14
 status: "current"
 type: "entity"
 tags:
@@ -16,6 +16,12 @@ relationships:
   - target: "[[concepts/中央银行]]"
     type: related_to
   - target: "[[sources/2026-04-29-巴塞尔协议]]"
+    type: related_to
+  - target: "[[entities/金融稳定]]"
+    type: related_to
+  - target: "[[entities/银行监管]]"
+    type: related_to
+  - target: "[[entities/风险加权资产]]"
     type: related_to
 sources: ""
 ---
@@ -48,9 +54,9 @@ sources: ""
 BIS 的"双面身份"：
 
 【1】银行业监管的全球中心
-  - 巴塞尔银行监管委员会（BCBS）所在地
+  - 巴塞尔[[entities/银行监管|银行监管]]委员会（BCBS）所在地
   - ⭐ 巴塞尔协议 I/II/III 的诞生地
-  - 金融稳定委员会（FSB）的秘书处
+  - [[entities/金融稳定|金融稳定]]委员会（FSB）的秘书处
   - 全球系统重要性银行（G-SIB）评估
 
 【2】央行合作的隐秘平台
@@ -208,7 +214,7 @@ BIS 的研究产品：
   - 1988 BCBS 发布巴塞尔协议 I
 
 【核心要求】
-  - 资本充足率：8%（总资本/风险加权资产）
+  - 资本充足率：8%（总资本/[[entities/风险加权资产|风险加权资产]]）
   - 资本定义：核心资本（一级）+ 附属资本（二级）
   - 风险加权：信用风险
 
