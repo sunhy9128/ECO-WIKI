@@ -1,5 +1,44 @@
 # 📜 Log
 
+## 2026-08-25: **WIKI_DEDUP (Execute):** 2 merges executed (sanctions weaponization + subprime crisis), 11 inlinks rewritten across 5 files, 5 needs-review confirmed KEEP-SEPARATE
+
+**Mode:** Execute (audit→execute on user approval "merge all")
+
+**Executed:**
+
+#### Merge 1: `concepts/制裁武器化` (c-001184) → `concepts/制裁武器` (c-000169)
+- `制裁武器化.md` → redirect stub (status=redirect, redirects_to=[[concepts/制裁武器]], merged_into=c-000169, merge_date=2026-08-25)
+- `制裁武器.md` aliases: added `制裁武器化`, `制裁的武器化`, `Weaponization of Sanctions`
+- `制裁武器.md` relationships: added `[[concepts/出口管制]]` + `[[concepts/武器化相互依存]]` (migrated from stub)
+- Fixed pre-existing ambiguous `[[二级制裁]]` → `[[concepts/二级制裁|二级制裁]]`
+- Inlinks rewritten (6 occurrences, 3 files):
+  - `concepts/美元循环.md`: frontmatter + body line
+  - `concepts/美元潮汐.md`: frontmatter + body line
+  - `concepts/Exorbitant Privilege（过度特权）.md`: frontmatter + body heading §5.2
+
+#### Merge 2: `entities/次贷危机` (c-000683) → `concepts/2008全球金融危机` (c-000027)
+- `次贷危机.md` → redirect stub (status=redirect, redirects_to=[[concepts/2008全球金融危机]], merged_into=c-000027, merge_date=2026-08-25)
+- `次贷危机.md` aliases: added `Subprime Mortgage Crisis`, `2007次贷危机`, `次级抵押贷款危机`
+- Unique depth content from次贷危机 (sections 一-三: subprime loan classification + scale data, 2/28 ARM mechanics, MBS/CDO tranche structure, CDO² re-packaging, synthetic CDO, rating failure data with $3T/75%/90% stats) merged as new `## 补充内容（原 次贷危机）` section at end of GFC page (preserves vault's existing 补充内容 pattern)
+- Inlinks rewritten (5 occurrences, 2 files):
+  - `concepts/美元周期.md`: frontmatter + table cell `[[次贷危机]]`
+  - `entities/雷曼兄弟.md`: frontmatter + 2 body wikilinks + 1 related entry
+
+**Inlink rewrites (5 distinct references across 2 files):**
+- All `[[entities/次贷危机]]` → `[[concepts/2008全球金融危机]]` (full-path)
+- All `[[次贷危机]]` → `[[concepts/2008全球金融危机|次贷危机]]` (display-text preserved)
+
+**Needs-review confirmed KEEP-SEPARATE:**
+- 外汇管制 ↔ 外汇管理 (narrow vs broad)
+- 陆股通 ↔ 港股通 (northbound vs southbound)
+- 联系汇率制度 ↔ 汇率制度 (general vs specific)
+- QFII ↔ QF制度 (component vs umbrella)
+- 开正门堵偏门 ↔ 开正门、堵偏门 (different domains: 对外投资 vs 地方债务)
+
+**Trust:** trust_check=OK ledger_current, all edits markdown-clean per pi-lens LSP, no blocking diagnostics. Final dedup registry at /tmp/dedup_registry.json, candidate list at /tmp/dedup_candidates.json. Pre-merge snapshot: 0d76347.
+
+---
+
 ## 2026-08-25: **WIKI_DEDUP (Audit):** 1035 pages scanned, 0 merges executed, 3 merge candidates + 4 needs-review flagged for user decision
 
 **Mode:** Audit (no destructive actions — user approval required for merges)

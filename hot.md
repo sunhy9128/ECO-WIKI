@@ -20,6 +20,8 @@ Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
 
+2026-08-25: **DEDUP_EXECUTE: 合并 2 对重复页，11 处 inlink 重写（5 文件）**。①[[concepts/制裁武器化|制裁武器化]]（c-001184，stub）→ [[concepts/制裁武器|制裁武器]]（c-001169→c-000169，15 inlink）：次级页转 redirect 存根，aliases 补制裁武器化/制裁的武器化/Weaponization of Sanctions，关系迁移出口管制/武器化相互依存，美元循环/美元潮汐/Exorbitant Privilege 6 处 inlink 重写。②[[entities/次贷危机|次贷危机]]（c-000683，错误 typed 为 entity）→ [[concepts/2008全球金融危机|2008全球金融危机]]（c-000027，145 inlink）：次级页转 redirect 存根（aliases 补 Subprime Mortgage Crisis/2007次贷危机/次级抵押贷款危机），独有深度内容（次级贷款分类表+规模数据、2/28 ARM 机制、MBS/CDO 分档图、CDO²+合成 CDO、评级失灵 $3T/75%/90% 数据+级联效应）作为 `## 补充内容（原 次贷危机）` 并入 GFC 页，美元周期/雷曼兄弟 5 处 inlink 重写（雷曼 3 处既有歧义链顺手修正）。needs-review 5 对（外汇管制↔外汇管理、陆股通↔港股通、联系汇率↔汇率制度、QFII↔QF制度、开正门堵偏门↔开正门、堵偏门）均确认 KEEP-SEPARATE。0 死链，全量 pi-lens markdown clean。
+
 2026-08-25: **CROSS_LINK: 新页/存根补链 14 处（10 页）**。聚焦 08-12 后新增 15 页 + 旧页回链：entities/朱镕基 ↔ concepts/人民币不贬值承诺（1998）双向往返（另链 软着陆/分税制）；concepts/制裁武器化 → 出口管制/二级制裁；concepts/半导体周期 → 存储芯片/美元周期；存储芯片/股牛汇弱/ICT出口 回链半导体周期；美元循环/美元潮汐/Exorbitant Privilege（过度特权） 回链制裁武器化。inline 首提及包裹 + 14 条 related_to typed relations，0 死链，0 新孤儿。
 
 2026-08-25: **WIKI_SYNTHESIZE: 新建 5 页跨域综合页**（c-001190~001194，均 status: developing）。①[[美联储 × 2020年3月流动性危机]]——2020 把美联储从最后贷款人重塑为最后做市商：PMCCF/SMCCF 越界买公司债、跨境美元互换常备化，角色边界外扩的代价由 2022 QT 与 2023 SVB 分期偿还。②[[2008全球金融危机 × 影子银行]]——"五大原因"是影子银行链条的五个断点：CDO/ABS 放大次贷、回购+SIV 藏杠杆、ABCP 冻结触发死亡螺旋；巴III 堵住表内，风险迁往表外与新的影子形态。③[[量化宽松 × 财政货币化]]——二级/一级市场之分是法律虚构，实质界限在央行是否失去"不买"选项；OMT、日本 YCC、2020 美国三次压线。④[[中国 × 日本]]——同一根资产负债表时间轴，日本在终点（金融自由化→泡沫→衰退→QQE 通胀失败），中国在中途（地产下行+化债）；伪通缩 vs 真通缩决定政策工具箱。⑤[[IMF × 欧债危机]]——货币联盟内无贬值通道，IMF 传统条件性只剩通缩没有恢复，2013 IEO 自承低估财政乘数。反向链接 10 源页相关条目区。
