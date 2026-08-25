@@ -1,8 +1,8 @@
 {
   "baseFontSize": 15,
-  "cssTheme": "Baseline",
-  "interfaceFontFamily": "苹方-简,LXGW WenKai Mono,HarmonyOS Sans SC",
-  "textFontFamily": "苹方-简",
+  "cssTheme": "Adwaita",
+  "interfaceFontFamily": "苹方-简,LXGW WenKai Mono",
+  "textFontFamily": "TsangerJinKai02,苹方-简",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "translucency": true,
   "enabledCssSnippets": [
@@ -10,5 +10,7 @@
     "wk-app-frame",
     "wk-note-surface",
     "wk-sidebar"
-  ]
+  ],
+  "accentColor": "#f58a5c",
+  "theme": "moonstone"
 }

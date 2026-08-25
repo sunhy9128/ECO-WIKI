@@ -916,3 +916,5 @@ IMF 是 20 世纪最重要的国际金融制度之一：
 - [[扩表与缩表 × IMF]] — synthesis
 - [[美联储 × IMF]] — synthesis
 - [[ECB × IMF]] — synthesis
+
+- [[IMF × 欧债危机]] — synthesis

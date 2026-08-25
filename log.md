@@ -24,6 +24,24 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-25] WIKI_SYNTHESIZE | 合成 5 页综合页
+
+- [2026-08-25T14:45:00+0800] WIKI_SYNTHESIZE pages_scanned=1077 synthesis_created=5 candidates_skipped=14
+- 新建 (c-001190~001194, 均 status: developing + base_confidence 0.7/lifecycle draft): [[美联储 × 2020年3月流动性危机]] (最后做市商角色转型, 共现37页) / [[2008全球金融危机 × 影子银行]] (五个原因=影子银行链条五个断点, 共现33页) / [[量化宽松 × 财政货币化]] (边界实质=央行失去"不买"选项, 共现33页) / [[中国 × 日本]] (资产负债表周期同轴不同站, 共现34页) / [[IMF × 欧债危机]] (货币联盟内条件性工具箱失灵, 共现33页)
+- 反向链接 10 源页 (美联储/2020年3月流动性危机/2008全球金融危机/影子银行/量化宽松/财政货币化/中国/日本/IMF/欧债危机) 相关条目区各加 1-2 条 synthesis 链接; index.md 增 5 条 + 页数 1054→1059; hot.md 更新
+- 覆盖检查含别名消解 (ECB↔欧洲央行/欧债危机↔欧元区主权债务危机等); 排除已有页 (美联储 × 财政货币化 已存在, 美联储×中国央行 已有 comparisons/美联储vs中国央行); 候选过滤: 引用链接全量验证存在, 「紧缩政策」无对应页转为纯文本
+
+## [2026-08-25] LINT | 例行健康审计(报告模式)
+
+- [2026-08-25T14:33:00+0800] LINT issues_found=2 orphans=2(工具元数据页) broken_links=34(知识页0;log历史15+meta冻结6+transport-fallback外部md误判+claudian模板) stale=111(无verified) contradictions=0 prov_issues=0 missing_summary=1031(软) fragmented_clusters=17 visibility_issues=0 promotion_candidates=0 synthesis_gaps=14 relationship_issues=0 missing_fm=约定差异(type vs category) no_lifecycle=1069 bad_lifecycle=0 superseded_by=0 index_ok duplicate_titles=6(待dedup判定) trust_check=FAIL ledger_missing
+- 要点: 断链全部为非知识页(append-only log/冻结meta报告/外部markdown链接被CLI误判), 知识页0真断链; 索引一致(43个"缺失"全为redirect存根,0悬空链接); 碎片标签簇17个(较08-17的23改善), 高优先 #中国(0.07) #宏观经济(0.076) #金融(0.09); 综合页缺口14对(别名消解后), 如 扩表与缩表×欧债危机(43页) 美联储×2020年3月流动性危机(37页) 中国×日本(34页); provenance: 7页声明值与标记一致, concepts/马来西亚模式.md 39%推断率偏高(概念页); 6对重复标题待 wiki-dedup 判定; 全库1069页缺 lifecycle/base_confidence + trust-ledger 缺失为既有系统状态
+
+## [2026-08-17] LINT | 健康审计 + 硬错误修复
+
+- [2026-08-17T15:20:00+0800] LINT issues_found=35 orphans=2 broken_links=34(知识页1) stale=43+26 duplicate_titles=6 contradictions=0 prov_issues=0 missing_summary=1026(软) fragmented_clusters=23 visibility_issues=0 promotion_candidates=0 synthesis_gaps=28 relationship_issues=0 missing_fm=约定差异(category vs type) no_lifecycle=1063 bad_lifecycle=6→0 trust_check=FAIL ledger_missing
+- 修复: concepts/亚洲金融危机.md 断链 [[1997 亚洲金融危机]]→[[1997亚洲金融危机]] (redirect 存根 body); 6 个 sources 页 lifecycle: current→reviewed (LDP-2012-Election-No-Mandate / Passive-Revolution-in-Japan-2021 / OECD-Japan-Economic-Survey-2024 / Morimoto-2025-Impoverishment-of-Working-Class / Dornbusch-Edwards-Macroeconomics-of-Populism-1991 / IMF-How-Inclusive-Is-Abenomics-2015)
+- 说明: CLI missing_frontmatter=1068 系 vault 用 `type:` 而非 `category:` (1067 页) 的约定差异; index 838 个"缺失"链接全为别名匹配(0 真缺失); orphan_pages=2 为 .claudian/.omo 工具页
+
 ## [2026-08-12] CROSS_LINK | 补链 1946 处提及（679 页）
 
 - [2026-08-12T14:00:00+0800] CROSS_LINK pages_scanned=1064 links_added=1946 typed_relations_written=1946 pages_modified=679 orphans_remaining=3 misc_affinity_updated=0 promotion_candidates=0
@@ -755,3 +773,12 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - [2026-08-14T13:57:14+0800] LINT issues_found=2213 orphans=0 broken_links=29 stale=64 contradictions=5 prov_issues=0 missing_summary=994 fragmented_clusters=17 visibility_issues=0 promotion_candidates=0 synthesis_gaps=28 relationship_issues=0 missing_fm=1 no_lifecycle=1047 bad_lifecycle=6 trust_check=FAIL ledger_missing addr_errors=16 duplicate_titles=6 index_gaps=871 (说明: 35 orphans 全为 41 个 redirect 存根; 64 stale 系 08-12 cross-linker 回链 bumped 源页 updated 所致; 6 处 broken 为 log.md 历史叙事链接)
 - [2026-08-12] QUERY query="IMF 国际货币基金组织" result_pages=6 mode=normal escalated=false
 - [2026-08-14T14:32:00+0800] CROSS_LINK pages_scanned=646 links_added=1488 typed_relations_written=1378 pages_modified=582 orphans_remaining=0 misc_affinity_updated=0 promotion_candidates=0 (碎片标签簇补链: 19 簇 cohesion<0.15, 940 唯一候选, inline 首提及; 全库 0 新死链, #央行/#债务 越 0.15, #金融稳定 0.13→0.25; 同日 LINT 修复 25 断链+2 新存根+index 全量清单+石油美元→石油美元环流)
+- [2026-08-17T15:00:00+0800] CAPTURE type=synthesis page="questions/马来西亚vs印尼应对1998金融危机" title="马来西亚vs印尼应对1998金融危机：马来西亚做对了什么" (问答消化: 马来西亚做对六件事 vs 印尼四重失误; 联网核实 IMF IEO 印尼评估/IMF 2002 印尼银行重组/Kaplan & Rodrik 2001; 地址 c-001186; index/log/hot 同步)
+- [2026-08-17T16:00:00+0800] CAPTURE type=synthesis page="questions/马来西亚vs韩国vs香港应对1998金融危机" title="马来西亚vs韩国vs香港应对1998金融危机" (三元悖论三种选边: 马=弃资本流动/韩=弃固定汇率/港=弃货币政策; 韩 $570亿借刀改革 V型2年恢复; 港 1180亿港元 L1入市守联系汇率; 地址 c-001187; 反向链接 4 页; index/log/hot 同步)
+- [2026-08-17T17:00:00+0800] CAPTURE type=synthesis page="questions/索罗斯做空英镑的金融工具拆解" title="索罗斯做空英镑的金融工具拆解" (1992黑色星期三三线立体攻击: 汇率线 借英镑/即期/远期/期货/看跌期权 + 利率线 英法德利率期货多头(央行加息防守变盈利端) + 资产线 马克资产150-200亿$; 总头寸300-400亿$ 6-8倍杠杆; 地址 c-001188; 反向链接 3 页; index/log/hot 同步)
+- [2026-08-17T18:00:00+0800] QUERY query="香港金管局反击的同时大陆承诺人民币不贬值对整个过程的影响" result_pages=6 mode=normal escalated=false (来源: 1998香港金融保卫战§11朱镕基承诺核实/§12战略意义、香港金管局L1入市、1997亚洲金融危机§5.4中国特殊角色/§9.3、索罗斯13.2、美元潮汐历史案例时间线; 缺口: 无"人民币承诺→港元市场传导机制"专页)
+- [2026-08-17T18:00:00+0800] INGEST topic="朱镕基四阶段承诺矩阵" pages_updated=1 mode=manual (升级 concepts/1998香港金融保卫战 §11: 史实核查 → 四阶段承诺矩阵+史实核查+营销号叙事; 阶段一 人民币不贬值承诺(1997.10-98.3) / 阶段二 总理记者会背书(98.3.19) / 阶段三 心理震慑(98.6-8, 只表态不给外储) / 阶段四 持续稳定; 核心命题: 朱镕基做的是承诺管理而非救援; 相关条目补 1997亚洲金融危机)
+- [2026-08-17T19:00:00+0800] WIKI_DASHBOARD name="asian-financial-crisis-dashboard" tool=dataview view=table filter="亚洲金融危机主题 6 视图 (事件战役/国家应对/机制工具/人物机构/研究问答/源素材), IN 清单 44 页"
+- [2026-08-17T19:00:00+0800] INGEST topic="朱镕基" pages_created=1 pages_updated=0 mode=manual (新建 entities/朱镕基 c-001189: 四阶段承诺矩阵摘要+史实边界+IMFC主席 2001; dashboard 视图④补全)
+- [2026-08-17T18:30:00+0800] CAPTURE type=concept page="concepts/人民币不贬值承诺（1998）" title="人民币不贬值承诺（1998）" (中国承诺不贬值的底气来源: 资本管制(三元悖论组合1)/经常账户顺差/短期外债占储备~13%/外储~$1400亿/1994并轨提前贬值33%/内需纵深(GDP 7.8%)/香港回归政治必然/入世布局; 与§11四阶段承诺矩阵呼应——承诺管理vs救援, 金管局自持980亿打完保卫战; 地址 c-001189; 反向链接 2 页(1998香港金融保卫战/1997亚洲金融危机); index/hot/log 同步)
+- [2026-08-18T13:47:37+0800] LINT issues_found=3687 orphans=35 broken_links=21 stale=43 stale_vs_src=3 contradictions=5 prov_issues=0 missing_summary=1031 fragmented_clusters=14 visibility_issues=1 promotion_candidates=0 synthesis_gaps=301 relationship_issues=0 missing_fm=24 no_lifecycle=1070 bad_lifecycle=0 no_base_confidence=1070 bad_base_confidence=0 superseded_issues=0 trust_check=FAIL ledger_missing index_not_listed=44 near_dup_pairs=25 (schema=vault-custom type/status/address; 21 断链全为 log.md/meta/lint-report 历史叙事链接; 35 孤儿多为近重复页待 dedup, 如 ECB~欧洲央行/韩国央行~韩国央行(BOK)/8-11汇改~8.11汇改; 5 矛盾均经 relationships:contradicts 声明但目标页无呼应; 43 stale 均为 4-5 月遗留 wiki-meta 页; PII 1 处为误报(苹果.md "Phone:"); taxonomy 记录 visibility 为保留系统组不计数)
