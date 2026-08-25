@@ -24,6 +24,17 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-25] CROSS_LINK | 新页/存根补链 14 处（10 页）+ 反向回链
+
+- [2026-08-25T14:36:00+0800] CROSS_LINK pages_scanned=1079 links_added=14 typed_relations_written=14 pages_modified=10 orphans_remaining=0 misc_affinity_updated=0 promotion_candidates=0
+- 扫描 1079 页（含 41 redirect 存根），聚焦 08-12 后新增 15 页 + 相关旧页回链。
+- 新页入链：entities/朱镕基 ↔ concepts/人民币不贬值承诺（1998）双向往返、软着陆、分税制；concepts/制裁武器化 → 出口管制/二级制裁；concepts/半导体周期 → 存储芯片/美元周期；人民币不贬值承诺 → 朱镕基。
+- 旧页回链新页：存储芯片/股牛汇弱/ICT出口 → 半导体周期；美元循环/美元潮汐/Exorbitant Privilege（过度特权） → 制裁武器化。全部 inline 首提及包裹 + 14 条 related_to typed relations。
+- 0 自引用、0 死链（目标全为现存非存根页）；209 页已在新质谱系中（08-12 后 synth 页锚点早已回链，无重复）。
+- Pre-write snapshot: 9dd76ad7 (git commit "pre-cross-linker snapshot")。
+
+---
+
 ## [2026-08-25] WIKI_SYNTHESIZE | 合成 5 页综合页
 
 - [2026-08-25T14:45:00+0800] WIKI_SYNTHESIZE pages_scanned=1077 synthesis_created=5 candidates_skipped=14

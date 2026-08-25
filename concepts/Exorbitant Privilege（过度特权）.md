@@ -19,6 +19,8 @@ relationships:
     type: related_to
   - target: "[[entities/美国]]"
     type: related_to
+  - target: "[[concepts/制裁武器化]]"
+    type: related_to
 complexity: advanced
 domain: 国际金融与汇率
 related:
@@ -194,7 +196,7 @@ sources:
 - 储备份额下降但**非系统替代**——分散至"非传统货币"（加元、澳元、人民币）
 - [[IMF]] Arslanalp (2024) 结论：*"Dollar dominance continues to give way to nontraditional currencies but remains the preeminent reserve currency"*
 
-### 5.2 制裁武器化反而强化美元短期地位
+### 5.2 [[concepts/制裁武器化|制裁武器化]]反而强化美元短期地位
 
 **悖论**：2022 俄罗斯制裁让美元武器化的代价显现——但**短期内反而强化美元地位**。
 
