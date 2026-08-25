@@ -182,4 +182,4 @@ Navigation: [[index]] | [[log]] | [[overview]]
 ## Repo Locations
 
 - Working: `~/Desktop/claude-obsidian/`
-- Public: https://github.com/AI-Marketing-Hub/claude-obsidian
+- Public: <https://github.com/AI-Marketing-Hub/claude-obsidian>
