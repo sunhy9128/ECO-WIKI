@@ -1,6 +1,6 @@
 {
   "baseFontSize": 15,
-  "cssTheme": "Adwaita",
+  "cssTheme": "Velocity",
   "interfaceFontFamily": "苹方-简,LXGW WenKai Mono",
   "textFontFamily": "TsangerJinKai02,苹方-简",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
@@ -11,6 +11,6 @@
     "wk-note-surface",
     "wk-sidebar"
   ],
-  "accentColor": "#f58a5c",
+  "accentColor": "",
   "theme": "moonstone"
 }

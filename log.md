@@ -1,5 +1,30 @@
 # 📜 Log
 
+## 2026-08-31: **WIKI_LINT** scanned=1089 orphans=0 broken_links=0 fm_gaps=656 stale=26 lifecycle_issues=1047 visibility=0 taxonomy_contam=3 fragmented=73
+
+**Scope:** Full vault scan (1089 pages). Checks 1-13 run.
+- **Orphans: 0** — all resolved by dedup/cross-linker (08-25)
+- **Dead links: 0** — all resolved (dedup + full-path index now covers `[[concepts/X]]` forms)
+- **FM gaps: 656** — 656 pages with `tags: []` (empty list); 7 missing created; 2 missing type/category; 1 missing title; 1 missing updated
+- **Summary: 1023 missing** (soft warning, 0 too long)
+- **Stale >90d: 26** — all are LLM-Wiki/SEO template pages from April 2026 (0 verified, 0 high-priority)
+- **Lifecycle: 1047/1089 missing** (schema not adopted — vault uses type+status, not lifecycle+base_confidence)
+- **Taxonomy contamination: 3** — visibility/public, visibility/internal, visibility/pii in `_meta/taxonomy.md` (system tags must not appear in taxonomy)
+- **Fragmented tags: 73 clusters** (cohesion<0.15, n≥5) — many are type-level tags (#金融 67, #货币政策 65, #地缘政治 44)
+- **Visibility: 0 issues**
+- **Provenance: 7 pages** with blocks (synthesis cluster from 08-11 research)
+- **Relationships: 0 issues**
+- **Index: 883/1083 content pages not in index.md** (curated subset by design, not a bug)
+
+**Compared to 08-05 baseline (1000 pages):**
+- Orphans: 44→0 ✅
+- Dead links: 25→0 ✅  
+- FM gaps: 615→656 (net +41 new pages + empty tags)
+- Stale: 25→26 (net +1 LLM-Wiki page)
+- New issues: taxonomy contamination (3 visibility tags)
+
+---
+
 ## 2026-08-25: **WIKI_DEDUP (Execute):** 2 merges executed (sanctions weaponization + subprime crisis), 11 inlinks rewritten across 5 files, 5 needs-review confirmed KEEP-SEPARATE
 
 **Mode:** Execute (audit→execute on user approval "merge all")
@@ -7,6 +32,7 @@
 **Executed:**
 
 #### Merge 1: `concepts/制裁武器化` (c-001184) → `concepts/制裁武器` (c-000169)
+
 - `制裁武器化.md` → redirect stub (status=redirect, redirects_to=[[concepts/制裁武器]], merged_into=c-000169, merge_date=2026-08-25)
 - `制裁武器.md` aliases: added `制裁武器化`, `制裁的武器化`, `Weaponization of Sanctions`
 - `制裁武器.md` relationships: added `[[concepts/出口管制]]` + `[[concepts/武器化相互依存]]` (migrated from stub)
@@ -17,6 +43,7 @@
   - `concepts/Exorbitant Privilege（过度特权）.md`: frontmatter + body heading §5.2
 
 #### Merge 2: `entities/次贷危机` (c-000683) → `concepts/2008全球金融危机` (c-000027)
+
 - `次贷危机.md` → redirect stub (status=redirect, redirects_to=[[concepts/2008全球金融危机]], merged_into=c-000027, merge_date=2026-08-25)
 - `次贷危机.md` aliases: added `Subprime Mortgage Crisis`, `2007次贷危机`, `次级抵押贷款危机`
 - Unique depth content from次贷危机 (sections 一-三: subprime loan classification + scale data, 2/28 ARM mechanics, MBS/CDO tranche structure, CDO² re-packaging, synthetic CDO, rating failure data with $3T/75%/90% stats) merged as new `## 补充内容（原 次贷危机）` section at end of GFC page (preserves vault's existing 补充内容 pattern)
@@ -25,10 +52,12 @@
   - `entities/雷曼兄弟.md`: frontmatter + 2 body wikilinks + 1 related entry
 
 **Inlink rewrites (5 distinct references across 2 files):**
+
 - All `[[entities/次贷危机]]` → `[[concepts/2008全球金融危机]]` (full-path)
 - All `[[次贷危机]]` → `[[concepts/2008全球金融危机|次贷危机]]` (display-text preserved)
 
 **Needs-review confirmed KEEP-SEPARATE:**
+
 - 外汇管制 ↔ 外汇管理 (narrow vs broad)
 - 陆股通 ↔ 港股通 (northbound vs southbound)
 - 联系汇率制度 ↔ 汇率制度 (general vs specific)
@@ -204,3 +233,22 @@
 - **No destructive actions taken** (Audit mode default). Awaiting user approval for the 2 merge operations before executing redirects + inlink rewrites.
 
 **Trust:** trust_check=WARN ledger_current, dedup_registry at /tmp/dedup_registry.json, candidates at /tmp/dedup_candidates.json
+
+- [2026-08-26] QUERY query="什么是一级市场和二级市场" result_pages=5 mode=normal escalated=false
+
+- [2026-08-26] CAPTURE type=concept page="concepts/一级市场与二级市场.md" title="一级市场与二级市场"
+
+- [2026-08-26] RESEARCH topic="国债收益率×利率×汇率联动 + 长债回购推演" pages=4 mode=wiki-research
+  - synthesis/国债收益率 × 利率 × 汇率.md (c-001195)
+  - concepts/国债回购.md (c-001196)
+  - concepts/美元贬值交易.md (c-001197)
+  - sources/2026-08-19-贝森特长债回购计划.md (c-001198)
+  - 核心发现：2026-08-19 贝森特将长债回购上限翻倍至 $4B，压低长端收益率把调整压力转移到美元，触发"美元贬值交易"（黄金+3%、比特币+13%、DXY 跌破99），被类比 Operation Twist 与软性金融压抑
+- [2026-08-26] RESEARCH topic="财政主导（fiscal dominance）" pages=1 mode=wiki-research
+  - synthesis/财政主导.md (c-001199)
+  - 核心发现：财政主导是货币当局被财政赤字绑架的制度状态，是财政货币化的前提、央行独立性的反面；2026 年 MSCI 列为全球利率头号变量，美国长债回购正是财政主导的最新注脚——压低长端收益率把压力转移到美元，触发"美元贬值交易"
+
+- [2026-08-28] QUERY query="美债收益率和汇率关系" result_pages=3 mode=normal escalated=false
+
+- [2026-08-28] CAPTURE type=concept page="concepts/汇率传导机制.md" title="汇率传导机制"
+- [2026-08-28] CAPTURE type=concept page="concepts/汇率超调模型.md" title="汇率超调模型"
