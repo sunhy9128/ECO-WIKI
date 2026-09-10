@@ -1,5 +1,34 @@
 # 📜 Log
 
+## 2026-09-10: **WIKI_LINT** scanned=1094 orphans=44 broken_links=1 fm_gaps=849 stale=165 lifecycle_issues=0 visibility=0 taxonomy_contam=0 fragmented=105 prov_issues=8
+
+**Scope:** Full vault scan (1094 pages). Checks 1-13 run.
+- **Orphans: 44** — 20 entities, 18 concepts, 2 journal, 4 misc (vs 0 on 08-31: regression from index-link pattern change; orphans are real pages with zero incoming wikilinks)
+- **Dead links: 1** — `concepts/美元周期.md:105` → `[[concepts/2008全球金融危机 ]]` (trailing space). 11 others in `.claudian/opencode/metadata/system.md` (template placeholders, not knowledge graph)
+- **FM gaps: 849** — majority missing `sources` field; 4 pages have no frontmatter at all (journal/2026-09-08, journal/2026-09-09, .omo/plans/wiki-query-log-sync)
+- **Summary: 1031 missing** (soft warning, 0 too long)
+- **Stale >90d: 165** — all LLM-Wiki/SEO template pages + older sources (0 verified, 0 high-priority)
+- **Lifecycle: 0 issues** — vault uses type+status convention, not lifecycle+base_confidence; no pages have lifecycle field set
+- **Trust ledger: MISSING** — `_meta/trust-ledger.json` not found; trust-check returns ledger_missing error
+- **Taxonomy contamination: 0** — visibility/ tags appear only in documentation text within taxonomy.md, not as tag entries (false positive from 08-31)
+- **Fragmented tags: 105 clusters** (cohesion<0.15, n≥5) — large topic tags (#金融 92, #中国 89, #地缘政治 99, #宏观 77, #美联储 51) are structurally low-cohesion due to broad scope
+- **Provenance: 8 pages** with markers — 3 unsourced synthesis (马来西亚模式 94% inferred, 人民币不贬值承诺 100%, questions/马来西亚vs*), 3 AMBIGUOUS>15%
+- **Visibility: 0 issues**
+- **Relationships: 0 issues**
+- **Index: 45 content pages not in index.md** (curated subset by design), 1 phantom link (`[[log]]`)
+
+**Compared to 08-31 baseline (1089 pages):**
+- Pages: 1089→1094 (+5)
+- Orphans: 0→44 (regression: orphan detection now uses exact basename matching vs previous grep substring)
+- Dead links: 0→1 (trailing space in 美元周期.md)
+- FM gaps: 656→849 (+193, mostly pages with `sources: []` counted as missing)
+- Stale: 26→165 (threshold now includes all >90d pages, not just LLM-Wiki)
+- Lifecycle: 1047→0 (corrected: vault never adopted lifecycle schema, false positives removed)
+- Taxonomy: 3→0 (visibility tags are in documentation text, not tag entries)
+- Fragmented: 73→105 (expanded tag set analyzed)
+
+- [2026-09-10] LINT scanned=1094 orphans=44 broken_links=1 fm_gaps=849 stale=165 lifecycle_issues=0 visibility=0 taxonomy_contam=0 fragmented=105 prov_issues=8
+
 ## 2026-08-31: **WIKI_LINT** scanned=1089 orphans=0 broken_links=0 fm_gaps=656 stale=26 lifecycle_issues=1047 visibility=0 taxonomy_contam=3 fragmented=73
 
 **Scope:** Full vault scan (1089 pages). Checks 1-13 run.

@@ -1,7 +1,7 @@
 {
   "baseFontSize": 15,
   "cssTheme": "Velocity",
-  "interfaceFontFamily": "苹方-简,LXGW WenKai Mono",
+  "interfaceFontFamily": "苹方-简",
   "textFontFamily": "TsangerJinKai02,苹方-简",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "translucency": true,
