@@ -1,5 +1,42 @@
 # 📜 Log
 
+## 2026-09-14: **WIKI_DEDUP (Execute):** 合并 10 对重复页，222 处 inlink 重写（106 文件），10 redirect 存根
+
+**Mode:** Execute（audit → 用户指令"直接从确认合并开始"，跳过逐对确认）
+
+**扫描口径：** pages_scanned=1023 pairs_found=401 merged=10 kept_separate=1 needs_review=5 wikilinks_rewritten=222
+**SNAPSHOT_SHA:** `597152f889d5955e6572e6ee8e4ec25686b12ba4`（回滚：`git reset --hard $SHA && git clean -fd`）
+
+**方向原则：** 依 tiebreaker（入链数 > 内容体量 > sources 数 > 标题长度 > 字母序）选定 canonical，次级页转为 redirect 存根；次级独有内容整合进 canonical（非盲追加）。
+
+| # | 次级页（→stub） | canonical（survivor） | 整合内容要点 |
+|---|---|---|---|
+| 1 | `entities/欧委会` | `entities/欧盟委员会` | 补"对华贸易政策(2026)"节 |
+| 2 | `concepts/套息交易` | `concepts/利差交易` | 补"六、2026 年日元套息交易规模"；tags += 日元套利交易 |
+| 3 | `entities/央行` | `concepts/中央银行` | 补"八、危机中的央行""九、主要经济体的央行""十、中国央行" |
+| 4 | `entities/国家外汇管理局` | `concepts/外管局` | 补"六、对外投资监管框架中的外管局（837号令）" |
+| 5 | `entities/央行独立性` | `concepts/货币政策独立性` | 补"七、对外维度/三元悖论""八、应用"；aliases += CBI |
+| 6 | `entities/2022年加息周期` | `concepts/2022-2024 美联储紧缩周期` | 补"六、关键数据与市场表现" |
+| 7 | `entities/操作风险` | `concepts/操作风险深度` | 补"七、计量公式细则（BIA/SA/标准法/AMA）""八、典型案例数据" |
+| 8 | `concepts/301调查` | `concepts/301条款` | 补"六、欧盟版'301'：产能过剩韧性工具（2026）"+来源提及 |
+| 9 | `concepts/股债跷跷板效应` | `concepts/跷跷板行情` | 补"七、股债跷跷板效应的补充要点" |
+| 10 | `entities/国债收益率曲线` | `entities/收益率曲线` | 新增"曲线形态"节 |
+
+**降级为 keep-separate（1 对）：** `央行对冲工具（化债背景）`（569 行，中国化债具体应用）vs `央行对冲工具`（131 行，通用概念）——适用技能"technique vs specific application"例外，保持独立。
+
+**执行副作用修复：** bare-title 重写令 5 个 canonical 页产生自链接（`[[央行]]`→`[[concepts/中央银行]]` 等），已改为纯文本并删除自指 frontmatter 条目（`中央银行`/`外管局`/`2022-2024 美联储紧缩周期`/`301条款`/`跷跷板行情`）。严格边界正则复查：残留次级引用 0，10 存根全部合规。
+
+**索引与画布：**
+- `index.md` — 机器生成的 tag 罗列，其中 4 条次级引用（`301调查`/`套息交易`/`股债跷跷板效应`/`2022年加息周期`）已随全库重写指向 canonical；条目本身按 tag 重复罗列，未手工改写 tag 串（生成器所有）。
+- `overview.md` — `[[301调查]]` 原指向 canvas 文件而非 wiki 页，误被重写，已还原。
+- `canvases/301调查.canvas` — 节点硬路径 `wiki/concepts/301调查.md`、`wiki/entities/欧委会.md` 已改指 canonical（canvas 文件名与标题文字保留）。
+
+**未改动：**
+- `.manifest.json` — `pages_produced` 未收录这 10 个次级页，无条目可标注 `merged_into`。
+- **QMD skipped: QMD_WIKI_COLLECTION unset**（QMD 已卸载，检索回退 Grep）。
+
+**needs-review 5 对（未处理）：** 美联储独立性/央行独立性/货币政策独立性（三方 alias 碰撞）；长期资本管理公司/1998年LTCM危机；套期保值/期货对冲（"Hedge" alias 碰撞）；美元周期/美元加息周期；开正门堵偏门/开正门、堵偏门。
+
 ## 2026-09-11: **WIKI_RESEARCH** topic="美国联合日本抛售欧元购买日元稳定日元的目的是什么" rounds=3 sources_fetched=5 pages_created=1 pages_updated=1
 
 **研究：卖欧元买日元的交叉货币干预机制**。web 抓取受限（Reuters/FT/Bloomberg/IMF 均被墙或超时），成功抓取美国财政部 ESF 官方两页（主页 + Finances and Operations）+ 已在手 wiki 来源页。核心结论：①**ESF 外币资产仅持欧元与日元**（官方原文 "only yen- and euro-denominated"）——买日元只能卖欧元或美元，卖欧元是资产负债表资产再平衡（欧元→日元），不触碰美元；②**DXY 构成约束**（欧元权重 57.6%、日元 13.6%）——直接卖美元买日元会被读作美国主动贬值美元，卖欧元走 EUR/JPY 交叉盘不影响美元对主要货币的相对强弱信号；③**外交信号**——美方出"次要储备"（欧元）、日方出"主要武器"（美元），分工明确；④**执行机制**——纽约联储（FRBNY）作为 ESF 财政代理执行交易（官方确认）。既有概念页 [[concepts/2026-07 美日联合干预日元]] 操作细节节已补"为什么是欧元而非美元"四重机制；新建 [[sources/外汇稳定基金（ESF）-美国财政部官网]]（c-001203，status: draft）。整合 [[concepts/外汇干预有效性]]（干预是强心针不是根治药）。**QMD 未配置**（QMD_WIKI_COLLECTION 空），跳过刷新。

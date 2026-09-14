@@ -14,7 +14,7 @@ aliases:
 relationships:
   - target: "[[concepts/MLF]]"
     type: related_to
-  - target: "[[entities/央行]]"
+  - target: "[[concepts/中央银行]]"
     type: related_to
 ---
 
@@ -49,7 +49,7 @@ relationships:
 
 - **改革前**:贷款基准利率(2019-08-17 改革)
 - **改革后**:LPR = [[MLF]] + 加点 → **2024 年后** LPR 与 MLF 脱钩,转为 7 天逆回购利率 + 加点
-- **当前传导链**:[[央行]] 7 天逆回购 → LPR → 银行贷款利率
+- **当前传导链**:[[中央银行]] 7 天逆回购 → LPR → 银行贷款利率
 
 ## 2026 年走势
 

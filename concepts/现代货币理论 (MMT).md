@@ -21,7 +21,7 @@ relationships:
     type: related_to
   - target: "[[entities/Hans Luther]]"
     type: related_to
-  - target: "[[entities/央行独立性]]"
+  - target: "[[concepts/货币政策独立性]]"
     type: related_to
   - target: "[[concepts/负利率]]"
     type: related_to

@@ -22,7 +22,7 @@ relationships:
     type: related_to
   - target: "[[concepts/资产购买计划]]"
     type: related_to
-  - target: "[[entities/央行]]"
+  - target: "[[concepts/中央银行]]"
     type: related_to
   - target: "[[concepts/化债核心命题]]"
     type: related_to
@@ -138,7 +138,7 @@ PSL 替代路径：
 
 | 维度 | PSL（[[中国]]） | [[美联储]] QE |
 |------|------------|----------|
-| **扩表主体** | [[央行]] | 央行 |
+| **扩表主体** | [[中央银行]] | 央行 |
 | **资金对象** | 政策性银行 | 市场投资者 |
 | **买债方式** | 通过政策性银行绕道 | 在二级市场直接买 |
 | **资金性质** | 定向（结构性） | 总量（普惠） |

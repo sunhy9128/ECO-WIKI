@@ -21,7 +21,7 @@ relationships:
     type: related_to
   - target: "[[concepts/流动性风险]]"
     type: related_to
-  - target: "[[entities/央行]]"
+  - target: "[[concepts/中央银行]]"
     type: related_to
   - target: "[[concepts/借股票池]]"
     type: related_to
@@ -367,7 +367,7 @@ GME 事件的启示：
 
 | 维度 | GME 2021 | VW 2008 | 1998 香港 |
 |------|---------|---------|----------|
-| 多方主体 | 散户 | 保时捷 | [[央行]] |
+| 多方主体 | 散户 | 保时捷 | [[中央银行]] |
 | 卖空头寸 | 140% | ~12% | 未具体披露 |
 | 涨幅 | 120 倍 | 5 倍（2 天）| 20%（半月）|
 | 持续时间 | 1 个月 | 2 天 | 15 个交易日 |

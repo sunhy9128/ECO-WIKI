@@ -15,7 +15,7 @@ relationships:
     type: related_to
   - target: "[[concepts/中央银行]]"
     type: related_to
-  - target: "[[entities/央行]]"
+  - target: "[[concepts/中央银行]]"
     type: related_to
   - target: "[[entities/欧元]]"
     type: related_to
@@ -37,7 +37,7 @@ status: "evergreen"
 
 ## 核心内容
 
-本文档综合美联储官网三个页面，系统记录**中央央行流动性互换（[[央行]] Liquidity Swaps）**这一工具的全部官方信息，是理解[[美元互换网络]]与[[FIMA回购便利]]的基准资料。
+本文档综合美联储官网三个页面，系统记录**中央央行流动性互换（[[中央银行]] Liquidity Swaps）**这一工具的全部官方信息，是理解[[美元互换网络]]与[[FIMA回购便利]]的基准资料。
 
 ### 常设互换网络（C6）
 
