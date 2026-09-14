@@ -10065,6 +10065,19 @@
       "pages_updated": [
         "concepts/安倍经济学.md"
       ]
+    },
+    {
+      "type": "research",
+      "topic": "美国联合日本抛售欧元购买日元稳定日元的目的是什么",
+      "researched_at": "2026-09-11T12:00:00+08:00",
+      "rounds_completed": 3,
+      "sources_fetched": 5,
+      "pages_created": [
+        "sources/外汇稳定基金（ESF）-美国财政部官网.md"
+      ],
+      "pages_updated": [
+        "concepts/2026-07 美日联合干预日元.md"
+      ]
     }
   ]
 }

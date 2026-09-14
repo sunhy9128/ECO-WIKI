@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-08-26 | Total pages: 1064 | Sources ingested: 53
+Last updated: 2026-09-11 | Total pages: 1068 | Sources ingested: 53
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas]] | [[getting-started]]
 
@@ -167,12 +167,14 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[2026-08-03-经济热点问答-美国缘何出手救日元-新华社]] — 2026-08-03 | 新华社：美国缘何出手"救"日元 | 新华社（status: extracted）
 - [[2026-08-04-干预汇市美日联手救日元-北京商报]] — 2026-08-04 | 干预汇市 美日联手"救日元" | 北京商报（status: extracted）
 - [[2026-08-19-贝森特长债回购计划]] — 2026-08-19 | 贝森特宣布长债回购上限翻倍至 $4B，压低长端收益率触发"美元贬值交易"（黄金+3%、比特币+13%、DXY 跌破99） | 综合 Reuters/Yahoo/Morningstar/CNBC/Fortune/Deutsche Bank（status: extracted）
+- [[外汇稳定基金（ESF）-美国财政部官网]] — 2026-09-11 | 美国财政部官方：ESF 三类资产（美元/外币/SDR）、1934 黄金储备法授权、纽约联储代理执行、外币资产仅持欧元与日元——解释"卖欧元买日元"的机制 | U.S. Treasury（status: draft）
 
 ---
 
 ## Questions
 
 - [[How does the LLM Wiki pattern work]] — how the pattern works and why it outperforms RAG at human scale (status: developing)
+- [[questions/为什么国债回购能压低政府发债成本]] — 财政部回购→二级市场价格↑→收益率被动↓→一级市场定价跟随→发债成本↓；但长端最终锚=短端政策利率预期+期限溢价（财政主导），非央行利率单独决定（status: completed）
 
 ---
 
@@ -235,6 +237,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[SK海力士 × 三星电子]] — KOSPI 双雄的结构性镜像：两家企业占韩国股市市值 52.52% 使 KOSPI ≈ 半导体流动性代理，双雄业务同构让指数失去分散化安全垫，90 万亿回购是集中度陷阱下的被动防御（status: developing）
 - [[国债收益率 × 利率 × 汇率]] — 国债收益率、利率、汇率是"美元资产定价"的三个投影面，被资本流动焊死：利率平价/实际利率差/期限溢价/汇率超调四条通道联动；2026-08 财政部将长债回购上限翻倍至 $4B，压低长端收益率把调整压力转移到美元，触发"美元贬值交易"（黄金+3%、比特币+13%、DXY 跌破99），被类比 Operation Twist 与软性金融压抑（status: developing）
 - [[财政主导]] — 货币当局被财政赤字绑架的制度状态：当债务不可持续，央行被迫压低收益率、容忍通胀，把调整成本转嫁给储户与汇率；2026 年 MSCI 列为全球利率头号变量，美国长债回购正是财政主导的最新注脚——压低长端收益率把压力转移到美元，触发"美元贬值交易"（status: developing）
+- [[最后贷款人 × 扩表与缩表]] — 最后贷款人是央行"职能"、扩表缩表是"工具"：2008 后最后贷款人从"流动性后卫"越界为"资产买家"，扩表成为其新形态；白芝浩"惩罚性利率+合格抵押品"纪律在 QE 时代被搁置，缩表难的本质是最后贷款人承诺的可逆性难题——放钱容易、收钱难（status: developing）
+- [[化债 × 欧债危机]] — 主权债务危机的两种处置路径：化债是"预防式消化"（货币主权+行政穿透力，置换买时间），欧债危机是"爆发式偿付"（货币联盟内无贬值通道，救助+紧缩）；分叉点不是债务规模而是制度结构——有无货币主权/财政转移/行政穿透力决定危机是"消化"还是"爆发"（status: developing）
 
 ---
 
@@ -1114,6 +1118,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 - [[questions/为什么索罗斯做空英镑而非法郎]] — ( #索罗斯 #ERM)
 - [[questions/什么是财政货币化]] — ( #宏观金融 #货币政策 #财政政策)
+- [[questions/为什么国债回购能压低政府发债成本]] — ( #债券市场 #利率 #货币政策 #财政政策)
 
 ### Analysis
 

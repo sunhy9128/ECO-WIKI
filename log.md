@@ -1,5 +1,46 @@
 # 📜 Log
 
+## 2026-09-11: **WIKI_RESEARCH** topic="美国联合日本抛售欧元购买日元稳定日元的目的是什么" rounds=3 sources_fetched=5 pages_created=1 pages_updated=1
+
+**研究：卖欧元买日元的交叉货币干预机制**。web 抓取受限（Reuters/FT/Bloomberg/IMF 均被墙或超时），成功抓取美国财政部 ESF 官方两页（主页 + Finances and Operations）+ 已在手 wiki 来源页。核心结论：①**ESF 外币资产仅持欧元与日元**（官方原文 "only yen- and euro-denominated"）——买日元只能卖欧元或美元，卖欧元是资产负债表资产再平衡（欧元→日元），不触碰美元；②**DXY 构成约束**（欧元权重 57.6%、日元 13.6%）——直接卖美元买日元会被读作美国主动贬值美元，卖欧元走 EUR/JPY 交叉盘不影响美元对主要货币的相对强弱信号；③**外交信号**——美方出"次要储备"（欧元）、日方出"主要武器"（美元），分工明确；④**执行机制**——纽约联储（FRBNY）作为 ESF 财政代理执行交易（官方确认）。既有概念页 [[concepts/2026-07 美日联合干预日元]] 操作细节节已补"为什么是欧元而非美元"四重机制；新建 [[sources/外汇稳定基金（ESF）-美国财政部官网]]（c-001203，status: draft）。整合 [[concepts/外汇干预有效性]]（干预是强心针不是根治药）。**QMD 未配置**（QMD_WIKI_COLLECTION 空），跳过刷新。
+
+## 2026-09-11: **WIKI_SYNTHESIZE** pages_scanned=1089 synthesis_created=2 candidates_skipped=8
+
+**新建 2 个交叉合成页**（基于全库共现扫描，排除已覆盖的 ECB×X 同义对）：
+①[[synthesis/最后贷款人 × 扩表与缩表]]（c-001201，status: developing）——最后贷款人是央行"职能"、扩表缩表是"工具"：2008 后最后贷款人从"流动性后卫"越界为"资产买家"，扩表成为其新形态；白芝浩"惩罚性利率+合格抵押品"纪律在 QE 时代被搁置；**缩表难的根源=最后贷款人承诺的可逆性难题**（经典版贷款还回内生收缩 vs QE 版资产不自动回笼）。含最强反驳（QE 可能只是统计共现，日本 2001 QE 动机是通缩非危机）+ 可检验查询。
+②[[synthesis/化债 × 欧债危机]]（c-001202，status: developing）——主权债务危机的两种处置路径：化债=预防式消化（货币主权+行政穿透力，置换买时间），欧债危机=爆发式偿付（货币联盟内无贬值通道，救助+紧缩）；**分叉点不是债务规模而是制度结构**。三推论：制度结构决定"消化还是爆发"、救助与紧缩时序（先松后紧 vs 先救后紧）、"看得见的手"（中国）vs"看不见的手"（欧洲）都未解决"谁约束发债人"。含最强反驳（债务主体层级不同：地方债务 vs 主权违约可能是类比错位）。
+**反向链接**：最后贷款人/扩表与缩表/化债/欧债危机 4 源页补 synthesis 链接。
+**跳过候选**：欧债危机×欧洲央行(61)、扩表与缩表×欧洲央行(53)、欧洲央行×美联储(49) 等 8 对——均为 ECB 实体别名重复或已覆盖；资产购买计划×量化宽松(34) 为同义页对（aliases 含 QE）跳过。
+**QMD 未配置**（QMD_WIKI_COLLECTION 空），跳过刷新。
+
+## 2026-09-11: **CAPTURE** type=question page="questions/为什么国债回购能压低政府发债成本.md" title="为什么国债回购能压低政府发债成本"
+
+**问答消化页**（c-001200，status: completed）。核心：财政部回购→二级市场价格↑→存量收益率被动↓→一级市场定价锚定二级→新发债收益率↓→政府发债成本↓，链条**短期且间接**；加息时反向成立（久期放大旧债价格跌幅）。关键分层：**短端最终锚=央行政策利率，长端最终锚=短端预期+期限溢价（财政主导）**——"收益率最终回归美联储利率"只在短端成立；2026-08 实证（期限溢价宣布日仅 -1.7bp、两日后回升）证明回购压得住名义收益率、压不住财政风险成分。补充无风险利率近似条件（3M 国库券≈纯 Rf，10Y 国债=Rf+期限溢价）。反向链接 7 页（国债回购/国债收益率×利率×汇率/债市定价逻辑/风险溢价与无风险利率/一级市场与二级市场/名义利率与通胀预期/财政主导）。
+
+## 2026-09-10: **WIKI_QUERY** query="系统性总结利率和国债收益率、汇率等之间的关系，以美元为例" result_pages=3 mode=normal escalated=false
+
+**Pages consulted:** [[synthesis/国债收益率 × 利率 × 汇率]], [[concepts/利率平价理论]], [[concepts/实际利率框架]]
+
+**Summary:** 基于合成页"国债收益率 × 利率 × 汇率"回答，补充利率平价理论和实际利率框架两个基础概念页。核心结论：三者通过利率平价、实际利率差、期限溢价、汇率超调四条通道联动，是"美元资产定价"的三个投影面。
+
+## 2026-09-10: **WIKI_LINT_CONSOLIDATE** scanned=1094 orphans_rescued=38 broken_links_fixed=1 links_fixed=1 orphan_rescues=38 lifecycle_updates=0 report=synthesis/consolidation-2026-09-10.md
+
+**Mode:** Consolidate (dry-run → apply on user approval "自动修复"). Pre-write snapshot: `6f02dac`.
+
+**Applied:**
+- [1] Fixed broken link: `concepts/美元周期.md:105` trailing space
+- [2-39] Added 38 cross-references for orphan rescue across 16 source files
+- [cleanup] Fixed 5 double-bracket issues caused by replacements inside existing wikilinks
+
+**Not applied (require manual review):**
+- Provenance issues (8): unsourced synthesis pages need human judgment
+- Lifecycle/confidence schema: vault uses type+status; no migration
+- Trust ledger: `_meta/trust-ledger.json` not created
+
+**Post-consolidation orphan count:** 44→6 (38 rescued, remaining 6 are journal/meta/special pages)
+
+---
+
 ## 2026-09-10: **WIKI_LINT** scanned=1094 orphans=44 broken_links=1 fm_gaps=849 stale=165 lifecycle_issues=0 visibility=0 taxonomy_contam=0 fragmented=105 prov_issues=8
 
 **Scope:** Full vault scan (1094 pages). Checks 1-13 run.
